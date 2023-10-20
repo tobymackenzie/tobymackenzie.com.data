@@ -1,8 +1,15 @@
-Happy 2020.
+Why, hello there.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  Come on in.  Find out more [about me](/about) or [my web development career](/web-dev).  Visit [my web-pipe](/blog) to find out what's happening in my world.
 
-I am Toby Mackenzie of Northeast Ohio, currently in Akron.  I am a [web developer](/web-dev).  I am introverted / quiet / shy.  I like computers, music, hiking, shows / movies / books, old video games, and many other things.  Find out more [about me](/about) or read some of [my posts](/blog/).
+Me in brief
+-----------
 
-My Other Online Presences
+- I currently live and work in Akron.
+- I build websites for a living.
+- I am introverted / quiet / shy.
+- I like computers, music, hiking, shows / movies / books, old video games, &c.
+- I value freedom of expression, autonomy, equalization of power, environmental preservation, sharing of knowledge and effort, &c.
+
+My online presences
 -------------------------
 
 <ul class="presences">
@@ -15,10 +22,8 @@ My Other Online Presences
 	<li class="presence"><a class="presenceAction-packagist" rel="me" href="https://packagist.org/users/tobymackenzie/"><span>My Packagist</span></a></li>
 </ul>
 
-Et Cetera
+Et cetera
 ---------
-
-[Support net neutrality](https://www.battleforthenet.com/)
 
 <blockquote>vague but exciting</blockquote>
 
