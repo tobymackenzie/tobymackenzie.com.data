@@ -3,12 +3,12 @@ This site is built by and for [Toby Mackenzie](/about), AKA me.  It has evolved 
 Server
 ------
 
-This site is hosted on DreamCompute, Dreamhost's unmanaged VPS service.  It runs Ubuntu, Apache, PHP, and MySQL.  I use Ansible to manage server configuration.  You can the [server management code repository](https://github.com/tobymackenzie/tobymackenzie.srv/).
+This site is hosted on a Digital Ocean droplet (VPS).  It runs Ubuntu, Apache, PHP, and MySQL.  I use Ansible to manage server configuration in my [server management code repository](https://github.com/tobymackenzie/tobymackenzie.srv/).
 
 Code
 ----
 
-The site is built in PHP using the [Symfony](https://symfony.com/) framework.  The blog section uses [WordPress](https://wordpress.org/).  I use Parsedown Extra to convert markdown content to HTML.
+The site is built in PHP using the [Symfony](https://symfony.com/) framework.  The blog section uses [WordPress](https://wordpress.org/).  I use [league/commonmark ](https://github.com/thephpleague/commonmark)to convert markdown content to HTML.
 
 I use [Sass](https://sass-lang.com/) and [autoprefixer](https://github.com/postcss/autoprefixer) for building my stylesheets.  I use [rollup](https://rollupjs.org/guide/en/) for building my javascript.
 
