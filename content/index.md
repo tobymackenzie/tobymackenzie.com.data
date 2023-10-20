@@ -1,10 +1,10 @@
-Why, hello there.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  Come on in.  Find out more [about me](/about) or [my web development career](/web-dev).  Visit [my web-pipe](/blog) to find out what's happening in my world.
+Hello there.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  Come on in.  Find out more [about me](/about) or [my web development career](/web-dev).  Visit [my web-pipe](/blog) to find out what's happening in Toby land.
 
 Me in brief
 -----------
 
 - I currently live and work in Akron.
-- I build websites for a living.
+- I build websites for a living, as a full-stack developer.
 - I am introverted / quiet / shy.
 - I like computers, music, hiking, shows / movies / books, old video games, &c.
 - I value freedom of expression, autonomy, equalization of power, environmental preservation, sharing of knowledge and effort, &c.
@@ -25,12 +25,10 @@ My online presences
 Et cetera
 ---------
 
-<blockquote>vague but exciting</blockquote>
 
-<blockquote>And if there is a way<br />
-to find you I will find you<br />
-But will you find me if<br />
-Neil makes me a tree</blockquote>
-<div class="attribution">- Tori Amos</div>
+<blockquote>In my career I've found few people are truly evil, most are just too far disconnected from the effects of their actions. Until someone reconnects them.</blockquote>
+<div class="attribution">- Marcus Hutchins <a href="https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/">via Wired interview</a></div>
+
+<blockquote>vague but exciting</blockquote>
 
 <blockquote>Having something requires giving something else up.</blockquote>
