@@ -1,8 +1,8 @@
-I am a web developer, making websites for a living.  I do contract work for [Cogneato](http://cogneato.com) in Akron, Ohio, where I do full stack development, including front- and back-end LAMP stack development, basic server administration, and other tasks.  I also develop things as a hobby and occasionally for other clients.  Once a year, I work on a site (or two) at [GiveCamp](http://clevelandgivecamp.org/).
+I am a web developer, making websites for a living.  I work for [Cogneato](http://cogneato.com) in Akron, Ohio, where I do full stack development, including front- and back-end LAMP stack development, basic server administration, and other tasks.  I also develop web things as a hobby and occasionally for other clients.  Once a year, I usually work on a site (or two) at [GiveCamp](http://clevelandgivecamp.org/).
 
-I enjoy web development and am particularly interested in build processes and code organization.  I have some level of interest in most areas of the web field though.  I try to keep up to date with the never-ending stream of information, tools, options, and news.
+I enjoy web development and am particularly interested in build processes and code organization.  I have some level of interest in most areas of the web field though.
 
-At Cogneato, I started out mostly doing front-end development, cutting up layouts and converting them to HTML and CSS, but ended up just as much involved with back end development and server maintenance.  I work with and on the company's proprietary CMS to create and maintain websites for many businesses and organizations of varying sizes.
+At Cogneato, I started out mostly doing front-end development, converting pictures of layouts into HTML and CSS, but ended up just as much involved with back end development and server maintenance.  I work with and on the company's proprietary CMS to create and maintain websites for many businesses and organizations of varying sizes.
 
 Technologies
 ------------
@@ -12,7 +12,7 @@ I frequently am working in/with:
 - [PHP](http://php.net/)
 - [Symfony](http://symfony.com/)
 - [MySQL](https://www.mysql.com/)
-- [CentOS](https://www.centos.org/) / [Linux](https://en.wikipedia.org/wiki/Linux) servers
+- [CentOS](https://www.centos.org/) / [Ubuntu](https://ubuntu.com/) [Linux](https://en.wikipedia.org/wiki/Linux) servers
 - [Bash](https://www.gnu.org/software/bash/) scripting
 - [Apache](https://www.apache.org/)
 - [HTML](http://www.w3.org/TR/html5/)
@@ -38,36 +38,36 @@ To a lesser degree, I work or have worked with:
 Projects
 --------
 
-I've worked on over a hundred sites, including:
+I've worked on over a hundred sites to various degrees, including:
 
 - [Sweet Modern](https://sweetmodern.com/)
-- [Domokur](http://domokur.com/)
-- [Citiview](http://thecitiview.com/cleveland/)
-- [Tuesday Musical](http://tuesdaymusical.org/)
+- [Domokur](http://www.domokur.com/)
+- [Citiview](https://thecitiview.com/cleveland/)
+- [Tuesday Musical](https://www.tuesdaymusical.org/)
 - [Iron Spring Farm](https://www.ironspringfarm.com/)
 - [Arrowhead Lapidary Supplies](https://arrowheadlapidarysupply.com/)
-- [Summit Reworks](http://summitreworks.com/)
+- [Canton Road Garden Center](https://www.cantonroadgarden.com/)
 - [Ron White Art](http://ronwhiteart.com/)
 - [Block Bros at Home](https://blockbrosathome.com/)
 - [JeanMarie](https://shopjeanmarie.com/)
 - [Harwick](http://harwick.com/)
-- [Akron Round Table](https://www.akronroundtable.org)
+- [Akron Roundtable](https://www.akronroundtable.org)
 - [Helen Welch](http://helenwelch.com/)
 - [Meadows Museum Dallas - Collections](https://meadowsmuseumdallas.org/collections/)
 - [Creme de la Creme](http://cremedelacremecakes.com/)
 - ALP Leaders (no longer with Cogneato)
 - Akron Art Museum (no longer with Cogneato)
 
-I've also worked on a handful of phone applications using PhoneGap.  The most notable would be a voting application for the Akron Art Prize / High Arts Festival (see [Android app](https://play.google.com/store/apps/details?id=com.downtownakron.akronartprize) or [iOS app](https://itunes.apple.com/us/app/id907548937)).
+I've also worked on a handful of phone applications using PhoneGap, which utilizes web technologies.  The most notable would be a voting application for the Akron Art Prize / High Arts Festival.
 
 Personal
 --------
 
 You can see some of my personal code in [my github repos](https://github.com/tobymackenzie?tab=repositories).  Examples include:
 
-- [this site's code](https://github.com/tobymackenzie/site-tobymackenzie.com)
-- [this server's code](https://github.com/tobymackenzie/server-tobymackenzie.com)
+- [this site's code](https://github.com/tobymackenzie/tobymackenzie.site)
+- [this server's code](https://github.com/tobymackenzie/tobymackenzie.srv)
 - [my dotfiles](https://github.com/tobymackenzie/dotfiles)
 - [a Symfony console wrapper](https://github.com/tobymackenzie/sy-console)
-- [a PHP shell runner](https://github.com/tobymackenzie/php-shell-runner)
+- [a PHP shell command runner](https://github.com/tobymackenzie/shell-runner.php)
 - [Conway's Game of Life entry for 10k Apart competition](https://github.com/tobymackenzie/site-10k-gol) - was among the ["Other Notable Projects"](http://a-k-apart.com/#notable)
