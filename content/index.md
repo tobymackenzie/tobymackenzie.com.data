@@ -1,4 +1,7 @@
-Hello there.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  Come on in.  Find out more [about me](/about) or [my web development career](/web-dev).  Visit [my web-pipe](/blog) to find out what's happening in Toby land.
+Home
+=====
+
+Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.  Come on in.  Find out more [about me](/about) or [my web development career](/web-dev).  Visit [my web-pipe](/blog) to find out what's happening in Toby land.
 
 Me in brief
 -----------
@@ -25,13 +28,37 @@ My online presences
 Et cetera
 ---------
 
-<blockquote>It is possible to commit no mistakes and still lose.  That is not a weakness.  That is life.</blockquote>
-<div class="attribution">- Captain Picard, Star Trek</div>
+<blockquote>Humans can be better than they are, so let's do that</blockquote>
+<div class="attribution">- <i>Caliban's War</i><br />James Corey</div>
 
-<blockquote>Beltalowda ✊🏻</blockquote>
-<div class="attribution">- The Expanse</div>
+<blockquote>Be excellent to each other</blockquote>
+<div class="attribution">- Abraham Lincoln<br /> &amp; Ted "Theodore" Logan,<br /> <i>Bill &amp; Ted's Excellent Adventure</i></div>
 
-<blockquote>Will the highways to the internet become more few?</blockquote>
-<div class="attribution">- George W. Bush</div>
+<blockquote>Слава Україні (Slava Ukraini) ✊🏻 🇺🇦</blockquote>
+
+<blockquote>In my career I've found few people are truly evil, most are just too far disconnected from the effects of their actions. Until someone reconnects them.</blockquote>
+<div class="attribution">- Marcus Hutchins <a href="https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/">via Wired interview</a></div>
 
 <blockquote>Having something requires giving something else up.</blockquote>
+
+Interesting things
+------------------
+
+### Have / Experienced
+
+- Cleveland Caveliers: Cleveland basketball
+- [Coop travel pillow](https://smile.amazon.com/gp/product/B015D8XIDY/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1): very comfortable travel-sized memory foam pillow with adjustable fill level
+- [Columbo DVD series](https://smile.amazon.com/gp/product/B07B64Z7HQ/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1): classic TV detective
+- [Three Thirty Six hoodie](https://smile.amazon.com/gp/product/B07J59FFXC/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1): My favorite hoodie with no dangling hood-pulls
+- [Mr. Robot](https://smile.amazon.com/gp/product/B0833WXZRS/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1): hacking themed TV show with mental health spin
+- Onyx Boox Nova 3 Color: Color eInk device running Android
+- Github: allowing me to [share my code](https://github.com/tobymackenzie?tab=repositories) easily
+- Phillip K. Dick: classic sci-fi writer
+- tea
+
+### Interested in
+
+- [framework](https://frame.work/) is making a laptop that is user servicable / upgradable, with parts readily available from their marketplace.
+- Purism is making the [Librem 5 phone](https://puri.sm/products/librem-5-usa/), a phone running Linux, with a privacy focus including phyiscial switches, upgradable baseband, mostly open firmware.
+- sunrise alarm clock
+
