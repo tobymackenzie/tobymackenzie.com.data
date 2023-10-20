@@ -11,8 +11,9 @@ At Cogneato, I started out mostly doing front-end development, cutting up layout
 - [Tuesday Musical](http://tuesdaymusical.org/)
 - [Summit Reworks](http://summitreworks.com/)
 - [Ron White Art](http://ronwhiteart.com/)
-- [Gearstar](https://gearstar.com/)
 - [JeanMarie](https://shopjeanmarie.com/)
+- [Block Bros at Home](https://blockbrosathome.com/)
+- [Arrowhead Lapidary Supplies](https://arrowheadlapidarysupply.com/)
 
 I've also worked on a handful of phone applications using PhoneGap.  The most notable would be a voting application for [High Arts Festival](https://higharts.org/) (see [Android app](https://play.google.com/store/apps/details?id=com.downtownakron.akronartprize) or [iOS app](https://itunes.apple.com/us/app/id907548937)).
 
