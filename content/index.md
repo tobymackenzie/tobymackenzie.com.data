@@ -58,7 +58,7 @@ Interesting things
 
 ### Interested in
 
-- [framework](https://frame.work/) is making a laptop that is user servicable / upgradable, with parts readily available from their marketplace.
-- Purism is making the [Librem 5 phone](https://puri.sm/products/librem-5-usa/), a phone running Linux, with a privacy focus including phyiscial switches, upgradable baseband, mostly open firmware.
+- [framework](https://frame.work/) is making a laptop that is user serviceable / upgradable, with parts readily available from their marketplace.
+- Purism is making the [Librem 5 phone](https://puri.sm/products/librem-5-usa/), a phone running Linux, with a privacy focus including physical switches, upgradable baseband, mostly open firmware.
 - sunrise alarm clock
 
