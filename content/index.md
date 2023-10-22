@@ -46,7 +46,8 @@ Interesting things
 
 ### Have / Experienced
 
-- Cleveland Caveliers: Cleveland basketball
+- tea
+- Cleveland sportstball: Caveliers, Guardians, Browns
 - [Coop travel pillow](https://smile.amazon.com/gp/product/B015D8XIDY/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1): very comfortable travel-sized memory foam pillow with adjustable fill level
 - [Columbo DVD series](https://smile.amazon.com/gp/product/B07B64Z7HQ/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1): classic TV detective
 - [Three Thirty Six hoodie](https://smile.amazon.com/gp/product/B07J59FFXC/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1): My favorite hoodie with no dangling hood-pulls
@@ -54,11 +55,12 @@ Interesting things
 - Onyx Boox Nova 3 Color: Color eInk device running Android
 - Github: allowing me to [share my code](https://github.com/tobymackenzie?tab=repositories) easily
 - Phillip K. Dick: classic sci-fi writer
-- tea
+- sunrise alarm clock
 
 ### Interested in
 
+- [StarLabs StarLite](https://us.starlabs.systems/pages/starlite): Linux first convertible tablet with good specs, reasonable price, user replaceable parts (planned), Coreboot
+- Onyx Mira eInk monitor: nice looking but expensive, waiting for color version (must syntax highlight)
 - [framework](https://frame.work/) is making a laptop that is user serviceable / upgradable, with parts readily available from their marketplace.
-- Purism is making the [Librem 5 phone](https://puri.sm/products/librem-5-usa/), a phone running Linux, with a privacy focus including physical switches, upgradable baseband, mostly open firmware.
-- sunrise alarm clock
+- Purism is making the [Librem 5 phone](https://puri.sm/products/librem-5-usa/), a phone running Linux, with a privacy focus including physical component switches, upgradable baseband, mostly open firmware.
 
