@@ -1,0 +1,1 @@
+CSS is a language to define the appearance of a website.  It can be fun to work with, but at times a pain.  I have lots of experience with it, especially from the days when IE 6 and IE 7 were old but still needed to be supported.  I am glad for many of the features that have been added over the years, though I don't always agree with the implementation or the focus.

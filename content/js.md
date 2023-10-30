@@ -1,0 +1,1 @@
+JavaScript is the active programming language of the web, for adding client-side behavior to websites.  It can also be used on the server with node.js and the like.  A lot of my JS experience has been using the [helper library jQuery](https://jquery.com/).

@@ -1,0 +1,1 @@
+I like music, both to listen to and to play.  I like a variety of music, centering around classic rock, but also including punk, classical, 80s, 90s, grunge, jazz, etc.  I played percussion in school including marching band, and played drum set in a rock band in college.  I also play keyboard at a fairly simple level but enjoy it.

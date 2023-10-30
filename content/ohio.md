@@ -1,0 +1,1 @@
+I have lived in Northeast Ohio my whole life.  It is a fairly good state.  The people are relatively reasonable and nice enough usually.  It gets both winter and summer, but rarely the weather disasters and other major problems some areas have.
