@@ -28,12 +28,8 @@ My online presences
 Et cetera
 ---------
 
-<blockquote>Take my love, take my land<br />
-take me where I cannot stand<br />
-I don't care, I'm still free<br />
-You can't take the sky from me
-</blockquote>
-<div class="attribution">- Firefly</div>
+<blockquote>Maybe there is a beast.…  What I mean is…maybe it's only us."</blockquote>
+<div class="attribution">- Simon, <i>The Lord of the Flies</i></div>
 
 <blockquote>… artists use lies to tell the truth, while politicians use them to cover the truth up.</blockquote>
 <div class="attribution">- Evey, <a href="https://www.imdb.com/title/tt0434409/"><i>V for Vendetta</i></a></div>

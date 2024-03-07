@@ -1,5 +1,8 @@
 Some quotes that I like or find interesting, rather than quotes by me:
 
+<blockquote>Maybe there is a beast.…  What I mean is…maybe it's only us."</blockquote>
+<div class="attribution">- Simon, <i>The Lord of the Flies</i></div>
+
 <blockquote>Humans can be better than they are, so let's do that</blockquote>
 <div class="attribution">- <i>Caliban's War</i><br />James Corey</div>
 
