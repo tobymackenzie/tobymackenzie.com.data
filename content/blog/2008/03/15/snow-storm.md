@@ -1,0 +1,24 @@
+---
+categories: [toby]
+date: 2008-03-15T01:50:13-05:00
+date_gmt: 2008-03-15T06:50:13+00:00
+guid: 'http://cosmicosmo.ath.cx/log/2008/03/15/snow-storm/'
+id: 168
+modified: 2008-03-15T01:50:13-05:00
+modified_gmt: 2008-03-15T06:50:13+00:00
+name: snow-storm
+tags: [parents, weather]
+---
+
+snow storm
+==========
+
+Last Saturday, my parents had to be dropped off at the airport at around 0500.  I was the man to help them out.  The weather had been warm the week before, and snow seemed like it had been mostly done for the year.  But the news people kept saying Friday there'd be a big snow storm.  It got pushed to Friday night, then to Saturday morning.  But it came.  Friday night it snowed a decent amount.  But Saturday morning it just came down hard.  Our drive to Cleveland was very slow and tough.  The roads were not really plowed very well.  At one point we had to turn around and take an alternative route because we couldn't make it up a hill.  My dad's little Ford Focus didn't seem to have the best traction.  We took the turnpike.  It wasn't very well plowed, but we saw at least three plows on our side of the highway on our way.  When we first got on, the fast lane was somewhat well plowed, and we took that until we came up to the plow that made it that way.  We passed it by.  We were going about 50 mph most of the way.  Passing cars was a little scary, especially since some seemed to take up a good portion of the three available lanes very well.  It took us quite some time to get to the airport, but we left with extra time in mind.
+
+They said their flight was still on when I dropped them off.  I gave them my cell phone number just in case, but they didn't call.  My dad had driven there, and now I had to drive in this weather for the first time.  It was definately tough in a non-stickshift car, but still manageable.  On the highway, I managed 40 - 50 most of the way, but a few spots required slower speeds.  At one point I hit a spot that must have not been plowed at all since the snow started.  I lost all traction briefly, but the snow slowed me down very fast.  I was able to get past that spot with no major problems.  I was going to get on the turnpike to go back, but I sort of missed it:  the onramp was a small trench dug out of a snow bank, and I was going too fast when I saw it.  I took the regular roads.  That was much slower.  I was going maybe 25 - 30 there, plus had traffic lights.  I was often stuck behind someone.  Most of the vehicles out were snow plows doing driveways, and some of them seemed almost oblivious to the fact that other cars were out and about.  At one point going up a hill, I really found myself quite unable to keep going.  A snow plow was behind me, so I pulled to the side (sort of) to let him pass.  It took some tire spinning to get that car going again, but I made it up the hill and continued on.
+
+I made it home, with a few hours before work.  I fell asleep for maybe an hour.  Then an hour before work, Pyrka, our kitchen manager, called saying that work was closed.  The whole day through, not just the morning.  It was a 13 hour shift I was losing to the snow.  I was definately happy, as I've been looking for less hours recently.  With school and all I've not had much free time.  But anyway, I had just woken up and it took a few minutes to sink in.  I didn't even pick up the phone, for some reason listening to the message like it had already been recorded.  It was the first snow day I'd had in some time.
+
+Unfortunately, I made very poor use of the snow day.  I slept the most of the day away.  I was told by friend Dwight that the Summit county police had forbade driving for the day.  This was verified on the news.  They said people weren't being cited, but it was a warning not to drive unless absolutely necessary.  I was stuck with the little food available at my parents house, where I was staying to watch the dogs.  I had some canned soup and some hot pockets.  I watched several movies and slept an inordinate amount of time.  I started shoveling the snow, but didn't get much done.  I shoveled a lot the next morning before work, but couldn't get done on time.  I had to run to work.  I finished shoveling afterwards.  All in all it took me at least an hour and a half to shovel my car out of my parents driveway.  It really tired me out as well.  I can see why three people died from shoveling related to this storm.
+
+I didn't make good use of my snow day, but I did get to go sledding several days later, my only run of the year.

@@ -1,0 +1,22 @@
+---
+categories: [computer, ideas, ideas]
+date: 2007-03-10T05:23:58-05:00
+date_gmt: 2007-03-10T10:23:58+00:00
+guid: 'http://cosmicosmo.ath.cx/log/2007/03/10/automatic-3rd-party-software-update/'
+id: 138
+modified: 2022-03-08T20:58:18-05:00
+modified_gmt: 2022-03-09T01:58:18+00:00
+name: automatic-3rd-party-software-update
+tags: [computing]
+---
+
+automatic 3rd party software update
+===================================
+
+The OS would have a standard system for developers to implement an auto-update feature for their 3rd party apps, making it easy for them, consistant, and simple to ensure all apps are up to date for the user.
+
+Each installed app would register its name, .app path, current version, url for update information, etc.  For all apps released prior to this OS and library feature, much of this info would have to be added manually by the user.  New apps could possibly add themselves on first launch, asking the registry on launch if they are registered.  This would not allow currently existing software to register, so these apps would have to be registered by some other means.  Probably a better solution that would support both new and old apps, as well as not need a specific call to be added in the apps code, would be to have the registry check for the name of the app every time an app is launched.  If it is not in the database, it could ask the application for the information.  Current apps wouldn't provide this, so it would have to bring up a dialog alert window in which the user would enter as much of it as known.  It could be updated by the user later.  Since some people download apps just to try them, then delete them, these apps should be removed from the database.  This could be implemented to be done automatically.  On each update check, if no .app is at the path specified, then the app was probably deleted and can be removed from the registry.  Also, the user could specify an interval after which dormant apps could be removed from the list, something like a month or so.  If either of these remove apps that are still desired by the user, they will be re-added to the registry on next launch, and will then be checked on next check anyway.
+
+The developer would use a standard method, perhaps one of several, to post the current version and the files for download on their website.  The url would be provided by the app, as stated above.  The information at the url would have to be standardized so that the updater could parse it to get the information needed.  It might contain just the current version in a tab delimited text file, listing version number, url to file parts or perhaps script to get them, update history (in case the user wants to review the update before doing it), etc.  It might also be a list of all versions with this information, each version seperated by a new line appended to the file.  Some developers would add the new line to a text file by hand, while others could have a script update it, or a script serve it.  The file parts would have to be in a standard format as well, so that the updater app could handle them easily.  It could be simply a .pkg, with all modified files stored in their destination paths inside.
+
+The funcionality would probably be added to the software update application already used for the OS vendors software.  The third party stuff would be kept somewhat seperate, to ensure things like security updates to the OS were given greater precedence and what not.  The user would have seperate preferences to set for handling 3rd party apps, including whether to maintain a database at all, whether to update automatically or ask permission first, seperate update interval (could be 'same as system updates' though).  The user would be able to view a table of all registered apps with information on them such as current version, if installed version is current, and an editable list of the app name, path, and update url.  Clicking on each line item would provide additional information provided from the server, such as a revision history.  All information would be stored in a database to save on disk space and be faster than a collection of files for each app.

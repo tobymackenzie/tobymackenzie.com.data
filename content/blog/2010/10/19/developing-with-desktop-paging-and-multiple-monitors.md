@@ -1,0 +1,30 @@
+---
+categories: [www]
+date: 2010-10-19T04:19:07+00:00
+date_gmt: 2010-10-19T04:19:07+00:00
+guid: 'http://tobymackenzie.wordpress.com/?p=402'
+id: 440
+modified: 2010-10-19T04:19:07+00:00
+modified_gmt: 2010-10-19T04:19:07+00:00
+name: developing-with-desktop-paging-and-multiple-monitors
+tags: [development, monitors, paging, productivity]
+---
+
+Developing with Desktop Paging and Multiple Monitors
+====================================================
+
+At home I use desktop paging sometimes to separate tasks.  Desktop paging is something from the Linux world that allows you to organize windows (and in Linux, desktop icons and other stuff) into separate "desktops", showing only the stuff from the one desktop and allowing easy switching between them.  Apple introduced this with their Spaces a point version or two of their OS ago, albeit in a less polished and functional way.  When I began working at [Cogneato](http://cogneato.com/), I began using desktop paging a lot.
+
+For developing with desktop paging, I separated my desktops by task/application type.  I develop mostly using four basic tasks:  coding in a text editor; working with the image files that make up a design in Fireworks or Photoshop; viewing my sites in numerous web browsers; and looking up various information in a web browser.  There's also the frequent task of dealing with files in a file browser and occasional working in a CLI shell, as well as even rarer other tasks.  My most used setup has a desktop for text editing, one for image editing, and two for browser testing and information gathering.  The second browser testing desktop is not to split up browser use between testing and information gathering, but rather for testing Windows browsers in Parallels:  I prefer to run it full screen rather than in native windowed mode.  I develop first for one browser, Firefox, and then test in others, so I look up information related to a site in Firefox in a tab of the same window I have the site itself opened in, one window per project.  This can get cluttered at times, with a lot of projects and many tabs for each, but at least keeps the information connected to the project.  I assign each application to its designated space and usually keep them there.  I also share the Finder, Terminal, and a secondary text editor (for notes mainly) between all spaces.
+
+<!--more-->
+
+For switching between spaces, I usually use keyboard shortcuts (I'm keyboard oriented).  The numbered shortcuts, where a number is assigned to each desktop, are usually the easiest to use, but I still often just use the shortcuts that switch to adjacent desktops.  I also have a mouse button to open up to open the full screen desktop pager Apple introduced (Apple's one innovation for the desktop paging world), which is fairly quick and good for visual identification of desktops, but I rarely use it.
+
+I have tried other options for desktop organization.  I tried doing one desktop per project.  My most frequent movement between tasks though is generally from text editor to browser, which can become more effort with this setup than with just paging between desktops to get between them.  Since I eventually have to have many browsers open for each project, the number of windows on each project's desktop can become unwieldy and would require running Parallel's in windowed mode for sure.  Apple's Spaces implementation can also make it tough to work with windows from the same application on multiple desktops.  And I found that the more desktops there are, the more time consuming it is to switch between them, so this can only work well for so many projects (four desktops is about what I'm most comfortable with).  I might revisit this option, but have been happy with the task/application organization.  Exposé is also very nice for switching between windows, and I still use it, but it can become too cluttered very quickly if I have all windows from all task and projects up at once.  It works best with maybe six or less windows.
+
+A little while back, I got a second monitor at work.  I occasionally have used a second monitor at home with my laptop. but it's not quite the same as using two full-sized monitors.  Two real screens help wonderfully with productivity for development.  I can have the text editor on one screen and the browser viewing the "results" on the other, so that I can make a change and then refresh it in the browser with very little effort to move between the applications and both always in full view.  I can also have a Fireworks or Photoshop layout opened on one screen and the browser rendered version on the other.  This makes me wish I had three monitors, so I could have one for text editing, one for layout/image editing, and one for browser rendering and information gathering.  But this would not only be expensive, but wouldn't work with my current computer (at work or home) because I can't output to that many displays.
+
+I still use desktop paging with the multiple monitors in a similar fashion to without.  Now I've added the text editor to the applications displayed on all desktops.  It is always displayed on the first screen on any desktop, along with the Finder, Terminal, and my notes.  On the other screen are the windows specific to the given desktop.  I now only really use three:  one for Mac browsers, one for Windows browsers in Parallel's, and one for image editing.  I occasionally drag the layout file window to the browser window for comparison.  This may suggest (writing this post made me realize) that multiple monitors would make it even better to do the per project desktop paging rather than per application/task.  I haven't really even tried that setup, and probably will in the future, but so far I've just continued with what has been working.
+
+In closing, I must reiterate how great multiple monitors are for developing websites.  I now miss it when I don't have that option.  Desktop paging is also very useful, and much more affordable, though not quite as nice or quick.

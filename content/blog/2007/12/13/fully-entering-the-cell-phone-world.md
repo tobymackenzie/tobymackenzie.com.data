@@ -1,0 +1,38 @@
+---
+categories: [toby]
+date: 2007-12-13T05:31:16-05:00
+date_gmt: 2007-12-13T10:31:16+00:00
+guid: 'http://cosmicosmo.ath.cx/log/2007/12/13/fully-entering-the-cell-phone-world/'
+id: 161
+modified: 2007-12-13T05:31:16-05:00
+modified_gmt: 2007-12-13T10:31:16+00:00
+name: fully-entering-the-cell-phone-world
+tags: [palm, pda, phone, purchase]
+---
+
+Fully entering the cell phone world
+===================================
+
+I had stayed out of the cell phone world for quite some time.  I don't use the phone much, and cell phones cost a lot.  A few years back I got a pay-as-you-go type phone, but it was quite expensive to actually call from:  I rarely used it, and gave up on it when I accidently missed a payment date and lost all my minutes.  Last Christmas, my Mom gave me another pay-as-you-go, with a bunch of minutes.  I decided I'd try actually using this one.  The first batch of minutes were all free for me, but even with a lot of them, I was able to go through them pretty quickly.  When I ran out, it came time to make a choice.
+
+Cousin Paul told me he could get me on his family plan at Alltel for $10 a month.  I compared that with Tracfone's prices.  Tracfone would have had a slightly lower minimum price once I paid for their double minutes for life thing, but that wouldn't be for a lot of minutes.  I decided that, if I wanted to actually use it, I should just go with the Alltel.  The contract worried me a bit, especially when I found out it was for the crappily ridiculously long two years, but I figured I'd live with that.
+
+I bought a relatively cheap phone from Alltel, new.  It'll have cost me $60 if I get the rebate back with activation and all.  It was a flip phone.  It had a screen on the outside and mp3 buttons.  It could play mp3s and movies.  It had a camera.  It could browse the web, though I had no interest in that bit because of cost.  It worked pretty well, and I was relatively happy with it, except for some UI problems.  I had it for about two weeks, then lost it during a trip to Seattle.
+
+Buying a new phone with a contract already in place was ridiculously expensive.  The one I had before suddenly became $250.  The cheapest at that store was $150, and it was pretty crappy.  Elsewhere, I could find down to about $100.  So I decided I'd have to go used.  I soon found online was the only reasonable place to find used.
+
+In deciding what to buy, I found used phones still weren't *that* cheap, though much more so than the new ones.  For some reason, I thought perhaps I should just buy a combination PDA and cell phone.  I had always wanted a PDA.  I'm also very interested in touch-screen stuff.  I figured one of the older models would be going for pretty cheap.  I found that there weren't that many models from far in the past, so I had relatively few choices.  The newer ones were certainly quite expensive, no iphone or the like for sure (especially since none seemed to be made for Alltel).  I always liked the Palm OS, wanted handwriting recognition for sure.
+
+I found the Palm Treo 650 had all the features newer phones had, was available for Alltel, and wasn't all that expensive.  There was one locally on Craigslist, but it was from long enough ago that I didn't even try for it.  I returned, after many years, to eBay.  I watched carefully, checked out all the ones available, picked the few I was willing to go for.  I bid on several, sometimes going a little above what I wanted to pay and still didn't get one.  I almost gave up and went for the buy it now option.  But I managed to win one.  It ran $110 with shipping.  Not too bad for a "smartphone".
+
+It shipped extremely fast, got here in a few days with standard shipping.  I was quite happy to get my new toy, and played with it quite a bit for the following two days.  I was extremely disappointed that Graffiti did not work with it.  Stupid that a Palm PDA wouldn't have that.  I was extremely relieved when I found third party freeware to enable it.  I also found that there was no way to directly sync Apple's Address Book and iCal with it, outside of buying a utility just for that purpose.  Palm's Desktop software was rather outdated (hasn't been updated in 2+ years) but it installed fine.  It took a little while to get working, but once I did, it works just fine.  The utility does use a bit of constant CPU power, so I turn it off sometimes.  It has a calendar and address book app, so I should be able to at least import into those and copy that version to the Palm.
+
+It took me a while to find good apps for it.  Palm's site had a software bank, but much of that stuff cost money.  VersionTracker, though, has a good depository, and I found an even better one at softonic.  I found some good freeware apps.  They were remarkably easy to install.  Just a double click in the finder set up a transfer for the next sync.  I installed the Graffiti enabling app, a better alarm clock (the default one only had one alarm and wasn't that good), and a few games.  It's sweet that there is a gameboy emulator for it.  I'm still having trouble getting it working well, and haven't figured out how to get my games over to it, but this could mean I can have phone, PDA type device, mp3 player, crappy camera, and gameboy all in one device.
+
+Hopefully I won't lose this one.  I figured its larger size would help with that.  I have full plans to get a silicone type skin with a belt clip for it.  That should help a lot, and make it easier to carry as well.
+
+So I called to get it activated.  I had to have Paul authorize me to do so.  Then, after attempting to activate it the way the guy told me to, it hung up to me and said activation failed.  I then told the guy it was a Palm Treo.  He said I needed to update my plan to their Smart Choice plan.  They started at $69.99.  I would obviously need to okay this with Paul anyway, since it's actually his plan, so I said I'd hold off.  Looking on the website, it looked like the Smart Choice plan would be $30 a month more for the main line plus $10 more for each other person.  I have no idea why the other people would have to pay more.  Since I'd be paying this increase, that'd take my $10 up to $60 a month, almost enough to pay for my own plan.
+
+I was rather distraught with this and mad that Alltel would make me change plans when all I wanted was to use my device as a phone.  After I calmed down, I figured that I'd call to verify the cost difference.  If it was only like $30, I would probably go for it.  It did, after all, have free unlimited data.  If it was any more than that, though, that'd quickly overrun the cost of just buying a used regular phone.  So I'd have to get another phone, and probably be able to sell this one for what I got it for, maybe even a little more.  I finally called back Alltel, and got a different guy this time.  I said I heard I needed to upgrade to the Smart Choice plan for my 'smartphone'.  He asked if I had bought it with a contract or used.  When I said used, he said I didn't need the smart choice for it.  I was excited, though a little worried that it might not actually work, especially since dialing the setup number hadn't last time.  It took him a while (I guess he was trying to figure out a way for me to use minutes for data).  He had my dial a different setup number.  After two test calls, we verified:  It had worked!  After ending the call, I made sure by calling my own house.  It worked.  I was elated, elated enough to write out this ridiculously long post.
+
+So now I have phone service again, plus a little electronic toy that I can carry around with me.  I'll have to verify that it is good over several days here, but I think it should be fine.  I better not lose it though.

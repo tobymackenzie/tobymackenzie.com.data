@@ -1,0 +1,16 @@
+---
+categories: {  }
+date: 2005-06-09T22:45:43-04:00
+date_gmt: 2005-06-10T02:45:43+00:00
+guid: 'http://cosmicosmo.ath.cx/log/2005/06/09/first-sailing-trip/'
+id: 36
+modified: 2005-06-09T22:45:43-04:00
+modified_gmt: 2005-06-10T02:45:43+00:00
+name: first-sailing-trip
+tags: [boat]
+---
+
+first sailing trip
+==================
+
+Paul and Uncle Al went out sailing on the Pyewacket Sunday, but I was working and unable to go.  There was little winds save for big gusts at the end.  Today, Paul and I went out.  My first sailing trip, save for as a passenger (and then only the second I believe).  These trips take quite a while, especially since Paul lives an hour away.  I woke up at 7:00 (getting only a few hours of sleep) and got out there around 8:30.  We made some peanut butter sandwiches and grabbed some cranberry juice, hooked up the boat, and headed off, back to Rocky River.  Stepping and raising the mast was the hardest part of getting ready; quite hefty bugger for two.  We were in the water before 11:00 I do believe.  We motored out to the lake, then put up the sails.  There wasn't much wind, but enough to move around a bit.  We were eating while sailing.  We got to see a little bit how to set the sails, then the wind died down to nearly nothing.  I tried fruitlessly to move at any reasonable speed.  Soon, we found ourselves in a large group of small bugs that flew around us relentlessly, unaffected by swinging hats and shirts.  They occasionally made their way into our eyes, noses, and mouths.  We scrambled to get the sails down and the motor running to jet outta there.  That motor really cruises along.  We then figured out how to put the cover on the main-sail and the jib into a bag from which it could be easily raised.  We dropped anchor for the first time, and sat in the cabin a bit.  My was it hot.  It felt good down there, especially when a slight breeze would come along through the window.  It also felt good to dangle the feet in the water, though it was too cold for any swimming.  We then went back out, motored inland a bit (we had made it out to about the mile marker by sail), and raised the sails once again: the wind had picked up a bit.  We had some strong pulls there, and got to mess around with setting the sails a bit more.  We were going at a good clip for a short bit.  We jibbed and tacked.  The wind soon died down though.  With a low wind, it was very hard to tell what was happening to set the sails properly.  The wind also frequently changed directions, making us jibe or tack at unexpected times.  We lowered sail again and went into port, Paul motoring us along.  The landing at the docks can be hard, as the motor idles too fast to come in: we have to put it in nuetral and steer with the rudder.  It wasn't too hard getting it on the trailer again, though it seemed harder than last time.  We then motored her over to the parking lot to unstep the mast and tie down for travel.  I noticed my sunburnt arms there, as I hadn't put on suntan lotion until halfway through our trip.  All in all a decent first trip, but hopefully we'll get more wind next time.

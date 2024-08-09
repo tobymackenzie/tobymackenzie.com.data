@@ -1,0 +1,36 @@
+---
+categories: [toby]
+date: 2023-01-30T00:51:58-05:00
+date_gmt: 2023-01-30T05:51:58+00:00
+guid: 'https://www.tobymackenzie.com/blog/?p=3940'
+id: 3940
+modified: 2023-01-30T00:51:58-05:00
+modified_gmt: 2023-01-30T05:51:58+00:00
+name: rip-jack
+tags: [animal, death, dog, family]
+---
+
+RIP Jack
+========
+
+RIP Jack the dog.  He was a good dog.<!--more-->  He died today (Sunday) in front of my parents and I.  He was almost 18 years old and had a good long life.
+
+Jack was a small fellow, wiener dog mix from a shelter.  In his youth he was owned by my brother.  He loved to run and play.  Behind their house he would run up and down the hills and through the trees at a pace astounding for his size.  When my brother moved cross country, my parents took him in.  My dad went on a great many walks with him and he loved them until near the end.  He wasn't all that smart but would stay in his yard pretty well and generally come when called.  He liked to cuddle, especially under blankets, where he would burrow.
+
+He used to love licking people obsessively, and after a while of being scolded for it, he began licking the couch, other furniture, or the wet or snowy deck outside obsessively, a weird habit he maintained to the end.  He would occasionally have this breathing trouble where he'd stop and breath in and out hard and make sort of a honking noise for a little while, often during walks.
+
+He had his share of health troubles near the end.  He had lumps growing in various spots on hist body for several years.  His hearing and sight both became limited.  He had joint problems and would sometimes have trouble standing.  His legs would sometimes slide sideways on him.  It became harder and harder for him to hop up onto and off of the couch, chair, and car seat.  He slowed down in taking walks, often dragging or stopping when he was done.  He almost entirely quit wanting to take walks maybe half a year ago, and I'm not sure the last time he got out on one.  He started throwing up occasionally and I'd sometimes notice him, after lying down, bite and lick the interior of his mouth like removing the bad taste of bile.  His appetite was variable and he'd be very picky about the foods he ate, balking at dry foods and wanting wet foods or human foods.  He'd whine for food at times but wouldn't always want what we gave him.  He began peeing and pooping in the house sometimes.  He'd behave strangely sometimes, such as backing away from sunlight or other things as if they were going to hit him, walking confusedly in circles, pacing around the house, unsure of what he wanted.  His breathing became often noisy, sounding labored.  He slept a lot and didn't want to go or stay outside nearly as much, especially when it was wet or cold.  He would get cold easily.
+
+He managed against all this admirably for a couple years, still sometimes having enough energy to run into the house when we let him in and zoom around, hopping up on the couch like it was no problem.
+
+Today, around five in the afternoon, he was lying on my dad's chair in the living room.  My mom and I were watching football on the TV when he got up and hopped down much like he always does, except when he landed on the wood floor, his legs slipped sideways from under him and he hit kinda hard.  He then tried to get up but could not get his rear legs to cooperate and his front legs just kept sliding.  He looked hurt and gave up on that, laying down on his stomach.  I got down and pet him and rubbed his hind legs like I often do, hoping to sooth his joints.  He seemed to like me rubbing them, but didn't seem to regain control of them.  When I stopped, he just lay there.  He pooped and peed in place.  We slid him over to clean up.  His breathing became labored and noisy like it often is.  We let him lay there, hoping he'd recover.  He closed his eyes as if sleeping.  After a time, he tilted his head to the side and started moving it up and down along the carpet we had slide him onto.  I put a towel on him to keep him warm.
+
+This all spanned at least twenty or thirty minutes.  My dad, who had been upstairs, came down to find this scene.  He took off the towel, turned him on his side, and rubbed him some, asking him how he was doing.  He started moving his head up and down and opening his mouth intensely, almost looking like he was biting at my dad.  After a bit of this, some red fluid came out of his mouth and/or nose.  It was kinda light colored and watery for blood, probably blood mixed with some other fluid.  As we were wiping away and discussing that, his breathing stopped.  I felt his side and couldn't feel movement, which had been fairly strong before.  My dad noticed too.  We felt in front of his nose, but if there was any air movement, it was almost nothing.  His eyes and mouth were both halfway open.  My dad felt for a pulse but couldn't find one.
+
+He declared Jack dead.  It was by then around dinner time, so we cleaned ourselves up and ate dinner, leaving him just in case he would show signs of life in the interim.  He didn't.  My dad wrapped him in a plastic bag and put him outside to keep until tomorrow when he can be taken somewhere.
+
+Though I suspected that death was likely not far off, it is sad to have him go.  It felt weird when he wasn't lying there on the couch near me and I wasn't having to watch him to try to see if he wanted to go out.  It felt weird not having to wonder if he was going to eat that night or want something else.  It probably will for a while.  There's also part of me that wonders if I could have done anything different to keep him alive.
+
+I didn't spend a lot of time with him his last two days, and lament that.  Saturday, I was at my house until after dinner.  I probably spent a little while on the couch with him at the other end while watching TV before I went for my walk.  I probably didn't pet him that much.  We then watched Columbo.  He was whining for much of it until he finally hopped up on the couch and lay at the other end.  I may have pet him a little.  After, I let him out and in, then went to bed.  The next day, I probably spent some time on the couch with him, but went to the park in the morning and then another park in the afternoon.  Later in the afternoon, I went upstairs to sit alone and do some computing.  When I came down from that, he was in the chair that would be his last lay on it.  I can't say for sure I even pet him on his last day before his fall.
+
+Last year or the year before, I had gotten him a small blanket which he seemed to like.  He slept in my parents room with it and so it was there most of the time.  This Christmas, I had wanted to get him a second blanket so he'd have one on the couch.  But partly because I was unsure if my parents would want that and partly because I didn't get around to putting in an online order that also had stuff for myself, I never got it.  He will not need it now.  Luckily for him while he was alive, I shared the human throw blanket kept on the couch with him often.  Near the end, he became prone to coming over to me on the couch to burrow under it and cuddle for a while.  If it was there, even if I wasn't using it, I'd put it on so we could share it.

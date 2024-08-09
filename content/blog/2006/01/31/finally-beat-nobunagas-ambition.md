@@ -1,0 +1,17 @@
+---
+categories: [toby]
+date: 2006-01-31T02:21:53-04:00
+date_gmt: 2006-01-31T06:21:53+00:00
+guid: 'http://cosmicosmo.ath.cx/log/2006/01/31/finally-beat-nobunagas-ambition/'
+id: 99
+modified: 2006-01-31T02:21:53-04:00
+modified_gmt: 2006-01-31T06:21:53+00:00
+name: finally-beat-nobunagas-ambition
+---
+
+Finally beat Nobunaga's Ambition
+================================
+
+I do believe this is the first time I ever beat Nobamb.  Paul, my brother, and I were playing a game of it and hotseat Civ III at the same time.  I actually died after many attacks and being plagued repeatedly.  Paul got a territory that was up for auction for 300 gold, giving him a second territory.  Jamie got attacked by an ambitious and stupid daimyo who had 4 territories.  The guy game himself and didn't flee even when he was well near defeat, so Jamie got all his territory.  Then Jamie had to leave, so I took back over for him.  Paul died after leaving too little rice in his home territory and then being attacked.  Paul had left very few troops in one of his territories next to me, so I was able to quickly take that one.  I then built up my fiefs and armies and attacked whenever a fief was low on troops, after battles with others usually.  After a while, I had enough support from my protected fiefs to quickly build up huge armies in the front ones and then attack even well defended fiefs.  I left few troops in the rear, and had a rebellion take over one fief, but was able to quickly win it back with a fief where I had left a big enough troop.  I bought large amounts of troops and didn't train or arm them well, so I lost a lot.  In one territory, I lost even with a much larger army.  In another, I lost so many taking it that it was quickly taken by another daimyo.  Luckily, I had troops in another territory that were able to take it back quickly and then take advantage of the reduced troop numbers in the attackers fief.  I moved very quickly at the end.  The last fief I took I sent in 400k troops against 200k.  I ended up with maybe 70k, but I won.  This of course was on the small map on easy, so I haven't mastered the game or anything.  I usually never win the game, as it takes a good while and I'm usually slow to develop to a point where I feel comfortable attacking that first fief.
+
+I haven't played video games much in a good while, but recently I've spent many hours with them.  A gift to me of Civ III Complete (finally released for Mac) and from me of Escape Velocity Override have brought back some of my interest in gaming, at least with those particular games.  I've beat Civ III on chieftain, though I usually never do because of the extremely long time it takes to play through a single game.  I usually start them but not finish.  I also beat the Vellos line in EVN.  I had beaten the Polaris line back when the game first came out, and hadn't played since then.  It also takes a long while to play through.  Gaming really takes a lot of my useful time, but it can be fun.  As long as I make sure to make time for other stuff and get important things done, it can be well worth it.
