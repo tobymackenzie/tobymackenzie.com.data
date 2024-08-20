@@ -1,7 +1,7 @@
 Home
 =====
 
-Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.  Come on in.  Find out more [about me](/about) or [my web development career](/web-dev).  Visit [my web-pipe](/blog) to find out what's happening in Toby land.
+Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.  Come on in.  Find out more [about me](/content/about) or [my web development career](/content/web-dev).  Visit [my web-pipe](/content/blog) to find out what's happening in Toby land.
 
 Me in brief
 -----------
@@ -16,7 +16,7 @@ My online presences
 -------------------------
 
 <ul class="presences">
-	<li class="presence"><a class="presenceAction-writings" href="/blog/"><span>My Blog</span></a></li>
+	<li class="presence"><a class="presenceAction-writings" href="/content/blog/"><span>My Blog</span></a></li>
 	<li class="presence"><a class="presenceAction-github" rel="me" href="https://github.com/tobymackenzie"><span>My GitHub</span></a></li>
 	<li class="presence"><a class="presenceAction-twitter" rel="me" href="https://twitter.com/macybot"><span>My Twitter</span></a></li>
 	<li class="presence"><a class="presenceAction-linkedin" rel="me" href="http://www.linkedin.com/in/tobymackenzie"><span>My LinkedIn</span></a></li>
