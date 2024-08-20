@@ -1,7 +1,7 @@
 About Me
 ========
 
-I am Toby Mackenzie of Northeast Ohio.  I am introverted, quiet, shy.  I am a [web developer](/content/web-dev).
+I am Toby Mackenzie of Northeast Ohio.  I am introverted, quiet, shy.  I am a [web developer](/content/web-dev.md).
 
 Places
 ------
@@ -26,7 +26,7 @@ I no longer attend school, but have not stopped learning.  The web industry cont
 Occupations
 -----------
 
-I currently work for [Cogneato](http://cogneato.com), a small web-development firm in Akron.  I do front- and back-end development, server maintenance, and other miscellaneous tasks.  [Read more about my web development career](/content/web-dev).
+I currently work for [Cogneato](http://cogneato.com), a small web-development firm in Akron.  I do front- and back-end development, server maintenance, and other miscellaneous tasks.  [Read more about my web development career](/content/web-dev.md).
 
 Before that, concurrently with my stint at Tri-C, I worked as a web-development intern at [RPM International](http://rpminc.com).  They are a large sealants and coatings company with many subsidiaries.  I worked on some of their company websites as well as a number of charity websites to which they donate hours and hosting.  I did front end development as well as some back end development in classic ASP and some database work with SQL Server.  I enjoyed working on sites there, especially when some of the more difficult programming or database query problems came up.
 

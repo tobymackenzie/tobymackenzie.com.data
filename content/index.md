@@ -1,7 +1,7 @@
 Home
 =====
 
-Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.  Come on in.  Find out more [about me](/content/about) or [my web development career](/content/web-dev).  Visit [my web-pipe](/content/blog) to find out what's happening in Toby land.
+Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.  Come on in.  Find out more [about me](/content/about.md) or [my web development career](/content/web-dev.md).  Visit [my web-pipe](/content/blog) to find out what's happening in Toby land.
 
 Me in brief
 -----------
