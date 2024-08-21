@@ -154,4 +154,4 @@ I did try some things for full older browser support.  I could position the inpu
 
 In order for the switch to animate, I position it off the one side.  This means that it might be slightly off perfect alignment when in the on position.  It could be aligned perfectly without the animation.  Also, any of the textual / glyph based content displayed on the switch is positioned based on dimensional aspects of the font being used and thus the position may be off with different fonts.  An image could be used instead to deal with this.
 
-[See the demo](/examples/www/switch/) with this and other variants.
+[See the demo](/content/examples/www/switch.md) with this and other variants.

@@ -23,7 +23,7 @@ On my last day of school for the Spring semester, on the way home from class (in
 
 I discovered my tire at quite an angle, and found the driveshaft to be disconnected from the transmission.  I called my Dad, and he headed over to take a look.  I called the tow truck right after that.  A cop showed up and asked me about what happened.  He attempted to help me push the car over fully off the road, but it didn't move, even when he used his car.  So he decided to park behind me with his flashers so no one would hit me.  My dad showed up and took a look, and determined that it probably wasn't salvageable.
 
-After a lot of waiting, the tow truck guy finally showed up.  He drove me and my car back home.  He said a lot of cars had had an axle problem that week.  We dropped my car off in front of my house, where it stayed for over a month (until after I [got my new car](/log/2009/07/25/my-new-car/)).  Parking was a little difficult with it there.
+After a lot of waiting, the tow truck guy finally showed up.  He drove me and my car back home.  He said a lot of cars had had an axle problem that week.  We dropped my car off in front of my house, where it stayed for over a month (until after I [got my new car](/content/blog/2009/07/25/my-new-car.md)).  Parking was a little difficult with it there.
 
 The problem
 -----------
@@ -33,4 +33,4 @@ I jacked it up and looked closely underneath it after several weeks.  I finally 
 Gone
 ----
 
-She sold for $75 to a tow truck company, with extra door trim bits and haynes and chiltons guides included.  She has been replaced by [my new car](/log/2009/07/25/my-new-car/).
+She sold for $75 to a tow truck company, with extra door trim bits and haynes and chiltons guides included.  She has been replaced by [my new car](/content/blog/2009/07/25/my-new-car.md).

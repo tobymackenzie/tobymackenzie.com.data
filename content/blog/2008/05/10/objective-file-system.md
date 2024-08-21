@@ -14,7 +14,7 @@ tags: [computing, database, file, system]
 Objective File System
 =====================
 
-This is a modification of part of a [previous post](/log/2004/05/05/file-browser/).
+This is a modification of part of a [previous post](/content/blog/2004/05/05/file-browser.md).
 
 each file is stored in two databases: the normal hierchical db and an objective db.  The hierarchical db is used for speed and for compatibility with current file systems.  The objective db is used for metadata and other information less critical to basic file operations.
 

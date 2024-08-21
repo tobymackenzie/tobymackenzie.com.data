@@ -13,7 +13,7 @@ tags: [homebrew, packagemanager, permissions]
 Homebrew install.sh without root
 ================================
 
-[Update]The following method no longer seems to work due to changes in the `install.sh` script as well as locked down permissions in newer OS versions.  Because of this and changes to my general setup, I have a [new Homebrew setup](/blog/2021/09/07/unprivileged-homebrew-install-2021-edition/) that uses Homebrew's [untar anywhere](https://docs.brew.sh/Installation#untar-anywhere) method.[/Update]
+[Update]The following method no longer seems to work due to changes in the `install.sh` script as well as locked down permissions in newer OS versions.  Because of this and changes to my general setup, I have a [new Homebrew setup](/content/blog/2021/09/07/unprivileged-homebrew-install-2021-edition.md) that uses Homebrew's [untar anywhere](https://docs.brew.sh/Installation#untar-anywhere) method.[/Update]
 
 I installed [Homebrew](https://brew.sh/), a Mac package manager, recently on my main computer.<!--more-->  I use [macports](https://www.macports.org/) for most of my package management needs, but brew just has many packages macports doesn't.  Anyway, homebrew installs packages as your user instead of the root permissions most package managers use.  Except when installing itself, which uses root to set some permissions.  If it needs to, that is.  I didn't want to give the install script root if I didn't need to.
 

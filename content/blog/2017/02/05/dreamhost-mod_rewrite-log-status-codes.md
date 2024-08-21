@@ -65,4 +65,4 @@ All of this leads me to believe that it must be something with the `mod_rewrite`
 
 It would be nice for logging purposes, especially since I use [awstats](http://www.awstats.org/), to be able to see the proper status codes.  As is, I can't really see where errors are or get a good idea of what actual pages people are visiting.  I may be stuck with all `200`'s until I switch to a VPS.
 
-[Update]After discussing with Dreamhost, [the conclusion](/blog/2017/02/25/dreamhost-200-status-log-conclusion/) was that their configuration was "meant to meet the most common webapp and customer requirements" and I should switch to a VPS solution if I want something different.[/Update]
+[Update]After discussing with Dreamhost, [the conclusion](/content/blog/2017/02/25/dreamhost-200-status-log-conclusion.md) was that their configuration was "meant to meet the most common webapp and customer requirements" and I should switch to a VPS solution if I want something different.[/Update]

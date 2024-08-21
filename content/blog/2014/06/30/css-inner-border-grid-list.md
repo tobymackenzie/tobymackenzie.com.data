@@ -14,7 +14,7 @@ tags: [css, style, technique]
 CSS: Inner Border Grid List
 ===========================
 
-[note]This post is not about the grid layout spec, but I have [created a solution using it](/blog/2018/01/06/css-inner-border-grid-list-grid-layout/) to solve the same problem this post is solving.[/note]
+[note]This post is not about the grid layout spec, but I have [created a solution using it](/content/blog/2018/01/06/css-inner-border-grid-list-grid-layout.md) to solve the same problem this post is solving.[/note]
 
 Many of the recent designs at [Cogneato](http://cogneato.com) have had a responsive grid list of items that have a border between them.  By grid I'm meaning like an image or product grid where the items flow horizontally and then wrap and are all the same width.  By inner border I'm meaning a border around each item except the edges that don't touch another item.  <del>See a more complicated example that uses sub-grids.</del>  My solutions thus far haven't been ideal.  But I recently thought of and found some solutions that, when combined, make for a better option.
 
@@ -23,7 +23,7 @@ The biggest difficulty with this type of situation can be getting the items on t
 position: absolute
 ------------------
 
-Every time I build this sort of thing, I desire a better solution, but have limited time, and settle on my previous solutions.  When doing the most recent site with this sort of grid, I theorized a solution taking advantage of a few other tricks, and later implemented it in my off time.  The most important was my relatively recent discovery of [how `position: absolute` with `auto` works](/2014/01/03/css-position-absolute-with-auto-values/).
+Every time I build this sort of thing, I desire a better solution, but have limited time, and settle on my previous solutions.  When doing the most recent site with this sort of grid, I theorized a solution taking advantage of a few other tricks, and later implemented it in my off time.  The most important was my relatively recent discovery of [how `position: absolute` with `auto` works](/content/2014/01/03/css-position-absolute-with-auto-values.md).
 
 <!--more-->
 
@@ -116,7 +116,7 @@ Flexbox
 
 Looking at the flexbox example above, you may have realized that since the item heights are equalized, we could just put borders on the items themselves and they would connect from item to item.  We could target specific items like in the positioning examples to put the borders in the right places, as in this [flexbox with nth-child example](https://www.tobymackenzie.com/examples/css/innerBorderWrappedGrid/flex-n.php).
 
-We could simplify the CSS significantly by using a little negative margin magic with `overflow: hidden` on the container to hide borders on some items.  I found the basics of this idea [on a CodePen](http://codepen.io/dalgard/pen/Dbnus) that I had to modify slightly to get working with percentage based widths.  See my [flexbox example using negative margins](/examples/css/innerBorderWrappedGrid/flex-negativeMargin.php).  Using the same markup as the previous example, the following CSS will work similarly.  Since it is less verbose, I've provide the three and four column CSS as well.
+We could simplify the CSS significantly by using a little negative margin magic with `overflow: hidden` on the container to hide borders on some items.  I found the basics of this idea [on a CodePen](http://codepen.io/dalgard/pen/Dbnus) that I had to modify slightly to get working with percentage based widths.  See my [flexbox example using negative margins](/content/examples/css/innerBorderWrappedGrid/flex-negativeMargin.php.md).  Using the same markup as the previous example, the following CSS will work similarly.  Since it is less verbose, I've provide the three and four column CSS as well.
 
 ### CSS
 

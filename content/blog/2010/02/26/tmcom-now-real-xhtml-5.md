@@ -14,7 +14,7 @@ tags: [doctype, html5, tmcom, xhtml, xhtml5, xsl]
 TMCom: Now Real XHTML 5
 =======================
 
-As mentioned in [a previous post](/blog/2010/02/16/tmcom-goes-html-5/), my site has gone to the HTML 5 doctype.  I had come from XHTML 1.0 and wanted to continue with the XML syntax of HTML 5, but my site wouldn't validate with the XML declaration.  I recently remembered that I had been serving my site with the mime-type "text/html", which is allowed in XHTML 1.0 <ins>transitional</ins>.	HTML 5 got stricter, and if you want to use the XML syntax, it must be served as "application/xhtml+xml" or "application/xml".
+As mentioned in [a previous post](/content/blog/2010/02/16/tmcom-goes-html-5.md), my site has gone to the HTML 5 doctype.  I had come from XHTML 1.0 and wanted to continue with the XML syntax of HTML 5, but my site wouldn't validate with the XML declaration.  I recently remembered that I had been serving my site with the mime-type "text/html", which is allowed in XHTML 1.0 <ins>transitional</ins>.	HTML 5 got stricter, and if you want to use the XML syntax, it must be served as "application/xhtml+xml" or "application/xml".
 
 So I modified the doctype switcher I had made (mentioned in that previous post) to change the mime-type to "application/xhtml+xml" when the configuration doctype was set to "xhtml5".	But <abbr title="Internet Explorer">IE</abbr> evidently cannot handle that mime-type, so I set up my switcher to output as "html5" for IE, but "xhtml5" for other browsers.  I reset the doctype variable (now an attribute of a page object):
 

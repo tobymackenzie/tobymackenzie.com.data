@@ -180,7 +180,7 @@ div{
 
 I've also occasionally wanted to be able to modify existing numeric or the like values.  Like if this selector is matched, add `2em` to the top padding that would otherwise be there.  This might be even more difficult to implement though, considering varying units and multiple additions.  I guess it would have to become an implied `calc()`.
 
-[More thoughts on this idea](/blog/2023/07/18/css-wishes-add-to-existing-rules/)
+[More thoughts on this idea](/content/blog/2023/07/18/css-wishes-add-to-existing-rules.md)
 
 `viewport` rule
 -------
@@ -210,7 +210,7 @@ For values coming from a CMS, it would be nice to be able to use attribute value
 Cascading Behavior Sheets
 --------
 
-This is not actually CSS, but I think it would benefit future CSS development by helping to reduce the urge to add behavior to it.  I recently opined that there should be [a declarative equivalent of JS like CSS](/blog/2022/11/23/idea-declarative-alternative-to-js/).  I would love to see this, and the sooner the better.
+This is not actually CSS, but I think it would benefit future CSS development by helping to reduce the urge to add behavior to it.  I recently opined that there should be [a declarative equivalent of JS like CSS](/content/blog/2022/11/23/idea-declarative-alternative-to-js.md).  I would love to see this, and the sooner the better.
 
 Alternate stylesheets
 -----
@@ -224,4 +224,4 @@ I know there are many other things I have come across while building sites that 
 
 But I will say in general that I think CSS, moving forward, should have some focus on making it easier to make nice designs with less hacks, and to make things progressively enhanced, accessible, and performant.  Those goals should be the easy path when possible.  In achieving the designs that designers prescribe, the solution that best achieves these and other best practice goals should be the simplest and most straightforward, and things that cause problems in them should take more effort.
 
-[More CSS wishes](/blog/2023/03/04/more-css-wishes/)
+[More CSS wishes](/content/blog/2023/03/04/more-css-wishes.md)

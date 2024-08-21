@@ -14,7 +14,7 @@ tags: [car, purchase]
 My new car
 ==========
 
-After [my car died](/log/2009/07/25/my-corolla-finally-died/), I went looking for a car.  I had to borrow my roommate's car many times and my dad's car while he was on vacation.  I even rode my bicycle 20+ miles to work one day, though my roommate picked me up for the trip home.  It took me over a month to make my decision.
+After [my car died](/content/blog/2009/07/25/my-corolla-finally-died.md), I went looking for a car.  I had to borrow my roommate's car many times and my dad's car while he was on vacation.  I even rode my bicycle 20+ miles to work one day, though my roommate picked me up for the trip home.  It took me over a month to make my decision.
 
 Search
 ------

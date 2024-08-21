@@ -13,7 +13,7 @@ tags: [github, project, theme, wordpress]
 WPThemeHelper, my helper for WordPress themes
 =============================================
 
-In remaking my website using WordPress, I've been working on a base theme that I can use for other sites.  I decided to take some of my experience from the Symfony world, such as organizing functionality into namespaced classes, grouped into "bundles" of functionality that can be (somewhat) independently installed as needed depending on the project.  I already mentioned the [PHP-BufferManager](https://github.com/tobymackenzie/PHP-BufferManager) I'm using in a [previous post](/blog/2014/02/10/php-output-buffer-manager/).  I've also created a more specific to WordPress project with more varied functionality, a theme helper called [WPThemeHelper](https://github.com/tobymackenzie/WPThemeHelper).
+In remaking my website using WordPress, I've been working on a base theme that I can use for other sites.  I decided to take some of my experience from the Symfony world, such as organizing functionality into namespaced classes, grouped into "bundles" of functionality that can be (somewhat) independently installed as needed depending on the project.  I already mentioned the [PHP-BufferManager](https://github.com/tobymackenzie/PHP-BufferManager) I'm using in a [previous post](/content/blog/2014/02/10/php-output-buffer-manager.md).  I've also created a more specific to WordPress project with more varied functionality, a theme helper called [WPThemeHelper](https://github.com/tobymackenzie/WPThemeHelper).
 
 The theme helper has several classes to help make theme development cleaner and perhaps a bit easier.  The readme on github has more details, but some of the more important ones are:
 

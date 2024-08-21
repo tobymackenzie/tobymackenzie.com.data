@@ -37,7 +37,7 @@ to the configuration.  On Ubuntu, that can be done in `/etc/apache2/ports.conf`.
 
 Note: it should be non-SSL because SSL didn't exist at the time of this port's use.
 
-The virtual host must also be able to respond to HTTP 0.9 requests, which WorldWideWeb would've used.  To summarize [my post on setting that up](/blog/2018/02/18/supporting-http-0-9/), the desired virtual host must be the first configured, rewrites to force a canonical domain and HTTPS must be bypassable if no `Host` header is sent, and application code might require setting the `HTTP_HOST` server environment variable to the canonical value when none is set.
+The virtual host must also be able to respond to HTTP 0.9 requests, which WorldWideWeb would've used.  To summarize [my post on setting that up](/content/blog/2018/02/18/supporting-http-0-9.md), the desired virtual host must be the first configured, rewrites to force a canonical domain and HTTPS must be bypassable if no `Host` header is sent, and application code might require setting the `HTTP_HOST` server environment variable to the canonical value when none is set.
 
 <ins>If you have a `%p` in your `LogFormat` directives, that should be changed to `%{local}p` to log the actual port used.  This is not standard, but I have that, along with `%V`, to show me more about what the client requested.</ins>
 

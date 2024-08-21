@@ -15,7 +15,7 @@ My sites now HTTPS with LetsEncrypt
 
 My sites are now HTTPS-enabled with [LetsEncrypt](http://letsencrypt.org/).  It was easy to set up with [Dreamhost's panel](http://wiki.dreamhost.com/Let's_Encrypt#How_do_I_add_a_free_SSL_certificate_to_my_domain.3F).  It was just a few clicks and some waiting.  This is the first time my own sites have been available over HTTPS.  I've been wanting to do it for a while, but it was kind of costly until the free LetsEncrypt became available.  This brings my sites in line with the "HTTPS Everywhere" movement.  I've also been wanting to play with the new [installable apps forming standard](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android) for making web apps installable almost like native apps.
 
-I had written a post before about [how I'm setting my security-related headers](/blog/2015/12/21/security-http-headers/).  I've now added an HTTPS related header in a similar manner: <del>`Upgrade-Insecure-Requests` and</del> HSTS.
+I had written a post before about [how I'm setting my security-related headers](/content/blog/2015/12/21/security-http-headers.md).  I've now added an HTTPS related header in a similar manner: <del>`Upgrade-Insecure-Requests` and</del> HSTS.
 
 <!--more-->
 

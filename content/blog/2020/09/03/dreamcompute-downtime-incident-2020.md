@@ -13,7 +13,7 @@ tags: [dreamcompute, dreamhost, host, problem, server, site, vps]
 DreamCompute downtime incident 2020
 ===================================
 
-There was another DreamCompute incident leading to downtime of my site / server.<!--more-->  Not nearly as bad as [the incident last year](/blog/2019/04/05/dreamcompute-disruption-incident/), but still, my site was affected for what was likely a few hours.  It was intermittently down entirely, and then for a while DNS requests from the server weren't working, breaking OSCP stapling among other things.
+There was another DreamCompute incident leading to downtime of my site / server.<!--more-->  Not nearly as bad as [the incident last year](/content/blog/2019/04/05/dreamcompute-disruption-incident.md), but still, my site was affected for what was likely a few hours.  It was intermittently down entirely, and then for a while DNS requests from the server weren't working, breaking OSCP stapling among other things.
 
 I first noticed it being down around 2130.  I was trying to visit my site, probably just to check out visitor stats, but it wouldn't load.  I tried another domain, then tried to SSH, but no luck.
 

@@ -15,7 +15,7 @@ Upgrading my Awstats setup
 
 I don't really monitor analytics for my personal sites that often besides for my blogs, for which I use wordpress.com's analytics.  I do have three open-source analytics programs set up for my main sites though:  [piwik](http://piwik.org/), [owa](http://www.openwebanalytics.com/), and [awstats](http://awstats.org/).  Awstats is the one I've tended to look at the least, probably because its interface isn't as nice as the others and it doesn't have as much data about visits.  However, it is the only one that looks at actual server logs, so it should be the most accurate about basic visit information.  The other two use JavaScript, one having an image fallback, so there's the potential for them to miss visits.
 
-I have my [awstats set up as I described in 2010](/2010/01/26/awstats/).  I keep the configuration and the data separate from the install to make updates easier.  However, it had been so long since I upgraded that I forgot how it was set up and fumbled a little before finding that article and figuring out what had to be done.  In order to make it easier for next time, I created myself a simple little script to handle the upgrade for me:
+I have my [awstats set up as I described in 2010](/content/2010/01/26/awstats.md).  I keep the configuration and the data separate from the install to make updates easier.  However, it had been so long since I upgraded that I forgot how it was set up and fumbled a little before finding that article and figuring out what had to be done.  In order to make it easier for next time, I created myself a simple little script to handle the upgrade for me:
 
 <!--more-->
 

@@ -13,7 +13,7 @@ tags: [symfony, upgrade, web]
 Upgraded Symfony 4.4 to 5.4
 ===========================
 
-I've [upgraded my website to Symfony 5.4 from 4.4](https://github.com/tobymackenzie/tobymackenzie.site/commit/5f37fc54ad23b99d9f7ab73e964a68ad53c6952c).  I've continued on without [Symfony Flex](https://symfony.com/doc/current/setup/flex.html), as I had [when updating from 3.4 to 4.4](/blog/2019/06/07/upgrade-symfony-3-to-4/).  The procedure was fairly similar to that, fixing any Symfony 4 deprecations and then updating the composer version constraints, fixing anything broken after that.  I also switched from requiring the `symfony/symfony` repo to requiring individual components.  It went fairly smoothly, aside from needing to fix a few things after the `composer update`.
+I've [upgraded my website to Symfony 5.4 from 4.4](https://github.com/tobymackenzie/tobymackenzie.site/commit/5f37fc54ad23b99d9f7ab73e964a68ad53c6952c).  I've continued on without [Symfony Flex](https://symfony.com/doc/current/setup/flex.html), as I had [when updating from 3.4 to 4.4](/content/blog/2019/06/07/upgrade-symfony-3-to-4.md).  The procedure was fairly similar to that, fixing any Symfony 4 deprecations and then updating the composer version constraints, fixing anything broken after that.  I also switched from requiring the `symfony/symfony` repo to requiring individual components.  It went fairly smoothly, aside from needing to fix a few things after the `composer update`.
 
 <!--more-->
 

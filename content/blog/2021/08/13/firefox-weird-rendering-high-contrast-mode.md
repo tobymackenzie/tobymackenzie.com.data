@@ -13,7 +13,7 @@ tags: [firefox, problem, solution, webd]
 Firefox: Weird rendering with high contrast mode
 ================================================
 
-I figured out why Firefox 91+ seemed to break some CSS rendering for me (as [I blogged about a few weeks back](/blog/2021/07/24/3459/)):  high contrast mode.  I've used the accessibility setting "Increase Contrast" on Mac OS for some time to make it easier to see some interface elements.  Apparently, via [Firefox 91 release notes](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/), "Firefox now automatically enables High Contrast Mode when 'Increase Contrast' is checked on MacOS".
+I figured out why Firefox 91+ seemed to break some CSS rendering for me (as [I blogged about a few weeks back](/content/blog/2021/07/24/3459.md)):  high contrast mode.  I've used the accessibility setting "Increase Contrast" on Mac OS for some time to make it easier to see some interface elements.  Apparently, via [Firefox 91 release notes](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/), "Firefox now automatically enables High Contrast Mode when 'Increase Contrast' is checked on MacOS".
 
 <!--more-->
 

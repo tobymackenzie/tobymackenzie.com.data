@@ -67,7 +67,7 @@ I also often do the more common prefixing of variable type.  I will do this afte
 Functions
 ---------
 
-As I said, all of my functions are added to `__` directly or to `__.lib`. I use these standalone functions for simple things that won't need to store data and generally won't need other functions to be grouped with them. The only other thing to add about functions is that I really like [passing arguments as objects using object literal notation](/2009/11/17/javascript-literal-value-function-parameters/), which I wrote about before. I will recap and mention my current practices here though, since this becomes very important for my classes. When there is a probability of being more than two arguments to a function, I pass them as a single object instead. This allows the arguments to be named, passed in any order, and omitted in any order. So I might declare a function like:
+As I said, all of my functions are added to `__` directly or to `__.lib`. I use these standalone functions for simple things that won't need to store data and generally won't need other functions to be grouped with them. The only other thing to add about functions is that I really like [passing arguments as objects using object literal notation](/content/2009/11/17/javascript-literal-value-function-parameters.md), which I wrote about before. I will recap and mention my current practices here though, since this becomes very important for my classes. When there is a probability of being more than two arguments to a function, I pass them as a single object instead. This allows the arguments to be named, passed in any order, and omitted in any order. So I might declare a function like:
 
 ``` js
 __.functionName = function(arguments){
