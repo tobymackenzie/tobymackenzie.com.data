@@ -9,6 +9,7 @@ With my varied issues such as anxiety, back pain, and joint pain, I've come up w
 - balance on gravity
 - find beauty here
 - limit input
+- see the forest and the trees / fit the piece into the puzzle
 - "the only thing to fear is fear itself" / "fear is the mindkiller"
 - leave it for tomorrow
 - let it flow / to the back of the mind
