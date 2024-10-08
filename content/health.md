@@ -5,9 +5,9 @@ With my varied issues such as anxiety, back pain, and joint pain, I've come up w
 - listen to the body
 - relax
 - be where you are / present
-- slow down
+- slow down / don't rush
 - balance on gravity
-- find beauty here
+- find beauty here / seek positive
 - limit input
 - see the forest and the trees / fit the piece into the puzzle
 - "the only thing to fear is fear itself" / "fear is the mindkiller"
