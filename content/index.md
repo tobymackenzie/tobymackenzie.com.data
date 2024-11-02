@@ -61,5 +61,5 @@ Interesting things
 - [StarLabs StarLite](https://us.starlabs.systems/pages/starlite): Linux first convertible tablet with good specs, reasonable price, user replaceable parts (planned), Coreboot
 - Onyx Mira eInk monitor: nice looking but expensive, waiting for color version (must syntax highlight)
 - [framework](https://frame.work/) is making a laptop that is user serviceable / upgradable, with parts readily available from their marketplace.  Waiting for touch.
-- Purism is making the [Librem 5 phone](https://puri.sm/products/librem-5-usa/), a phone running Linux, with a privacy focus including physical component switches, upgradable baseband, mostly open firmware.
+- Purism is making the [Librem 5 phone](https://puri.sm/products/librem-5/), a phone running Linux, with a privacy focus including physical component switches, upgradable baseband, mostly open firmware.
 
