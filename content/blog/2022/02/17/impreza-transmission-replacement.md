@@ -4,8 +4,8 @@ date: 2022-02-17T22:25:27-05:00
 date_gmt: 2022-02-18T03:25:27+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3639'
 id: 3639
-modified: 2022-02-17T22:25:27-05:00
-modified_gmt: 2022-02-18T03:25:27+00:00
+modified: 2024-11-01T21:49:44-04:00
+modified_gmt: 2024-11-02T01:49:44+00:00
 name: impreza-transmission-replacement
 tags: [car, fix, problem]
 ---
@@ -13,7 +13,7 @@ tags: [car, fix, problem]
 Impreza transmission replacement
 ================================
 
-After about a week and five days without my car (Subaru Impreza), I got it back with a "new" transmission.<!--more-->  It's actually a re-manufactured transmission, and it would've apparently cost $9k.  Luckily, Subaru covered it, as their CVTs up to 2017 have reliability problems.  They had extended the warranty to 100k miles.  I was at a little less than 102k, but they still honored it.
+After about a week and five days without my car (Subaru Impreza), I got it back with a "new" transmission.<!--more-->  It's actually a re-manufactured transmission, and it would've apparently cost $9k.  Luckily, Subaru covered it, as their CVTs up to 2017 have reliability problems.  They had extended the warranty to 100k miles.  I was at a little less than 101k, but they still honored it.
 
  Two weeks ago, the transmission had suddenly started slipping and shuddering.  The mechanic said the chain was slipping.  They don't fix the CVTs for internal problems, so they had to replace it.
 
