@@ -18,7 +18,6 @@ My online presences
 <ul class="presences">
 	<li class="presence"><a class="presenceAction-writings" href="/content/blog/"><span>My Blog</span></a></li>
 	<li class="presence"><a class="presenceAction-github" rel="me" href="https://github.com/tobymackenzie"><span>My GitHub</span></a></li>
-	<li class="presence"><a class="presenceAction-twitter" rel="me" href="https://twitter.com/macybot"><span>My Twitter</span></a></li>
 	<li class="presence"><a class="presenceAction-linkedin" rel="me" href="http://www.linkedin.com/in/tobymackenzie"><span>My LinkedIn</span></a></li>
 	<!--<li class="presence"><a class="presenceAction-delicious" rel="me" href="https://del.icio.us/cosmicosmo"><span>My Delicious</span></a></li>-->
 	<li class="presence"><a class="presenceAction-stackoverflow" rel="me" href="http://stackoverflow.com/users/1139122/tobymackenzie"><span>My Stack Overflow</span></a></li>
