@@ -59,21 +59,8 @@ you'd better learn it fast<br />
 you'd better learn it young<br />
 'cause someday never comes</blockquote>
 
-<blockquote>We have to leave now, and take our friends with us<br />
-or Evermore will be nevermore for ever more</blockquote>
-
 <blockquote>The sleeper must awaken.</blockquote>
 <div class="attribution">- Dune (film)</div>
-
-<!--ubik-->
-<blockquote>
-	LEAN OVER THE BOWL
-	<br />AND THEN TAKE A DIVE.
-	<br />ALL OF YOU ARE DEAD.  I AM ALIVE.
-</blockquote>
-
-<!--better off dead-->
-<blockquote>merci buckets</blockquote>
 
 <!--better off dead-->
 <blockquote>Buck up little camper.  We'll beat that slope… together.</blockquote>
