@@ -27,12 +27,14 @@ My online presences
 Et cetera
 ---------
 
-<blockquote>Maybe there is a beast.…  What I mean is…maybe it's only us."</blockquote>
-<div class="attribution">- Simon, <i>The Lord of the Flies</i></div>
+<blockquote>If America does not user her vast resources of wealth to end poverty and make it possible for all of god's children to have the basic necessities of life, she too will go to hell.</blockquote>
+<div class="attribution">- Marin Luther King, Jr.</div>
+
+<blockquote>Beltalowda ✊🏻</blockquote>
+<div class="attribution">- The Expanse</div>
 
 <blockquote>… artists use lies to tell the truth, while politicians use them to cover the truth up.</blockquote>
 <div class="attribution">- Evey, <a href="https://www.imdb.com/title/tt0434409/"><i>V for Vendetta</i></a></div>
-
 
 <blockquote>Be excellent to each other</blockquote>
 <div class="attribution">- Abraham Lincoln<br /> &amp; Ted "Theodore" Logan,<br /> <i>Bill &amp; Ted's Excellent Adventure</i></div>
