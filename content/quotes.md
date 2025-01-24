@@ -1,6 +1,6 @@
 Some quotes that I like or find interesting, rather than quotes by me:
 
-<blockquote>If America does not user her vast resources of wealth to end poverty and make it possible for all of god's children to have the basic necessities of life, she too will go to hell.</blockquote>
+<blockquote>If America does not use her vast resources of wealth to end poverty and make it possible for all of god's children to have the basic necessities of life, she too will go to hell.</blockquote>
 <div class="attribution">- Marin Luther King, Jr.</div>
 
 <blockquote>Maybe there is a beast.…  What I mean is…maybe it's only us."</blockquote>
