@@ -1,3 +1,6 @@
+Jack the dog
+=====
+
 Jack the dog was first bought by Jamie and his then girlfriend Chelsea.  When Jamie moved to Seattle, he gave Jack to my parents and he became the family dog.  Jack was a small dachshund mix, black with brown highlights.
 
 When young, Jack was very energetic.  When he was living with Jamie, there was a huge woods behind him that they would go to and Jack would zoom around.  He loved it.  He would go much faster than he looked like he could even up and down steep hills that would be slow for us humans.  When he moved to my parents, he lost this and had trouble with it.

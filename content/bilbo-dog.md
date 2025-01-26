@@ -1,3 +1,6 @@
+Bilbo the dog
+=====
+
 Bilbo was our family dog during my middle and high school years into college.  He was our first dog since I was very young.  We were very excited to get him, picked him out from a litter at the old shelter location on Quick Road.  He was a small to medium sized black dog with brown highlights with longish hair, a mix of some sort.  We named him after the character from The Hobbit:  The Rankin-Bass cartoon version was well loved by us kids.
 
 He absolutely loved to run out of his yard and explore the neighborhood, especially when young.  Us chasing after him made him want to run farther.  We spent much time chasing him in those days.
