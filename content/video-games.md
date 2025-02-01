@@ -1,9 +1,10 @@
-I've liked video / computer games from a young age, starting in the mid 80s.  I don't play them or get as much enjoyment out of them anymore, but occasionally get in the mood and play, mostly the games from when I was young.   TI-99/4A, Mac, NES, Gameboy, Game Gear, SNES, and N64 are the primary systems I've played, enjoyed, and still have access to (some on emulation).
+I've liked video / computer games from a young age, starting in the mid 80s.  I don't play them or get as much enjoyment out of them anymore, but occasionally get in the mood and play, mostly the games from when I was young.  TI-99/4A, Mac, NES, Gameboy, Game Gear, SNES, and N64 are the primary systems I've played, enjoyed, and still have access to (some on emulation).
 
-I had a tendency to like RPG games.  My favorite is probably Chrono Trigger.  Some other video games I particularly like include:
+I have a tendency to like RPG games.  Some games I've particularly liked include:
 
 - Asterax
 - Bugs Bunny's Birthday Blowout
+- Chrono Trigger
 - Civilization II / III
 - Cosmic Osmo
 - Crystal Quest
@@ -22,3 +23,5 @@ I had a tendency to like RPG games.  My favorite is probably Chrono Trigger.  So
 - SimTower
 - Super Mario Brothers 1, 2, 3, World, 64
 - Tetris
+
+Of those, my favorite is probably Chrono Trigger.
