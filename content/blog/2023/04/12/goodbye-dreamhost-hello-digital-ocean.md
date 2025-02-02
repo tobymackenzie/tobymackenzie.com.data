@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2023-04-12T01:26:13-04:00
-date_gmt: 2023-04-12T05:26:13+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3999'
 id: 3999
 modified: 2023-04-12T01:26:13-04:00
-modified_gmt: 2023-04-12T05:26:13+00:00
 name: goodbye-dreamhost-hello-digital-ocean
 tags: [digital-ocean, dreamcompute, dreamhost, host, problem, server, support, vps]
 ---

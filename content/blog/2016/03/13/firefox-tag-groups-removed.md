@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2016-03-13T01:43:41-05:00
-date_gmt: 2016-03-13T06:43:41+00:00
 guid: 'http://tobymackenzie.name/log/?p=344'
 id: 344
 modified: 2016-03-13T02:27:29-05:00
-modified_gmt: 2016-03-13T07:27:29+00:00
 name: firefox-tag-groups-removed
 tags: [browser, extension, feature, firefox, tabs]
 ---

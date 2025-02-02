@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2022-10-13T15:06:02-04:00
-date_gmt: 2022-10-13T19:06:02+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3848'
 id: 3848
 modified: 2022-10-13T15:20:09-04:00
-modified_gmt: 2022-10-13T19:20:09+00:00
 name: git-macos-default-branch-now-main
 tags: [change, development, git, mac]
 ---

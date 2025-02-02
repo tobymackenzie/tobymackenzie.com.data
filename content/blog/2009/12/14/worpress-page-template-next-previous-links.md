@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-12-14T23:15:41+00:00
-date_gmt: 2009-12-14T23:15:41+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=124'
 id: 399
 modified: 2009-12-14T23:15:41+00:00
-modified_gmt: 2009-12-14T23:15:41+00:00
 name: worpress-page-template-next-previous-links
 tags: [stearns, templates, wordpress]
 ---

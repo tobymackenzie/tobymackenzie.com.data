@@ -2,11 +2,9 @@
 categories: [computer, ideas, ideas]
 comment_count: 1
 date: 2004-05-05T03:23:19-05:00
-date_gmt: 2004-05-05T08:23:19+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/05/05/file-browser/'
 id: 83
 modified: 2023-08-02T20:56:22-04:00
-modified_gmt: 2023-08-03T00:56:22+00:00
 name: file-browser
 tags: [computing]
 ---

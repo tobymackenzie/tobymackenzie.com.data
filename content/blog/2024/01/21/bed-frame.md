@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2024-01-21T16:06:05-05:00
-date_gmt: 2024-01-21T21:06:05+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4228'
 id: 4228
 modified: 2024-01-21T16:06:05-05:00
-modified_gmt: 2024-01-21T21:06:05+00:00
 name: bed-frame
 tags: [bed]
 ---

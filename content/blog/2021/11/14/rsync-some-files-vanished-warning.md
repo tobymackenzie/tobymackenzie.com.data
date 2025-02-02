@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2021-11-14T16:05:32-05:00
-date_gmt: 2021-11-14T21:05:32+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3551'
 id: 3551
 modified: 2021-11-14T16:06:41-05:00
-modified_gmt: 2021-11-14T21:06:41+00:00
 name: rsync-some-files-vanished-warning
 tags: [fix, problem, rsync, script]
 ---

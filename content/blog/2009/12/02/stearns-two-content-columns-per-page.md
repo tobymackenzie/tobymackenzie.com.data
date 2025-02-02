@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2009-12-02T07:46:25+00:00
-date_gmt: 2009-12-02T07:46:25+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=114'
 id: 397
 modified: 2009-12-02T07:46:25+00:00
-modified_gmt: 2009-12-02T07:46:25+00:00
 name: stearns-two-content-columns-per-page
 tags: [admin, cms, layout, magicfields, stearns, webiiclass, wordpress]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2017-08-21T23:37:26-05:00
-date_gmt: 2017-08-22T04:37:26+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1586'
 id: 1586
 modified: 2017-09-11T01:24:01-05:00
-modified_gmt: 2017-09-11T06:24:01+00:00
 name: eclipse-2017
 tags: [astronomy, eclipse, sky, sun]
 ---

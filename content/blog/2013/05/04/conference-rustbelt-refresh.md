@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2013-05-04T07:34:12+00:00
-date_gmt: 2013-05-04T07:34:12+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=529'
 id: 529
 modified: 2013-05-04T07:34:12+00:00
-modified_gmt: 2013-05-04T07:34:12+00:00
 name: conference-rustbelt-refresh
 tags: [conference, css, html5]
 ---

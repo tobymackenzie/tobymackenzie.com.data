@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-08-31T03:05:24+00:00
-date_gmt: 2009-08-31T03:05:24+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=11'
 id: 362
 modified: 2024-06-28T20:22:24-04:00
-modified_gmt: 2024-06-29T00:22:24+00:00
 name: questions-to-ask-the-client
 tags: [assignment, client, preperation, webiiclass]
 ---

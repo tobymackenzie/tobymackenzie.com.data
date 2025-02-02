@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-07-14T00:15:41-05:00
-date_gmt: 2008-07-14T05:15:41+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=196'
 id: 196
 modified: 2008-07-14T00:15:41-05:00
-modified_gmt: 2008-07-14T05:15:41+00:00
 name: internship
 tags: [internship, job, school]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby, toby, www]
 date: 2015-05-16T01:42:02-05:00
-date_gmt: 2015-05-16T06:42:02+00:00
 guid: 'http://tobymackenzie.name/log/?p=306'
 id: 306
 modified: 2018-01-12T01:59:55-05:00
-modified_gmt: 2018-01-12T06:59:55+00:00
 name: and-were-back
 tags: [blog, server, sites]
 ---

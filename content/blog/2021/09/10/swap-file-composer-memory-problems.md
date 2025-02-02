@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2021-09-10T13:34:43-04:00
-date_gmt: 2021-09-10T17:34:43+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3502'
 id: 3502
 modified: 2021-09-10T13:36:08-04:00
-modified_gmt: 2021-09-10T17:36:08+00:00
 name: swap-file-composer-memory-problems
 tags: [composer, development, packagemanager, php, problem]
 ---

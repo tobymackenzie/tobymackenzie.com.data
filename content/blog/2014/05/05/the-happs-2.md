@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-05-05T00:57:58-05:00
-date_gmt: 2014-05-05T05:57:58+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=603'
 id: 603
 modified: 2014-05-05T00:57:58-05:00
-modified_gmt: 2014-05-05T05:57:58+00:00
 name: the-happs-2
 tags: [dotfiles, fish, happs, shell, zsh]
 ---

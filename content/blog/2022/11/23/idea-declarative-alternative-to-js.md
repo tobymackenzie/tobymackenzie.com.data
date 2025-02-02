@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas, www]
 date: 2022-11-23T23:44:03-05:00
-date_gmt: 2022-11-24T04:44:03+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3893'
 id: 3893
 modified: 2022-11-23T23:44:03-05:00
-modified_gmt: 2022-11-24T04:44:03+00:00
 name: idea-declarative-alternative-to-js
 tags: [declarative, js, web]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2007-11-15T02:50:13-05:00
-date_gmt: 2007-11-15T07:50:13+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/11/15/vacation-to-seattle/'
 id: 158
 modified: 2007-11-15T02:50:13-05:00
-modified_gmt: 2007-11-15T07:50:13+00:00
 name: vacation-to-seattle
 tags: [jamie, seattle, vacation]
 ---

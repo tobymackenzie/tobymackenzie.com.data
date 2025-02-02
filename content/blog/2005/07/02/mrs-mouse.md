@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-07-02T02:41:51-04:00
-date_gmt: 2005-07-02T06:41:51+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/02/mrs-mouse/'
 id: 44
 modified: 2005-07-02T02:41:51-04:00
-modified_gmt: 2005-07-02T06:41:51+00:00
 name: mrs-mouse
 tags: [home]
 ---

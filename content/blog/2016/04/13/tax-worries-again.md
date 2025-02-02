@@ -1,11 +1,9 @@
 ---
 categories: [toby, www]
 date: 2016-04-13T02:07:14-05:00
-date_gmt: 2016-04-13T07:07:14+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1075'
 id: 1075
 modified: 2016-04-13T02:07:14-05:00
-modified_gmt: 2016-04-13T07:07:14+00:00
 name: tax-worries-again
 tags: [business, independentcontractor, taxes, worries]
 ---

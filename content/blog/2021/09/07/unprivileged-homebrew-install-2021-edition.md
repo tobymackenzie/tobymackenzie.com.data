@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2021-09-07T00:12:53-04:00
-date_gmt: 2021-09-07T04:12:53+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3495'
 id: 3495
 modified: 2021-09-07T00:12:53-04:00
-modified_gmt: 2021-09-07T04:12:53+00:00
 name: unprivileged-homebrew-install-2021-edition
 tags: [homebrew, packagemanager]
 ---

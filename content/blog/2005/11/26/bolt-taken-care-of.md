@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-11-26T06:49:34-04:00
-date_gmt: 2005-11-26T10:49:34+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/11/26/bolt-taken-care-of/'
 id: 93
 modified: 2005-11-26T06:49:34-04:00
-modified_gmt: 2005-11-26T10:49:34+00:00
 name: bolt-taken-care-of
 tags: [car]
 ---

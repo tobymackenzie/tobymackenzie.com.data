@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2013-07-27T16:25:12-05:00
-date_gmt: 2013-07-27T21:25:12+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=549'
 id: 549
 modified: 2013-07-27T16:25:12-05:00
-modified_gmt: 2013-07-27T21:25:12+00:00
 name: givecamp-2013
 tags: [event, givecamp]
 ---

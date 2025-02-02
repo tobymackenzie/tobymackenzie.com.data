@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-06-29T01:13:39-05:00
-date_gmt: 2016-06-29T06:13:39+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1173'
 id: 1173
 modified: 2020-03-08T03:11:26-04:00
-modified_gmt: 2020-03-08T07:11:26+00:00
 name: ccpl-library-card-dune
 tags: [book, card, library, reading, sciencefiction]
 ---

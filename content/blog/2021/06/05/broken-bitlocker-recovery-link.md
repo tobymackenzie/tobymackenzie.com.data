@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2021-06-05T23:24:40-04:00
-date_gmt: 2021-06-06T03:24:40+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3427'
 id: 3427
 modified: 2021-06-05T23:24:40-04:00
-modified_gmt: 2021-06-06T03:24:40+00:00
 name: broken-bitlocker-recovery-link
 tags: [bitlocker, problem, windows]
 ---

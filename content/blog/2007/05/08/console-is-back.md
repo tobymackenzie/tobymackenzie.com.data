@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2007-05-08T01:11:59-05:00
-date_gmt: 2007-05-08T06:11:59+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/08/console-is-back/'
 id: 143
 modified: 2007-05-08T01:57:13-05:00
-modified_gmt: 2007-05-08T06:57:13+00:00
 name: console-is-back
 ---
 

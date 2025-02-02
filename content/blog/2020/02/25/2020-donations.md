@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2020-02-25T01:00:45-05:00
-date_gmt: 2020-02-25T06:00:45+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2663'
 id: 2663
 modified: 2020-02-25T01:00:45-05:00
-modified_gmt: 2020-02-25T06:00:45+00:00
 name: 2020-donations
 tags: [donations, inheritance, money, uncle-joe]
 ---

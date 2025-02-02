@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-03-22T02:16:30-04:00
-date_gmt: 2019-03-22T06:16:30+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2261'
 id: 2261
 modified: 2019-03-23T01:54:20-04:00
-modified_gmt: 2019-03-23T05:54:20+00:00
 name: symfony-console-free-up-default-shortcuts
 tags: [cli, console, symfony]
 ---

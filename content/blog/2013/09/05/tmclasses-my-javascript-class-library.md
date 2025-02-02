@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2013-09-05T00:16:46-05:00
-date_gmt: 2013-09-05T05:16:46+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=554'
 id: 554
 modified: 2013-09-05T00:16:46-05:00
-modified_gmt: 2013-09-05T05:16:46+00:00
 name: tmclasses-my-javascript-class-library
 tags: [javascript, library, oo, project]
 ---

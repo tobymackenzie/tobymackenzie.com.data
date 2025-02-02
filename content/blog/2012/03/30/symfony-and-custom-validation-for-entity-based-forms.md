@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2012-03-30T06:45:20+00:00
-date_gmt: 2012-03-30T06:45:20+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=473'
 id: 473
 modified: 2019-08-01T21:40:46-04:00
-modified_gmt: 2019-08-02T01:40:46+00:00
 name: symfony-and-custom-validation-for-entity-based-forms
 tags: [forms, symfony, validation]
 ---

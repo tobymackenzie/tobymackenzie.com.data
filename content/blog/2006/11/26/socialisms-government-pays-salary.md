@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2006-11-26T04:48:51-04:00
-date_gmt: 2006-11-26T08:48:51+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/11/26/socialisms-government-pays-salary/'
 id: 126
 modified: 2022-03-08T20:58:18-05:00
-modified_gmt: 2022-03-09T01:58:18+00:00
 name: socialisms-government-pays-salary
 tags: [government]
 ---

@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2010-01-11T10:16:30+00:00
-date_gmt: 2010-01-11T10:16:30+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=157'
 id: 405
 modified: 2017-02-24T00:57:52-05:00
-modified_gmt: 2017-02-24T05:57:52+00:00
 name: wordpress-xml-sitemap-with-xslt-wordpress-theme
 tags: [caninelifeline, plugins, project, wordpress, xml, xsl]
 ---

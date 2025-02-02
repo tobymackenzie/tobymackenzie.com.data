@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2016-05-10T02:08:19-05:00
-date_gmt: 2016-05-10T07:08:19+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1139'
 id: 1139
 modified: 2016-05-10T02:08:19-05:00
-modified_gmt: 2016-05-10T07:08:19+00:00
 name: duplicate-selectors-increase-specificity
 tags: [css, specificity, technique, trick]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2013-04-23T08:48:23+00:00
-date_gmt: 2013-04-23T08:48:23+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=525'
 id: 525
 modified: 2013-04-23T08:48:23+00:00
-modified_gmt: 2013-04-23T08:48:23+00:00
 name: tmlib-meets-require-js
 tags: [javascript, loading, organization, programming, tmlib]
 ---

@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2015-12-21T04:22:59-05:00
-date_gmt: 2015-12-21T09:22:59+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=795'
 id: 795
 modified: 2018-07-12T20:27:39-05:00
-modified_gmt: 2018-07-13T01:27:39+00:00
 name: security-http-headers
 tags: [development, headers, http, security, symfony]
 ---

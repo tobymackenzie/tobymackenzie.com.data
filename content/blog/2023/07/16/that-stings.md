@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2023-07-16T00:30:44-04:00
-date_gmt: 2023-07-16T04:30:44+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4087'
 id: 4087
 modified: 2023-07-16T00:32:23-04:00
-modified_gmt: 2023-07-16T04:32:23+00:00
 name: that-stings
 tags: [bug, lawn, problem, sting]
 ---

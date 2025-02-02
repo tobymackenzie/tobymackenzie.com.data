@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2005-03-10T00:50:54-04:00
-date_gmt: 2005-03-10T04:50:54+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/03/10/vacuum-insulation/'
 id: 133
 modified: 2022-03-08T20:48:20-05:00
-modified_gmt: 2022-03-09T01:48:20+00:00
 name: vacuum-insulation
 tags: [housing]
 ---

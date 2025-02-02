@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-03-15T01:50:13-05:00
-date_gmt: 2008-03-15T06:50:13+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2008/03/15/snow-storm/'
 id: 168
 modified: 2008-03-15T01:50:13-05:00
-modified_gmt: 2008-03-15T06:50:13+00:00
 name: snow-storm
 tags: [parents, weather]
 ---

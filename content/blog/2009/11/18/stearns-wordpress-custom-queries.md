@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 3
 date: 2009-11-18T11:30:04+00:00
-date_gmt: 2009-11-18T11:30:04+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=98'
 id: 394
 modified: 2009-11-18T11:30:04+00:00
-modified_gmt: 2009-11-18T11:30:04+00:00
 name: stearns-wordpress-custom-queries
 tags: [mysql, query, stearns, wordpress]
 ---

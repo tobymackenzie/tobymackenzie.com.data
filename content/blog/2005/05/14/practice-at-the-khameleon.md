@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-05-14T23:46:49-05:00
-date_gmt: 2005-05-15T04:46:49+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/05/14/practice-at-the-khameleon/'
 id: 29
 modified: 2005-05-25T06:45:59-04:00
-modified_gmt: 2005-05-25T10:45:59+00:00
 name: practice-at-the-khameleon
 tags: [yars]
 ---

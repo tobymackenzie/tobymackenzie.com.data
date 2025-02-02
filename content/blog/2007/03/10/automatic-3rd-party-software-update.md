@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2007-03-10T05:23:58-05:00
-date_gmt: 2007-03-10T10:23:58+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/03/10/automatic-3rd-party-software-update/'
 id: 138
 modified: 2022-03-08T20:58:18-05:00
-modified_gmt: 2022-03-09T01:58:18+00:00
 name: automatic-3rd-party-software-update
 tags: [computing]
 ---

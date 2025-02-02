@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-09-16T20:13:17+00:00
-date_gmt: 2009-09-16T20:13:17+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=25'
 id: 366
 modified: 2009-09-16T20:13:17+00:00
-modified_gmt: 2009-09-16T20:13:17+00:00
 name: stearns-research-food-for-historians
 tags: [assignment, research, stearns, webiiclass]
 ---

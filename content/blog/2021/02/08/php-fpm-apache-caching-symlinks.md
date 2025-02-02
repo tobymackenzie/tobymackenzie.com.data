@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-02-08T01:13:57-05:00
-date_gmt: 2021-02-08T06:13:57+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3263'
 id: 3263
 modified: 2021-02-08T01:13:57-05:00
-modified_gmt: 2021-02-08T06:13:57+00:00
 name: php-fpm-apache-caching-symlinks
 tags: [php, problem, symlink]
 ---

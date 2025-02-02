@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 4
 date: 2014-04-11T01:46:36-05:00
-date_gmt: 2014-04-11T06:46:36+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=587'
 id: 587
 modified: 2024-06-05T22:54:09-04:00
-modified_gmt: 2024-06-06T02:54:09+00:00
 name: scss-rem-fallback-mixin
 tags: [css, mixin, preprocessing, sass, style]
 ---

@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2016-04-04T01:55:03-05:00
-date_gmt: 2016-04-04T06:55:03+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1025'
 id: 1025
 modified: 2016-04-04T01:55:03-05:00
-modified_gmt: 2016-04-04T06:55:03+00:00
 name: blogs-moved-and-merged
 tags: [move, site, wordpress, wordpress-com]
 ---

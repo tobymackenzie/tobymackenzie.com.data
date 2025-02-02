@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-05-01T23:00:17-05:00
-date_gmt: 2017-05-02T04:00:17+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1467'
 id: 1467
 modified: 2017-05-01T23:00:17-05:00
-modified_gmt: 2017-05-02T04:00:17+00:00
 name: sass-storing-in-variable
 pings: ['https://www.tobymackenzie.com/blog/2016/05/10/duplicate-selectors-increase-specificity/']
 tags: [sass, selector, trick]

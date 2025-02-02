@@ -1,11 +1,9 @@
 ---
 categories: [computer, toby]
 date: 2024-04-18T23:59:18-04:00
-date_gmt: 2024-04-19T03:59:18+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4310'
 id: 4310
 modified: 2024-04-18T23:59:18-04:00
-modified_gmt: 2024-04-19T03:59:18+00:00
 name: new-phone-samsung-s24
 tags: [convergence, phone, samsung]
 ---

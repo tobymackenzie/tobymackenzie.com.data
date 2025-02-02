@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-09-15T05:08:31+00:00
-date_gmt: 2009-09-15T05:08:31+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=20'
 id: 364
 modified: 2009-09-15T05:08:31+00:00
-modified_gmt: 2009-09-15T05:08:31+00:00
 name: stearns-farm-meeting
 tags: [client, stearns, webiiclass]
 ---

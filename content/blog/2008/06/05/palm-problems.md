@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-06-05T02:30:36-05:00
-date_gmt: 2008-06-05T07:30:36+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=191'
 id: 191
 modified: 2008-06-05T02:30:36-05:00
-modified_gmt: 2008-06-05T07:30:36+00:00
 name: palm-problems
 tags: [palm, phone, purchase]
 ---

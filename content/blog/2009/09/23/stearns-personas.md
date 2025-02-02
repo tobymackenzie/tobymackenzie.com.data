@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-09-23T08:41:01+00:00
-date_gmt: 2009-09-23T08:41:01+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=31'
 id: 367
 modified: 2009-09-23T08:41:01+00:00
-modified_gmt: 2009-09-23T08:41:01+00:00
 name: stearns-personas
 tags: [persona, stearns, webiiclass]
 ---

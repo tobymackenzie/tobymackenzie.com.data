@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2021-01-24T02:02:25-05:00
-date_gmt: 2021-01-24T07:02:25+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3245'
 id: 3245
 modified: 2022-03-08T20:57:25-05:00
-modified_gmt: 2022-03-09T01:57:25+00:00
 name: idea-e-ink-plus-lcd-screen
 tags: [eink, eye-health, lcd, monitors]
 ---

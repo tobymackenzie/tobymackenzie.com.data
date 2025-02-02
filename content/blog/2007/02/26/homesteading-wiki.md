@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2007-02-26T00:28:09-05:00
-date_gmt: 2007-02-26T05:28:09+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/02/26/homesteading-wiki/'
 id: 137
 modified: 2022-03-08T20:58:18-05:00
-modified_gmt: 2022-03-09T01:58:18+00:00
 name: homesteading-wiki
 tags: [sites]
 ---

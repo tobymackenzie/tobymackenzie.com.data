@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2020-03-06T00:51:44-05:00
-date_gmt: 2020-03-06T05:51:44+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2677'
 id: 2677
 modified: 2020-03-06T01:12:27-05:00
-modified_gmt: 2020-03-06T06:12:27+00:00
 name: panic-attack-march-2020
 tags: [anxiety, fear, health, panic-attack, problem, social]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2020-11-30T01:45:27-05:00
-date_gmt: 2020-11-30T06:45:27+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3129'
 id: 3129
 modified: 2020-11-30T01:45:27-05:00
-modified_gmt: 2020-11-30T06:45:27+00:00
 name: black-friday-2020
 tags: [blackfriday, camping, music, purchase, tv]
 ---

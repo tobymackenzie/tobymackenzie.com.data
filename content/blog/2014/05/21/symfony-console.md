@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-05-21T02:04:47-05:00
-date_gmt: 2014-05-21T07:04:47+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=609'
 id: 609
 modified: 2017-03-26T20:29:31-05:00
-modified_gmt: 2017-03-27T01:29:31+00:00
 name: symfony-console
 tags: [cli, console, project, symfony]
 ---

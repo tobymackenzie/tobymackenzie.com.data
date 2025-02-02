@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2006-03-26T03:25:26-04:00
-date_gmt: 2006-03-26T07:25:26+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/03/26/customized-informationbooks/'
 id: 103
 modified: 2022-03-08T20:48:14-05:00
-modified_gmt: 2022-03-09T01:48:14+00:00
 name: customized-informationbooks
 ---
 

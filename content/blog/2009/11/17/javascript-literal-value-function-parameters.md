@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2009-11-17T12:39:23+00:00
-date_gmt: 2009-11-17T12:39:23+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=96'
 id: 393
 modified: 2017-03-26T20:34:29-05:00
-modified_gmt: 2017-03-27T01:34:29+00:00
 name: javascript-literal-value-function-parameters
 tags: [functions, javascript]
 ---

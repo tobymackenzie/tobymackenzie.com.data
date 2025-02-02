@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2009-08-10T22:53:26-05:00
-date_gmt: 2009-08-11T03:53:26+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=231'
 id: 231
 modified: 2016-08-28T01:26:21-05:00
-modified_gmt: 2016-08-28T06:26:21+00:00
 name: teacher-spot-reports-for-knowledge-check
 tags: [education]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2017-04-02T23:44:00-05:00
-date_gmt: 2017-04-03T04:44:00+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1437'
 id: 1437
 modified: 2017-04-02T23:44:00-05:00
-modified_gmt: 2017-04-03T04:44:00+00:00
 name: move
 tags: [house, move, stuff]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-11-20T01:31:04-05:00
-date_gmt: 2014-11-20T06:31:04+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=667'
 id: 667
 modified: 2014-11-20T01:31:04-05:00
-modified_gmt: 2014-11-20T06:31:04+00:00
 name: the-happs-5
 tags: [cogneato, event, happs]
 ---

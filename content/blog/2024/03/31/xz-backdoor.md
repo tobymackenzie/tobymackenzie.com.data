@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2024-03-31T00:43:51-04:00
-date_gmt: 2024-03-31T04:43:51+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4290'
 id: 4290
 modified: 2024-03-31T23:38:18-04:00
-modified_gmt: 2024-04-01T03:38:18+00:00
 name: xz-backdoor
 tags: [development, homebrew, mac, opensource, php, problem, security]
 ---

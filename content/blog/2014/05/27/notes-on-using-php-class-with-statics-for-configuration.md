@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-05-27T00:54:41-05:00
-date_gmt: 2014-05-27T05:54:41+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=618'
 id: 618
 modified: 2024-08-01T12:43:52-04:00
-modified_gmt: 2024-08-01T16:43:52+00:00
 name: notes-on-using-php-class-with-statics-for-configuration
 tags: [configuration, oo, php, project, static, symfony]
 ---

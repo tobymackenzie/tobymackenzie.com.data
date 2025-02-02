@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-12-16T09:20:03+00:00
-date_gmt: 2009-12-16T09:20:03+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=128'
 id: 400
 modified: 2009-12-16T09:20:03+00:00
-modified_gmt: 2009-12-16T09:20:03+00:00
 name: stearns-internet-explorer-workarounds
 tags: [ie, javascript, problem, stearns, style]
 ---

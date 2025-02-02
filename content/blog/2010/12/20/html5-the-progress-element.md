@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-12-20T05:12:47+00:00
-date_gmt: 2010-12-20T05:12:47+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=420'
 id: 444
 modified: 2017-03-20T22:24:15-05:00
-modified_gmt: 2017-03-21T03:24:15+00:00
 name: html5-the-progress-element
 tags: [css, elements, html5, style]
 ---

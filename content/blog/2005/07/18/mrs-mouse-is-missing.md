@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-07-18T12:44:14-04:00
-date_gmt: 2005-07-18T16:44:14+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/18/mrs-mouse-is-missing/'
 id: 51
 modified: 2005-07-18T12:44:14-04:00
-modified_gmt: 2005-07-18T16:44:14+00:00
 name: mrs-mouse-is-missing
 tags: [home]
 ---

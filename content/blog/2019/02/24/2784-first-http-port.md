@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-02-24T03:29:48-05:00
-date_gmt: 2019-02-24T08:29:48+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2223'
 id: 2223
 modified: 2024-02-08T21:01:27-05:00
-modified_gmt: 2024-02-09T02:01:27+00:00
 name: 2784-first-http-port
 pings: ['https://www.tobymackenzie.com/blog/2018/02/18/supporting-http-0-9/']
 tags: [apache, dreamcompute, old, oldbrowsers, progressiveenhancement, server, site, web]

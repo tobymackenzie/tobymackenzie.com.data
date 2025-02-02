@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2005-11-26T06:01:36-04:00
-date_gmt: 2005-11-26T10:01:36+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/11/26/darwinports-ror-new-apache/'
 id: 92
 modified: 2024-04-15T20:08:30-04:00
-modified_gmt: 2024-04-16T00:08:30+00:00
 name: darwinports-ror-new-apache
 ---
 

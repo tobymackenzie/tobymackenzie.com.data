@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-02-08T02:32:07-05:00
-date_gmt: 2016-02-08T07:32:07+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=958'
 id: 958
 modified: 2016-04-04T22:24:13-05:00
-modified_gmt: 2016-04-05T03:24:13+00:00
 name: self-signed-certificate-for-testing
 tags: [certificate, development, https, local, selfsigned, ssl]
 ---

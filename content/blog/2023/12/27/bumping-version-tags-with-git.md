@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2023-12-27T17:17:05-05:00
-date_gmt: 2023-12-27T22:17:05+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4215'
 id: 4215
 modified: 2024-07-15T21:55:32-04:00
-modified_gmt: 2024-07-16T01:55:32+00:00
 name: bumping-version-tags-with-git
 tags: [configuration, git, script]
 ---

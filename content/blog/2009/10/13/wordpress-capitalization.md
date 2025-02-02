@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-10-13T04:07:27+00:00
-date_gmt: 2009-10-13T04:07:27+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=68'
 id: 380
 modified: 2009-10-13T04:07:27+00:00
-modified_gmt: 2009-10-13T04:07:27+00:00
 name: wordpress-capitalization
 tags: [problem, wordpress]
 ---

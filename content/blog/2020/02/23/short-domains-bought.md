@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-02-23T04:10:10-05:00
-date_gmt: 2020-02-23T09:10:10+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2658'
 id: 2658
 modified: 2020-09-24T00:55:18-04:00
-modified_gmt: 2020-09-24T04:55:18+00:00
 name: short-domains-bought
 pings: ['https://indieweb.org/short-domains']
 tags: [dns, domains, purchase, registrar, registration, registry, short]

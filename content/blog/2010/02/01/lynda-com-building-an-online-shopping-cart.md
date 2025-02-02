@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-01T15:15:55+00:00
-date_gmt: 2010-02-01T15:15:55+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=203'
 id: 411
 modified: 2010-02-01T15:15:55+00:00
-modified_gmt: 2010-02-01T15:15:55+00:00
 name: lynda-com-building-an-online-shopping-cart
 tags: [certificate, ecommerce, lynda]
 ---

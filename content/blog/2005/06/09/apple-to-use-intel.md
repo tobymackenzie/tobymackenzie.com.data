@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2005-06-09T22:03:46-04:00
-date_gmt: 2005-06-10T02:03:46+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/09/apple-to-use-intel/'
 id: 35
 modified: 2005-11-26T06:36:02-04:00
-modified_gmt: 2005-11-26T10:36:02+00:00
 name: apple-to-use-intel
 ---
 

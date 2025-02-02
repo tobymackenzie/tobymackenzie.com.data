@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2017-07-15T00:56:09-05:00
-date_gmt: 2017-07-15T05:56:09+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1532'
 id: 1532
 modified: 2017-07-15T16:21:01-05:00
-modified_gmt: 2017-07-15T21:21:01+00:00
 name: move-shared-to-vps-server
 tags: [dreamcompute, dreamhost, move, provision, server, shared, vps]
 ---

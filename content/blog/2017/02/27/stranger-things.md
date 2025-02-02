@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2017-02-27T02:20:05-05:00
-date_gmt: 2017-02-27T07:20:05+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1392'
 id: 1392
 modified: 2020-03-08T03:09:18-04:00
-modified_gmt: 2020-03-08T07:09:18+00:00
 name: stranger-things
 tags: [entertainment, music, review, sciencefiction, tv]
 ---

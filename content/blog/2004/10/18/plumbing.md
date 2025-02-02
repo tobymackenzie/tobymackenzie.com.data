@@ -1,11 +1,9 @@
 ---
 categories: [ideas]
 date: 2004-10-18T23:18:19-04:00
-date_gmt: 2004-10-19T03:18:19+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/10/18/plumbing/'
 id: 128
 modified: 2004-10-18T23:18:19-04:00
-modified_gmt: 2004-10-19T03:18:19+00:00
 name: plumbing
 tags: [housing]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2023-03-04T21:05:25-05:00
-date_gmt: 2023-03-05T02:05:25+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3971'
 id: 3971
 modified: 2023-03-04T21:05:25-05:00
-modified_gmt: 2023-03-05T02:05:25+00:00
 name: more-css-wishes
 pings: ['https://www.tobymackenzie.com/blog/2023/02/25/css-wishlist/']
 tags: [css, thoughts, wants]

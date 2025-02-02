@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-10-15T06:00:07-04:00
-date_gmt: 2005-10-15T10:00:07+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/15/pyewacket-final-trip/'
 id: 71
 modified: 2005-10-15T06:00:07-04:00
-modified_gmt: 2005-10-15T10:00:07+00:00
 name: pyewacket-final-trip
 tags: [boat]
 ---

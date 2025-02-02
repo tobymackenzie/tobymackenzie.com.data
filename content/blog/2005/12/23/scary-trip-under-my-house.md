@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-12-23T03:44:57-04:00
-date_gmt: 2005-12-23T07:44:57+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/12/23/scary-trip-under-my-house/'
 id: 96
 modified: 2005-12-23T03:44:57-04:00
-modified_gmt: 2005-12-23T07:44:57+00:00
 name: scary-trip-under-my-house
 tags: [home]
 ---

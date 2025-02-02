@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-03-11T01:19:31-05:00
-date_gmt: 2014-03-11T06:19:31+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=574'
 id: 574
 modified: 2024-08-01T12:52:17-04:00
-modified_gmt: 2024-08-01T16:52:17+00:00
 name: wtpthemehelper
 tags: [github, project, theme, wordpress]
 ---

@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2010-02-16T14:55:49+00:00
-date_gmt: 2010-02-16T14:55:49+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=255'
 id: 417
 modified: 2024-06-20T21:53:40-04:00
-modified_gmt: 2024-06-21T01:53:40+00:00
 name: tmcom-goes-html-5
 tags: [doctype, html, html5, role]
 ---

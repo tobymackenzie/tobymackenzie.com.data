@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2007-05-25T04:31:39-05:00
-date_gmt: 2007-05-25T09:31:39+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/25/workgroup-manager/'
 id: 148
 modified: 2007-06-16T00:36:23-05:00
-modified_gmt: 2007-06-16T05:36:23+00:00
 name: workgroup-manager
 ---
 

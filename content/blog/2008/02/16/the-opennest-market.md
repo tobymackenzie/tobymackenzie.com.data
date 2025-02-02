@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2008-02-16T04:53:15-05:00
-date_gmt: 2008-02-16T09:53:15+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2008/02/16/the-opennest-market/'
 id: 164
 modified: 2022-03-08T20:57:27-05:00
-modified_gmt: 2022-03-09T01:57:27+00:00
 name: the-opennest-market
 tags: [government]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2022-12-16T15:30:54-05:00
-date_gmt: 2022-12-16T20:30:54+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3915'
 id: 3915
 modified: 2022-12-16T15:30:54-05:00
-modified_gmt: 2022-12-16T20:30:54+00:00
 name: vagrant-network-ip-change
 tags: [development, problem, vagrant, virtualbox, vm, web]
 ---

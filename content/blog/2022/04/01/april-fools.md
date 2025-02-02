@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2022-04-01T21:41:55-04:00
-date_gmt: 2022-04-02T01:41:55+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3710'
 id: 3710
 modified: 2022-04-01T21:50:47-04:00
-modified_gmt: 2022-04-02T01:50:47+00:00
 name: april-fools
 tags: [easteregg, holiday, site]
 ---

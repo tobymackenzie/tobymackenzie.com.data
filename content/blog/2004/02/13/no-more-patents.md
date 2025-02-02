@@ -1,11 +1,9 @@
 ---
 categories: [ideas]
 date: 2004-02-13T02:52:26-05:00
-date_gmt: 2004-02-13T07:52:26+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/02/13/no-more-patents/'
 id: 23
 modified: 2006-04-12T03:29:20-04:00
-modified_gmt: 2006-04-12T07:29:20+00:00
 name: no-more-patents
 tags: [government]
 ---

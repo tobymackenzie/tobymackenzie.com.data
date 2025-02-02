@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-03-21T00:41:55-05:00
-date_gmt: 2016-03-21T05:41:55+00:00
 guid: 'http://tobymackenzie.name/log/?p=349'
 id: 349
 modified: 2016-04-30T02:12:09-05:00
-modified_gmt: 2016-04-30T07:12:09+00:00
 name: working-with-svg-icons
 tags: [icons, svg, webd]
 ---

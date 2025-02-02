@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-05-06T01:46:39+00:00
-date_gmt: 2010-05-06T01:46:39+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=298'
 id: 426
 modified: 2010-05-06T01:46:39+00:00
-modified_gmt: 2010-05-06T01:46:39+00:00
 name: cogneato-seo
 tags: [cogneato, job, seo]
 ---

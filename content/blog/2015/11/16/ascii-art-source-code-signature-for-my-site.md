@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2015-11-16T22:49:43-05:00
-date_gmt: 2015-11-17T03:49:43+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=715'
 id: 715
 modified: 2017-03-13T23:15:11-05:00
-modified_gmt: 2017-03-14T04:15:11+00:00
 name: ascii-art-source-code-signature-for-my-site
 tags: [asciiart, development, flare, web]
 ---

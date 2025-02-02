@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2016-04-02T00:31:38-05:00
-date_gmt: 2016-04-02T05:31:38+00:00
 guid: 'http://tobymackenzie.name/log/?p=353'
 id: 353
 modified: 2016-04-02T00:31:38-05:00
-modified_gmt: 2016-04-02T05:31:38+00:00
 name: command-line-weather-with-wttr-in
 tags: [ascii, commandline, site, weather]
 ---

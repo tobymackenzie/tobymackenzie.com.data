@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2010-02-15T04:27:26-05:00
-date_gmt: 2010-02-15T09:27:26+00:00
 guid: '/log/?p=254'
 id: 254
 modified: 2010-06-30T22:43:26-05:00
-modified_gmt: 2010-07-01T03:43:26+00:00
 name: disappearing-iphoto-library
 tags: [backup, iphoto, problem]
 ---

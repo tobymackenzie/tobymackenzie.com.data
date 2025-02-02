@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2017-11-17T02:21:38-05:00
-date_gmt: 2017-11-17T07:21:38+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1671'
 id: 1671
 modified: 2017-11-17T02:35:03-05:00
-modified_gmt: 2017-11-17T07:35:03+00:00
 name: firefox-57-tab-groups-downgrade-esr
 tags: [browser, downgrade, extension, firefox, gui, tabs, web]
 ---

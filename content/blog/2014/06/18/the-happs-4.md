@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-06-18T00:56:36-05:00
-date_gmt: 2014-06-18T05:56:36+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=626'
 id: 626
 modified: 2014-06-18T00:56:36-05:00
-modified_gmt: 2014-06-18T05:56:36+00:00
 name: the-happs-4
 tags: [cogneato, conference, happs, wordpress]
 ---

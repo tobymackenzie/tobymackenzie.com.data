@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2004-12-05T02:22:11-05:00
-date_gmt: 2004-12-05T07:22:11+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/12/05/finder-more-useful/'
 id: 85
 modified: 2022-03-08T20:48:21-05:00
-modified_gmt: 2022-03-09T01:48:21+00:00
 name: finder-more-useful
 tags: [computing]
 ---

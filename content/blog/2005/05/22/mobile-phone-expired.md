@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-05-22T02:22:11-04:00
-date_gmt: 2005-05-22T06:22:11+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/05/22/mobile-phone-expired/'
 id: 30
 modified: 2005-05-22T02:22:11-04:00
-modified_gmt: 2005-05-22T06:22:11+00:00
 name: mobile-phone-expired
 ---
 

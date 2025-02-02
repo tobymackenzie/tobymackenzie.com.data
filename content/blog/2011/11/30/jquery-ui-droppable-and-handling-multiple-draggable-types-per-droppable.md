@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2011-11-30T06:22:00+00:00
-date_gmt: 2011-11-30T06:22:00+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=464'
 id: 464
 modified: 2017-03-29T21:25:21-05:00
-modified_gmt: 2017-03-30T02:25:21+00:00
 name: jquery-ui-droppable-and-handling-multiple-draggable-types-per-droppable
 tags: [javascript, jquery, jqueryui]
 ---

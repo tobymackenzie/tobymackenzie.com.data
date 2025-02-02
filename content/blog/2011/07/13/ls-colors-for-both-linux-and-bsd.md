@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2011-07-13T23:25:56-05:00
-date_gmt: 2011-07-14T04:25:56+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=297'
 id: 297
 modified: 2022-11-09T21:00:14-05:00
-modified_gmt: 2022-11-10T02:00:14+00:00
 name: ls-colors-for-both-linux-and-bsd
 tags: [bash, configuration]
 ---

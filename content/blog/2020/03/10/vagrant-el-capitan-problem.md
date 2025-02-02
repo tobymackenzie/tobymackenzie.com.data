@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2020-03-10T00:58:13-04:00
-date_gmt: 2020-03-10T04:58:13+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2696'
 id: 2696
 modified: 2020-03-12T23:42:56-04:00
-modified_gmt: 2020-03-13T03:42:56+00:00
 name: vagrant-el-capitan-problem
 tags: [mac, osx, problem, software, vagrant]
 ---

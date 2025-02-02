@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2015-06-05T01:15:59-05:00
-date_gmt: 2015-06-05T06:15:59+00:00
 guid: 'http://tobymackenzie.name/log/?p=314'
 id: 314
 modified: 2023-07-04T22:42:58-04:00
-modified_gmt: 2023-07-05T02:42:58+00:00
 name: toby-now
 tags: [life, purchase, state]
 ---

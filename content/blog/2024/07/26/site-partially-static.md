@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2024-07-26T14:59:00-04:00
-date_gmt: 2024-07-26T18:59:00+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4393'
 id: 4393
 modified: 2024-07-26T15:14:05-04:00
-modified_gmt: 2024-07-26T19:14:05+00:00
 name: site-partially-static
 tags: [apache, change, site, static]
 ---

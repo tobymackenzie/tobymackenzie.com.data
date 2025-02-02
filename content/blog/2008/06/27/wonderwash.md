@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-06-27T05:06:55-05:00
-date_gmt: 2008-06-27T10:06:55+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=195'
 id: 195
 modified: 2008-06-27T05:06:55-05:00
-modified_gmt: 2008-06-27T10:06:55+00:00
 name: wonderwash
 tags: [clothing, home, purchase, washing]
 ---

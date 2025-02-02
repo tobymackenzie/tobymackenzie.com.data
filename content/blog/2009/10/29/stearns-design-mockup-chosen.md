@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-10-29T05:54:35+00:00
-date_gmt: 2009-10-29T05:54:35+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=81'
 id: 388
 modified: 2009-10-29T05:54:35+00:00
-modified_gmt: 2009-10-29T05:54:35+00:00
 name: stearns-design-mockup-chosen
 tags: [client, design, mockup, stearns, theme, webiiclass, wordpress]
 ---

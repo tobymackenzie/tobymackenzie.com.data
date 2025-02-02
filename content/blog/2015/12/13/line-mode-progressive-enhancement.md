@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2015-12-13T04:39:48-05:00
-date_gmt: 2015-12-13T09:39:48+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=757'
 id: 757
 modified: 2020-03-20T01:05:43-04:00
-modified_gmt: 2020-03-20T05:05:43+00:00
 name: line-mode-progressive-enhancement
 tags: [browsers, development, linemode, oldbrowsers, progressiveenhancement, support, web]
 ---

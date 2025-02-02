@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-07-21T00:52:05-05:00
-date_gmt: 2018-07-21T05:52:05+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1959'
 id: 1959
 modified: 2018-07-21T01:00:53-05:00
-modified_gmt: 2018-07-21T06:00:53+00:00
 name: givecamp-2018-day-one
 tags: [cleveland, development, event, givecamp, nodejs, web]
 ---

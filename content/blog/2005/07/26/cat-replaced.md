@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-07-26T01:02:37-04:00
-date_gmt: 2005-07-26T05:02:37+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/26/cat-replaced/'
 id: 52
 modified: 2022-08-27T23:36:22-04:00
-modified_gmt: 2022-08-28T03:36:22+00:00
 name: cat-replaced
 tags: [car]
 ---

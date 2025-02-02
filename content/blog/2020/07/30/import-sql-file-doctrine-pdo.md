@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-07-30T01:32:45-04:00
-date_gmt: 2020-07-30T05:32:45+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2963'
 id: 2963
 modified: 2020-07-30T01:32:45-04:00
-modified_gmt: 2020-07-30T05:32:45+00:00
 name: import-sql-file-doctrine-pdo
 tags: [database, doctrine, import, mysql, pdo, php]
 ---

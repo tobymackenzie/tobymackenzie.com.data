@@ -1,11 +1,9 @@
 ---
 categories: [ideas]
 date: 2005-07-13T02:14:05-04:00
-date_gmt: 2005-07-13T06:14:05+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/13/frued-repressed-memories/'
 id: 47
 modified: 2005-10-20T14:43:25-04:00
-modified_gmt: 2005-10-20T18:43:25+00:00
 name: frued-repressed-memories
 tags: [humans]
 ---

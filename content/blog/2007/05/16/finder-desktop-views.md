@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2007-05-16T05:13:56-05:00
-date_gmt: 2007-05-16T10:13:56+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/16/finder-desktop-views/'
 id: 145
 modified: 2022-03-08T20:58:17-05:00
-modified_gmt: 2022-03-09T01:58:17+00:00
 name: finder-desktop-views
 tags: [computing, stub]
 ---

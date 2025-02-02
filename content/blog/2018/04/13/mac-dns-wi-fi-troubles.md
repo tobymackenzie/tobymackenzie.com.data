@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2018-04-13T01:03:22-05:00
-date_gmt: 2018-04-13T06:03:22+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1861'
 id: 1861
 modified: 2018-04-13T01:03:22-05:00
-modified_gmt: 2018-04-13T06:03:22+00:00
 name: mac-dns-wi-fi-troubles
 tags: [dns, internet, mac, problem, wifi]
 ---

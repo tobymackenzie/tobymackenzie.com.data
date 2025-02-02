@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2018-07-24T00:50:46-05:00
-date_gmt: 2018-07-24T05:50:46+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1967'
 id: 1967
 modified: 2018-08-07T21:12:18-05:00
-modified_gmt: 2018-08-08T02:12:18+00:00
 name: comments-closed
 pings: ['https://indieweb.org/webmention', 'https://www.tobymackenzie.com/blog/2018/08/07/1993/']
 tags: [blog, comment, communication, indieweb, site, web]

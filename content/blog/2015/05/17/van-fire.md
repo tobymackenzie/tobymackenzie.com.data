@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2015-05-17T01:06:08-05:00
-date_gmt: 2015-05-17T06:06:08+00:00
 guid: 'http://tobymackenzie.name/log/?p=309'
 id: 309
 modified: 2015-05-17T01:06:08-05:00
-modified_gmt: 2015-05-17T06:06:08+00:00
 name: van-fire
 tags: [event, fire]
 ---

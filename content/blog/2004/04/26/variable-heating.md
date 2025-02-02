@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-04-26T20:55:47-04:00
-date_gmt: 2004-04-27T00:55:47+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/04/26/variable-heating/'
 id: 134
 modified: 2022-03-08T20:51:31-05:00
-modified_gmt: 2022-03-09T01:51:31+00:00
 name: variable-heating
 tags: [housing]
 ---

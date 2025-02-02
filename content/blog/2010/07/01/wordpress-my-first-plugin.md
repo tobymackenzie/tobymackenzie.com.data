@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-07-01T03:15:54+00:00
-date_gmt: 2010-07-01T03:15:54+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=340'
 id: 432
 modified: 2023-12-20T20:09:17-05:00
-modified_gmt: 2023-12-21T01:09:17+00:00
 name: wordpress-my-first-plugin
 tags: [plugins, wordpress]
 ---

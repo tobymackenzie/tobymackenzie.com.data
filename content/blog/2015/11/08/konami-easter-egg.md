@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2015-11-08T02:35:25-05:00
-date_gmt: 2015-11-08T07:35:25+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=709'
 id: 709
 modified: 2016-10-13T08:35:11-05:00
-modified_gmt: 2016-10-13T13:35:11+00:00
 name: konami-easter-egg
 tags: [development, easteregg, javascript, web]
 ---

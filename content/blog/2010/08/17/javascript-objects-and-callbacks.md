@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-08-17T04:08:54+00:00
-date_gmt: 2010-08-17T04:08:54+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=370'
 id: 435
 modified: 2017-02-22T23:38:34-05:00
-modified_gmt: 2017-02-23T04:38:34+00:00
 name: javascript-objects-and-callbacks
 pings: ['https://tobymackenzie.com/blog/2010/05/21/javascript-closures-scope-and-arrays/']
 tags: [callbacks, javascript, objects, todo]

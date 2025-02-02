@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2015-11-19T02:18:08-05:00
-date_gmt: 2015-11-19T07:18:08+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=732'
 id: 732
 modified: 2017-11-25T03:09:00-05:00
-modified_gmt: 2017-11-25T08:09:00+00:00
 name: testing-the-monty-hall-problem
 tags: [code, problem, statistics, test]
 ---

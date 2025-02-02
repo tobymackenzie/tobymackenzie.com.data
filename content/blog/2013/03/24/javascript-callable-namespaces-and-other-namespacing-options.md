@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2013-03-24T21:37:11+00:00
-date_gmt: 2013-03-24T21:37:11+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=522'
 id: 522
 modified: 2013-03-24T21:37:11+00:00
-modified_gmt: 2013-03-24T21:37:11+00:00
 name: javascript-callable-namespaces-and-other-namespacing-options
 tags: [fundamental, javascript, library, namespace]
 ---

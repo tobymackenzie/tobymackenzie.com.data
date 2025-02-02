@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-04-23T05:18:46-05:00
-date_gmt: 2005-04-23T10:18:46+00:00
 guid: 'http://cosmicosmo.ath.cx/wordpress/?p=15'
 id: 15
 modified: 2005-04-23T05:18:46-05:00
-modified_gmt: 2005-04-23T10:18:46+00:00
 name: the-pope-died
 ---
 

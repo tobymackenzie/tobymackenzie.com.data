@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-12-29T02:26:07-05:00
-date_gmt: 2014-12-29T07:26:07+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=674'
 id: 674
 modified: 2020-01-11T15:59:46-05:00
-modified_gmt: 2020-01-11T20:59:46+00:00
 name: additive-overwriting-of-symfony-security-configuration
 tags: [configuration, security, symfony]
 ---

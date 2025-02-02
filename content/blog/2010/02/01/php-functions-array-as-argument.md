@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-01T12:53:53+00:00
-date_gmt: 2010-02-01T12:53:53+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=198'
 id: 409
 modified: 2010-02-01T12:53:53+00:00
-modified_gmt: 2010-02-01T12:53:53+00:00
 name: php-functions-array-as-argument
 tags: [functions, php, programming]
 ---

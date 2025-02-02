@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2018-02-28T01:55:10-05:00
-date_gmt: 2018-02-28T06:55:10+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1793'
 id: 1793
 modified: 2018-02-28T01:55:10-05:00
-modified_gmt: 2018-02-28T06:55:10+00:00
 name: new-toilet
 tags: [bathroom, house, toilet, update, water]
 ---

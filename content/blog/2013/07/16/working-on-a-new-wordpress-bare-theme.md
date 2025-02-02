@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2013-07-16T02:23:50-05:00
-date_gmt: 2013-07-16T07:23:50+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=543'
 id: 543
 modified: 2013-07-16T02:23:50-05:00
-modified_gmt: 2013-07-16T07:23:50+00:00
 name: working-on-a-new-wordpress-bare-theme
 tags: [theme, wordpress]
 ---

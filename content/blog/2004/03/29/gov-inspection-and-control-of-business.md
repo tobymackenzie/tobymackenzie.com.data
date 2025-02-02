@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-03-29T22:02:01-05:00
-date_gmt: 2004-03-30T03:02:01+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/03/29/gov-inspection-and-control-of-business/'
 id: 25
 modified: 2022-03-08T20:51:31-05:00
-modified_gmt: 2022-03-09T01:51:31+00:00
 name: gov-inspection-and-control-of-business
 tags: [government]
 ---

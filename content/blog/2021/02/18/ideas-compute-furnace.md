@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2021-02-18T04:22:38-05:00
-date_gmt: 2021-02-18T09:22:38+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3286'
 id: 3286
 modified: 2022-03-08T20:57:25-05:00
-modified_gmt: 2022-03-09T01:57:25+00:00
 name: ideas-compute-furnace
 tags: [computing, furnace, home]
 ---

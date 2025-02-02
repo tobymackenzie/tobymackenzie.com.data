@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2023-06-20T13:51:34-04:00
-date_gmt: 2023-06-20T17:51:34+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4063'
 id: 4063
 modified: 2023-07-31T00:14:48-04:00
-modified_gmt: 2023-07-31T04:14:48+00:00
 name: inline-emoji-favicon
 tags: [html, icons, performance, web]
 ---

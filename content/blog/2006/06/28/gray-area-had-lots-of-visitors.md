@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2006-06-28T14:44:45-04:00
-date_gmt: 2006-06-28T18:44:45+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/06/28/gray-area-had-lots-of-visitors/'
 id: 111
 modified: 2006-06-28T14:44:45-04:00
-modified_gmt: 2006-06-28T18:44:45+00:00
 name: gray-area-had-lots-of-visitors
 tags: [boat]
 ---

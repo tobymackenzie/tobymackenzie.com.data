@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2016-02-25T23:14:42-05:00
-date_gmt: 2016-02-26T04:14:42+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=976'
 id: 976
 modified: 2016-04-04T21:27:24-05:00
-modified_gmt: 2016-04-05T02:27:24+00:00
 name: check-request-compression-savings
 tags: [compression, curl, gzip, mod_deflate, savings, script]
 ---

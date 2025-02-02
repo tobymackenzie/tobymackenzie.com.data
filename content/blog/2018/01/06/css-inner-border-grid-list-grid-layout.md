@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-01-06T19:39:53-05:00
-date_gmt: 2018-01-07T00:39:53+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1736'
 id: 1736
 modified: 2022-10-30T19:12:08-04:00
-modified_gmt: 2022-10-30T23:12:08+00:00
 name: css-inner-border-grid-list-grid-layout
 pings: ['https://css-tricks.com/snippets/css/a-guide-to-flexbox/', 'https://www.tobymackenzie.com/blog/2014/06/30/css-inner-border-grid-list/']
 tags: [css, grid, layout]

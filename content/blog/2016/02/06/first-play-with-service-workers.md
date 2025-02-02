@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-02-06T04:30:52-05:00
-date_gmt: 2016-02-06T09:30:52+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=955'
 id: 955
 modified: 2016-04-04T22:25:50-05:00
-modified_gmt: 2016-04-05T03:25:50+00:00
 name: first-play-with-service-workers
 tags: [cache, javascript, serviceworkers]
 ---

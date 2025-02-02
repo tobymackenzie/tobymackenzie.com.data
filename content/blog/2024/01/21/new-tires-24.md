@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2024-01-21T15:51:46-05:00
-date_gmt: 2024-01-21T20:51:46+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4226'
 id: 4226
 modified: 2024-01-21T15:51:46-05:00
-modified_gmt: 2024-01-21T20:51:46+00:00
 name: new-tires-24
 tags: [car, purchase, tires]
 ---

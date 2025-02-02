@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2018-05-04T00:03:00-05:00
-date_gmt: 2018-05-04T05:03:00+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1879'
 id: 1879
 modified: 2018-05-17T22:00:57-05:00
-modified_gmt: 2018-05-18T03:00:57+00:00
 name: the-traffic-jam-and-the-health-problem
 tags: [fear, health, jam, problem, stirtrek, traffic]
 ---

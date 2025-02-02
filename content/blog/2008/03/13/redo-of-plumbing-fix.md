@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-03-13T18:48:16-05:00
-date_gmt: 2008-03-13T23:48:16+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2008/03/13/redo-of-plumbing-fix/'
 id: 167
 modified: 2008-03-13T18:48:16-05:00
-modified_gmt: 2008-03-13T23:48:16+00:00
 name: redo-of-plumbing-fix
 tags: [home, plumbing]
 ---

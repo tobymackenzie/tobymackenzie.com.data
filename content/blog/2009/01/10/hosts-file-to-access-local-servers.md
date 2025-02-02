@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-01-10T04:11:26-05:00
-date_gmt: 2009-01-10T09:11:26+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=211'
 id: 211
 modified: 2016-04-30T02:12:09-05:00
-modified_gmt: 2016-04-30T07:12:09+00:00
 name: hosts-file-to-access-local-servers
 tags: [network, server]
 ---

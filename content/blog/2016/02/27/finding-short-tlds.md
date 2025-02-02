@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-02-27T01:55:09-05:00
-date_gmt: 2016-02-27T06:55:09+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=980'
 id: 980
 modified: 2016-04-04T21:23:08-05:00
-modified_gmt: 2016-04-05T02:23:08+00:00
 name: finding-short-tlds
 pings: ['http://indiewebcamp.com/permashortlinks', 'http://indiewebcamp.com/short-domain#Domains']
 tags: [domains, permashortlinks, script, tld]

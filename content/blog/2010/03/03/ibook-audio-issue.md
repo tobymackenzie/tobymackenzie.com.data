@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2010-03-03T10:48:04-05:00
-date_gmt: 2010-03-03T15:48:04+00:00
 guid: '/log/?p=258'
 id: 258
 modified: 2010-03-03T10:48:04-05:00
-modified_gmt: 2010-03-03T15:48:04+00:00
 name: ibook-audio-issue
 tags: [audio, ibook, mac, osx, problem]
 ---

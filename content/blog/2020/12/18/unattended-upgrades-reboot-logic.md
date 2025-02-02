@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2020-12-18T02:09:16-05:00
-date_gmt: 2020-12-18T07:09:16+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3176'
 id: 3176
 modified: 2020-12-18T15:07:11-05:00
-modified_gmt: 2020-12-18T20:07:11+00:00
 name: unattended-upgrades-reboot-logic
 tags: [linux, packagemanager, problem, ubuntu]
 ---

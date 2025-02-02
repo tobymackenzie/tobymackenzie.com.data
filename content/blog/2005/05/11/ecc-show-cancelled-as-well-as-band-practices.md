@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-05-11T22:18:34-05:00
-date_gmt: 2005-05-12T03:18:34+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/05/11/ecc-show-cancelled-as-well-as-band-practices/'
 id: 28
 modified: 2005-05-11T22:18:34-05:00
-modified_gmt: 2005-05-12T03:18:34+00:00
 name: ecc-show-cancelled-as-well-as-band-practices
 tags: [yars]
 ---

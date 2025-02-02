@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2010-01-21T05:35:30-05:00
-date_gmt: 2010-01-21T10:35:30+00:00
 guid: '/log/?p=252'
 id: 252
 modified: 2010-06-30T22:50:09-05:00
-modified_gmt: 2010-07-01T03:50:09+00:00
 name: google-finance-adds-split-handling
 tags: [finance, google, service, stocks]
 ---

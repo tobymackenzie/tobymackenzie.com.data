@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-04-05T02:13:03-04:00
-date_gmt: 2019-04-05T06:13:03+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2290'
 id: 2290
 modified: 2019-04-05T02:13:03-04:00
-modified_gmt: 2019-04-05T06:13:03+00:00
 name: dreamcompute-disruption-incident
 tags: [customer, dreamcompute, dreamhost, host, problem, server, site, support, vps]
 ---

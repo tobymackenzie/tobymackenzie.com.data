@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-02-10T06:17:35-05:00
-date_gmt: 2014-02-10T11:17:35+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=567'
 id: 567
 modified: 2024-06-28T21:48:42-04:00
-modified_gmt: 2024-06-29T01:48:42+00:00
 name: php-output-buffer-manager
 tags: [github, php, repository]
 ---

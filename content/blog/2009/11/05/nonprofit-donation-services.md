@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-11-05T01:35:59+00:00
-date_gmt: 2009-11-05T01:35:59+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=86'
 id: 390
 modified: 2009-11-05T01:35:59+00:00
-modified_gmt: 2009-11-05T01:35:59+00:00
 name: nonprofit-donation-services
 tags: [donations, nonprofit, research, service, stearns, webiiclass]
 ---

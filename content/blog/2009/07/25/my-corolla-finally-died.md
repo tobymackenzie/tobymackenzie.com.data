@@ -1,11 +1,9 @@
 ---
 categories: [toby, toby]
 date: 2009-07-25T22:54:26-05:00
-date_gmt: 2009-07-26T03:54:26+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=217'
 id: 217
 modified: 2009-07-25T23:46:41-05:00
-modified_gmt: 2009-07-26T04:46:41+00:00
 name: my-corolla-finally-died
 pings: ['http://cosmicosmo.ath.cx/log/2009/07/25/my-new-car/']
 tags: [car]

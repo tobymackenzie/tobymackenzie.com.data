@@ -1,11 +1,9 @@
 ---
 categories: [computer, computer, www]
 date: 2021-08-04T01:02:01-04:00
-date_gmt: 2021-08-04T05:02:01+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3469'
 id: 3469
 modified: 2021-08-04T01:02:01-04:00
-modified_gmt: 2021-08-04T05:02:01+00:00
 name: purchase-new-laptop-macbook-air
 tags: [linux, mac, purchase]
 ---

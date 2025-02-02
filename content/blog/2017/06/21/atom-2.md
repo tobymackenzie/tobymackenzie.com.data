@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-06-21T01:20:59-05:00
-date_gmt: 2017-06-21T06:20:59+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1508'
 id: 1508
 modified: 2017-06-21T01:20:59-05:00
-modified_gmt: 2017-06-21T06:20:59+00:00
 name: atom-2
 tags: [atom, dotfiles, editor, sublime, switch, text]
 ---

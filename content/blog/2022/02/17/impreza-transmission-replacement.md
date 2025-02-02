@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2022-02-17T22:25:27-05:00
-date_gmt: 2022-02-18T03:25:27+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3639'
 id: 3639
 modified: 2024-11-01T21:49:44-04:00
-modified_gmt: 2024-11-02T01:49:44+00:00
 name: impreza-transmission-replacement
 tags: [car, fix, problem]
 ---

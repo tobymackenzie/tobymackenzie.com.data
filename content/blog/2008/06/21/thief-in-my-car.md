@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-06-21T16:53:17-05:00
-date_gmt: 2008-06-21T21:53:17+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=193'
 id: 193
 modified: 2008-08-05T02:32:06-05:00
-modified_gmt: 2008-08-05T07:32:06+00:00
 name: thief-in-my-car
 tags: [car, theft]
 ---

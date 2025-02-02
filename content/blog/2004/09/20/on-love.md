@@ -1,11 +1,9 @@
 ---
 categories: [ideas]
 date: 2004-09-20T04:44:28-04:00
-date_gmt: 2004-09-20T08:44:28+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/09/20/on-love/'
 id: 77
 modified: 2004-09-20T04:44:28-04:00
-modified_gmt: 2004-09-20T08:44:28+00:00
 name: on-love
 tags: [humans]
 ---

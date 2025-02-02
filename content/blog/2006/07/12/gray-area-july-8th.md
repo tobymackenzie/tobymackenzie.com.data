@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2006-07-12T22:44:23-04:00
-date_gmt: 2006-07-13T02:44:23+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/07/12/gray-area-july-8th/'
 id: 114
 modified: 2006-07-12T22:45:48-04:00
-modified_gmt: 2006-07-13T02:45:48+00:00
 name: gray-area-july-8th
 tags: [boat]
 ---

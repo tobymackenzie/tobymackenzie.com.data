@@ -1,13 +1,11 @@
 ---
 categories: [toby]
 date: 2024-04-21T17:45:37-04:00
-date_gmt: 2024-04-21T21:45:37+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4312'
 id: 4312
 image: 2024/04/20240421_175113.jpg
 image_alt: 'nice blooming, small redbud tree in my back yard'
 modified: 2024-04-21T17:54:20-04:00
-modified_gmt: 2024-04-21T21:54:20+00:00
 name: redbud-first-bloom
 tags: [garden, plants, redbud, tree]
 ---

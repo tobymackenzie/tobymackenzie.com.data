@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-09-03T14:14:01-05:00
-date_gmt: 2016-09-03T19:14:01+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1251'
 id: 1251
 modified: 2016-09-03T14:16:36-05:00
-modified_gmt: 2016-09-03T19:16:36+00:00
 name: ear-unjam
 pings: ['https://www.tobymackenzie.com/blog/2016/08/28/ear-jam/']
 tags: [ear, fix, health, hearing, problem]

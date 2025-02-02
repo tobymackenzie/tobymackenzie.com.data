@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2011-08-06T09:47:52+00:00
-date_gmt: 2011-08-06T09:47:52+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=454'
 id: 454
 modified: 2011-08-06T09:47:52+00:00
-modified_gmt: 2011-08-06T09:47:52+00:00
 name: givecamp-2011
 tags: [event, freelance, wordpress]
 ---

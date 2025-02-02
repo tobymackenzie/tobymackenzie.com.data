@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-09-25T00:22:44-05:00
-date_gmt: 2014-09-25T05:22:44+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=662'
 id: 662
 modified: 2017-05-11T23:23:46-05:00
-modified_gmt: 2017-05-12T04:23:46+00:00
 name: parallax-background-images
 tags: [effect, javascript, parallax]
 ---

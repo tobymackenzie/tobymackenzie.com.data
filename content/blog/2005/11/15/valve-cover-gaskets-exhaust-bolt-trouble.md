@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-11-15T06:44:55-04:00
-date_gmt: 2005-11-15T10:44:55+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/11/15/valve-cover-gaskets-exhaust-bolt-trouble/'
 id: 75
 modified: 2005-11-15T06:44:55-04:00
-modified_gmt: 2005-11-15T10:44:55+00:00
 name: valve-cover-gaskets-exhaust-bolt-trouble
 tags: [car]
 ---

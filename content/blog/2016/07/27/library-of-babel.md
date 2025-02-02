@@ -1,11 +1,9 @@
 ---
 categories: [toby, www]
 date: 2016-07-27T02:21:48-05:00
-date_gmt: 2016-07-27T07:21:48+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1192'
 id: 1192
 modified: 2016-07-27T02:21:48-05:00
-modified_gmt: 2016-07-27T07:21:48+00:00
 name: library-of-babel
 tags: [app, cool, library, plagarism, writing]
 ---

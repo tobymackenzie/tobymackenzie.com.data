@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-05-24T06:11:35+00:00
-date_gmt: 2010-05-24T06:11:35+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=313'
 id: 313
 modified: 2010-05-24T06:11:35+00:00
-modified_gmt: 2010-05-24T06:11:35+00:00
 name: javascript-closures-objects-and-timeouts
 tags: [closures, javascript, oo, timeouts]
 ---

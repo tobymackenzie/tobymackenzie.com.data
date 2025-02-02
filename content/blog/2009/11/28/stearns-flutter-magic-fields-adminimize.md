@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 9
 date: 2009-11-28T00:59:21+00:00
-date_gmt: 2009-11-28T00:59:21+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=111'
 id: 396
 modified: 2009-11-28T00:59:21+00:00
-modified_gmt: 2009-11-28T00:59:21+00:00
 name: stearns-flutter-magic-fields-adminimize
 tags: [admin, cms, flutter, magicfields, plugins, stearns, webiiclass, wordpress]
 ---

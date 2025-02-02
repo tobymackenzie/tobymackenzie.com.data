@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2008-01-28T11:31:18-05:00
-date_gmt: 2008-01-28T16:31:18+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2008/01/28/wordpress-and-svn/'
 id: 163
 modified: 2016-04-30T02:12:09-05:00
-modified_gmt: 2016-04-30T07:12:09+00:00
 name: wordpress-and-svn
 tags: [server, wordpress]
 ---

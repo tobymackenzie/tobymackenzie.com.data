@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2021-12-07T15:22:52-05:00
-date_gmt: 2021-12-07T20:22:52+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3570'
 id: 3570
 modified: 2021-12-07T15:22:52-05:00
-modified_gmt: 2021-12-07T20:22:52+00:00
 name: git-info-alias
 tags: [git]
 ---

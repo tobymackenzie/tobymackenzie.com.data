@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas, www]
 date: 2016-08-14T13:43:08-05:00
-date_gmt: 2016-08-14T18:43:08+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1213'
 id: 1213
 modified: 2022-03-08T20:57:26-05:00
-modified_gmt: 2022-03-09T01:57:26+00:00
 name: remotely-hosted-personal-site-with-home-data-store
 pings: ['https://www.tobymackenzie.com/blog/2016/01/12/local-proxy-remote-hosting-personal-site/']
 tags: [data, home, indieweb, security, server, site, web]

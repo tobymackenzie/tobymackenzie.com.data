@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-07-26T01:18:26-04:00
-date_gmt: 2005-07-26T05:18:26+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/26/car-is-mine-now/'
 id: 53
 modified: 2005-07-26T01:18:26-04:00
-modified_gmt: 2005-07-26T05:18:26+00:00
 name: car-is-mine-now
 tags: [car]
 ---

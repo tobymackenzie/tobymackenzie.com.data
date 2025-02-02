@@ -1,11 +1,9 @@
 ---
 categories: [toby, www]
 date: 2017-07-07T09:40:12-05:00
-date_gmt: 2017-07-07T14:40:12+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1515'
 id: 1515
 modified: 2017-07-08T01:11:29-05:00
-modified_gmt: 2017-07-08T06:11:29+00:00
 name: paid-email
 tags: [domains, email, pay, service]
 ---

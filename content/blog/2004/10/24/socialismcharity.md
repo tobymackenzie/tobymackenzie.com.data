@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-10-24T03:35:00-05:00
-date_gmt: 2004-10-24T08:35:00+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/10/24/socialismcharity/'
 id: 22
 modified: 2022-03-08T20:51:29-05:00
-modified_gmt: 2022-03-09T01:51:29+00:00
 name: socialismcharity
 tags: [government]
 ---

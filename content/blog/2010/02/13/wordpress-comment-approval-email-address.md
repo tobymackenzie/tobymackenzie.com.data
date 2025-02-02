@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 7
 date: 2010-02-13T02:44:20+00:00
-date_gmt: 2010-02-13T02:44:20+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=253'
 id: 416
 modified: 2017-03-03T02:28:22-05:00
-modified_gmt: 2017-03-03T07:28:22+00:00
 name: wordpress-comment-approval-email-address
 tags: [admin, comment, problem, wordpress]
 ---

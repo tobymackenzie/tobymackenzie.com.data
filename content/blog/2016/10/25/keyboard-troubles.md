@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-10-25T02:24:33-05:00
-date_gmt: 2016-10-25T07:24:33+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1297'
 id: 1297
 modified: 2016-10-25T02:24:33-05:00
-modified_gmt: 2016-10-25T07:24:33+00:00
 name: keyboard-troubles
 tags: [keyboard, music, problem]
 ---

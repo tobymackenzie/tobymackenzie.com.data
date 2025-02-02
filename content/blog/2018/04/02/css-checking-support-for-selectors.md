@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-04-02T23:05:06-05:00
-date_gmt: 2018-04-03T04:05:06+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1835'
 id: 1835
 modified: 2018-04-09T01:27:06-05:00
-modified_gmt: 2018-04-09T06:27:06+00:00
 name: css-checking-support-for-selectors
 tags: [browser, css, selector, support, trick]
 ---

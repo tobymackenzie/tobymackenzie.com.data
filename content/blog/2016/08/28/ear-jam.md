@@ -2,11 +2,9 @@
 categories: [toby]
 comment_count: 2
 date: 2016-08-28T00:25:30-05:00
-date_gmt: 2016-08-28T05:25:30+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1231'
 id: 1231
 modified: 2016-08-28T00:25:30-05:00
-modified_gmt: 2016-08-28T05:25:30+00:00
 name: ear-jam
 tags: [ear, health, hearing, problem]
 ---

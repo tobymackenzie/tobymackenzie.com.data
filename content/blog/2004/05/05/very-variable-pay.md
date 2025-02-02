@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-05-05T12:51:25-04:00
-date_gmt: 2004-05-05T16:51:25+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/05/05/very-variable-pay/'
 id: 86
 modified: 2022-03-08T20:51:30-05:00
-modified_gmt: 2022-03-09T01:51:30+00:00
 name: very-variable-pay
 tags: [businessrestaurant]
 ---

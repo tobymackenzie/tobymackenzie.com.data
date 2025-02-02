@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-06-28T22:56:49-05:00
-date_gmt: 2016-06-29T03:56:49+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1170'
 id: 1170
 modified: 2016-06-28T22:56:49-05:00
-modified_gmt: 2016-06-29T03:56:49+00:00
 name: abstractions-interfaces-lists-details-flows
 tags: [abstraction, design, programming]
 ---

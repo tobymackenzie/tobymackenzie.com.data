@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-08-18T01:26:00-04:00
-date_gmt: 2020-08-18T05:26:00+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2996'
 id: 2996
 modified: 2020-08-18T01:26:00-04:00
-modified_gmt: 2020-08-18T05:26:00+00:00
 name: automatic-reconnect-pdo-connection-time-out
 tags: [database, mysql, pdo, php, solution]
 ---

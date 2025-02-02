@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2022-08-06T00:19:05-04:00
-date_gmt: 2022-08-06T04:19:05+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3788'
 id: 3788
 modified: 2022-08-06T00:19:05-04:00
-modified_gmt: 2022-08-06T04:19:05+00:00
 name: ideas-waste-material-shade-structures
 tags: [city, heat, recycling, solution, waste]
 ---

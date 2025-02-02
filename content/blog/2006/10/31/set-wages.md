@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2006-10-31T01:01:57-04:00
-date_gmt: 2006-10-31T05:01:57+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/10/31/set-wages/'
 id: 124
 modified: 2022-03-08T20:58:18-05:00
-modified_gmt: 2022-03-09T01:58:18+00:00
 name: set-wages
 tags: [government]
 ---

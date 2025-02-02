@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-03-07T02:47:12-05:00
-date_gmt: 2016-03-07T07:47:12+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=985'
 id: 985
 modified: 2019-01-20T14:26:29-05:00
-modified_gmt: 2019-01-20T19:26:29+00:00
 name: xhtml-version-of-my-pages
 tags: [formats, site, symfony, xhtml]
 ---

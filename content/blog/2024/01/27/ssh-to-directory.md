@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2024-01-27T15:36:36-05:00
-date_gmt: 2024-01-27T20:36:36+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4232'
 id: 4232
 modified: 2024-01-27T15:36:36-05:00
-modified_gmt: 2024-01-27T20:36:36+00:00
 name: ssh-to-directory
 tags: [configuration, ssh]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2006-01-13T03:50:52-04:00
-date_gmt: 2006-01-13T07:50:52+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/01/13/christmas-lighting-has-ended-for-the-year/'
 id: 98
 modified: 2006-01-13T03:50:52-04:00
-modified_gmt: 2006-01-13T07:50:52+00:00
 name: christmas-lighting-has-ended-for-the-year
 tags: [car]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2007-05-25T03:54:53-05:00
-date_gmt: 2007-05-25T08:54:53+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/25/schooling-focus-on-life/'
 id: 147
 modified: 2022-03-08T20:58:17-05:00
-modified_gmt: 2022-03-09T01:58:17+00:00
 name: schooling-focus-on-life
 tags: [education, government, humans]
 ---

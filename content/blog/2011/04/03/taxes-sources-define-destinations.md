@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2011-04-03T22:28:59-05:00
-date_gmt: 2011-04-04T03:28:59+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=293'
 id: 293
 modified: 2022-03-08T20:57:26-05:00
-modified_gmt: 2022-03-09T01:57:26+00:00
 name: taxes-sources-define-destinations
 tags: [government, taxes]
 ---

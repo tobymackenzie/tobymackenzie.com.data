@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-06-13T01:37:14-04:00
-date_gmt: 2005-06-13T05:37:14+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/13/new-drummer/'
 id: 37
 modified: 2005-06-13T01:54:20-04:00
-modified_gmt: 2005-06-13T05:54:20+00:00
 name: new-drummer
 tags: [yars]
 ---

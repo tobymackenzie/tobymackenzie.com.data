@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-04-23T18:26:57-05:00
-date_gmt: 2016-04-23T23:26:57+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1095'
 id: 1095
 modified: 2016-04-23T18:26:57-05:00
-modified_gmt: 2016-04-23T23:26:57+00:00
 name: globbing-files-including-dot-files
 tags: [dotfiles, glob, paths, php, programming]
 ---

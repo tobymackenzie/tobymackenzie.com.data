@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2007-10-28T01:31:15-05:00
-date_gmt: 2007-10-28T06:31:15+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/10/28/workshop-paradigm/'
 id: 157
 modified: 2022-03-08T20:57:28-05:00
-modified_gmt: 2022-03-09T01:57:28+00:00
 name: workshop-paradigm
 tags: [computing, organization, stub]
 ---

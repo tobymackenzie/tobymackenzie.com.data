@@ -1,11 +1,9 @@
 ---
 categories: [ideas]
 date: 2004-02-13T02:24:23-05:00
-date_gmt: 2004-02-13T07:24:23+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/02/13/my-political-view/'
 id: 24
 modified: 2004-02-13T02:24:23-05:00
-modified_gmt: 2004-02-13T07:24:23+00:00
 name: my-political-view
 tags: [government]
 ---

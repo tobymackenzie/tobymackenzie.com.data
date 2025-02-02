@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2005-09-27T05:52:39-04:00
-date_gmt: 2005-09-27T09:52:39+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/09/27/symbolic-links-from-intended-dir-only/'
 id: 67
 modified: 2016-09-01T01:35:12-05:00
-modified_gmt: 2016-09-01T06:35:12+00:00
 name: symbolic-links-from-intended-dir-only
 ---
 

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2009-04-17T23:07:51-05:00
-date_gmt: 2009-04-18T04:07:51+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2009/04/17/my-beard-and-my-hair-change/'
 id: 214
 modified: 2009-04-17T23:07:51-05:00
-modified_gmt: 2009-04-18T04:07:51+00:00
 name: my-beard-and-my-hair-change
 tags: [appearance, hair, life]
 ---

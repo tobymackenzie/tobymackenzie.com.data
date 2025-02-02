@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-07-26T01:59:28-04:00
-date_gmt: 2005-07-26T05:59:28+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/26/swimming-with-vince/'
 id: 54
 modified: 2005-07-26T01:59:28-04:00
-modified_gmt: 2005-07-26T05:59:28+00:00
 name: swimming-with-vince
 tags: [boat]
 ---

@@ -1,13 +1,11 @@
 ---
 categories: [www]
 date: 2020-03-20T01:47:27-04:00
-date_gmt: 2020-03-20T05:47:27+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2717'
 id: 2717
 image: 2020/03/macn-screen.jpg
 image_alt: 'Toby''s web based business / intro card'
 modified: 2023-10-26T22:09:27-04:00
-modified_gmt: 2023-10-27T02:09:27+00:00
 name: short-domain-intro-card
 tags: [business-card, short-domain, web]
 ---

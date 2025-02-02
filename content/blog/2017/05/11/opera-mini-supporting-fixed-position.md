@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-05-11T23:44:36-05:00
-date_gmt: 2017-05-12T04:44:36+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1477'
 id: 1477
 modified: 2019-09-17T22:57:09-04:00
-modified_gmt: 2019-09-18T02:57:09+00:00
 name: opera-mini-supporting-fixed-position
 tags: [browser, javascript, style, support]
 ---

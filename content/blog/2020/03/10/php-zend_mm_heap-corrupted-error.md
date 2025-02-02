@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-03-10T01:41:07-04:00
-date_gmt: 2020-03-10T05:41:07+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2698'
 id: 2698
 modified: 2020-03-10T01:41:07-04:00
-modified_gmt: 2020-03-10T05:41:07+00:00
 name: php-zend_mm_heap-corrupted-error
 tags: [php, problem]
 ---

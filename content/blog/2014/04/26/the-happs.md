@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-04-26T02:34:00-05:00
-date_gmt: 2014-04-26T07:34:00+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=600'
 id: 600
 modified: 2023-09-24T14:22:49-04:00
-modified_gmt: 2023-09-24T18:22:49+00:00
 name: the-happs
 tags: [development, happs, process, requirejs, scss, web]
 ---

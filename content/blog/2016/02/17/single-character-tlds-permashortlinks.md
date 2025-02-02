@@ -2,12 +2,10 @@
 categories: [ideas, ideas, www]
 comment_count: 1
 date: 2016-02-17T01:29:25-05:00
-date_gmt: 2016-02-17T06:29:25+00:00
 excerpt: 'ICANN could make available single character TLD''s for URL shortening purposes, and make available on them SLD''s of one or more characters.'
 guid: 'https://tobymackenzie.wordpress.com/?p=966'
 id: 966
 modified: 2019-07-24T01:47:23-04:00
-modified_gmt: 2019-07-24T05:47:23+00:00
 name: single-character-tlds-permashortlinks
 pings: ['http://indiewebcamp.com/permashortlinks']
 tags: [domains, indieweb, permashortlinks, tld]

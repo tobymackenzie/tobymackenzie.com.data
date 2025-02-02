@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2005-10-09T02:00:46-04:00
-date_gmt: 2005-10-09T06:00:46+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/09/excel-cse-formulas/'
 id: 70
 modified: 2005-11-26T06:34:30-04:00
-modified_gmt: 2005-11-26T10:34:30+00:00
 name: excel-cse-formulas
 ---
 

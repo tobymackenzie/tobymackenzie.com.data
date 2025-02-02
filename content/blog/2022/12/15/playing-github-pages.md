@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2022-12-15T14:13:10-05:00
-date_gmt: 2022-12-15T19:13:10+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3908'
 id: 3908
 modified: 2022-12-15T14:14:22-05:00
-modified_gmt: 2022-12-15T19:14:22+00:00
 name: playing-github-pages
 tags: [build, death, github, php, site, static]
 ---

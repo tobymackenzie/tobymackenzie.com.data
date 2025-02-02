@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-03-29T03:12:46-04:00
-date_gmt: 2019-03-29T07:12:46+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2276'
 id: 2276
 modified: 2019-03-30T03:49:51-04:00
-modified_gmt: 2019-03-30T07:49:51+00:00
 name: tale-of-bulk-email-woes
 tags: [development, email, newsletter, problem, stress]
 ---

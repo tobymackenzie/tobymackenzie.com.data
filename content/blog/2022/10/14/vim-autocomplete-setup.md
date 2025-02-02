@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2022-10-14T12:42:10-04:00
-date_gmt: 2022-10-14T16:42:10+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3853'
 id: 3853
 modified: 2024-02-26T20:41:28-05:00
-modified_gmt: 2024-02-27T01:41:28+00:00
 name: vim-autocomplete-setup
 tags: [editor, feature, vim]
 ---

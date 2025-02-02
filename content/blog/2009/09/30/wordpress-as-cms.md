@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2009-09-30T17:48:33+00:00
-date_gmt: 2009-09-30T17:48:33+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=35'
 id: 368
 modified: 2009-09-30T17:48:33+00:00
-modified_gmt: 2009-09-30T17:48:33+00:00
 name: wordpress-as-cms
 tags: [cms, research, stearns, webiiclass, wordpress]
 ---

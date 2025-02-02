@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-11-04T01:04:43-05:00
-date_gmt: 2016-11-04T06:04:43+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1300'
 id: 1300
 modified: 2016-11-04T01:04:43-05:00
-modified_gmt: 2016-11-04T06:04:43+00:00
 name: 10k-apart-notable-mention
 tags: [10kapart, contest, development, web, win]
 ---

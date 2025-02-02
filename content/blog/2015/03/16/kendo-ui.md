@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2015-03-16T03:32:05-05:00
-date_gmt: 2015-03-16T08:32:05+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=678'
 id: 678
 modified: 2015-03-16T03:32:05-05:00
-modified_gmt: 2015-03-16T08:32:05+00:00
 name: kendo-ui
 tags: [javacript, kendo, library]
 ---

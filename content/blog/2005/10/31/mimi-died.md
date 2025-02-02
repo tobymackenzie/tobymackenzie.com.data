@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-10-31T01:43:38-04:00
-date_gmt: 2005-10-31T05:43:38+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/31/mimi-died/'
 id: 74
 modified: 2005-10-31T01:43:38-04:00
-modified_gmt: 2005-10-31T05:43:38+00:00
 name: mimi-died
 ---
 

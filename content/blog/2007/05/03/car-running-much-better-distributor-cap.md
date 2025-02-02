@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2007-05-03T01:51:49-05:00
-date_gmt: 2007-05-03T06:51:49+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/03/car-running-much-better-distributor-cap/'
 id: 141
 modified: 2007-12-22T07:10:24-05:00
-modified_gmt: 2007-12-22T12:10:24+00:00
 name: car-running-much-better-distributor-cap
 tags: [car]
 ---

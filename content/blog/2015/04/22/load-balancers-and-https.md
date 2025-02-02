@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2015-04-22T00:51:54-05:00
-date_gmt: 2015-04-22T05:51:54+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=682'
 id: 682
 modified: 2018-08-03T18:37:44-05:00
-modified_gmt: 2018-08-03T23:37:44+00:00
 name: load-balancers-and-https
 tags: [https, loadbalancer, php, server, symfony]
 ---

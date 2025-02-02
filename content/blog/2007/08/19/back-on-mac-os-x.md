@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2007-08-19T01:38:08-05:00
-date_gmt: 2007-08-19T06:38:08+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/08/19/back-on-mac-os-x/'
 id: 151
 modified: 2007-08-19T01:38:08-05:00
-modified_gmt: 2007-08-19T06:38:08+00:00
 name: back-on-mac-os-x
 tags: [server]
 ---

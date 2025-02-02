@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2015-08-24T01:46:36-05:00
-date_gmt: 2015-08-24T06:46:36+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=692'
 id: 692
 modified: 2015-08-24T01:46:36-05:00
-modified_gmt: 2015-08-24T06:46:36+00:00
 name: symfony-appcache-built-in-reverse-http-proxy
 tags: [cache, performance, proxy, symfony, web]
 ---

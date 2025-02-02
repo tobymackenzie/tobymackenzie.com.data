@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-08-13T23:57:59-05:00
-date_gmt: 2008-08-14T04:57:59+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=202'
 id: 202
 modified: 2008-08-13T23:57:59-05:00
-modified_gmt: 2008-08-14T04:57:59+00:00
 name: another-mouse
 tags: [home, mice, pests]
 ---

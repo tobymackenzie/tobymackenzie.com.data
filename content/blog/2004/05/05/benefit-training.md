@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-05-05T15:07:53-04:00
-date_gmt: 2004-05-05T19:07:53+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/05/05/benefit-training/'
 id: 90
 modified: 2022-03-08T20:51:30-05:00
-modified_gmt: 2022-03-09T01:51:30+00:00
 name: benefit-training
 tags: [businessrestaurant]
 ---

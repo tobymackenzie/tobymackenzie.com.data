@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-07-11T02:37:55-05:00
-date_gmt: 2014-07-11T07:37:55+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=639'
 id: 639
 modified: 2016-04-04T21:08:35-05:00
-modified_gmt: 2016-04-05T02:08:35+00:00
 name: composer-scripts-and-extra-from-non-root-package
 tags: [composer, project, symfony]
 ---

@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2014-06-30T01:12:15-05:00
-date_gmt: 2014-06-30T06:12:15+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=629'
 id: 629
 modified: 2020-07-22T20:44:33-04:00
-modified_gmt: 2020-07-23T00:44:33+00:00
 name: css-inner-border-grid-list
 tags: [css, style, technique]
 ---

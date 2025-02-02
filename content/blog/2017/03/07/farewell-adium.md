@@ -2,11 +2,9 @@
 categories: [computer]
 comment_count: 1
 date: 2017-03-07T02:35:37-05:00
-date_gmt: 2017-03-07T07:35:37+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1401'
 id: 1401
 modified: 2017-03-07T02:35:37-05:00
-modified_gmt: 2017-03-07T07:35:37+00:00
 name: farewell-adium
 tags: [adium, aim, app, messaging, opensource]
 ---

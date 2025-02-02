@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-05-05T23:41:59-05:00
-date_gmt: 2017-05-06T04:41:59+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1472'
 id: 1472
 modified: 2017-05-05T23:41:59-05:00
-modified_gmt: 2017-05-06T04:41:59+00:00
 name: stirtrek-2017
 tags: [conference, development, event, stirtrek, web]
 ---

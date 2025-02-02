@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-10-24T03:24:37-05:00
-date_gmt: 2004-10-24T08:24:37+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/10/24/socialisms-buying-government-services/'
 id: 20
 modified: 2022-03-08T20:51:29-05:00
-modified_gmt: 2022-03-09T01:51:29+00:00
 name: socialisms-buying-government-services
 tags: [government]
 ---

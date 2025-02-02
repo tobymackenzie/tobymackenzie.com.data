@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2008-05-10T01:20:10-05:00
-date_gmt: 2008-05-10T06:20:10+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=190'
 id: 190
 modified: 2022-03-08T20:57:27-05:00
-modified_gmt: 2022-03-09T01:57:27+00:00
 name: objective-file-system
 pings: ['http://cosmicosmo.ath.cx/log/2004/05/05/file-browser/']
 tags: [computing, database, file, system]

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2010-10-18T22:18:01-05:00
-date_gmt: 2010-10-19T03:18:01+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=287'
 id: 287
 modified: 2010-10-18T22:18:01-05:00
-modified_gmt: 2010-10-19T03:18:01+00:00
 name: class-reunion-ten-years
 tags: [friends, reunion, woodridge]
 ---

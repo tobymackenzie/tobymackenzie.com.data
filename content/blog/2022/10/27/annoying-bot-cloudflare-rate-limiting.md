@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2022-10-27T22:14:10-04:00
-date_gmt: 2022-10-28T02:14:10+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3869'
 id: 3869
 modified: 2022-10-27T22:14:10-04:00
-modified_gmt: 2022-10-28T02:14:10+00:00
 name: annoying-bot-cloudflare-rate-limiting
 tags: [bot, cloudflare, feature, problem, server]
 ---

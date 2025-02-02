@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-06-18T02:38:07-04:00
-date_gmt: 2005-06-18T06:38:07+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/18/joey-and-vince/'
 id: 39
 modified: 2005-06-18T02:38:07-04:00
-modified_gmt: 2005-06-18T06:38:07+00:00
 name: joey-and-vince
 tags: [boat]
 ---

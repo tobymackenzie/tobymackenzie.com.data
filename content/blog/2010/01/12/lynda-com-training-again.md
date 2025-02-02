@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-01-12T02:22:24+00:00
-date_gmt: 2010-01-12T02:22:24+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=161'
 id: 406
 modified: 2010-01-12T02:22:24+00:00
-modified_gmt: 2010-01-12T02:22:24+00:00
 name: lynda-com-training-again
 tags: [education, lynda]
 ---

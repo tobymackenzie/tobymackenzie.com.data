@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2019-05-26T02:14:52-04:00
-date_gmt: 2019-05-26T06:14:52+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2345'
 id: 2345
 modified: 2019-05-31T23:07:19-04:00
-modified_gmt: 2019-06-01T03:07:19+00:00
 name: simple-shell-calculator
 tags: [math, shell]
 ---

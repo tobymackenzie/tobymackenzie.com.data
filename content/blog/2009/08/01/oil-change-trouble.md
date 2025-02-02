@@ -1,11 +1,9 @@
 ---
 categories: [toby, toby]
 date: 2009-08-01T10:22:24-05:00
-date_gmt: 2009-08-01T15:22:24+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=227'
 id: 227
 modified: 2010-06-30T22:59:30-05:00
-modified_gmt: 2010-07-01T03:59:30+00:00
 name: oil-change-trouble
 tags: [car, maintenance]
 ---

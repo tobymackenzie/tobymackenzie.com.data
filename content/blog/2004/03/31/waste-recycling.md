@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2004-03-31T12:00:26-05:00
-date_gmt: 2004-03-31T17:00:26+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/04/29/waste-recycling/'
 id: 19
 modified: 2005-04-29T01:54:11-05:00
-modified_gmt: 2005-04-29T06:54:11+00:00
 name: waste-recycling
 ---
 

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-09-03T02:10:06-04:00
-date_gmt: 2020-09-03T06:10:06+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3020'
 id: 3020
 modified: 2020-09-03T02:12:13-04:00
-modified_gmt: 2020-09-03T06:12:13+00:00
 name: dreamcompute-downtime-incident-2020
 tags: [dreamcompute, dreamhost, host, problem, server, site, vps]
 ---

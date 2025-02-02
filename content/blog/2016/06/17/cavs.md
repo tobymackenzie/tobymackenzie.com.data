@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-06-17T01:47:28-05:00
-date_gmt: 2016-06-17T06:47:28+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1163'
 id: 1163
 modified: 2016-06-17T01:47:28-05:00
-modified_gmt: 2016-06-17T06:47:28+00:00
 name: cavs
 tags: [basketball, cavs, cleveland, curse, sports, stress]
 ---

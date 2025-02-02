@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-12-26T01:45:42-05:00
-date_gmt: 2018-12-26T06:45:42+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2171'
 id: 2171
 modified: 2020-11-27T22:13:41-05:00
-modified_gmt: 2020-11-28T03:13:41+00:00
 name: website-snow-script
 tags: [animation, canvas, javascript, site, snow]
 ---

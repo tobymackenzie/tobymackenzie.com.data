@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-02T20:20:35+00:00
-date_gmt: 2010-02-02T20:20:35+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=206'
 id: 412
 modified: 2024-06-05T23:03:51-04:00
-modified_gmt: 2024-06-06T03:03:51+00:00
 name: samba-another-freelance-project
 tags: [client, forum, freelance, pods, project, samba-soccer, wordpress]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2007-05-25T02:42:27-05:00
-date_gmt: 2007-05-25T07:42:27+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/25/government-provides-info/'
 id: 146
 modified: 2022-03-08T20:58:17-05:00
-modified_gmt: 2022-03-09T01:58:17+00:00
 name: government-provides-info
 tags: [government]
 ---

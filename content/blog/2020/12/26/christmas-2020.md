@@ -1,13 +1,11 @@
 ---
 categories: [toby]
 date: 2020-12-26T01:46:35-05:00
-date_gmt: 2020-12-26T06:46:35+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3190'
 id: 3190
 image: 2020/12/PXL_20201225_153659502.jpg
 image_alt: 'deep snow on deck and yard'
 modified: 2020-12-26T01:58:01-05:00
-modified_gmt: 2020-12-26T06:58:01+00:00
 name: christmas-2020
 pings: ['https://www.tobymackenzie.com/blog/2020/06/27/2916/']
 tags: [christmas, family, food, holiday, snow]

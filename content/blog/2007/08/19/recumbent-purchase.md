@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2007-08-19T01:58:35-05:00
-date_gmt: 2007-08-19T06:58:35+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/08/19/recumbent-purchase/'
 id: 152
 modified: 2007-12-22T07:09:00-05:00
-modified_gmt: 2007-12-22T12:09:00+00:00
 name: recumbent-purchase
 tags: [bicycle, purchase]
 ---

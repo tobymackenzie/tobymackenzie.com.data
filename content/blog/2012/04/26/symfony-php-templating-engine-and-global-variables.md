@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2012-04-26T11:17:09+00:00
-date_gmt: 2012-04-26T11:17:09+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=490'
 id: 490
 modified: 2017-02-02T18:04:00-05:00
-modified_gmt: 2017-02-02T23:04:00+00:00
 name: symfony-php-templating-engine-and-global-variables
 tags: [php, symfony, templates, todo]
 ---

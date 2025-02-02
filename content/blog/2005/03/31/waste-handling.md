@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2005-03-31T01:12:43-05:00
-date_gmt: 2005-03-31T06:12:43+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/04/29/waste-handling/'
 id: 18
 modified: 2022-03-08T20:48:17-05:00
-modified_gmt: 2022-03-09T01:48:17+00:00
 name: waste-handling
 tags: [recycling]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-09-19T00:19:16-05:00
-date_gmt: 2016-09-19T05:19:16+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1262'
 id: 1262
 modified: 2016-09-30T21:07:37-05:00
-modified_gmt: 2016-10-01T02:07:37+00:00
 name: 10k-apart
 tags: [10kapart, contest, development, progressiveenhancement, project, web]
 ---

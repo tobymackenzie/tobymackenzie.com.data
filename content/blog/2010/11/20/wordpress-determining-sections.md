@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-11-20T06:20:44+00:00
-date_gmt: 2010-11-20T06:20:44+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=415'
 id: 443
 modified: 2010-11-20T06:20:44+00:00
-modified_gmt: 2010-11-20T06:20:44+00:00
 name: wordpress-determining-sections
 tags: [cms, templates, wordpress]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2020-11-09T02:03:46-05:00
-date_gmt: 2020-11-09T07:03:46+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3093'
 id: 3093
 modified: 2020-11-09T02:15:31-05:00
-modified_gmt: 2020-11-09T07:15:31+00:00
 name: camping-trip-november-2020
 tags: [camping, cold, disc-golf]
 ---

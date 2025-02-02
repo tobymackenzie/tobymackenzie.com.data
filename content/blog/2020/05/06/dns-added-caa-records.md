@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-05-06T21:01:56-04:00
-date_gmt: 2020-05-07T01:01:56+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2851'
 id: 2851
 modified: 2020-05-06T21:01:56-04:00
-modified_gmt: 2020-05-07T01:01:56+00:00
 name: dns-added-caa-records
 tags: [certificate, dns, ssl]
 ---

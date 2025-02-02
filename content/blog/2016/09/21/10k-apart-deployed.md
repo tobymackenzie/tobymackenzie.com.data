@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2016-09-21T01:48:54-05:00
-date_gmt: 2016-09-21T06:48:54+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1266'
 id: 1266
 modified: 2016-09-30T21:07:23-05:00
-modified_gmt: 2016-10-01T02:07:23+00:00
 name: 10k-apart-deployed
 tags: [10kapart, azure, contest, deploy, development, performance, php, web]
 ---

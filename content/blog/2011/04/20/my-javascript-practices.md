@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2011-04-20T04:01:52+00:00
-date_gmt: 2011-04-20T04:01:52+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=437'
 id: 446
 modified: 2024-08-01T23:41:45-04:00
-modified_gmt: 2024-08-02T03:41:45+00:00
 name: my-javascript-practices
 tags: [javascript, practices]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2005-04-17T01:38:04-05:00
-date_gmt: 2005-04-17T06:38:04+00:00
 guid: 'http://cosmicosmo.ath.cx/wordpress/?p=12'
 id: 12
 modified: 2022-03-08T20:48:17-05:00
-modified_gmt: 2022-03-09T01:48:17+00:00
 name: writing-of-ideas
 ---
 

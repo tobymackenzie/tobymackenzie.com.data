@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-05-27T02:11:02-05:00
-date_gmt: 2016-05-27T07:11:02+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1145'
 id: 1145
 modified: 2016-05-27T02:11:02-05:00
-modified_gmt: 2016-05-27T07:11:02+00:00
 name: bird-rescue-attempt
 tags: [animal, bird, death, failure, rescue]
 ---

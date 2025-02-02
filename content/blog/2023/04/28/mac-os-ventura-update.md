@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2023-04-28T16:03:19-04:00
-date_gmt: 2023-04-28T20:03:19+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4013'
 id: 4013
 modified: 2023-04-28T16:03:19-04:00
-modified_gmt: 2023-04-28T20:03:19+00:00
 name: mac-os-ventura-update
 tags: [homebrew, mac, os, ssh, upgrade]
 ---

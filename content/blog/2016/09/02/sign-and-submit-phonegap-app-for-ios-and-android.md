@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2016-09-02T01:11:48-05:00
-date_gmt: 2016-09-02T06:11:48+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1247'
 id: 1247
 modified: 2016-09-02T01:13:29-05:00
-modified_gmt: 2016-09-02T06:13:29+00:00
 name: sign-and-submit-phonegap-app-for-ios-and-android
 tags: [android, app, ios, mobile, phonegap, submit]
 ---

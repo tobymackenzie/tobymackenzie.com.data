@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2007-08-19T02:21:44-05:00
-date_gmt: 2007-08-19T07:21:44+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/08/19/recumbent-riding/'
 id: 153
 modified: 2007-12-22T07:09:23-05:00
-modified_gmt: 2007-12-22T12:09:23+00:00
 name: recumbent-riding
 tags: [bicycle]
 ---

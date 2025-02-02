@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2020-03-31T10:41:14-04:00
-date_gmt: 2020-03-31T14:41:14+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2761'
 id: 2761
 modified: 2020-03-31T10:41:14-04:00
-modified_gmt: 2020-03-31T14:41:14+00:00
 name: ssh-tunnel-poor-mans-vpn
 tags: [proxy, ssh, vpn, web]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-11-23T01:44:45-05:00
-date_gmt: 2019-11-23T06:44:45+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2572'
 id: 2572
 modified: 2019-11-23T01:46:56-05:00
-modified_gmt: 2019-11-23T06:46:56+00:00
 name: letsencrypt-shared-web-root-all-domains
 tags: [certbot, https, letsencrypt]
 ---

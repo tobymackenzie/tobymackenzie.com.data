@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2012-04-13T07:18:59+00:00
-date_gmt: 2012-04-13T07:18:59+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=478'
 id: 478
 modified: 2017-02-24T01:00:45-05:00
-modified_gmt: 2017-02-24T06:00:45+00:00
 name: using-symfony-alongside-an-existing-system
 tags: [cogneato, compatability, framework, php, symfony]
 ---

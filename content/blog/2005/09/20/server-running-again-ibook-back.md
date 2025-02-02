@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2005-09-20T00:14:55-04:00
-date_gmt: 2005-09-20T04:14:55+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/09/20/server-running-again-ibook-back/'
 id: 66
 modified: 2016-04-30T02:12:09-05:00
-modified_gmt: 2016-04-30T07:12:09+00:00
 name: server-running-again-ibook-back
 ---
 

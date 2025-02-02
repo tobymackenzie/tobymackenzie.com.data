@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-02-03T22:04:52-05:00
-date_gmt: 2018-02-04T03:04:52+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1769'
 id: 1769
 modified: 2018-02-03T22:33:42-05:00
-modified_gmt: 2018-02-04T03:33:42+00:00
 name: ie5-mac-class-space-bug
 tags: [bug, css, html, oldbrowsers, progressiveenhancement, webd]
 ---

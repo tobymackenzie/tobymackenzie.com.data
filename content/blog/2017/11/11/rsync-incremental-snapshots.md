@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2017-11-11T02:15:19-05:00
-date_gmt: 2017-11-11T07:15:19+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1666'
 id: 1666
 modified: 2022-02-13T22:19:51-05:00
-modified_gmt: 2022-02-14T03:19:51+00:00
 name: rsync-incremental-snapshots
 tags: [backup, rsync, script]
 ---

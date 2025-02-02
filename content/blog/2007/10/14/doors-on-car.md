@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2007-10-14T21:43:34-05:00
-date_gmt: 2007-10-15T02:43:34+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/10/14/doors-on-car/'
 id: 155
 modified: 2007-10-14T21:43:34-05:00
-modified_gmt: 2007-10-15T02:43:34+00:00
 name: doors-on-car
 tags: [car]
 ---

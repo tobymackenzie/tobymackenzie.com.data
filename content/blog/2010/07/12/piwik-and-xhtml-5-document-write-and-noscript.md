@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 5
 date: 2010-07-12T08:24:43+00:00
-date_gmt: 2010-07-12T08:24:43+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=356'
 id: 434
 modified: 2024-06-17T15:00:44-04:00
-modified_gmt: 2024-06-17T19:00:44+00:00
 name: piwik-and-xhtml-5-document-write-and-noscript
 tags: [javascript, piwik, statistics, xhtml5]
 ---

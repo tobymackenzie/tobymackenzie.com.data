@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2024-10-29T17:22:08-04:00
-date_gmt: 2024-10-29T21:22:08+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4459'
 id: 4459
 modified: 2024-10-29T17:22:08-04:00
-modified_gmt: 2024-10-29T21:22:08+00:00
 name: mac-app-launch-keyboard-shortcuts
 tags: [mac]
 ---

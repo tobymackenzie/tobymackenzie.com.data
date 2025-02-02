@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-10-11T18:53:05+00:00
-date_gmt: 2009-10-11T18:53:05+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=41'
 id: 369
 modified: 2009-10-11T18:53:05+00:00
-modified_gmt: 2009-10-11T18:53:05+00:00
 name: stearns-site-wireframes
 tags: [drawing, layout, stearns, webiiclass, wireframe]
 ---

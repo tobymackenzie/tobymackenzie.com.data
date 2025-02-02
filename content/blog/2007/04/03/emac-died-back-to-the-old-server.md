@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2007-04-03T23:57:53-05:00
-date_gmt: 2007-04-04T04:57:53+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/04/03/emac-died-back-to-the-old-server/'
 id: 140
 modified: 2016-04-30T02:12:09-05:00
-modified_gmt: 2016-04-30T07:12:09+00:00
 name: emac-died-back-to-the-old-server
 ---
 

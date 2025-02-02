@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2016-06-10T02:06:52-05:00
-date_gmt: 2016-06-10T07:06:52+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1151'
 id: 1151
 modified: 2016-06-10T02:06:52-05:00
-modified_gmt: 2016-06-10T07:06:52+00:00
 name: algorithmically-derived-passwords
 tags: [password, security, technique]
 ---

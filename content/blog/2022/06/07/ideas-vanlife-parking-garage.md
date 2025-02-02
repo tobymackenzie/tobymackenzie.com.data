@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2022-06-07T00:02:24-04:00
-date_gmt: 2022-06-07T04:02:24+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3756'
 id: 3756
 modified: 2022-06-07T00:02:24-04:00
-modified_gmt: 2022-06-07T04:02:24+00:00
 name: ideas-vanlife-parking-garage
 tags: [business, camping, car, vanlife]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-11T03:29:17+00:00
-date_gmt: 2010-02-11T03:29:17+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=250'
 id: 415
 modified: 2010-02-11T03:29:17+00:00
-modified_gmt: 2010-02-11T03:29:17+00:00
 name: case-dom-element-insertion-css
 tags: [css, dom, style, thoughts]
 ---

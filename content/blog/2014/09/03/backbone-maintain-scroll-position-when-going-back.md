@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-09-03T00:55:32-05:00
-date_gmt: 2014-09-03T05:55:32+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=655'
 id: 655
 modified: 2016-04-04T21:07:14-05:00
-modified_gmt: 2016-04-05T02:07:14+00:00
 name: backbone-maintain-scroll-position-when-going-back
 tags: [code, javacript, spa]
 ---

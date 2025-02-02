@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-10-24T02:38:47-05:00
-date_gmt: 2004-10-24T07:38:47+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/10/24/socialismwelfare/'
 id: 21
 modified: 2022-03-08T20:51:30-05:00
-modified_gmt: 2022-03-09T01:51:30+00:00
 name: socialismwelfare
 tags: [government]
 ---

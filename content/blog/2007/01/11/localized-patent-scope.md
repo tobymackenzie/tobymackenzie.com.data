@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2007-01-11T05:18:14-04:00
-date_gmt: 2007-01-11T09:18:14+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/01/11/localized-patent-scope/'
 id: 127
 modified: 2022-03-08T20:58:18-05:00
-modified_gmt: 2022-03-09T01:58:18+00:00
 name: localized-patent-scope
 tags: [government]
 ---

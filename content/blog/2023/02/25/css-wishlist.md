@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2023-02-25T13:20:37-05:00
-date_gmt: 2023-02-25T18:20:37+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3961'
 id: 3961
 modified: 2023-07-18T14:16:10-04:00
-modified_gmt: 2023-07-18T18:16:10+00:00
 name: css-wishlist
 pings: ['https://meyerweb.com/eric/thoughts/2023/02/08/css-wish-list-2023/']
 tags: [css, thoughts, wants]

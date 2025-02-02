@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2010-01-07T20:04:11+00:00
-date_gmt: 2010-01-07T20:04:11+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=153'
 id: 404
 modified: 2010-01-07T20:04:11+00:00
-modified_gmt: 2010-01-07T20:04:11+00:00
 name: wordpress-multiple-dynamic-sidebars
 tags: [templates, theme, wordpress]
 ---

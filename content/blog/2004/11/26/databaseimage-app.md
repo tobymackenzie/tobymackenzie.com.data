@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2004-11-26T12:21:20-05:00
-date_gmt: 2004-11-26T17:21:20+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/11/26/databaseimage-app/'
 id: 84
 modified: 2022-03-08T20:51:29-05:00
-modified_gmt: 2022-03-09T01:51:29+00:00
 name: databaseimage-app
 tags: [computing]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-03-15T19:24:17-05:00
-date_gmt: 2016-03-16T00:24:17+00:00
 guid: 'http://tobymackenzie.name/log/?p=347'
 id: 347
 modified: 2016-03-15T19:24:17-05:00
-modified_gmt: 2016-03-16T00:24:17+00:00
 name: i-ohio-voting-democrat
 tags: [elections, politics]
 ---

@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2010-05-21T04:54:31+00:00
-date_gmt: 2010-05-21T04:54:31+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=308'
 id: 308
 modified: 2010-05-21T04:54:31+00:00
-modified_gmt: 2010-05-21T04:54:31+00:00
 name: javascript-closures-scope-and-arrays
 tags: [closures, functions, javascript]
 ---

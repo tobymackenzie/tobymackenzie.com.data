@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2010-10-18T21:53:54-05:00
-date_gmt: 2010-10-19T02:53:54+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=285'
 id: 285
 modified: 2010-10-18T21:53:54-05:00
-modified_gmt: 2010-10-19T02:53:54+00:00
 name: the-facebook-with-friends
 tags: [facebook, friends, internet, social]
 ---

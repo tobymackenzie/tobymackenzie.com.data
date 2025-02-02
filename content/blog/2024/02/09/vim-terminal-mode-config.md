@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2024-02-09T22:50:11-05:00
-date_gmt: 2024-02-10T03:50:11+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4244'
 id: 4244
 modified: 2024-02-09T22:59:14-05:00
-modified_gmt: 2024-02-10T03:59:14+00:00
 name: vim-terminal-mode-config
 tags: [configuration, text, vim]
 ---

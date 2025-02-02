@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-07-02T03:01:01-04:00
-date_gmt: 2005-07-02T07:01:01+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/02/accident-and-dead-deer/'
 id: 45
 modified: 2005-07-02T03:01:01-04:00
-modified_gmt: 2005-07-02T07:01:01+00:00
 name: accident-and-dead-deer
 ---
 

@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 4
 date: 2010-02-28T12:36:38+00:00
-date_gmt: 2010-02-28T12:36:38+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=272'
 id: 421
 modified: 2016-04-06T21:43:50-05:00
-modified_gmt: 2016-04-07T02:43:50+00:00
 name: wordpress-shortcodes
 tags: [images, pod, shortcodes, slideshow, wordpress]
 ---

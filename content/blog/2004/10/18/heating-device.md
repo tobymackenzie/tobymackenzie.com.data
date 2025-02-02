@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-10-18T23:37:55-04:00
-date_gmt: 2004-10-19T03:37:55+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/10/18/heating-device/'
 id: 132
 modified: 2022-03-08T20:51:30-05:00
-modified_gmt: 2022-03-09T01:51:30+00:00
 name: heating-device
 tags: [housing]
 ---

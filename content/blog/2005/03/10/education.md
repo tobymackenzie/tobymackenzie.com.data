@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2005-03-10T19:48:17-04:00
-date_gmt: 2005-03-10T23:48:17+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/03/10/education/'
 id: 79
 modified: 2022-03-08T20:48:18-05:00
-modified_gmt: 2022-03-09T01:48:18+00:00
 name: education
 tags: [education, humans]
 ---

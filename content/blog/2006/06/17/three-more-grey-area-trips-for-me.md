@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2006-06-17T03:14:38-04:00
-date_gmt: 2006-06-17T07:14:38+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/06/17/three-more-grey-area-trips-for-me/'
 id: 110
 modified: 2006-06-17T03:14:38-04:00
-modified_gmt: 2006-06-17T07:14:38+00:00
 name: three-more-grey-area-trips-for-me
 tags: [boat]
 ---

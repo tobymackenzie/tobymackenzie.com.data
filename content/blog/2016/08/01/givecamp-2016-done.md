@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-08-01T00:53:25-05:00
-date_gmt: 2016-08-01T05:53:25+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1200'
 id: 1200
 modified: 2016-08-01T00:53:25-05:00
-modified_gmt: 2016-08-01T05:53:25+00:00
 name: givecamp-2016-done
 tags: [development, event, givecamp, project, web]
 ---

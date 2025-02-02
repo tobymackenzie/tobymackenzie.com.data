@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-10-04T03:09:33-04:00
-date_gmt: 2005-10-04T07:09:33+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/04/more-mice-captured/'
 id: 69
 modified: 2005-10-04T03:09:33-04:00
-modified_gmt: 2005-10-04T07:09:33+00:00
 name: more-mice-captured
 tags: [home]
 ---

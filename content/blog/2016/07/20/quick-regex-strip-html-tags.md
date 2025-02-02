@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-07-20T00:48:38-05:00
-date_gmt: 2016-07-20T05:48:38+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1186'
 id: 1186
 modified: 2016-07-20T00:48:38-05:00
-modified_gmt: 2016-07-20T05:48:38+00:00
 name: quick-regex-strip-html-tags
 tags: [html, manipulation, php, regex, string]
 ---

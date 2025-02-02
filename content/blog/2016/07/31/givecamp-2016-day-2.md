@@ -1,11 +1,9 @@
 ---
 categories: [toby, www]
 date: 2016-07-31T00:53:13-05:00
-date_gmt: 2016-07-31T05:53:13+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1198'
 id: 1198
 modified: 2016-07-31T00:53:13-05:00
-modified_gmt: 2016-07-31T05:53:13+00:00
 name: givecamp-2016-day-2
 tags: [broken, camping, development, givecamp, pole, problem, project, tent, web]
 ---

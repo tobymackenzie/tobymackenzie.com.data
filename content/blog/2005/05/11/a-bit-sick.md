@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-05-11T22:02:22-05:00
-date_gmt: 2005-05-12T03:02:22+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/05/11/a-bit-sick/'
 id: 27
 modified: 2005-05-11T22:02:22-05:00
-modified_gmt: 2005-05-12T03:02:22+00:00
 name: a-bit-sick
 ---
 

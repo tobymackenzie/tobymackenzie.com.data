@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2015-08-04T23:18:46-05:00
-date_gmt: 2015-08-05T04:18:46+00:00
 guid: 'http://tobymackenzie.name/log/?p=320'
 id: 320
 modified: 2019-07-24T01:39:55-04:00
-modified_gmt: 2019-07-24T05:39:55+00:00
 name: maximizing-blindness-in-science
 tags: [science]
 ---

@@ -2,11 +2,9 @@
 categories: [toby]
 comment_count: 1
 date: 2006-03-19T23:32:05-04:00
-date_gmt: 2006-03-20T03:32:05+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/03/19/imperfections/'
 id: 102
 modified: 2006-03-19T23:32:05-04:00
-modified_gmt: 2006-03-20T03:32:05+00:00
 name: imperfections
 ---
 

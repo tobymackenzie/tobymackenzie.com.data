@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2012-03-29T02:56:41+00:00
-date_gmt: 2012-03-29T02:56:41+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=468'
 id: 468
 modified: 2012-03-29T02:56:41+00:00
-modified_gmt: 2012-03-29T02:56:41+00:00
 name: workings-of-late-symfony-less-responsive-design-etc
 tags: [cogneato, lesscss, responsive, style, symfony]
 ---

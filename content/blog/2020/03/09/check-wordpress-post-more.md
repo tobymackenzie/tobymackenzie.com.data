@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-03-09T01:58:53-04:00
-date_gmt: 2020-03-09T05:58:53+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2692'
 id: 2692
 modified: 2020-03-09T01:58:53-04:00
-modified_gmt: 2020-03-09T05:58:53+00:00
 name: check-wordpress-post-more
 tags: [blog, posts, wordpress]
 ---

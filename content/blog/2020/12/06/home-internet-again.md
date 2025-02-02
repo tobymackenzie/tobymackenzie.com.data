@@ -1,11 +1,9 @@
 ---
 categories: [toby, www]
 date: 2020-12-06T04:20:52-05:00
-date_gmt: 2020-12-06T09:20:52+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3149'
 id: 3149
 modified: 2020-12-07T00:36:07-05:00
-modified_gmt: 2020-12-07T05:36:07+00:00
 name: home-internet-again
 pings: ['https://www.tobymackenzie.com/blog/2020/06/27/2916/', 'https://www.tobymackenzie.com/blog/2020/11/29/3124/']
 tags: [internet, phone, plan, service, telecommute, tmobile, wifi]

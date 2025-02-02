@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-07-14T07:33:22-04:00
-date_gmt: 2005-07-14T11:33:22+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/14/lakewood-visit/'
 id: 49
 modified: 2005-07-14T08:24:06-04:00
-modified_gmt: 2005-07-14T12:24:06+00:00
 name: lakewood-visit
 tags: [boat, car]
 ---

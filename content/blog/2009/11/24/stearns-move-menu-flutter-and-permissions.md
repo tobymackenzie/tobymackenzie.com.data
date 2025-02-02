@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2009-11-24T11:09:58+00:00
-date_gmt: 2009-11-24T11:09:58+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=106'
 id: 395
 modified: 2009-11-24T11:09:58+00:00
-modified_gmt: 2009-11-24T11:09:58+00:00
 name: stearns-move-menu-flutter-and-permissions
 tags: [cms, design, flutter, permissions, plugins, stearns, webiiclass, wordpress]
 ---

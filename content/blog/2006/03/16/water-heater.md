@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2006-03-16T08:27:23-04:00
-date_gmt: 2006-03-16T12:27:23+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/03/16/water-heater/'
 id: 101
 modified: 2006-03-16T08:27:23-04:00
-modified_gmt: 2006-03-16T12:27:23+00:00
 name: water-heater
 tags: [home]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2006-01-31T02:21:53-04:00
-date_gmt: 2006-01-31T06:21:53+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/01/31/finally-beat-nobunagas-ambition/'
 id: 99
 modified: 2006-01-31T02:21:53-04:00
-modified_gmt: 2006-01-31T06:21:53+00:00
 name: finally-beat-nobunagas-ambition
 ---
 

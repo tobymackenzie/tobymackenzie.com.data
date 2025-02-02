@@ -1,11 +1,9 @@
 ---
 categories: [computer, toby]
 date: 2024-03-25T01:02:12-04:00
-date_gmt: 2024-03-25T05:02:12+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4282'
 id: 4282
 modified: 2024-03-25T09:48:53-04:00
-modified_gmt: 2024-03-25T13:48:53+00:00
 name: pixel-phone-maybe-dead
 tags: [android, motorola, phone, pixel, problem]
 ---

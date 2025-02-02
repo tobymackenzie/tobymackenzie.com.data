@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-12-19T08:50:32+00:00
-date_gmt: 2009-12-19T08:50:32+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=137'
 id: 401
 modified: 2009-12-19T08:50:32+00:00
-modified_gmt: 2009-12-19T08:50:32+00:00
 name: done-with-school
 tags: [freelance, graduation, jobs, nonprofit, school]
 ---

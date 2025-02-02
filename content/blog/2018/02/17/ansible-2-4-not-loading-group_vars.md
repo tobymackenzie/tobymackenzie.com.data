@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-02-17T02:28:58-05:00
-date_gmt: 2018-02-17T07:28:58+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1786'
 id: 1786
 modified: 2018-02-17T02:28:58-05:00
-modified_gmt: 2018-02-17T07:28:58+00:00
 name: ansible-2-4-not-loading-group_vars
 tags: [ansible, problem, provision]
 ---

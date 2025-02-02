@@ -1,11 +1,9 @@
 ---
 categories: [computer, computer, www]
 date: 2021-07-13T23:28:02-04:00
-date_gmt: 2021-07-14T03:28:02+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3451'
 id: 3451
 modified: 2021-07-13T23:41:20-04:00
-modified_gmt: 2021-07-14T03:41:20+00:00
 name: new-laptop-lenovo-yoga-7i
 tags: [linux, mac, purchase, windows]
 ---

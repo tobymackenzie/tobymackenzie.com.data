@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-08-24T00:53:50-04:00
-date_gmt: 2005-08-24T04:53:50+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/24/heavy-little-waves/'
 id: 58
 modified: 2005-08-24T00:53:50-04:00
-modified_gmt: 2005-08-24T04:53:50+00:00
 name: heavy-little-waves
 tags: [boat]
 ---

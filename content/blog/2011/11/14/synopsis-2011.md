@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2011-11-14T09:05:05+00:00
-date_gmt: 2011-11-14T09:05:05+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=459'
 id: 459
 modified: 2011-11-14T09:05:05+00:00
-modified_gmt: 2011-11-14T09:05:05+00:00
 name: synopsis-2011
 tags: [general]
 ---

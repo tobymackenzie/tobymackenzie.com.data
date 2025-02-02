@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2020-03-16T01:25:42-04:00
-date_gmt: 2020-03-16T05:25:42+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2705'
 id: 2705
 modified: 2020-03-16T01:48:30-04:00
-modified_gmt: 2020-03-16T05:48:30+00:00
 name: midnight-commander
 tags: [app, cli, file-manager]
 ---

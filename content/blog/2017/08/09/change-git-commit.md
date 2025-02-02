@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-08-09T00:31:37-05:00
-date_gmt: 2017-08-09T05:31:37+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1573'
 id: 1573
 modified: 2017-08-09T01:08:03-05:00
-modified_gmt: 2017-08-09T06:08:03+00:00
 name: change-git-commit
 tags: [change, development, git, history, versioning]
 ---

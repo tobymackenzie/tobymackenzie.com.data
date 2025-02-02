@@ -1,11 +1,9 @@
 ---
 categories: [ideas]
 date: 2004-03-31T12:00:04-04:00
-date_gmt: 2004-03-31T16:00:04+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/03/31/waste-recycling-2/'
 id: 81
 modified: 2004-03-31T12:00:04-04:00
-modified_gmt: 2004-03-31T16:00:04+00:00
 name: waste-recycling-2
 tags: [recycling]
 ---

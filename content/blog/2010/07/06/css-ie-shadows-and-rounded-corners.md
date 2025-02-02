@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 25
 date: 2010-07-06T07:24:59+00:00
-date_gmt: 2010-07-06T07:24:59+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=348'
 id: 433
 modified: 2020-01-16T20:38:13-05:00
-modified_gmt: 2020-01-17T01:38:13+00:00
 name: css-ie-shadows-and-rounded-corners
 pings: ['http://www.htmlremix.com/css/curved-corner-border-radius-cross-browser']
 tags: [css, css3, htc, ie, style]

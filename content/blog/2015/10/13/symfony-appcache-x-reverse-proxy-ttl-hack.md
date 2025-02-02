@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2015-10-13T02:11:05-04:00
-date_gmt: 2015-10-13T06:11:05+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=707'
 id: 707
 modified: 2017-10-25T21:33:45-05:00
-modified_gmt: 2017-10-26T02:33:45+00:00
 name: symfony-appcache-x-reverse-proxy-ttl-hack
 pings: ['https://tobymackenzie.com/blog/2015/08/24/symfony-appcache-built-in-reverse-http-proxy/']
 tags: [cache, development, symfony, web]

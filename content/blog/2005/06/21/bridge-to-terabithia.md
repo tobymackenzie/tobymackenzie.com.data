@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-06-21T03:49:09-04:00
-date_gmt: 2005-06-21T07:49:09+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/21/bridge-to-terabithia/'
 id: 40
 modified: 2005-06-21T03:49:09-04:00
-modified_gmt: 2005-06-21T07:49:09+00:00
 name: bridge-to-terabithia
 ---
 

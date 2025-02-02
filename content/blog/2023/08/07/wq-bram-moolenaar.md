@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2023-08-07T01:27:06-04:00
-date_gmt: 2023-08-07T05:27:06+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4113'
 id: 4113
 modified: 2023-08-07T01:27:30-04:00
-modified_gmt: 2023-08-07T05:27:30+00:00
 name: wq-bram-moolenaar
 tags: [death, editor, vim]
 ---

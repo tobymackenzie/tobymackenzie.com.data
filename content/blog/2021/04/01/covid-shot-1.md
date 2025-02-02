@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2021-04-01T01:53:36-04:00
-date_gmt: 2021-04-01T05:53:36+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3368'
 id: 3368
 modified: 2021-04-02T10:04:48-04:00
-modified_gmt: 2021-04-02T14:04:48+00:00
 name: covid-shot-1
 tags: [covid-19, health, vaccine]
 ---

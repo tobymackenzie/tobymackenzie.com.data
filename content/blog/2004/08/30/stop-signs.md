@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-08-30T09:02:50-04:00
-date_gmt: 2004-08-30T13:02:50+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/08/30/stop-signs/'
 id: 91
 modified: 2022-03-08T20:51:30-05:00
-modified_gmt: 2022-03-09T01:51:30+00:00
 name: stop-signs
 tags: [traffic]
 ---

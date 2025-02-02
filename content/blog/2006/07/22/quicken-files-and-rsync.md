@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2006-07-22T16:34:23-04:00
-date_gmt: 2006-07-22T20:34:23+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/07/22/quicken-files-and-rsync/'
 id: 115
 modified: 2006-07-22T16:36:04-04:00
-modified_gmt: 2006-07-22T20:36:04+00:00
 name: quicken-files-and-rsync
 ---
 

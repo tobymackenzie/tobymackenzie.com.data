@@ -1,13 +1,11 @@
 ---
 categories: [toby]
 date: 2023-06-14T01:03:23-04:00
-date_gmt: 2023-06-14T05:03:23+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4047'
 id: 4047
 image: 2023/06/PXL_20230611_211708947.jpg
 image_alt: 'small redbud tree installed in lawn'
 modified: 2023-06-14T15:35:07-04:00
-modified_gmt: 2023-06-14T19:35:07+00:00
 name: welcome-redbud-tree
 tags: [flower, garden, redbud, tree, yard]
 ---

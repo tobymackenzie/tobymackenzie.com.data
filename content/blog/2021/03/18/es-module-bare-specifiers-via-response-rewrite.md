@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-03-18T00:31:09-04:00
-date_gmt: 2021-03-18T04:31:09+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3345'
 id: 3345
 modified: 2021-03-18T00:31:09-04:00
-modified_gmt: 2021-03-18T04:31:09+00:00
 name: es-module-bare-specifiers-via-response-rewrite
 tags: [build, development, javascript, module, packagemanager, server, web]
 ---

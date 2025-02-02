@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-10-15T06:27:54-04:00
-date_gmt: 2005-10-15T10:27:54+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/15/new-front-tires-cylinder-missing/'
 id: 72
 modified: 2005-10-15T06:27:54-04:00
-modified_gmt: 2005-10-15T10:27:54+00:00
 name: new-front-tires-cylinder-missing
 tags: [car]
 ---

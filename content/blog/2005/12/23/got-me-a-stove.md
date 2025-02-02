@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-12-23T02:57:47-04:00
-date_gmt: 2005-12-23T06:57:47+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/12/23/got-me-a-stove/'
 id: 94
 modified: 2005-12-23T02:57:47-04:00
-modified_gmt: 2005-12-23T06:57:47+00:00
 name: got-me-a-stove
 tags: [home]
 ---

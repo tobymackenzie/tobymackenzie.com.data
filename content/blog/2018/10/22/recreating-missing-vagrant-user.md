@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2018-10-22T03:24:48-04:00
-date_gmt: 2018-10-22T07:24:48+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2087'
 id: 2087
 modified: 2018-10-22T03:26:56-04:00
-modified_gmt: 2018-10-22T07:26:56+00:00
 name: recreating-missing-vagrant-user
 tags: [problem, ssh, user, vagrant, vm]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-09-02T00:48:27-05:00
-date_gmt: 2016-09-02T05:48:27+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1243'
 id: 1243
 modified: 2016-09-02T00:48:27-05:00
-modified_gmt: 2016-09-02T05:48:27+00:00
 name: php-break-argument
 ---
 

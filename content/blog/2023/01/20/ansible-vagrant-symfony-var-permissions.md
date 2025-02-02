@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2023-01-20T02:14:20-05:00
-date_gmt: 2023-01-20T07:14:20+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3934'
 id: 3934
 modified: 2023-02-14T01:17:59-05:00
-modified_gmt: 2023-02-14T06:17:59+00:00
 name: ansible-vagrant-symfony-var-permissions
 tags: [acl, ansible, development, symfony, vagrant, virtualbox, web]
 ---

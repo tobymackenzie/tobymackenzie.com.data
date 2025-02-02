@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-04-13T01:52:38-05:00
-date_gmt: 2005-04-13T06:52:38+00:00
 guid: 'http://cosmicosmo.ath.cx/wordpress/?p=11'
 id: 11
 modified: 2008-06-27T05:07:48-05:00
-modified_gmt: 2008-06-27T10:07:48+00:00
 name: plumbing-etc
 tags: [home]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2018-04-22T01:08:19-05:00
-date_gmt: 2018-04-22T06:08:19+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1866'
 id: 1866
 modified: 2018-04-22T01:08:19-05:00
-modified_gmt: 2018-04-22T06:08:19+00:00
 name: week-of-health
 pings: ['https://www.tobymackenzie.com/blog/2018/03/21/1814/']
 tags: [clevelandclinic, doctor, health, healthcare, lab, problem, symptoms, test, work]

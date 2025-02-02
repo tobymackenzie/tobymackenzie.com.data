@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-03-13T15:04:20+00:00
-date_gmt: 2010-03-13T15:04:20+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=284'
 id: 423
 modified: 2010-03-13T15:04:20+00:00
-modified_gmt: 2010-03-13T15:04:20+00:00
 name: cogneato-a-new-job
 tags: [cms, cogneato, fireworks, job, photoshop, web]
 ---

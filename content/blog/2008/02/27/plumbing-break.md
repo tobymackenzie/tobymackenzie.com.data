@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-02-27T19:03:37-05:00
-date_gmt: 2008-02-28T00:03:37+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2008/02/27/plumbing-break/'
 id: 166
 modified: 2008-02-27T19:04:04-05:00
-modified_gmt: 2008-02-28T00:04:04+00:00
 name: plumbing-break
 tags: [home, plumbing]
 ---

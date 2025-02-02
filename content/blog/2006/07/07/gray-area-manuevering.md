@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2006-07-07T19:44:55-04:00
-date_gmt: 2006-07-07T23:44:55+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/07/07/gray-area-manuevering/'
 id: 112
 modified: 2006-07-12T22:45:27-04:00
-modified_gmt: 2006-07-13T02:45:27+00:00
 name: gray-area-manuevering
 tags: [boat]
 ---

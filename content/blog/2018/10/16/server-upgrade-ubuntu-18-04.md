@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2018-10-16T02:14:46-04:00
-date_gmt: 2018-10-16T06:14:46+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2080'
 id: 2080
 modified: 2020-05-02T01:49:02-04:00
-modified_gmt: 2020-05-02T05:49:02+00:00
 name: server-upgrade-ubuntu-18-04
 tags: [apache, http2, php, server, site, symfony, tmcom, ubuntu, upgrade]
 ---

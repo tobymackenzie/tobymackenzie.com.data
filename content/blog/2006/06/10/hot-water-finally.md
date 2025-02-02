@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2006-06-10T14:52:49-04:00
-date_gmt: 2006-06-10T18:52:49+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/06/10/hot-water-finally/'
 id: 109
 modified: 2006-06-10T14:52:49-04:00
-modified_gmt: 2006-06-10T18:52:49+00:00
 name: hot-water-finally
 tags: [home]
 ---

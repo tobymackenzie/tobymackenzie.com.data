@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-12-14T06:25:31-05:00
-date_gmt: 2017-12-14T11:25:31+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1708'
 id: 1708
 modified: 2017-12-14T06:50:22-05:00
-modified_gmt: 2017-12-14T11:50:22+00:00
 name: symfony-router-match-different-host
 tags: [routing, solution, symfony]
 ---

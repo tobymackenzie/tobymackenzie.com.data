@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-06-12T00:44:11-05:00
-date_gmt: 2016-06-12T05:44:11+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1153'
 id: 1153
 modified: 2016-06-12T00:53:11-05:00
-modified_gmt: 2016-06-12T05:53:11+00:00
 name: flight-of-the-conchords-show
 tags: [comedy, fotc, funny, live, music, show]
 ---

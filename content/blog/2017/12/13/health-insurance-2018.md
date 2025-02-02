@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2017-12-13T03:28:01-05:00
-date_gmt: 2017-12-13T08:28:01+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1706'
 id: 1706
 modified: 2017-12-13T22:58:38-05:00
-modified_gmt: 2017-12-14T03:58:38+00:00
 name: health-insurance-2018
 tags: [care, decision, expense, health, insurance, ohio]
 ---

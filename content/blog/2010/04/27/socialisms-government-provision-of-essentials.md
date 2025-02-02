@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2010-04-27T05:56:43-05:00
-date_gmt: 2010-04-27T10:56:43+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=260'
 id: 260
 modified: 2019-05-18T21:26:05-04:00
-modified_gmt: 2019-05-19T01:26:05+00:00
 name: socialisms-government-provision-of-essentials
 pings: ['http://cosmicosmo.ath.cx/log/2009/07/28/appropriate-living-place-service/']
 tags: [government, socialisms]

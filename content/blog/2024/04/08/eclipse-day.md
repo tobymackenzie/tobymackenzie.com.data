@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2024-04-08T16:11:15-04:00
-date_gmt: 2024-04-08T20:11:15+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4301'
 id: 4301
 modified: 2024-04-08T16:11:15-04:00
-modified_gmt: 2024-04-08T20:11:15+00:00
 name: eclipse-day
 tags: [eclipse]
 ---

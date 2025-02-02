@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-08-17T09:38:37-04:00
-date_gmt: 2005-08-17T13:38:37+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/17/im-back-from-scotland-that-is/'
 id: 57
 modified: 2005-08-17T09:38:37-04:00
-modified_gmt: 2005-08-17T13:38:37+00:00
 name: im-back-from-scotland-that-is
 ---
 

@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2005-05-28T03:55:28-04:00
-date_gmt: 2005-05-28T07:55:28+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/05/28/commune/'
 id: 32
 modified: 2022-03-08T20:48:15-05:00
-modified_gmt: 2022-03-09T01:48:15+00:00
 name: commune
 tags: [government]
 ---

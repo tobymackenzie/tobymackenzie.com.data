@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-02-11T12:49:08-05:00
-date_gmt: 2004-02-11T17:49:08+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/02/11/interactive-scheduling/'
 id: 88
 modified: 2022-03-08T20:52:44-05:00
-modified_gmt: 2022-03-09T01:52:44+00:00
 name: interactive-scheduling
 tags: [businessrestaurant]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-04-27T00:00:55-05:00
-date_gmt: 2005-04-27T05:00:55+00:00
 guid: 'http://cosmicosmo.ath.cx/wordpress/?p=16'
 id: 16
 modified: 2005-04-27T00:00:55-05:00
-modified_gmt: 2005-04-27T05:00:55+00:00
 name: new-halfstack
 tags: [yars]
 ---

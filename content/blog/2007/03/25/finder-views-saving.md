@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2007-03-25T04:59:00-05:00
-date_gmt: 2007-03-25T09:59:00+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/03/25/finder-views-saving/'
 id: 139
 modified: 2022-03-08T20:58:18-05:00
-modified_gmt: 2022-03-09T01:58:18+00:00
 name: finder-views-saving
 tags: [computing]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-04-29T20:52:47-05:00
-date_gmt: 2017-04-30T01:52:47+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1461'
 id: 1461
 modified: 2017-04-29T20:52:47-05:00
-modified_gmt: 2017-04-30T01:52:47+00:00
 name: answer-conditional-blocks-in-twig
 tags: [answer, block, stackoverflow, templates, twig]
 ---

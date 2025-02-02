@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2012-12-03T07:22:37+00:00
-date_gmt: 2012-12-03T07:22:37+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=511'
 id: 511
 modified: 2012-12-03T07:22:37+00:00
-modified_gmt: 2012-12-03T07:22:37+00:00
 name: my-first-responsive-site
 tags: [css, design, layout, responsive]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-10-12T06:19:11+00:00
-date_gmt: 2009-10-12T06:19:11+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=60'
 id: 379
 modified: 2024-06-17T16:26:57-04:00
-modified_gmt: 2024-06-17T20:26:57+00:00
 name: stearns-thematic-wireframes
 tags: [design, drawing, layout, stearns, style, theme, webiiclass, wireframe]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2007-05-04T02:20:03-05:00
-date_gmt: 2007-05-04T07:20:03+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/04/mail-to-person-not-address/'
 id: 142
 modified: 2022-03-08T20:58:18-05:00
-modified_gmt: 2022-03-09T01:58:18+00:00
 name: mail-to-person-not-address
 tags: [government]
 ---

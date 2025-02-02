@@ -1,11 +1,9 @@
 ---
 categories: [computer, computer]
 date: 2017-03-16T01:26:30-05:00
-date_gmt: 2017-03-16T06:26:30+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1412'
 id: 1412
 modified: 2017-03-16T01:26:30-05:00
-modified_gmt: 2017-03-16T06:26:30+00:00
 name: focus-mac-os-x-dialog-keyboard
 pings: ['https://arewold.wordpress.com/2007/11/07/how-do-i-move-the-focus-to-a-popup-dialog-in-os-x-using-the-keyboard/']
 tags: [control, gui, keyboard, mac, osx, problem]

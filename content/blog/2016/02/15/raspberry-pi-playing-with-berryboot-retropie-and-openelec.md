@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2016-02-15T01:19:00-05:00
-date_gmt: 2016-02-15T06:19:00+00:00
 guid: 'http://tobymackenzie.name/log/?p=336'
 id: 336
 modified: 2016-02-15T01:19:00-05:00
-modified_gmt: 2016-02-15T06:19:00+00:00
 name: raspberry-pi-playing-with-berryboot-retropie-and-openelec
 tags: [emulator, linux, mediacenter, raspberrypi, videogames]
 ---

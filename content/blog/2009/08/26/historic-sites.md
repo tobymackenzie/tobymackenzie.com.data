@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-08-26T05:27:09+00:00
-date_gmt: 2009-08-26T05:27:09+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=6'
 id: 361
 modified: 2009-08-26T05:27:09+00:00
-modified_gmt: 2009-08-26T05:27:09+00:00
 name: historic-sites
 tags: [assignment, sites, webiiclass]
 ---

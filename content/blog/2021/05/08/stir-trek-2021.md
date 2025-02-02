@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-05-08T00:58:11-04:00
-date_gmt: 2021-05-08T04:58:11+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3410'
 id: 3410
 modified: 2021-05-08T00:58:11-04:00
-modified_gmt: 2021-05-08T04:58:11+00:00
 name: stir-trek-2021
 tags: [conference, event, stirtrek]
 ---

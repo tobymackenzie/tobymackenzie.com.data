@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-03-29T02:29:43-04:00
-date_gmt: 2016-03-29T06:29:43+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=1012'
 id: 1012
 modified: 2017-04-27T21:36:31-05:00
-modified_gmt: 2017-04-28T02:36:31+00:00
 name: web-manifest-first
 tags: [app, html, manifest, web]
 ---

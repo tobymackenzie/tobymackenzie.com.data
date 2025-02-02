@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2012-06-08T08:34:11+00:00
-date_gmt: 2012-06-08T08:34:11+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=495'
 id: 495
 modified: 2012-06-08T08:34:11+00:00
-modified_gmt: 2012-06-08T08:34:11+00:00
 name: im-on-github
 tags: [git, repository]
 ---

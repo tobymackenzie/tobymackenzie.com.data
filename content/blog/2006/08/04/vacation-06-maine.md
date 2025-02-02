@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2006-08-04T22:31:10-04:00
-date_gmt: 2006-08-05T02:31:10+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/08/04/vacation-06-maine/'
 id: 117
 modified: 2006-08-04T22:31:10-04:00
-modified_gmt: 2006-08-05T02:31:10+00:00
 name: vacation-06-maine
 ---
 

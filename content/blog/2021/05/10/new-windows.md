@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2021-05-10T23:53:49-04:00
-date_gmt: 2021-05-11T03:53:49+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3413'
 id: 3413
 modified: 2021-05-10T23:53:49-04:00
-modified_gmt: 2021-05-11T03:53:49+00:00
 name: new-windows
 tags: [anxiety, house, windows]
 ---

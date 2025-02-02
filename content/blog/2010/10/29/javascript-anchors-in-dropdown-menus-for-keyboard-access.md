@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-10-29T22:54:36+00:00
-date_gmt: 2010-10-29T22:54:36+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=412'
 id: 442
 modified: 2010-10-29T22:54:36+00:00
-modified_gmt: 2010-10-29T22:54:36+00:00
 name: javascript-anchors-in-dropdown-menus-for-keyboard-access
 tags: [accessibility, javascript, menu]
 ---

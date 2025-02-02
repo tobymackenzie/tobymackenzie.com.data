@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas, toby]
 date: 2010-10-19T00:31:23-05:00
-date_gmt: 2010-10-19T05:31:23+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=290'
 id: 290
 modified: 2022-03-08T20:57:26-05:00
-modified_gmt: 2022-03-09T01:57:26+00:00
 name: post-suicide-qa
 ---
 

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2017-09-21T01:33:19-05:00
-date_gmt: 2017-09-21T06:33:19+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1616'
 id: 1616
 modified: 2017-09-21T01:33:19-05:00
-modified_gmt: 2017-09-21T06:33:19+00:00
 name: pedestrian-traffic-incident
 tags: [anger, event, law, pedestrain, roadrage, traffic, walking]
 ---

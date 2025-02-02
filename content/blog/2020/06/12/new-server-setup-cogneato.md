@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-06-12T03:01:12-04:00
-date_gmt: 2020-06-12T07:01:12+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2892'
 id: 2892
 modified: 2020-06-13T02:30:32-04:00
-modified_gmt: 2020-06-13T06:30:32+00:00
 name: new-server-setup-cogneato
 tags: [ansible, cloudflare, cogneato, digital-ocean, linux, php, server, upgrade]
 ---

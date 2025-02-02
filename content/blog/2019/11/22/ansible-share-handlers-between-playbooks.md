@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-11-22T22:54:40-05:00
-date_gmt: 2019-11-23T03:54:40+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2569'
 id: 2569
 modified: 2020-07-18T21:25:47-04:00
-modified_gmt: 2020-07-19T01:25:47+00:00
 name: ansible-share-handlers-between-playbooks
 tags: [ansible, provision]
 ---

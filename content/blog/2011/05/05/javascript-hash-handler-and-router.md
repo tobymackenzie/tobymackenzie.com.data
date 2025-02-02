@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2011-05-05T08:05:18+00:00
-date_gmt: 2011-05-05T08:05:18+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=444'
 id: 948
 modified: 2019-09-02T01:45:06-04:00
-modified_gmt: 2019-09-02T05:45:06+00:00
 name: javascript-hash-handler-and-router
 tags: [ajax, javacript, routing]
 ---

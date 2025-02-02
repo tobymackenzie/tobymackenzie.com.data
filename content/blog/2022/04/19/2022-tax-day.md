@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2022-04-19T00:18:13-04:00
-date_gmt: 2022-04-19T04:18:13+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3722'
 id: 3722
 modified: 2022-04-19T00:18:13-04:00
-modified_gmt: 2022-04-19T04:18:13+00:00
 name: 2022-tax-day
 tags: [taxes]
 ---

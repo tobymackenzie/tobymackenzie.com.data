@@ -1,11 +1,9 @@
 ---
 categories: [toby, www]
 date: 2009-10-15T03:19:22-05:00
-date_gmt: 2009-10-15T08:19:22+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=237'
 id: 237
 modified: 2016-04-30T02:12:09-05:00
-modified_gmt: 2016-04-30T07:12:09+00:00
 name: potential-freelance-group
 tags: [freelance, job, life, school, webd]
 ---

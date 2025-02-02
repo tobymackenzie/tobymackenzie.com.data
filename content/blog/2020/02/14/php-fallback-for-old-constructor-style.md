@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-02-14T01:19:34-05:00
-date_gmt: 2020-02-14T06:19:34+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2643'
 id: 2643
 modified: 2020-02-14T01:19:34-05:00
-modified_gmt: 2020-02-14T06:19:34+00:00
 name: php-fallback-for-old-constructor-style
 tags: [fallback, old, php]
 ---

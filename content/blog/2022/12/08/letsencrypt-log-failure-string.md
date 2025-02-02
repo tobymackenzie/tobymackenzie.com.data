@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2022-12-08T23:35:35-05:00
-date_gmt: 2022-12-09T04:35:35+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3904'
 id: 3904
 modified: 2022-12-08T23:35:35-05:00
-modified_gmt: 2022-12-09T04:35:35+00:00
 name: letsencrypt-log-failure-string
 tags: [letsencrypt, log]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2007-06-16T00:37:16-05:00
-date_gmt: 2007-06-16T05:37:16+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/06/16/mac-drive-troubles-now-using-ubuntu/'
 id: 149
 modified: 2019-04-21T01:53:24-04:00
-modified_gmt: 2019-04-21T05:53:24+00:00
 name: mac-drive-troubles-now-using-ubuntu
 tags: [server]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-07-20T02:24:12-04:00
-date_gmt: 2019-07-20T06:24:12+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2424'
 id: 2424
 modified: 2019-07-20T02:25:47-04:00
-modified_gmt: 2019-07-20T06:25:47+00:00
 name: cleveland-givecamp-2019-day-one
 tags: [cleveland, event, givecamp, web, wordpress]
 ---

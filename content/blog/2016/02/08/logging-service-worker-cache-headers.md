@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-02-08T03:05:27-05:00
-date_gmt: 2016-02-08T08:05:27+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=962'
 id: 962
 modified: 2016-04-04T22:23:19-05:00
-modified_gmt: 2016-04-05T03:23:19+00:00
 name: logging-service-worker-cache-headers
 tags: [cache, logging, serviceworkers]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-05-14T01:21:55+00:00
-date_gmt: 2010-05-14T01:21:55+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=304'
 id: 427
 modified: 2010-05-14T01:21:55+00:00
-modified_gmt: 2010-05-14T01:21:55+00:00
 name: haley-litzinger-new-site-for-an-old-friend
 tags: [art, freelance, friend, project, woodridge, wordpress]
 ---

@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2010-01-15T06:59:12+00:00
-date_gmt: 2010-01-15T06:59:12+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=165'
 id: 407
 modified: 2010-01-15T06:59:12+00:00
-modified_gmt: 2010-01-15T06:59:12+00:00
 name: new-wordpress-com-theme
 tags: [theme, wordpress]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-09-07T01:56:58-04:00
-date_gmt: 2020-09-07T05:56:58+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3024'
 id: 3024
 modified: 2020-09-07T01:56:58-04:00
-modified_gmt: 2020-09-07T05:56:58+00:00
 name: recaptcha-solved-by-bots
 tags: [bot, captcha, forms, problem, web]
 ---

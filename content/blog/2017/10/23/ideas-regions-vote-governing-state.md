@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2017-10-23T04:16:06-05:00
-date_gmt: 2017-10-23T09:16:06+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1638'
 id: 1638
 modified: 2022-03-08T20:57:26-05:00
-modified_gmt: 2022-03-09T01:57:26+00:00
 name: ideas-regions-vote-governing-state
 tags: [federation, government, politics]
 ---

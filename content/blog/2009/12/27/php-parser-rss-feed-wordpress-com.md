@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-12-27T17:00:06+00:00
-date_gmt: 2009-12-27T17:00:06+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=145'
 id: 402
 modified: 2021-01-14T23:37:51-05:00
-modified_gmt: 2021-01-15T04:37:51+00:00
 name: php-parser-rss-feed-wordpress-com
 tags: [parse, php, rss, wordpress]
 ---

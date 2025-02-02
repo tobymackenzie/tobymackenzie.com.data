@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2007-12-12T16:40:42-05:00
-date_gmt: 2007-12-12T21:40:42+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/12/12/versatile-home-an-ideal/'
 id: 159
 modified: 2022-03-08T20:57:28-05:00
-modified_gmt: 2022-03-09T01:57:28+00:00
 name: versatile-home-an-ideal
 tags: [housing]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2004-08-25T04:07:58-04:00
-date_gmt: 2004-08-25T08:07:58+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/08/25/suicide-steps/'
 id: 76
 modified: 2022-03-08T20:51:30-05:00
-modified_gmt: 2022-03-09T01:51:30+00:00
 name: suicide-steps
 tags: [humans]
 ---

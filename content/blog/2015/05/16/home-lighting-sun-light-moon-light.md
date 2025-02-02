@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2015-05-16T00:54:22-05:00
-date_gmt: 2015-05-16T05:54:22+00:00
 guid: 'http://tobymackenzie.name/log/?p=304'
 id: 304
 modified: 2022-03-08T20:57:26-05:00
-modified_gmt: 2022-03-09T01:57:26+00:00
 name: home-lighting-sun-light-moon-light
 tags: [designengineering, home, housing, lighting]
 ---

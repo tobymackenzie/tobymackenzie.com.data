@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-10-19T04:19:07+00:00
-date_gmt: 2010-10-19T04:19:07+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=402'
 id: 440
 modified: 2010-10-19T04:19:07+00:00
-modified_gmt: 2010-10-19T04:19:07+00:00
 name: developing-with-desktop-paging-and-multiple-monitors
 tags: [development, monitors, paging, productivity]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2021-08-13T23:37:42-04:00
-date_gmt: 2021-08-14T03:37:42+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3483'
 id: 3483
 modified: 2021-08-13T23:37:42-04:00
-modified_gmt: 2021-08-14T03:37:42+00:00
 name: firefox-weird-rendering-high-contrast-mode
 tags: [firefox, problem, solution, webd]
 ---

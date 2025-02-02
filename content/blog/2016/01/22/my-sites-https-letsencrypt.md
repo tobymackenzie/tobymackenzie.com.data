@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-01-22T02:08:52-05:00
-date_gmt: 2016-01-22T07:08:52+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=818'
 id: 818
 modified: 2024-08-01T11:56:12-04:00
-modified_gmt: 2024-08-01T15:56:12+00:00
 name: my-sites-https-letsencrypt
 tags: [certificate, dreamhost, https, letsencrypt, ssl]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2005-10-15T08:49:45-04:00
-date_gmt: 2005-10-15T12:49:45+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/15/boot-to-console/'
 id: 73
 modified: 2005-11-26T06:34:05-04:00
-modified_gmt: 2005-11-26T10:34:05+00:00
 name: boot-to-console
 ---
 

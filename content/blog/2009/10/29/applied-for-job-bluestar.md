@@ -1,11 +1,9 @@
 ---
 categories: [toby, toby, www]
 date: 2009-10-29T21:25:27-05:00
-date_gmt: 2009-10-30T02:25:27+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=245'
 id: 245
 modified: 2016-04-30T02:12:09-05:00
-modified_gmt: 2016-04-30T07:12:09+00:00
 name: applied-for-job-bluestar
 tags: [job, opportunity]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-10-08T02:00:33-04:00
-date_gmt: 2019-10-08T06:00:33+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2535'
 id: 2535
 modified: 2019-10-08T02:00:33-04:00
-modified_gmt: 2019-10-08T06:00:33+00:00
 name: dark-theme-for-my-site
 tags: [color, dark, site, theme, tmcom]
 ---

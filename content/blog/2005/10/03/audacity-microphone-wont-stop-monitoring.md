@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2005-10-03T23:54:46-04:00
-date_gmt: 2005-10-04T03:54:46+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/03/audacity-microphone-wont-stop-monitoring/'
 id: 68
 modified: 2005-11-26T06:34:58-04:00
-modified_gmt: 2005-11-26T10:34:58+00:00
 name: audacity-microphone-wont-stop-monitoring
 ---
 

@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2008-11-13T19:59:04-05:00
-date_gmt: 2008-11-14T00:59:04+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=208'
 id: 208
 modified: 2022-03-08T20:57:26-05:00
-modified_gmt: 2022-03-09T01:57:26+00:00
 name: education-done-like-work-flex-time
 tags: [education, school, stub]
 ---

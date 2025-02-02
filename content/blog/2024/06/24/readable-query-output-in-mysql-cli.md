@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2024-06-24T01:21:29-04:00
-date_gmt: 2024-06-24T05:21:29+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4352'
 id: 4352
 modified: 2024-07-26T20:38:27-04:00
-modified_gmt: 2024-07-27T00:38:27+00:00
 name: readable-query-output-in-mysql-cli
 tags: [cli, mysql]
 ---

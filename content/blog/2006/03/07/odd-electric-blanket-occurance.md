@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2006-03-07T06:22:33-04:00
-date_gmt: 2006-03-07T10:22:33+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/03/07/odd-electric-blanket-occurance/'
 id: 100
 modified: 2006-03-07T06:23:09-04:00
-modified_gmt: 2006-03-07T10:23:09+00:00
 name: odd-electric-blanket-occurance
 ---
 

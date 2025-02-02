@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2006-10-08T03:41:11-04:00
-date_gmt: 2006-10-08T07:41:11+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/10/08/new-server/'
 id: 119
 modified: 2016-04-30T02:12:09-05:00
-modified_gmt: 2016-04-30T07:12:09+00:00
 name: new-server
 ---
 

@@ -2,11 +2,9 @@
 categories: [toby]
 comment_count: 1
 date: 2018-02-18T03:46:16-05:00
-date_gmt: 2018-02-18T08:46:16+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1788'
 id: 1788
 modified: 2024-02-08T21:00:13-05:00
-modified_gmt: 2024-02-09T02:00:13+00:00
 name: supporting-http-0-9
 tags: [browsers, oldbrowsers, progressiveenhancement, server, site, support]
 ---

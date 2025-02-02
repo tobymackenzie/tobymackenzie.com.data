@@ -1,11 +1,9 @@
 ---
 categories: [toby, toby]
 date: 2009-08-09T00:00:45-05:00
-date_gmt: 2009-08-09T05:00:45+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=229'
 id: 229
 modified: 2009-08-09T00:00:45-05:00
-modified_gmt: 2009-08-09T05:00:45+00:00
 name: dwight-moved-out
 tags: [home, life, roommate]
 ---

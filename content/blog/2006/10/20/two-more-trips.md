@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2006-10-20T03:43:05-04:00
-date_gmt: 2006-10-20T07:43:05+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/10/20/two-more-trips/'
 id: 123
 modified: 2007-12-22T07:10:46-05:00
-modified_gmt: 2007-12-22T12:10:46+00:00
 name: two-more-trips
 tags: [boat]
 ---

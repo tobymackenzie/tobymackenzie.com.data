@@ -1,11 +1,9 @@
 ---
 categories: [ideas, www]
 date: 2023-07-18T14:12:09-04:00
-date_gmt: 2023-07-18T18:12:09+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4092'
 id: 4092
 modified: 2023-07-18T14:12:54-04:00
-modified_gmt: 2023-07-18T18:12:54+00:00
 name: css-wishes-add-to-existing-rules
 pings: ['https://www.tobymackenzie.com/blog/2023/02/25/css-wishlist/']
 tags: [css, wants]

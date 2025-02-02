@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2016-04-22T02:18:55-05:00
-date_gmt: 2016-04-22T07:18:55+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1092'
 id: 1092
 modified: 2016-04-22T02:18:56-05:00
-modified_gmt: 2016-04-22T07:18:56+00:00
 name: moving-folder-symlink-and-trailing-slash
 tags: [cli, gotcha, move, shell, symlink]
 ---

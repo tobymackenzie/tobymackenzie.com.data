@@ -2,11 +2,9 @@
 categories: [ideas, ideas]
 comment_count: 1
 date: 2009-07-28T01:38:07-05:00
-date_gmt: 2009-07-28T06:38:07+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=225'
 id: 225
 modified: 2009-07-28T01:38:07-05:00
-modified_gmt: 2009-07-28T06:38:07+00:00
 name: appropriate-living-place-service
 tags: [countries, government, housing, location, politics]
 ---

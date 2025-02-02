@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-06-30T16:24:47-04:00
-date_gmt: 2005-06-30T20:24:47+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/30/clear-but-windy/'
 id: 43
 modified: 2005-06-30T16:24:47-04:00
-modified_gmt: 2005-06-30T20:24:47+00:00
 name: clear-but-windy
 tags: [boat]
 ---

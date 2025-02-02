@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-06-12T01:03:00-05:00
-date_gmt: 2016-06-12T06:03:00+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1158'
 id: 1158
 modified: 2016-06-12T01:03:00-05:00
-modified_gmt: 2016-06-12T06:03:00+00:00
 name: stir-trek-2016-talk-videos
 tags: [conference, design, development, talk, video, web]
 ---

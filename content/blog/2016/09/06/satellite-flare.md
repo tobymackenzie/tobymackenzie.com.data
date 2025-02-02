@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-09-06T00:25:59-05:00
-date_gmt: 2016-09-06T05:25:59+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1257'
 id: 1257
 modified: 2016-09-06T00:28:24-05:00
-modified_gmt: 2016-09-06T05:28:24+00:00
 name: satellite-flare
 tags: [flare, gazing, satellite, star]
 ---

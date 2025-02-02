@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2010-06-28T09:19:36+00:00
-date_gmt: 2010-06-28T09:19:36+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=336'
 id: 431
 modified: 2019-03-15T20:15:28-04:00
-modified_gmt: 2019-03-16T00:15:28+00:00
 name: lynda-seo-getting-started
 tags: [lynda, seo]
 ---

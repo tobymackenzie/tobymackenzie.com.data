@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-10-30T01:56:53-04:00
-date_gmt: 2018-10-30T05:56:53+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2105'
 id: 2105
 modified: 2019-08-27T23:18:58-04:00
-modified_gmt: 2019-08-28T03:18:58+00:00
 name: h2-ubuntu-18-apache-php
 pings: ['https://www.tobymackenzie.com/blog/2018/10/16/server-upgrade-ubuntu-18-04/']
 tags: [apache, http, http2, performance, php, server, site, web]

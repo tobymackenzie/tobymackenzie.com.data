@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 9
 date: 2010-02-26T14:08:35+00:00
-date_gmt: 2010-02-26T14:08:35+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=269'
 id: 420
 modified: 2024-08-01T12:20:06-04:00
-modified_gmt: 2024-08-01T16:20:06+00:00
 name: tmcom-now-real-xhtml-5
 tags: [doctype, html5, tmcom, xhtml, xhtml5, xsl]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2023-04-25T23:46:37-04:00
-date_gmt: 2023-04-26T03:46:37+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4008'
 id: 4008
 modified: 2023-04-25T23:46:37-04:00
-modified_gmt: 2023-04-26T03:46:37+00:00
 name: dreamcompute-account-cancelled
 tags: [dreamcompute, dreamhost, problem, server, vps]
 ---

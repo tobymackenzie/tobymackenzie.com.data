@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-06-04T00:36:52-05:00
-date_gmt: 2014-06-04T05:36:52+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=622'
 id: 622
 modified: 2024-08-01T12:35:24-04:00
-modified_gmt: 2024-08-01T16:35:24+00:00
 name: responsively-changing-date-formats
 tags: [css, responsive, technique]
 ---

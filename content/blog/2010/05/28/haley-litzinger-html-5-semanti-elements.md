@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-05-28T23:48:28+00:00
-date_gmt: 2010-05-28T23:48:28+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=318'
 id: 428
 modified: 2010-05-28T23:48:28+00:00
-modified_gmt: 2010-05-28T23:48:28+00:00
 name: haley-litzinger-html-5-semanti-elements
 tags: [elements, html5, project]
 ---

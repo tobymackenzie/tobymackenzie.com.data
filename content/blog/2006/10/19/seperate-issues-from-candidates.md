@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2006-10-19T22:23:50-04:00
-date_gmt: 2006-10-20T02:23:50+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/10/19/seperate-issues-from-candidates/'
 id: 120
 modified: 2022-03-08T20:58:19-05:00
-modified_gmt: 2022-03-09T01:58:19+00:00
 name: seperate-issues-from-candidates
 tags: [government]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [computer, toby, www]
 date: 2017-12-05T02:56:37-05:00
-date_gmt: 2017-12-05T07:56:37+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1698'
 id: 1698
 modified: 2017-12-05T02:56:37-05:00
-modified_gmt: 2017-12-05T07:56:37+00:00
 name: work-theft
 tags: [job, laptop, problem, security, setup, theft]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-06-16T11:18:47-04:00
-date_gmt: 2005-06-16T15:18:47+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/16/mimis-hair/'
 id: 38
 modified: 2005-06-16T11:18:47-04:00
-modified_gmt: 2005-06-16T15:18:47+00:00
 name: mimis-hair
 ---
 

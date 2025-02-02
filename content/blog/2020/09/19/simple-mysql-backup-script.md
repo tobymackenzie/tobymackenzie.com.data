@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2020-09-19T01:02:01-04:00
-date_gmt: 2020-09-19T05:02:01+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3043'
 id: 3043
 modified: 2023-06-27T23:39:53-04:00
-modified_gmt: 2023-06-28T03:39:53+00:00
 name: simple-mysql-backup-script
 tags: [backup, database, mysql, script]
 ---

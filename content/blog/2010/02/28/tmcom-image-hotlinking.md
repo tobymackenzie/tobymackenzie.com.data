@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-28T11:31:16+00:00
-date_gmt: 2010-02-28T11:31:16+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=273'
 id: 422
 modified: 2024-06-25T15:26:45-04:00
-modified_gmt: 2024-06-25T19:26:45+00:00
 name: tmcom-image-hotlinking
 tags: [hotlinking, htaccess, mod_rewrite]
 ---

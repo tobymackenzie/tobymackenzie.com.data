@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2021-03-10T02:06:42-05:00
-date_gmt: 2021-03-10T07:06:42+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3334'
 id: 3334
 modified: 2021-03-10T02:06:42-05:00
-modified_gmt: 2021-03-10T07:06:42+00:00
 name: purchase-flannel-sherpa-lined-robe
 tags: [clothing, purchase, robe]
 ---

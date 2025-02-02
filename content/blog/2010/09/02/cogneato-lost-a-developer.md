@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-09-02T00:49:00+00:00
-date_gmt: 2010-09-02T00:49:00+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=388'
 id: 438
 modified: 2010-09-02T00:49:00+00:00
-modified_gmt: 2010-09-02T00:49:00+00:00
 name: cogneato-lost-a-developer
 tags: [cogneato]
 ---

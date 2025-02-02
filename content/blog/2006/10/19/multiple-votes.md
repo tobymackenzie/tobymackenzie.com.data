@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2006-10-19T22:30:52-04:00
-date_gmt: 2006-10-20T02:30:52+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/10/19/multiple-votes/'
 id: 121
 modified: 2022-03-08T20:58:19-05:00
-modified_gmt: 2022-03-09T01:58:19+00:00
 name: multiple-votes
 tags: [government]
 ---

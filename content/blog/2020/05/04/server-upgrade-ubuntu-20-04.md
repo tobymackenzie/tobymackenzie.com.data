@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-05-04T02:09:59-04:00
-date_gmt: 2020-05-04T06:09:59+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2842'
 id: 2842
 modified: 2020-05-04T02:09:59-04:00
-modified_gmt: 2020-05-04T06:09:59+00:00
 name: server-upgrade-ubuntu-20-04
 tags: [linux, server, ubuntu, upgrade]
 ---

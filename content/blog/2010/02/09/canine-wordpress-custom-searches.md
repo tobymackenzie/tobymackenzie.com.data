@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 6
 date: 2010-02-09T20:56:05+00:00
-date_gmt: 2010-02-09T20:56:05+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=240'
 id: 413
 modified: 2010-02-09T20:56:05+00:00
-modified_gmt: 2010-02-09T20:56:05+00:00
 name: canine-wordpress-custom-searches
 tags: [caninelifeline, magicfields, pods, search, wordpress]
 ---

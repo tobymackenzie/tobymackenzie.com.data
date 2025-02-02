@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2020-10-01T01:28:34-04:00
-date_gmt: 2020-10-01T05:28:34+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3056'
 id: 3056
 modified: 2020-10-01T01:28:34-04:00
-modified_gmt: 2020-10-01T05:28:34+00:00
 name: finalish-joe-estate-sales-and-auctions
 tags: [art, auction, estate, sale, tool, uncle-joe, weapons]
 ---

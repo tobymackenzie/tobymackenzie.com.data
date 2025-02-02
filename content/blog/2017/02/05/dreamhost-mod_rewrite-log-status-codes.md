@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2017-02-05T01:36:36-05:00
-date_gmt: 2017-02-05T06:36:36+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1357'
 id: 1357
 modified: 2018-10-31T23:14:13-04:00
-modified_gmt: 2018-11-01T03:14:13+00:00
 name: dreamhost-mod_rewrite-log-status-codes
 pings: ['https://www.tobymackenzie.com/blog/2016/01/25/940/', 'https://www.hyperborea.org/journal/2013/05/missing-404-log/']
 tags: [apache, dreamhost, host, http, mod_rewrite, problem, status, web]

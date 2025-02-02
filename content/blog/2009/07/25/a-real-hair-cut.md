@@ -1,11 +1,9 @@
 ---
 categories: [toby, toby]
 date: 2009-07-25T22:18:07-05:00
-date_gmt: 2009-07-26T03:18:07+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=215'
 id: 215
 modified: 2009-07-25T22:18:07-05:00
-modified_gmt: 2009-07-26T03:18:07+00:00
 name: a-real-hair-cut
 tags: [appearance, hair]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-10-15T04:38:30-05:00
-date_gmt: 2009-10-15T09:38:30+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=239'
 id: 239
 modified: 2021-12-14T20:33:12-05:00
-modified_gmt: 2021-12-15T01:33:12+00:00
 name: geocities-closure
 pings: ['http://www.sonyjose.in/blog/?p=136', 'http://www.statusq.org/archives/2008/07/30/1954/comment-page-2/']
 tags: [archive, commandline, old, sites]

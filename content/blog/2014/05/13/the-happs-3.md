@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-05-13T02:08:01-05:00
-date_gmt: 2014-05-13T07:08:01+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=607'
 id: 607
 modified: 2014-05-13T02:08:01-05:00
-modified_gmt: 2014-05-13T07:08:01+00:00
 name: the-happs-3
 tags: [cogneato, happs, samba-soccer, theme, wordpress]
 ---

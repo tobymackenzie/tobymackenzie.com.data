@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-07-22T00:12:07-05:00
-date_gmt: 2018-07-22T05:12:07+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1963'
 id: 1963
 modified: 2018-07-22T00:12:07-05:00
-modified_gmt: 2018-07-22T05:12:07+00:00
 name: givecamp-2018-day-two
 tags: [cleveland, development, givecamp, web]
 ---

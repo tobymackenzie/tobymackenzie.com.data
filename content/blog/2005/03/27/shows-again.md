@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-03-27T07:50:18-05:00
-date_gmt: 2005-03-27T12:50:18+00:00
 guid: 'http://cosmicosmo.ath.cx/wordpress/?p=4'
 id: 4
 modified: 2005-04-07T05:49:43-05:00
-modified_gmt: 2005-04-07T10:49:43+00:00
 name: shows-again
 tags: [yars]
 ---

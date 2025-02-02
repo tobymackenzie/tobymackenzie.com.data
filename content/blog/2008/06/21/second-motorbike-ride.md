@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-06-21T17:55:54-05:00
-date_gmt: 2008-06-21T22:55:54+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=194'
 id: 194
 modified: 2008-06-21T17:55:54-05:00
-modified_gmt: 2008-06-21T22:55:54+00:00
 name: second-motorbike-ride
 tags: [motorcycle]
 ---

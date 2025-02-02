@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2022-10-27T14:08:47-04:00
-date_gmt: 2022-10-27T18:08:47+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3864'
 id: 3864
 modified: 2022-10-27T14:10:28-04:00
-modified_gmt: 2022-10-27T18:10:28+00:00
 name: hybrid-energy-storage-electric-vehicles
 tags: [battery, car, electric, energy, storage]
 ---

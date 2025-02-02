@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2012-07-26T06:21:09+00:00
-date_gmt: 2012-07-26T06:21:09+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=499'
 id: 499
 modified: 2018-08-23T01:04:43-04:00
-modified_gmt: 2018-08-23T05:04:43+00:00
 name: givecamp-2012
 tags: [dotnetnuke, event, givecamp, net]
 ---

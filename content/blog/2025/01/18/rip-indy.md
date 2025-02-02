@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2025-01-18T00:09:28-05:00
-date_gmt: 2025-01-18T05:09:28+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4493'
 id: 4493
 modified: 2025-01-18T00:09:28-05:00
-modified_gmt: 2025-01-18T05:09:28+00:00
 name: rip-indy
 tags: [animal, death, dog]
 ---

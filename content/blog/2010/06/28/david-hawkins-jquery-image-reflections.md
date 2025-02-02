@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-06-28T08:44:28+00:00
-date_gmt: 2010-06-28T08:44:28+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=332'
 id: 430
 modified: 2019-10-17T22:32:48-04:00
-modified_gmt: 2019-10-18T02:32:48+00:00
 name: david-hawkins-jquery-image-reflections
 tags: [cogneato, javascript, jquery, reflection]
 ---

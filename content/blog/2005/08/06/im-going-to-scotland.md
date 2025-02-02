@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-08-06T03:12:05-04:00
-date_gmt: 2005-08-06T07:12:05+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/06/im-going-to-scotland/'
 id: 56
 modified: 2005-08-06T03:12:05-04:00
-modified_gmt: 2005-08-06T07:12:05+00:00
 name: im-going-to-scotland
 ---
 

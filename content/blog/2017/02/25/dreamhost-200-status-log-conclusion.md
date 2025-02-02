@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-02-25T21:33:12-05:00
-date_gmt: 2017-02-26T02:33:12+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1385'
 id: 1385
 modified: 2017-02-25T21:33:12-05:00
-modified_gmt: 2017-02-26T02:33:12+00:00
 name: dreamhost-200-status-log-conclusion
 tags: [apache, dreamhost, host, mod_rewrite, problem, status, web]
 ---

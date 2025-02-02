@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-06-05T16:09:17-04:00
-date_gmt: 2021-06-05T20:09:17+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3424'
 id: 3424
 modified: 2021-06-05T16:09:17-04:00
-modified_gmt: 2021-06-05T20:09:17+00:00
 name: sorting-field-function-doctrine
 tags: [database, doctrine, php, query]
 ---

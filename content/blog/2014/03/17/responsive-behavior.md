@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-03-17T02:11:33-05:00
-date_gmt: 2014-03-17T07:11:33+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=582'
 id: 582
 modified: 2017-10-19T23:24:02-05:00
-modified_gmt: 2017-10-20T04:24:02+00:00
 name: responsive-behavior
 tags: [behavior, javacript, responsive]
 ---

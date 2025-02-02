@@ -1,11 +1,9 @@
 ---
 categories: [computer, ideas, ideas]
 date: 2004-10-01T02:16:51-05:00
-date_gmt: 2004-10-01T07:16:51+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/10/01/info-storage/'
 id: 82
 modified: 2022-03-08T20:51:30-05:00
-modified_gmt: 2022-03-09T01:51:30+00:00
 name: info-storage
 tags: [computing]
 ---

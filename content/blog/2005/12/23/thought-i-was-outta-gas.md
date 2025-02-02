@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-12-23T03:25:07-04:00
-date_gmt: 2005-12-23T07:25:07+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/12/23/thought-i-was-outta-gas/'
 id: 95
 modified: 2005-12-23T03:25:07-04:00
-modified_gmt: 2005-12-23T07:25:07+00:00
 name: thought-i-was-outta-gas
 tags: [home]
 ---

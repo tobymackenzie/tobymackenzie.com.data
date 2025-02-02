@@ -2,11 +2,9 @@
 categories: [toby]
 comment_count: 1
 date: 2019-01-06T02:09:21-05:00
-date_gmt: 2019-01-06T07:09:21+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2185'
 id: 2185
 modified: 2019-01-06T02:09:21-05:00
-modified_gmt: 2019-01-06T07:09:21+00:00
 name: t-mobile-plan-change-debacle
 tags: [internet, phone, plan, problem, service, tmobile]
 ---

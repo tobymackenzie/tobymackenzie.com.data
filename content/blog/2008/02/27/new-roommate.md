@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-02-27T18:45:05-05:00
-date_gmt: 2008-02-27T23:45:05+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2008/02/27/new-roommate/'
 id: 165
 modified: 2008-02-27T18:45:05-05:00
-modified_gmt: 2008-02-27T23:45:05+00:00
 name: new-roommate
 tags: [dwight, home, roommate]
 ---

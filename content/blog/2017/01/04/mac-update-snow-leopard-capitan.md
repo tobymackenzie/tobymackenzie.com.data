@@ -2,11 +2,9 @@
 categories: [computer, computer]
 comment_count: 1
 date: 2017-01-04T02:21:51-05:00
-date_gmt: 2017-01-04T07:21:51+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1332'
 id: 1332
 modified: 2017-02-11T21:37:41-05:00
-modified_gmt: 2017-02-12T02:37:41+00:00
 name: mac-update-snow-leopard-capitan
 tags: [mac, os, osx, update]
 ---

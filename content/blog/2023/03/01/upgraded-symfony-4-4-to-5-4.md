@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2023-03-01T23:05:54-05:00
-date_gmt: 2023-03-02T04:05:54+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3963'
 id: 3963
 modified: 2023-03-01T23:07:24-05:00
-modified_gmt: 2023-03-02T04:07:24+00:00
 name: upgraded-symfony-4-4-to-5-4
 tags: [symfony, upgrade, web]
 ---

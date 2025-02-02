@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2015-09-18T23:45:58-05:00
-date_gmt: 2015-09-19T04:45:58+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=694'
 id: 694
 modified: 2015-09-18T23:45:58-05:00
-modified_gmt: 2015-09-19T04:45:58+00:00
 name: websites-in-multiple-file-formats
 tags: [formats, functionality, site, web]
 ---

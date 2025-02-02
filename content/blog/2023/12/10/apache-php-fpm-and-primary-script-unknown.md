@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2023-12-10T21:47:34-05:00
-date_gmt: 2023-12-11T02:47:34+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4193'
 id: 4193
 modified: 2023-12-10T21:49:48-05:00
-modified_gmt: 2023-12-11T02:49:48+00:00
 name: apache-php-fpm-and-primary-script-unknown
 pings: ['https://www.tobymackenzie.com/blog/2020/04/24/fastcgi-primary-script-unknown/']
 tags: [apache, fastcgi, log, php, problem]

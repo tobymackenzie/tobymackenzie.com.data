@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-08-24T01:17:20-04:00
-date_gmt: 2005-08-24T05:17:20+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/24/jesses-leaving/'
 id: 59
 modified: 2005-08-24T01:17:20-04:00
-modified_gmt: 2005-08-24T05:17:20+00:00
 name: jesses-leaving
 tags: [yars]
 ---

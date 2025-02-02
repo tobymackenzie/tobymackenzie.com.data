@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-09-14T17:31:40-04:00
-date_gmt: 2020-09-14T21:31:40+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3029'
 id: 3029
 modified: 2020-09-14T17:31:40-04:00
-modified_gmt: 2020-09-14T21:31:40+00:00
 name: php-escape-email-display-name
 tags: [email, php]
 ---

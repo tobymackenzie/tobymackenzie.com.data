@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-01T13:43:46+00:00
-date_gmt: 2010-02-01T13:43:46+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=201'
 id: 410
 modified: 2010-02-01T13:43:46+00:00
-modified_gmt: 2010-02-01T13:43:46+00:00
 name: new-theme-again
 tags: [theme, wordpress-com]
 ---

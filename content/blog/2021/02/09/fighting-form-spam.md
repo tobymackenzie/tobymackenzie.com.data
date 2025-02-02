@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-02-09T01:07:50-05:00
-date_gmt: 2021-02-09T06:07:50+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3271'
 id: 3271
 modified: 2021-02-09T01:07:50-05:00
-modified_gmt: 2021-02-09T06:07:50+00:00
 name: fighting-form-spam
 pings: ['https://www.tobymackenzie.com/blog/2020/06/21/2907/']
 tags: [form, problem, spam, web]

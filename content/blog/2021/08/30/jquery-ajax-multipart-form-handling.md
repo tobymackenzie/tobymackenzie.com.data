@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-08-30T16:53:17-04:00
-date_gmt: 2021-08-30T20:53:17+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3489'
 id: 3489
 modified: 2021-08-30T16:53:17-04:00
-modified_gmt: 2021-08-30T20:53:17+00:00
 name: jquery-ajax-multipart-form-handling
 pings: ['https://api.jquery.com/serialize/']
 tags: [ajax, form, jquery, web]

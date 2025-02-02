@@ -1,13 +1,11 @@
 ---
 categories: [toby]
 date: 2024-10-02T00:00:46-04:00
-date_gmt: 2024-10-02T04:00:46+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4449'
 id: 4449
 image: 2024/10/arborvitae.jpg
 image_alt: 'row of arborvitaes in yard'
 modified: 2024-10-02T00:01:27-04:00
-modified_gmt: 2024-10-02T04:01:27+00:00
 name: arborvitaes
 tags: [garden, home, privacy, tree]
 ---

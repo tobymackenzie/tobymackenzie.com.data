@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2009-12-08T09:58:55+00:00
-date_gmt: 2009-12-08T09:58:55+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=121'
 id: 398
 modified: 2009-12-08T09:58:55+00:00
-modified_gmt: 2009-12-08T09:58:55+00:00
 name: stearns-slideshow-media-tags
 tags: [images, media, plugins, stearns, webiiclass, wordpress]
 ---

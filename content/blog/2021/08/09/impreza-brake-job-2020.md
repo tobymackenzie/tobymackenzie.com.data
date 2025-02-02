@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2021-08-09T00:28:21-04:00
-date_gmt: 2021-08-09T04:28:21+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3477'
 id: 3477
 modified: 2021-08-09T00:28:21-04:00
-modified_gmt: 2021-08-09T04:28:21+00:00
 name: impreza-brake-job-2020
 tags: [car, fix, impreza]
 ---

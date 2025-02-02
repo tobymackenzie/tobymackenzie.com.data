@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2006-04-17T01:06:21-04:00
-date_gmt: 2006-04-17T05:06:21+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/04/17/voting-methods-active-split-voting/'
 id: 107
 modified: 2022-03-08T20:48:13-05:00
-modified_gmt: 2022-03-09T01:48:13+00:00
 name: voting-methods-active-split-voting
 tags: [government]
 ---

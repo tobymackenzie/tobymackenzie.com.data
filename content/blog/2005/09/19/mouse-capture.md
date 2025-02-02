@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-09-19T23:08:43-04:00
-date_gmt: 2005-09-20T03:08:43+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/09/19/mouse-capture/'
 id: 65
 modified: 2005-09-19T23:08:43-04:00
-modified_gmt: 2005-09-20T03:08:43+00:00
 name: mouse-capture
 tags: [home]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-09-13T07:33:39+00:00
-date_gmt: 2010-09-13T07:33:39+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=392'
 id: 439
 modified: 2024-08-01T12:11:26-04:00
-modified_gmt: 2024-08-01T16:11:26+00:00
 name: html5-href-anywhere-attempt
 tags: [html5, links, spec]
 ---

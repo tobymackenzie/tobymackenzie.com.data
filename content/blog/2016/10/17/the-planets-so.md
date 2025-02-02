@@ -2,11 +2,9 @@
 categories: [toby]
 comment_count: 1
 date: 2016-10-17T02:14:07-05:00
-date_gmt: 2016-10-17T07:14:07+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1293'
 id: 1293
 modified: 2016-10-17T02:14:07-05:00
-modified_gmt: 2016-10-17T07:14:07+00:00
 name: the-planets-so
 tags: [event, evn, game, music, orchestra, performance]
 ---

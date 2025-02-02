@@ -1,11 +1,9 @@
 ---
 categories: [computer, toby]
 date: 2024-11-15T23:18:00-05:00
-date_gmt: 2024-11-16T04:18:00+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4473'
 id: 4473
 modified: 2024-11-16T14:57:51-05:00
-modified_gmt: 2024-11-16T19:57:51+00:00
 name: goodbye-twitter
 tags: [account, social, twitter]
 ---

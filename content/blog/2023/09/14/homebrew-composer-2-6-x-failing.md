@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2023-09-14T15:58:26-04:00
-date_gmt: 2023-09-14T19:58:26+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4141'
 id: 4141
 modified: 2023-09-14T15:58:26-04:00
-modified_gmt: 2023-09-14T19:58:26+00:00
 name: homebrew-composer-2-6-x-failing
 tags: [composer, homebrew, php, problem]
 ---

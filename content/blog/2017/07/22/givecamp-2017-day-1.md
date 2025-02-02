@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-07-22T00:31:17-05:00
-date_gmt: 2017-07-22T05:31:17+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1544'
 id: 1544
 modified: 2017-07-22T00:39:10-05:00
-modified_gmt: 2017-07-22T05:39:10+00:00
 name: givecamp-2017-day-1
 tags: [camping, event, givecamp, hot, project, web]
 ---

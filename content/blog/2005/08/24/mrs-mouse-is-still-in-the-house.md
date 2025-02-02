@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-08-24T01:49:24-04:00
-date_gmt: 2005-08-24T05:49:24+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/24/mrs-mouse-is-still-in-the-house/'
 id: 60
 modified: 2005-08-24T01:59:55-04:00
-modified_gmt: 2005-08-24T05:59:55+00:00
 name: mrs-mouse-is-still-in-the-house
 tags: [home]
 ---

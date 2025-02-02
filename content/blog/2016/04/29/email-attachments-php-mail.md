@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-04-29T00:27:02-05:00
-date_gmt: 2016-04-29T05:27:02+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1106'
 id: 1106
 modified: 2016-04-29T00:27:02-05:00
-modified_gmt: 2016-04-29T05:27:02+00:00
 name: email-attachments-php-mail
 tags: [email, php]
 ---

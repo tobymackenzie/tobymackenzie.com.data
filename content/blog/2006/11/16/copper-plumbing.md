@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2006-11-16T03:35:01-04:00
-date_gmt: 2006-11-16T07:35:01+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/11/16/copper-plumbing/'
 id: 125
 modified: 2007-12-22T07:09:58-05:00
-modified_gmt: 2007-12-22T12:09:58+00:00
 name: copper-plumbing
 tags: [home]
 ---

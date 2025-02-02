@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-09-28T07:10:48-05:00
-date_gmt: 2016-09-28T12:10:48+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1277'
 id: 1277
 modified: 2016-09-28T07:15:33-05:00
-modified_gmt: 2016-09-28T12:15:33+00:00
 name: 10k-apart-updated
 tags: [10kapart, development, git, project, update, web]
 ---

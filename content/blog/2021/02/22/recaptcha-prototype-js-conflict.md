@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-02-22T23:18:46-05:00
-date_gmt: 2021-02-23T04:18:46+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3300'
 id: 3300
 modified: 2021-02-22T23:18:46-05:00
-modified_gmt: 2021-02-23T04:18:46+00:00
 name: recaptcha-prototype-js-conflict
 tags: [captcha, javascript, problem]
 ---

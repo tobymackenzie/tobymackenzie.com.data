@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-01-21T22:05:47-05:00
-date_gmt: 2021-01-22T03:05:47+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3232'
 id: 3232
 modified: 2021-01-21T23:38:23-05:00
-modified_gmt: 2021-01-22T04:38:23+00:00
 name: apache-logs-command-line-tools
 tags: [apache, cli, log, server, web]
 ---

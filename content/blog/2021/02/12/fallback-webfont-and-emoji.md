@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-02-12T00:47:51-05:00
-date_gmt: 2021-02-12T05:47:51+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3277'
 id: 3277
 modified: 2021-02-12T19:19:26-05:00
-modified_gmt: 2021-02-13T00:19:26+00:00
 name: fallback-webfont-and-emoji
 tags: [font, performance, problem, web]
 ---

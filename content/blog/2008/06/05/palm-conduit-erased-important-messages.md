@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-06-05T02:54:18-05:00
-date_gmt: 2008-06-05T07:54:18+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=192'
 id: 192
 modified: 2008-06-21T17:03:20-05:00
-modified_gmt: 2008-06-21T22:03:20+00:00
 name: palm-conduit-erased-important-messages
 tags: [palm, phone]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2017-03-22T01:10:47-05:00
-date_gmt: 2017-03-22T06:10:47+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1424'
 id: 1424
 modified: 2017-03-22T01:10:47-05:00
-modified_gmt: 2017-03-22T06:10:47+00:00
 name: homeowner
 tags: [house]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2015-05-19T01:45:54-05:00
-date_gmt: 2015-05-19T06:45:54+00:00
 guid: 'http://tobymackenzie.name/log/?p=311'
 id: 311
 modified: 2015-05-19T01:45:54-05:00
-modified_gmt: 2015-05-19T06:45:54+00:00
 name: house-fire-down-the-street
 tags: [cleveland, event, fire]
 ---

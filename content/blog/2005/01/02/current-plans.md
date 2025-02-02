@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2005-01-02T20:20:52-04:00
-date_gmt: 2005-01-03T00:20:52+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/01/02/current-plans/'
 id: 130
 modified: 2022-03-08T20:48:21-05:00
-modified_gmt: 2022-03-09T01:48:21+00:00
 name: current-plans
 tags: [housing]
 ---

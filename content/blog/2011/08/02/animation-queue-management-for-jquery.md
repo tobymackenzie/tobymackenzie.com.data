@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2011-08-02T07:13:39+00:00
-date_gmt: 2011-08-02T07:13:39+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=449'
 id: 449
 modified: 2018-06-10T02:55:55-05:00
-modified_gmt: 2018-06-10T07:55:55+00:00
 name: animation-queue-management-for-jquery
 tags: [animation, javascript, jquery, queue]
 ---

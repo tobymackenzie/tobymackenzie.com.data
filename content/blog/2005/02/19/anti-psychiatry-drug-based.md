@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2005-02-19T06:33:22-04:00
-date_gmt: 2005-02-19T10:33:22+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/02/19/anti-psychiatry-drug-based/'
 id: 80
 modified: 2022-03-08T20:48:21-05:00
-modified_gmt: 2022-03-09T01:48:21+00:00
 name: anti-psychiatry-drug-based
 tags: [humans]
 ---

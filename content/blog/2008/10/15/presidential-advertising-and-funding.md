@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2008-10-15T22:03:27-05:00
-date_gmt: 2008-10-16T03:03:27+00:00
 guid: 'http://tmserver.local/log/?p=206'
 id: 206
 modified: 2022-03-08T20:57:26-05:00
-modified_gmt: 2022-03-09T01:57:26+00:00
 name: presidential-advertising-and-funding
 tags: [government, politics]
 ---

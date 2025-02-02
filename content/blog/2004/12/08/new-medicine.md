@@ -1,11 +1,9 @@
 ---
 categories: [ideas]
 date: 2004-12-08T02:16:37-04:00
-date_gmt: 2004-12-08T06:16:37+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/12/08/new-medicine/'
 id: 78
 modified: 2004-12-08T02:16:37-04:00
-modified_gmt: 2004-12-08T06:16:37+00:00
 name: new-medicine
 tags: [humans]
 ---

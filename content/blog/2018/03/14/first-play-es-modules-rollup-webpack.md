@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2018-03-14T23:58:26-05:00
-date_gmt: 2018-03-15T04:58:26+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1809'
 id: 1809
 modified: 2018-04-02T22:44:34-05:00
-modified_gmt: 2018-04-03T03:44:34+00:00
 name: first-play-es-modules-rollup-webpack
 tags: [build, development, javascript, method, module, site, web]
 ---

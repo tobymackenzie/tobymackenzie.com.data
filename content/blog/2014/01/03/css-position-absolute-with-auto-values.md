@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-01-03T02:08:21-05:00
-date_gmt: 2014-01-03T07:08:21+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=560'
 id: 560
 modified: 2014-01-03T02:08:21-05:00
-modified_gmt: 2014-01-03T07:08:21+00:00
 name: css-position-absolute-with-auto-values
 tags: [css]
 ---

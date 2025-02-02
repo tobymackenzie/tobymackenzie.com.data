@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2020-12-09T03:02:23-05:00
-date_gmt: 2020-12-09T08:02:23+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3159'
 id: 3159
 modified: 2020-12-17T01:54:23-05:00
-modified_gmt: 2020-12-17T06:54:23+00:00
 name: auto-conf-changes-unattended-upgrades
 tags: [hosting, linux, packagemanager, problem, ubuntu]
 ---

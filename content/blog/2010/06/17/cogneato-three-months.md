@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-06-17T12:24:39+00:00
-date_gmt: 2010-06-17T12:24:39+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=328'
 id: 429
 modified: 2010-06-17T12:24:39+00:00
-modified_gmt: 2010-06-17T12:24:39+00:00
 name: cogneato-three-months
 tags: [cogneato, jobs, web-development]
 ---

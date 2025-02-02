@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2012-11-15T06:26:51+00:00
-date_gmt: 2012-11-15T06:26:51+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=506'
 id: 506
 modified: 2018-08-31T19:11:19-04:00
-modified_gmt: 2018-08-31T23:11:19+00:00
 name: ie-10-and-css-grid-layout
 tags: [browsers, css, css3, grid, ie, layout]
 ---

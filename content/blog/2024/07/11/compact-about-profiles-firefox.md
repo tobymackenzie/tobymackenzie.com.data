@@ -1,13 +1,11 @@
 ---
 categories: [computer, www]
 date: 2024-07-11T15:10:51-04:00
-date_gmt: 2024-07-11T19:10:51+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4371'
 id: 4371
 image: 2024/07/about-profiles-compact.png
 image_alt: 'compact about profiles screenshot'
 modified: 2024-07-11T15:12:13-04:00
-modified_gmt: 2024-07-11T19:12:13+00:00
 name: compact-about-profiles-firefox
 tags: [css, firefox, fix, profile]
 ---

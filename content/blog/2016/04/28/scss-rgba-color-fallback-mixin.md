@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-04-28T23:04:50-05:00
-date_gmt: 2016-04-29T04:04:50+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1103'
 id: 1103
 modified: 2016-04-28T23:04:50-05:00
-modified_gmt: 2016-04-29T04:04:50+00:00
 name: scss-rgba-color-fallback-mixin
 pings: ['https://www.tobymackenzie.com/blog/2014/04/11/scss-rem-fallback-mixin/']
 tags: [color, mixin, progressiveenhancement, scss]

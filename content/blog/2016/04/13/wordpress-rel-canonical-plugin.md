@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2016-04-13T23:56:53-05:00
-date_gmt: 2016-04-14T04:56:53+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1077'
 id: 1077
 modified: 2016-04-16T00:09:51-05:00
-modified_gmt: 2016-04-16T05:09:51+00:00
 name: wordpress-rel-canonical-plugin
 pings: ['https://www.tobymackenzie.com/blog/2016/04/12/1071/']
 tags: [canonical, plugins, seo, wordpress]

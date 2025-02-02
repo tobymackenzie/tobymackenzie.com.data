@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2020-09-29T01:42:08-04:00
-date_gmt: 2020-09-29T05:42:08+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3052'
 id: 3052
 modified: 2020-09-29T01:42:08-04:00
-modified_gmt: 2020-09-29T05:42:08+00:00
 name: camping-trip-september-2020
 tags: [camping, event, family]
 ---

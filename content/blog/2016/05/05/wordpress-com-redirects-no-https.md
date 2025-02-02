@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-05-05T23:27:01-05:00
-date_gmt: 2016-05-06T04:27:01+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1133'
 id: 1133
 modified: 2016-05-06T00:28:52-05:00
-modified_gmt: 2016-05-06T05:28:52+00:00
 name: wordpress-com-redirects-no-https
 pings: ['https://www.tobymackenzie.com/blog/2016/04/13/wordpress-rel-canonical-plugin/']
 tags: [https, problem, redirect, service, wordpress-com]

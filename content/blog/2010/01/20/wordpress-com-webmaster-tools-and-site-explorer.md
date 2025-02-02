@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-01-20T02:30:18+00:00
-date_gmt: 2010-01-20T02:30:18+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=186'
 id: 186
 modified: 2010-01-20T02:30:18+00:00
-modified_gmt: 2010-01-20T02:30:18+00:00
 name: wordpress-com-webmaster-tools-and-site-explorer
 tags: [search, service, wordpress, wordpress-com]
 ---

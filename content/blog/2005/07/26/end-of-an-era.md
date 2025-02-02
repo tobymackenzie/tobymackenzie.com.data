@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-07-26T02:13:08-04:00
-date_gmt: 2005-07-26T06:13:08+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/26/end-of-an-era/'
 id: 55
 modified: 2005-07-26T02:13:08-04:00
-modified_gmt: 2005-07-26T06:13:08+00:00
 name: end-of-an-era
 tags: [yars]
 ---

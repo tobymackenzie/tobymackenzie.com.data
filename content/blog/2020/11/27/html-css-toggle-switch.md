@@ -1,13 +1,11 @@
 ---
 categories: [www]
 date: 2020-11-27T18:19:04-05:00
-date_gmt: 2020-11-27T23:19:04+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3117'
 id: 3117
 image: 2020/11/Screen-Shot-2021-01-21-at-23.41.40.png
 image_alt: 'demo of variations of the switches, snapshot'
 modified: 2021-01-21T23:47:15-05:00
-modified_gmt: 2021-01-22T04:47:15+00:00
 name: html-css-toggle-switch
 tags: [css, forms, html, widget]
 ---

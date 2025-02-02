@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2018-07-23T00:53:47-05:00
-date_gmt: 2018-07-23T05:53:47+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1965'
 id: 1965
 modified: 2018-07-23T00:53:47-05:00
-modified_gmt: 2018-07-23T05:53:47+00:00
 name: givecamp-2018-final-day-and-end
 tags: [cleveland, development, event, givecamp, nodejs, web]
 ---

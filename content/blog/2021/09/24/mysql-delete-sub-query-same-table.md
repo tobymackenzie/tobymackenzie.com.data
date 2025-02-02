@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2021-09-24T11:27:17-04:00
-date_gmt: 2021-09-24T15:27:17+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3512'
 id: 3512
 modified: 2021-09-24T11:27:44-04:00
-modified_gmt: 2021-09-24T15:27:44+00:00
 name: mysql-delete-sub-query-same-table
 tags: [mysql, problem, query, solution]
 ---

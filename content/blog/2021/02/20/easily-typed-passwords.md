@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2021-02-20T01:50:09-05:00
-date_gmt: 2021-02-20T06:50:09+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3291'
 id: 3291
 modified: 2021-02-20T01:50:09-05:00
-modified_gmt: 2021-02-20T06:50:09+00:00
 name: easily-typed-passwords
 tags: [password, security, ux]
 ---

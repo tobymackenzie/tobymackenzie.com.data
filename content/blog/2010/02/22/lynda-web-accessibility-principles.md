@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-22T13:31:24+00:00
-date_gmt: 2010-02-22T13:31:24+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=261'
 id: 418
 modified: 2010-02-22T13:31:24+00:00
-modified_gmt: 2010-02-22T13:31:24+00:00
 name: lynda-web-accessibility-principles
 tags: [accessibility, certificate, lynda]
 ---

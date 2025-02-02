@@ -1,12 +1,10 @@
 ---
 categories: [www]
 date: 2014-07-28T01:44:28-05:00
-date_gmt: 2014-07-28T06:44:28+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=645'
 id: 645
 image: 2014/07/screen-shot-2014-07-28-at-02-31-32.jpg
 modified: 2017-02-02T18:44:18-05:00
-modified_gmt: 2017-02-02T23:44:18+00:00
 name: givecamp-2014-lake-erie-ink
 tags: [givecamp, map, project, responsive, web, wordpress]
 ---

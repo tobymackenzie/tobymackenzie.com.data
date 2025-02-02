@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2005-07-05T02:00:27-04:00
-date_gmt: 2005-07-05T06:00:27+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/05/lakewood-class-of-2000-folk/'
 id: 46
 modified: 2005-07-05T02:08:51-04:00
-modified_gmt: 2005-07-05T06:08:51+00:00
 name: lakewood-class-of-2000-folk
 ---
 

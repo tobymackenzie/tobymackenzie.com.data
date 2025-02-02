@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2015-10-06T02:18:28-04:00
-date_gmt: 2015-10-06T06:18:28+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=703'
 id: 703
 modified: 2024-08-01T12:29:29-04:00
-modified_gmt: 2024-08-01T16:29:29+00:00
 name: 404-with-autofilling-form
 tags: ['404', error, frontend, symfony, web]
 ---

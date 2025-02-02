@@ -2,11 +2,9 @@
 categories: [ideas, www]
 comment_count: 1
 date: 2016-01-12T04:00:05-05:00
-date_gmt: 2016-01-12T09:00:05+00:00
 guid: 'https://tobymackenzie.wordpress.com/?p=811'
 id: 811
 modified: 2016-01-12T04:00:05-05:00
-modified_gmt: 2016-01-12T09:00:05+00:00
 name: local-proxy-remote-hosting-personal-site
 tags: [cache, hosting, indieweb, selfhosting]
 ---

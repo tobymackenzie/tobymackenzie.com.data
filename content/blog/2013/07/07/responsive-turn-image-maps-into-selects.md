@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2013-07-07T23:56:26-05:00
-date_gmt: 2013-07-08T04:56:26+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=540'
 id: 540
 modified: 2020-11-26T21:11:00-05:00
-modified_gmt: 2020-11-27T02:11:00+00:00
 name: responsive-turn-image-maps-into-selects
 tags: [javascript, responsive]
 ---

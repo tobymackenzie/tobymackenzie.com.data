@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2010-01-26T10:40:06+00:00
-date_gmt: 2010-01-26T10:40:06+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=192'
 id: 408
 modified: 2017-10-30T22:37:21-05:00
-modified_gmt: 2017-10-31T03:37:21+00:00
 name: awstats
 tags: [awstats, host, statistics]
 ---

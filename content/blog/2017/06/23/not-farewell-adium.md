@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2017-06-23T01:40:57-05:00
-date_gmt: 2017-06-23T06:40:57+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1510'
 id: 1510
 modified: 2017-06-23T01:40:57-05:00
-modified_gmt: 2017-06-23T06:40:57+00:00
 name: not-farewell-adium
 tags: [adium, aim, app]
 ---

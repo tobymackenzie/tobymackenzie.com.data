@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-06-09T22:45:43-04:00
-date_gmt: 2005-06-10T02:45:43+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/09/first-sailing-trip/'
 id: 36
 modified: 2005-06-09T22:45:43-04:00
-modified_gmt: 2005-06-10T02:45:43+00:00
 name: first-sailing-trip
 tags: [boat]
 ---

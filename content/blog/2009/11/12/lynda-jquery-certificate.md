@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-11-12T21:54:01+00:00
-date_gmt: 2009-11-12T21:54:01+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=94'
 id: 392
 modified: 2019-03-15T20:10:29-04:00
-modified_gmt: 2019-03-16T00:10:29+00:00
 name: lynda-jquery-certificate
 tags: [certificate, jquery, learning, lynda]
 ---

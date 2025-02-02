@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-08-14T00:19:09-05:00
-date_gmt: 2008-08-14T05:19:09+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=204'
 id: 204
 modified: 2008-08-14T00:19:09-05:00
-modified_gmt: 2008-08-14T05:19:09+00:00
 name: my-first-sailing-race
 tags: [boat, race, sailing]
 ---

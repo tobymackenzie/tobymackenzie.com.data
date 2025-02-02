@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2010-10-20T02:40:36+00:00
-date_gmt: 2010-10-20T02:40:36+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=404'
 id: 441
 modified: 2016-04-04T21:09:38-05:00
-modified_gmt: 2016-04-05T02:09:38+00:00
 name: css3-text-rotation-rendering-problems
 tags: [css, css3, problem, rotation]
 ---

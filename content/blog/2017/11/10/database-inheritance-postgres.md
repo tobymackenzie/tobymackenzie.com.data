@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2017-11-10T02:15:27-05:00
-date_gmt: 2017-11-10T07:15:27+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1663'
 id: 1663
 modified: 2017-11-10T02:24:55-05:00
-modified_gmt: 2017-11-10T07:24:55+00:00
 name: database-inheritance-postgres
 tags: [database, inheritance, objects, oo, orm, postgres]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2010-03-27T03:38:59+00:00
-date_gmt: 2010-03-27T03:38:59+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=291'
 id: 424
 modified: 2010-03-27T03:38:59+00:00
-modified_gmt: 2010-03-27T03:38:59+00:00
 name: my-new-computer
 tags: [ie, mac, macbook, os, parallels, windows]
 ---

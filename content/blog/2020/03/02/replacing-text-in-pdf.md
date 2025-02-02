@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2020-03-02T02:36:13-05:00
-date_gmt: 2020-03-02T07:36:13+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2666'
 id: 2666
 modified: 2020-03-02T02:36:13-05:00
-modified_gmt: 2020-03-02T07:36:13+00:00
 name: replacing-text-in-pdf
 tags: [pdf, script, shell]
 ---

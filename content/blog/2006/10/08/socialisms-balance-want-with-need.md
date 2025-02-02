@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2006-10-08T03:13:59-04:00
-date_gmt: 2006-10-08T07:13:59+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/10/08/socialisms-balance-want-with-need/'
 id: 118
 modified: 2022-03-08T20:48:13-05:00
-modified_gmt: 2022-03-09T01:48:13+00:00
 name: socialisms-balance-want-with-need
 tags: [government]
 ---

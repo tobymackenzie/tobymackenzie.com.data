@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-06-21T00:25:23-05:00
-date_gmt: 2017-06-21T05:25:23+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1504'
 id: 1504
 modified: 2017-06-21T00:25:23-05:00
-modified_gmt: 2017-06-21T05:25:23+00:00
 name: end-of-del-icio-us
 tags: [app, bookmark, links]
 ---

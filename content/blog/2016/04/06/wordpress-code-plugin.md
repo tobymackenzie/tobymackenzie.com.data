@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2016-04-06T23:13:49-05:00
-date_gmt: 2016-04-07T04:13:49+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1063'
 id: 1063
 modified: 2016-06-30T22:47:07-05:00
-modified_gmt: 2016-07-01T03:47:07+00:00
 name: wordpress-code-plugin
 tags: [code, move, plugins, shortcodes, wordpress, wordpress-com]
 ---

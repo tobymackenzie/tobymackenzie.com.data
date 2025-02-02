@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas, www]
 date: 2005-05-24T02:19:02-05:00
-date_gmt: 2005-05-24T07:19:02+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/05/24/hierarchical-site-db-storage/'
 id: 31
 modified: 2022-03-08T20:48:16-05:00
-modified_gmt: 2022-03-09T01:48:16+00:00
 name: hierarchical-site-db-storage
 tags: [sites]
 ---

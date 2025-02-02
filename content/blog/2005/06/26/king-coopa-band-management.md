@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-06-26T09:37:24-04:00
-date_gmt: 2005-06-26T13:37:24+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/26/king-coopa-band-management/'
 id: 42
 modified: 2005-06-26T09:37:24-04:00
-modified_gmt: 2005-06-26T13:37:24+00:00
 name: king-coopa-band-management
 tags: [yars]
 ---

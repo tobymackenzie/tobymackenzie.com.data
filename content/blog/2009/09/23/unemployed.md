@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2009-09-23T05:16:15-05:00
-date_gmt: 2009-09-23T10:16:15+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=233'
 id: 233
 modified: 2009-09-23T05:16:15-05:00
-modified_gmt: 2009-09-23T10:16:15+00:00
 name: unemployed
 tags: [internship, job, life, rpm, school]
 ---

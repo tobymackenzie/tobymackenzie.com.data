@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2009-02-15T05:49:27-05:00
-date_gmt: 2009-02-15T10:49:27+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2009/02/15/shyness-love/'
 id: 213
 modified: 2009-02-15T05:49:27-05:00
-modified_gmt: 2009-02-15T10:49:27+00:00
 name: shyness-love
 tags: [books, life, love]
 ---

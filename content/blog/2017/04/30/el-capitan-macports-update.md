@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2017-04-30T07:58:22-05:00
-date_gmt: 2017-04-30T12:58:22+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1463'
 id: 1463
 modified: 2021-04-03T01:11:57-04:00
-modified_gmt: 2021-04-03T05:11:57+00:00
 name: el-capitan-macports-update
 pings: ['https://www.tobymackenzie.com/blog/2017/01/04/mac-update-snow-leopard-capitan/', 'https://www.tobymackenzie.com/blog/2017/04/12/1447/']
 tags: [macports, packagemanager, problem, update]

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2023-01-30T00:51:58-05:00
-date_gmt: 2023-01-30T05:51:58+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3940'
 id: 3940
 modified: 2023-01-30T00:51:58-05:00
-modified_gmt: 2023-01-30T05:51:58+00:00
 name: rip-jack
 tags: [animal, death, dog, family]
 ---

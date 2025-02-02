@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-25T09:28:49+00:00
-date_gmt: 2010-02-25T09:28:49+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=265'
 id: 419
 modified: 2017-02-21T23:46:49-05:00
-modified_gmt: 2017-02-22T04:46:49+00:00
 name: samba-mockups-in-html
 tags: [design, layout, mockup, samba-soccer]
 ---

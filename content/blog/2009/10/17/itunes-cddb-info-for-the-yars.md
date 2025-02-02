@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2009-10-17T01:53:31-05:00
-date_gmt: 2009-10-17T06:53:31+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=241'
 id: 241
 modified: 2020-05-05T01:11:33-04:00
-modified_gmt: 2020-05-05T05:11:33+00:00
 name: itunes-cddb-info-for-the-yars
 tags: [angry, itunes, music, problem, yars]
 ---

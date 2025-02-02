@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-08-21T05:03:47+00:00
-date_gmt: 2010-08-21T05:03:47+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=373'
 id: 436
 modified: 2023-06-19T23:30:23-04:00
-modified_gmt: 2023-06-20T03:30:23+00:00
 name: php-outputting-lists-in-arbitrary-number-of-columns
 tags: [columns, php]
 ---

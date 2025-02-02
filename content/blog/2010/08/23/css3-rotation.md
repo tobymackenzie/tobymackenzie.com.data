@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 1
 date: 2010-08-23T07:33:33+00:00
-date_gmt: 2010-08-23T07:33:33+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=380'
 id: 437
 modified: 2016-05-04T22:50:41-05:00
-modified_gmt: 2016-05-05T03:50:41+00:00
 name: css3-rotation
 tags: [css3, rotation]
 ---

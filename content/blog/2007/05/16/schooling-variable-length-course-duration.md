@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2007-05-16T04:28:14-05:00
-date_gmt: 2007-05-16T09:28:14+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/16/schooling-variable-length-course-duration/'
 id: 144
 modified: 2022-03-08T20:58:18-05:00
-modified_gmt: 2022-03-09T01:58:18+00:00
 name: schooling-variable-length-course-duration
 tags: [education, humans]
 ---

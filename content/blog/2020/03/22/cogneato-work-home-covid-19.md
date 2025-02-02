@@ -1,11 +1,9 @@
 ---
 categories: [toby, www]
 date: 2020-03-22T02:50:23-04:00
-date_gmt: 2020-03-22T06:50:23+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2734'
 id: 2734
 modified: 2020-03-30T02:01:40-04:00
-modified_gmt: 2020-03-30T06:01:40+00:00
 name: cogneato-work-home-covid-19
 tags: [covid-19, job, telecommute]
 ---

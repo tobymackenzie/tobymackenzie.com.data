@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas]
 date: 2011-04-03T22:30:56-05:00
-date_gmt: 2011-04-04T03:30:56+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=295'
 id: 295
 modified: 2022-03-08T20:57:26-05:00
-modified_gmt: 2022-03-09T01:57:26+00:00
 name: taxes-income-tax-simplification-of-forms
 tags: [government, taxes]
 ---

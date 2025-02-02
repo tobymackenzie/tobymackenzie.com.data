@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2022-12-07T12:07:17-05:00
-date_gmt: 2022-12-07T17:07:17+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3898'
 id: 3898
 modified: 2022-12-07T12:07:17-05:00
-modified_gmt: 2022-12-07T17:07:17+00:00
 name: github-repo-backup-script
 tags: [backup, git, github, script]
 ---

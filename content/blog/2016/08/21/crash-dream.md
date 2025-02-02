@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2016-08-21T05:50:40-05:00
-date_gmt: 2016-08-21T10:50:40+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1229'
 id: 1229
 modified: 2016-08-21T05:50:40-05:00
-modified_gmt: 2016-08-21T10:50:40+00:00
 name: crash-dream
 tags: [car, crash, dream, driving]
 ---

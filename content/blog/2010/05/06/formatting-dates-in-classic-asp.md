@@ -2,11 +2,9 @@
 categories: [www]
 comment_count: 2
 date: 2010-05-06T02:18:46+00:00
-date_gmt: 2010-05-06T02:18:46+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=300'
 id: 300
 modified: 2016-04-04T21:03:36-05:00
-modified_gmt: 2016-04-05T02:03:36+00:00
 name: formatting-dates-in-classic-asp
 tags: [asp, dates, functions, rpm]
 ---

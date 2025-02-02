@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2007-10-26T15:41:57-05:00
-date_gmt: 2007-10-26T20:41:57+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/10/26/leopardmac-os-x5-first-impressions/'
 id: 156
 modified: 2007-10-27T23:15:55-05:00
-modified_gmt: 2007-10-28T04:15:55+00:00
 name: leopardmac-os-x5-first-impressions
 ---
 

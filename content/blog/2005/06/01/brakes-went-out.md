@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-06-01T22:31:26-04:00
-date_gmt: 2005-06-02T02:31:26+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/01/brakes-went-out/'
 id: 33
 modified: 2005-06-01T22:31:26-04:00
-modified_gmt: 2005-06-02T02:31:26+00:00
 name: brakes-went-out
 tags: [car]
 ---

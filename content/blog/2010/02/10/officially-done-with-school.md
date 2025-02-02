@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2010-02-10T04:09:33+00:00
-date_gmt: 2010-02-10T04:09:33+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=247'
 id: 414
 modified: 2010-02-10T04:09:33+00:00
-modified_gmt: 2010-02-10T04:09:33+00:00
 name: officially-done-with-school
 tags: [graduation, school, tri-c]
 ---

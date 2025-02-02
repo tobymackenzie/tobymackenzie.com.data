@@ -1,11 +1,9 @@
 ---
 categories: [ideas, ideas, www]
 date: 2005-04-29T03:44:33-05:00
-date_gmt: 2005-04-29T08:44:33+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/04/29/design-problem-solutionstutorial-database/'
 id: 26
 modified: 2022-03-08T20:48:16-05:00
-modified_gmt: 2022-03-09T01:48:16+00:00
 name: design-problem-solutionstutorial-database
 tags: [sites]
 ---

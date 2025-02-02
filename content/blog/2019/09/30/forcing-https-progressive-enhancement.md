@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2019-09-30T00:35:49-04:00
-date_gmt: 2019-09-30T04:35:49+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2528'
 id: 2528
 modified: 2019-09-30T00:35:49-04:00
-modified_gmt: 2019-09-30T04:35:49+00:00
 name: forcing-https-progressive-enhancement
 tags: [https, progressiveenhancement, site, web]
 ---

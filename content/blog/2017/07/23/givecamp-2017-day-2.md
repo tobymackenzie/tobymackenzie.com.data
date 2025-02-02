@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2017-07-23T01:08:41-05:00
-date_gmt: 2017-07-23T06:08:41+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1548'
 id: 1548
 modified: 2017-08-05T01:19:09-05:00
-modified_gmt: 2017-08-05T06:19:09+00:00
 name: givecamp-2017-day-2
 tags: [development, ecommerce, event, givecamp, web]
 ---

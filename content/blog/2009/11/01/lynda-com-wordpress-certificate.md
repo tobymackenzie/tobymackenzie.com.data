@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2009-11-01T11:01:53+00:00
-date_gmt: 2009-11-01T11:01:53+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=84'
 id: 389
 modified: 2009-11-01T11:01:53+00:00
-modified_gmt: 2009-11-01T11:01:53+00:00
 name: lynda-com-wordpress-certificate
 tags: [assignment, learning, lynda, webiiclass, wordpress]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2022-02-08T23:29:12-05:00
-date_gmt: 2022-02-09T04:29:12+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3634'
 id: 3634
 modified: 2023-05-15T22:24:03-04:00
-modified_gmt: 2023-05-16T02:24:03+00:00
 name: impreza-transmission-death
 tags: [car, fix, problem, subaru]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby, www]
 date: 2016-10-01T20:54:55-05:00
-date_gmt: 2016-10-02T01:54:55+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=1282'
 id: 1282
 modified: 2016-10-13T22:01:25-05:00
-modified_gmt: 2016-10-14T03:01:25+00:00
 name: akron-art-prize-2016
 pings: ['https://www.tobymackenzie.com/blog/2016/09/02/sign-and-submit-phonegap-app-for-ios-and-android/']
 tags: [akron, art, development, event, web]

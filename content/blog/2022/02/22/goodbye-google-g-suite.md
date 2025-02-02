@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2022-02-22T11:19:48-05:00
-date_gmt: 2022-02-22T16:19:48+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3645'
 id: 3645
 modified: 2022-02-22T11:19:48-05:00
-modified_gmt: 2022-02-22T16:19:48+00:00
 name: goodbye-google-g-suite
 tags: [email, fastmail, google, service]
 ---

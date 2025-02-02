@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-01-27T00:38:03-05:00
-date_gmt: 2014-01-27T05:38:03+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=564'
 id: 564
 modified: 2014-01-27T00:38:03-05:00
-modified_gmt: 2014-01-27T05:38:03+00:00
 name: my-new-resume-site
 tags: [my, project, site]
 ---

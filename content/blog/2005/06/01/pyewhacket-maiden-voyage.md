@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-06-01T23:38:39-04:00
-date_gmt: 2005-06-02T03:38:39+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/01/pyewhacket-maiden-voyage/'
 id: 34
 modified: 2005-06-09T22:46:27-04:00
-modified_gmt: 2005-06-10T02:46:27+00:00
 name: pyewhacket-maiden-voyage
 tags: [boat]
 ---

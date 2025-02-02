@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2006-07-07T19:52:50-04:00
-date_gmt: 2006-07-07T23:52:50+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/07/07/a-short-trip-with-light-wind/'
 id: 113
 modified: 2006-07-07T19:52:50-04:00
-modified_gmt: 2006-07-07T23:52:50+00:00
 name: a-short-trip-with-light-wind
 tags: [boat]
 ---

@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2008-04-09T03:25:21-05:00
-date_gmt: 2008-04-09T08:25:21+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=189'
 id: 189
 modified: 2008-04-09T03:25:21-05:00
-modified_gmt: 2008-04-09T08:25:21+00:00
 name: first-motorcycle-run
 tags: [motorcycle]
 ---

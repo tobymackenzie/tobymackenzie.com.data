@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2005-08-31T00:12:14-04:00
-date_gmt: 2005-08-31T04:12:14+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/31/yars-are-on-hiatus/'
 id: 61
 modified: 2005-08-31T00:12:14-04:00
-modified_gmt: 2005-08-31T04:12:14+00:00
 name: yars-are-on-hiatus
 tags: [yars]
 ---

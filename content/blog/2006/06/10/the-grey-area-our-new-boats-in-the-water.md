@@ -1,11 +1,9 @@
 ---
 categories: {  }
 date: 2006-06-10T14:31:39-04:00
-date_gmt: 2006-06-10T18:31:39+00:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/06/10/the-grey-area-our-new-boats-in-the-water/'
 id: 108
 modified: 2006-06-10T14:31:39-04:00
-modified_gmt: 2006-06-10T18:31:39+00:00
 name: the-grey-area-our-new-boats-in-the-water
 tags: [boat]
 ---

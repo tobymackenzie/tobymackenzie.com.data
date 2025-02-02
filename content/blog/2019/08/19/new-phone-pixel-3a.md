@@ -1,11 +1,9 @@
 ---
 categories: [toby]
 date: 2019-08-19T02:38:50-04:00
-date_gmt: 2019-08-19T06:38:50+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2479'
 id: 2479
 modified: 2024-02-13T22:59:07-05:00
-modified_gmt: 2024-02-14T03:59:07+00:00
 name: new-phone-pixel-3a
 pings: ['https://www.tobymackenzie.com/blog/2018/11/17/2123/', 'https://www.tobymackenzie.com/blog/2019/01/06/t-mobile-plan-change-debacle/']
 tags: [phone, plan, problem, purchase, tmobile]

@@ -1,11 +1,9 @@
 ---
 categories: [computer]
 date: 2020-04-13T03:00:36-04:00
-date_gmt: 2020-04-13T07:00:36+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2791'
 id: 2791
 modified: 2021-09-02T23:43:16-04:00
-modified_gmt: 2021-09-03T03:43:16+00:00
 name: color-shell-prompt-for-available-colors
 tags: [cli, color, shell, style]
 ---

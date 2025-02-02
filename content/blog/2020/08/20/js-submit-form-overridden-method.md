@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2020-08-20T02:08:22-04:00
-date_gmt: 2020-08-20T06:08:22+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3001'
 id: 3001
 modified: 2020-08-20T02:08:22-04:00
-modified_gmt: 2020-08-20T06:08:22+00:00
 name: js-submit-form-overridden-method
 tags: [forms, javascript, solution]
 ---

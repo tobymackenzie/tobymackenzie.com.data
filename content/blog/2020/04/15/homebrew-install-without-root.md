@@ -1,11 +1,9 @@
 ---
 categories: [computer, www]
 date: 2020-04-15T01:51:02-04:00
-date_gmt: 2020-04-15T05:51:02+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2800'
 id: 2800
 modified: 2021-09-07T00:29:16-04:00
-modified_gmt: 2021-09-07T04:29:16+00:00
 name: homebrew-install-without-root
 tags: [homebrew, packagemanager, permissions]
 ---

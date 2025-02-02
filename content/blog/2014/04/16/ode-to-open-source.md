@@ -1,11 +1,9 @@
 ---
 categories: [www]
 date: 2014-04-16T00:14:23-05:00
-date_gmt: 2014-04-16T05:14:23+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=595'
 id: 595
 modified: 2014-04-16T00:14:23-05:00
-modified_gmt: 2014-04-16T05:14:23+00:00
 name: ode-to-open-source
 tags: [opensource, thoughts]
 ---

@@ -1,12 +1,10 @@
 ---
 categories: [www]
 date: 2022-09-09T00:18:55-04:00
-date_gmt: 2022-09-09T04:18:55+00:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3821'
 id: 3821
 image: 2022/09/Screen-Shot-2022-09-08-at-23.49.05.png
 modified: 2023-04-11T15:58:11-04:00
-modified_gmt: 2023-04-11T19:58:11+00:00
 name: wordpress-quick-dirty-dark-mode-admin
 tags: [ab, admin, dark-mode, plugin, wordpress]
 ---

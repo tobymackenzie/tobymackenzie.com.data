@@ -2,11 +2,9 @@
 categories: [toby, toby]
 comment_count: 1
 date: 2009-07-25T23:40:56-05:00
-date_gmt: 2009-07-26T04:40:56+00:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=220'
 id: 220
 modified: 2010-06-30T22:46:18-05:00
-modified_gmt: 2010-07-01T03:46:18+00:00
 name: my-new-car
 tags: [car, purchase]
 ---
