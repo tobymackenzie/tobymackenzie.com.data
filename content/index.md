@@ -24,6 +24,31 @@ My online presences
 	<li class="presence"><a class="presenceAction-packagist" rel="me" href="https://packagist.org/users/tobymackenzie/"><span>My Packagist</span></a></li>
 </ul>
 
+Blog: select posts
+------------------
+
+- [Site partially static](/content/blog/2024/07/26/site-partially-static.md) (2024 in WWW)
+- [Bumping version tags with git](/content/blog/2023/12/27/bumping-version-tags-with-git.md) (2023 in WWW)
+- [CSS Wishlist](/content/blog/2023/02/25/css-wishlist.md) (2023 in WWW)
+- [Ideas: Cascading Behavior Sheets, a declarative alternative to JS](/content/blog/2022/11/23/idea-declarative-alternative-to-js.md) (2022 in WWW)
+- [WordPress dark mode for admin, quick and dirty](/content/blog/2022/09/09/wordpress-quick-dirty-dark-mode-admin/) (2022 in WWW)
+- [Ideas: compute furnace](/content/blog/2021/02/18/ideas-compute-furnace.md) (2021 in Thoughts & Ideas)
+- [Fighting form spam](/content/blog/2021/02/09/fighting-form-spam.md) (2021 in WWW)
+- [Simple MySQL backup script](/content/blog/2020/09/19/simple-mysql-backup-script.md) (2020 in WWW)
+- [Automatically reconnect PDO when connection times out](/content/blog/2020/08/18/automatic-reconnect-pdo-connection-time-out.md) (2020 in WWW)
+- [Letsencrypt: Shared verification web-root for all domains](/content/blog/2019/11/23/letsencrypt-shared-web-root-all-domains.md) (2019 in WWW)
+- [Forcing HTTPS and progressive enhancement](/content/blog/2019/09/30/forcing-https-progressive-enhancement.md) (2019 in WWW)
+- [Website Snow Script](/content/blog/2018/12/26/website-snow-script.md) (2018 in WWW)
+- [10k Apart: Notable Mention](/content/blog/2016/11/04/10k-apart-notable-mention.md) (2016 in WWW)
+- [Ideas: Remotely hosted personal site with home data store that syncs as client](/content/blog/2016/08/14/remotely-hosted-personal-site-with-home-data-store.md) (2016 in WWW)
+- [Line Mode Browser, or progressive enhancement all the way back](/content/blog/2015/12/13/line-mode-progressive-enhancement.md) (2015 in WWW)
+- [Cogneato: A New Job](/content/blog/2010/03/13/cogneato-a-new-job.md) (2010 in WWW)
+- [mail to person, not address](/content/blog/2007/05/04/mail-to-person-not-address.md) (2007 in Thoughts & Ideas)
+- [Capitalocracy](/content/blog/2006/10/19/capitalocracy.md) (2006 in Thoughts & Ideas)
+- [multiple votes](/content/blog/2006/10/19/multiple-votes.md) (2006 in Thoughts & Ideas)
+- [Waste Handling](/content/blog/2005/03/31/waste-handling.md) (2005 in Thoughts & Ideas)
+- [First Post](/content/blog/2003/07/31/9.md) (2003 in Personal)
+
 Shout-outs
 ----------
 
