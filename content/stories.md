@@ -1,0 +1,1 @@
+I like stories.  I spend and have spent a great deal of my time ingesting them.  I like them as [books](/content/books.md), [TV shows](/content/tv.md), [movies](/content/movies.md), &c.  I like both fiction and non-fiction stories.  I am particularly fond of [science fiction](/content/sci-fi.md) stories.  Maybe someday I will write stories.
