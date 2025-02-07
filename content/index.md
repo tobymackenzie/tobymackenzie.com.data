@@ -53,6 +53,7 @@ Shout-outs
 ----------
 
 - my family, friends, and co-workers
+- the color green
 - tea
 - [Columbo](https://smile.amazon.com/gp/product/B07B64Z7HQ/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1): classic TV detective
 - Phillip K. Dick: classic sci-fi writer
