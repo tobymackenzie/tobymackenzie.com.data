@@ -61,7 +61,7 @@ Shout-outs
 - Resident Alien: sci-fi comedy
 - interested in Onyx Mira eInk monitor: nice looking but expensive, waiting for color version (must syntax highlight)
 - Cleveland / Ohio sportsball: Cavaliers, Guardians, Browns?, Blue Jackets
-- interested in [StarLabs StarLite](https://us.starlabs.systems/pages/starlite): Linux first convertible tablet with good specs, reasonable price, user replaceable parts (planned), Coreboot
+- interested in [StarLabs StarLite](https://us.starlabs.systems/pages/starlite): Linux first convertible tablet with good specs, reasonable price, user replaceable parts (planned), Coreboot.  Also interested in their [Byte mini PC](https://us.starlabs.systems/pages/byte).
 - interested in [framework](https://frame.work/), who makes laptops that are user serviceable / upgradable, with parts readily available from their marketplace.  Waiting for touch.
 - interested in the [Librem 5 phone](https://puri.sm/products/librem-5/) by Purism, a Linux phone but expensive and old hardware.
 
