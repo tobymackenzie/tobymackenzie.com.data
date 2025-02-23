@@ -3,7 +3,7 @@ categories: [www]
 date: 2025-02-22T16:26:19-05:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4518'
 id: 4518
-modified: 2025-02-22T16:26:19-05:00
+modified: 2025-02-22T23:38:44-05:00
 name: starting-with-magento-react
 tags: [advice, learning, web-development]
 ---
@@ -14,6 +14,8 @@ Starting with Magento / React JS
 My cousin expressed interest in learning Magento and React JS.  I know neither, but I wrote up some related web development info that might be helpful for him.  He would be working on a Windows machine.  He also asked about setting up a home file server.  Since this all might also be useful to someone else, I'm adding it here:
 
 Here are some notes on web development stuff that you might find useful.
+
+<!--more-->
 
 Browser: Chrome, Firefox, et al have good developer tools with F12 or inspect element.  In web development these will be used a lot and you can learn a lot about a page from them.  You can create a '.html' file on your disk and load it in a browser for a quick development setup.
 
