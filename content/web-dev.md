@@ -42,9 +42,7 @@ Projects
 I've worked on over a hundred sites with Cogneato, to various degrees, including:
 
 - [Sweet Modern](https://sweetmodern.com/)
-- [Citiview](https://thecitiview.com/cleveland/)
 - [Tuesday Musical](https://www.tuesdaymusical.org/)
-- [Iron Spring Farm](https://www.ironspringfarm.com/)
 - [Arrowhead Lapidary Supplies](https://arrowheadlapidarysupply.com/)
 - [Canton Road Garden Center](https://www.cantonroadgarden.com/)
 - [Ron White Art](http://ronwhiteart.com/)
@@ -52,9 +50,11 @@ I've worked on over a hundred sites with Cogneato, to various degrees, including
 - [Akron Roundtable](https://www.akronroundtable.org)
 - [Helen Welch](https://helenwelch.com/)
 - [Meadows Museum Dallas - Collections](https://meadowsmuseumdallas.org/collections/)
+- [Rockin Houston](https://www.rockinhouston.com/)
 - [Creme de la Creme](http://cremedelacremecakes.com/)
 - Akron Symphony (no longer with Cogneato)
 - Akron Art Museum (no longer with Cogneato)
+- Iron Spring Farm (no longer with Cogneato)
 
 I've also worked on a handful of phone applications using PhoneGap, which utilizes web technologies.  The most notable would be a voting application for the Akron Art Prize / High Arts Festival.
 
