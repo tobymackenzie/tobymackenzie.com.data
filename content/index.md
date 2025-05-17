@@ -68,15 +68,12 @@ Shout-outs
 Quotes
 ------
 
-<blockquote>If America does not use her vast resources of wealth to end poverty and make it possible for all of god's children to have the basic necessities of life, she too will go to hell.</blockquote>
-<div class="attribution">- Marin Luther King, Jr.</div>
-
-<blockquote>Beltalowda ✊🏻</blockquote>
-<div class="attribution">- The Expanse</div>
-
-<blockquote>… artists use lies to tell the truth, while politicians use them to cover the truth up.</blockquote>
-<div class="attribution">- Evey, <a href="https://www.imdb.com/title/tt0434409/"><i>V for Vendetta</i></a></div>
+<blockquote>I absolutely believe that people are more good on balance than bad.  All the wars and all of the cruelty and all of the violence.  I'm not looking away from any of that, and I still think there's something beautiful about being what we are.  History is soaked in blood.  The future probably will be too.  But for every atrocity, there's a thousand small kindnesses that no one noticed.  A hundred people who spent their lives loving and caring for each other.  A few moments of real grace.  Maybe it's only a little more good than bad in us, but…</blockquote>
+<div class="attribution">- Jame's Holden, <i>Leviathan Falls</i><br />James Corey</div>
 
 <blockquote>Having something requires giving something else up.</blockquote>
+
+<blockquote>The sleeper must awaken.</blockquote>
+<div class="attribution">- Dune (film)</div>
 
 [More quotes >](/content/quotes.md)
