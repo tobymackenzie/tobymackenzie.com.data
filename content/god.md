@@ -1,0 +1,1 @@
+I have been an agnostic or athiest depending on when you asked me.  But I do feel like there is a a guiding energy in all things, more like the Christian idea of Holy Spirit than a big guy in the sky.  What is good and beautiful in that energy could be called God.
