@@ -1,7 +1,7 @@
 Home
 =====
 
-Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.  Come on in.  Find out more [about me](/content/about.md) or [my web development career](/content/web-dev.md).  Visit [my web-pipe](/content/blog) to find out what's happening in Toby land.
+Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio, USA.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.  Come on in.  Find out more [about me](/content/about.md) or [my web development career](/content/web-dev.md).  Visit [my web-pipe](/content/blog) to find out what's happening in Toby land.
 
 Me in brief
 -----------
@@ -55,25 +55,26 @@ Shout-outs
 - my family, friends, and co-workers
 - the color green
 - tea
+- dogs: mans best friend
 - [Columbo](https://smile.amazon.com/gp/product/B07B64Z7HQ/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1): classic TV detective
 - Phillip K. Dick: classic sci-fi writer
 - The Expanse: great TV and book space sci-fi series
-- Resident Alien: sci-fi comedy
 - interested in Onyx Mira eInk monitor: nice looking but expensive, waiting for color version (must syntax highlight)
 - Cleveland / Ohio sportsball: Cavaliers, Guardians, Browns?, Blue Jackets
+- [Bangle.js 2 smartwatch](https://shop.espruino.com/banglejs2): hackable, open source
 - interested in [StarLabs StarLite](https://us.starlabs.systems/pages/starlite): Linux first convertible tablet with good specs, reasonable price, user replaceable parts (planned), Coreboot.  Also interested in their [Byte mini PC](https://us.starlabs.systems/pages/byte).
-- interested in [framework](https://frame.work/), who makes laptops that are user serviceable / upgradable, with parts readily available from their marketplace.  Waiting for touch.
-- interested in the [Librem 5 phone](https://puri.sm/products/librem-5/) by Purism, a Linux phone but expensive and old hardware.
+- interested in [Framework](https://frame.work/), who makes laptops that are user serviceable / upgradable, with parts readily available from their marketplace.  Waiting for touch, coreboot.
+- interested in [Minimal Phone](https://minimalcompany.com/): Android smartphone with e-ink display, keyboard
 
 Quotes
 ------
 
-<blockquote>I absolutely believe that people are more good on balance than bad.  All the wars and all of the cruelty and all of the violence.  I'm not looking away from any of that, and I still think there's something beautiful about being what we are.  History is soaked in blood.  The future probably will be too.  But for every atrocity, there's a thousand small kindnesses that no one noticed.  A hundred people who spent their lives loving and caring for each other.  A few moments of real grace.  Maybe it's only a little more good than bad in us, but…</blockquote>
-<div class="attribution">- Jame's Holden, <i>Leviathan Falls</i><br />James Corey</div>
+<blockquote>… artists use lies to tell the truth, while politicians use them to cover the truth up.</blockquote>
+<div class="attribution">- Evey, <a href="https://www.imdb.com/title/tt0434409/"><i>V for Vendetta</i></a></div>
+
+<blockquote>We are what we pretend to be, so we must be careful about what we pretend to be.</blockquote>
+<div class="attribution">- Howard W. Campbell Jr, <i>Mother Night</i> by Kurt Vonnegut</div>
 
 <blockquote>Having something requires giving something else up.</blockquote>
-
-<blockquote>The sleeper must awaken.</blockquote>
-<div class="attribution">- Dune (film)</div>
 
 [More quotes >](/content/quotes.md)
