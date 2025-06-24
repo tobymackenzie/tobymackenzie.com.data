@@ -69,6 +69,8 @@ Shout-outs
 Quotes
 ------
 
+<blockquote>To all wrongdoers, may you see, and atone</blockquote>
+
 <blockquote>… artists use lies to tell the truth, while politicians use them to cover the truth up.</blockquote>
 <div class="attribution">- Evey, <a href="https://www.imdb.com/title/tt0434409/"><i>V for Vendetta</i></a></div>
 

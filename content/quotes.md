@@ -1,5 +1,7 @@
 Some quotes that I like or find interesting:
 
+<blockquote>To all wrongdoers, may you see, and atone</blockquote>
+
 <blockquote>I absolutely believe that people are more good on balance than bad.  All the wars and all of the cruelty and all of the violence.  I'm not looking away from any of that, and I still think there's something beautiful about being what we are.  History is soaked in blood.  The future probably will be too.  But for every atrocity, there's a thousand small kindnesses that no one noticed.  A hundred people who spent their lives loving and caring for each other.  A few moments of real grace.  Maybe it's only a little more good than bad in us, but…</blockquote>
 <div class="attribution">- Jame's Holden, <i>Leviathan Falls</i><br />James Corey</div>
 
