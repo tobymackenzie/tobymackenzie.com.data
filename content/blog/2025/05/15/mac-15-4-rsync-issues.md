@@ -3,7 +3,7 @@ categories: [computer]
 date: 2025-05-15T00:48:34-04:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4558'
 id: 4558
-modified: 2025-05-15T00:49:29-04:00
+modified: 2025-07-03T20:01:15-04:00
 name: mac-15-4-rsync-issues
 tags: [mac, problem, rsync, update]
 ---
@@ -41,3 +41,5 @@ Some of my sync scripts ran into the `No such file or directory` or `empty link`
 Also, based on my search for fixes, `openrsync` may have problems with dirs without trailing slashes in exclude directives. I added trailing slashes to any dir-names in my exclude files.
 
 Regular `rsync` can be installed using Homebrew (`brew install rsync`), which will give a much newer version than MacOS had.  I may go this route to fix some of my regular user scripts.  However, I have some backup scripts that must be run as root (backing up multiple user dirs and other stuff), and I don't want to run "third-party" code with my root user.  So, I may have to do more work to get `link-dest` snapshots working properly for those larger backups.
+
+[Update] [I found some more solutions to openrsync issues](/content/blog/2025/06/27/openrsync-issues-resolved.md).  For `Too many open files` with `--link-dest`, I had to split up my backups and exclude unimportant files.  `--inplace` also may have helped.  That was needed to deal with `unexpected end of file` errors as well.  For `Interrupted system call` errors, I had to find and exclude specific files or folders, mostly in my Library folder.[/Update]
