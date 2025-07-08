@@ -3,7 +3,7 @@ categories: [computer]
 date: 2025-04-05T13:14:43-04:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4536'
 id: 4536
-modified: 2025-04-05T13:15:14-04:00
+modified: 2025-07-08T01:30:07-04:00
 name: pipes-augment-io-bash-command
 tags: [bash, math, pipes, programming, script, shell]
 ---
@@ -28,7 +28,7 @@ I was having trouble with freeze-ups and ensuring the pipe files were deleted at
 
 To run `bc` attached to these pipes, we can do normal shell redirection using the numbers of our pipes, and background the process to keep it running.  This can look like `bc -l <&3 >&4 &`.  I had problems ensuring the `bc` subprocess was terminated at the end.  I found the `trap` command for this, which I didn't have a lot of experience with.  It allows running some functionality when certain script-terminating events happen.  I found that the `EXIT SIGINT SIGTERM` events handled the events I encountered.  I stored the process ID of my `bc` command like `PID=$!` and then passed that to `kill` in the `trap` code.
 
-To handle the input, I used `read -r in` to capture it into an `$in` variable, using a `while` loop to repeat.I passed did my modifications, then passed it to `bc` with `echo "$in" >&3`.  Part of the loop condition was to verify the `bc` process was going in case it died due to a parse error, using `kill -0` like `kill -0 "$PID" > /dev/null 2>&1`.  I used `read` again to get the output from our `bc` pipe with `read -t 1 out <&4 || out=''`.  The `-t 1` part is because `bc` sometimes doesn't give output, eg with variable assignment.  This waits one second for output from `bc` and otherwise goes to the `||` part.  Without the timeout, it would just freeze waiting for input.  Since are output is already supposed to be in the pipe, we don't really need to wait a full second, but the time value must be an integer in seconds and `0` doesn't work.
+To handle the input, I used `read -r in` to capture it into an `$in` variable, using a `while` loop to repeat. I did my modifications, then passed it to `bc` with `echo "$in" >&3`.  Part of the loop condition was to verify the `bc` process was going in case it died due to a parse error, using `kill -0` like `kill -0 "$PID" > /dev/null 2>&1`.  I used `read` again to get the output from our `bc` pipe with `read -t 1 out <&4 || out=''`.  The `-t 1` part is because `bc` sometimes doesn't give output, eg with variable assignment.  This waits one second for output from `bc` and otherwise goes to the `||` part.  Without the timeout, it would just freeze waiting for input.  Since are output is already supposed to be in the pipe, we don't really need to wait a full second, but the time value must be an integer in seconds and `0` doesn't work.
 
 I added a few other niceties like handling empty input and allowing to exit more easily.  The [full script can be found in my dotfiles](https://github.com/tobymackenzie/dotfiles/blob/d5d647aa62889ae8b079ab768659dd19c28828b7/bin/c), but the important part looks like:
 
