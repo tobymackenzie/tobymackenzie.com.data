@@ -3,7 +3,7 @@ categories: [computer]
 date: 2025-06-27T17:07:45-04:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4591'
 id: 4591
-modified: 2025-06-27T17:07:45-04:00
+modified: 2025-08-11T01:50:57-04:00
 name: openrsync-issues-resolved
 tags: [fix, mac, problem, rsync]
 ---
@@ -12,6 +12,8 @@ Openrsync issues resolved (I hope)
 ==================================
 
 I think I have finally worked through and fixed [the issues caused by Mac OS 15.4 switching from rsync to openrsync](/content/blog/2025/05/15/mac-15-4-rsync-issues.md).  With the switch, many of my backup and other rsync scripts broke, throwing errors and not finishing the sync.  As of that last post, I had gotten things mostly working, but had to disable incremental snapshotting and still sometimes had failures that I had to deal with.
+
+<!--more-->
 
 Some of the errors I've had include:
 
