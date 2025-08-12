@@ -42,7 +42,6 @@ Projects
 I've worked on over a hundred sites with Cogneato, to various degrees, including:
 
 - [Sweet Modern](https://sweetmodern.com/)
-- [Tuesday Musical](https://www.tuesdaymusical.org/)
 - [Arrowhead Lapidary Supplies](https://arrowheadlapidarysupply.com/)
 - [Canton Road Garden Center](https://www.cantonroadgarden.com/)
 - [Ron White Art](http://ronwhiteart.com/)
@@ -52,6 +51,7 @@ I've worked on over a hundred sites with Cogneato, to various degrees, including
 - [Meadows Museum Dallas - Collections](https://meadowsmuseumdallas.org/collections/)
 - [Rockin Houston](https://www.rockinhouston.com/)
 - [Creme de la Creme](http://cremedelacremecakes.com/)
+- [NG Energy](https://www.ngenergy.us/)
 - Akron Symphony (no longer with Cogneato)
 - Akron Art Museum (no longer with Cogneato)
 - Iron Spring Farm (no longer with Cogneato)
