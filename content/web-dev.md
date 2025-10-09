@@ -1,3 +1,6 @@
+Web developer
+=============
+
 I am a web developer, making websites for a living.  I work for [Cogneato](http://cogneato.com) in Akron, Ohio, where I do full stack development, including front- and back-end LAMP stack development, basic server administration, and other tasks.  I also develop web things as a hobby and occasionally for other clients.  I have also worked many years on non-profit sites at [GiveCamp](http://clevelandgivecamp.org/).
 
 I enjoy web development and am particularly interested in development processes and code organization.  I have some level of interest in most areas of the web field though.
