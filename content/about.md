@@ -1,7 +1,16 @@
 About Me
 ========
 
-I am Toby Mackenzie of Northeast Ohio.  I am introverted, quiet, shy.  I am a [web developer](/content/web-dev.md).
+I am Toby Mackenzie of Northeast Ohio.  I am a [web developer](/content/web-dev.md).
+
+Me in brief
+-----------
+
+- I currently live and work in Akron.
+- I work on websites for a living, as a <abbr title="Linux Apache MySQL PHP HTML CSS JS">LAMP-stack</abbr> developer.
+- I am introverted / quiet / shy.
+- I like computers, music, hiking / nature, gardening, shows / movies / books, old video games, &c.
+- I value freedom of expression, autonomy, equalization of power, environmental preservation, sharing of knowledge and effort to better all, &c.
 
 Places
 ------
