@@ -19,6 +19,19 @@ Some quotes that I like or find interesting:
 <blockquote>Be excellent to each other</blockquote>
 <div class="attribution">- Abraham Lincoln<br /> &amp; Ted "Theodore" Logan,<br /> <i>Bill &amp; Ted's Excellent Adventure</i></div>
 
+<blockquote>Love thy neighbor</blockquote>
+
+<blockquote>All are thy neighbors</blockquote>
+
+<blockquote>Repay no one evil for evil. Have regard for good things in the sight of all men.</blockquote>
+<div class="attribution">- <a href="https://biblehub.com/romans/12-17.htm">Romans 12:17</a></div>
+
+<blockquote>A soft answer turns away wrath, But a harsh word stirs up anger.</blockquote>
+<div class="attribution">- <a href="https://biblehub.com/proverbs/15-1.htm">Proverbs 15:1</a></div>
+
+<blockquote>Whosoever hateth his brother is a murderer</blockquote>
+<div class="attribution">- <a href="https://biblehub.com/kjv/1_john/3-15.htm">1 John 3:15</a></div>
+
 <div>Слава Україні (Slava Ukraini) ✊🏻 🇺🇦</div>
 
 <blockquote>It is possible to commit no mistakes and still lose.  That is not a weakness.  That is life.</blockquote>

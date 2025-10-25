@@ -48,8 +48,10 @@ Quotes
 
 <blockquote>To all wrongdoers, may you see, and atone</blockquote>
 
-<blockquote>… artists use lies to tell the truth, while politicians use them to cover the truth up.</blockquote>
-<div class="attribution">- Evey, <a href="https://www.imdb.com/title/tt0434409/"><i>V for Vendetta</i></a></div>
+<blockquote>Love thy neighbor</blockquote>
+
+<blockquote>Repay no one evil for evil. Have regard for good things in the sight of all men.</blockquote>
+<div class="attribution">- <a href="https://biblehub.com/romans/12-17.htm">Romans 12:17</a></div>
 
 <blockquote>Having something requires giving something else up.</blockquote>
 
