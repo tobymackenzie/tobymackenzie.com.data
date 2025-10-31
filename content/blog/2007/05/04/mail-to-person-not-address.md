@@ -3,13 +3,13 @@ categories: [ideas, ideas]
 date: 2007-05-04T02:20:03-05:00
 guid: 'http://cosmicosmo.ath.cx/log/2007/05/04/mail-to-person-not-address/'
 id: 142
-modified: 2022-03-08T20:58:18-05:00
+modified: 2025-10-27T20:04:08-04:00
 name: mail-to-person-not-address
 tags: [government]
 ---
 
-mail to person, not address
-===========================
+Ideas: mail to person, not address
+==================================
 
 Mail 'addressed' to a person or business, not a physical address.  The intended receiver is not a building, but a person or entity of some sort at that building.  Each person and business would probably be assigned an id number and that is what is written on the address field of envelopes.  The post office keeps track of the physical address associated with each person or business, and sends letters to that person or business at the currently specified address.  When someone moves, they inform the post office, and all mail is automatically sent to the new address, without need to inform the sender.  With a computer database, the system would be easy to implement and utilize with database of addresses that probably already exists.  Changes to addresses associated with people would be quick and simple, and could perhaps even be done for the short term, such as while on a vacation.  Of course, the current address method would need to be supported for a long time to come;  it would take years for people to learn the ids of everyone, especially those they infrequently communicate with.  One problem would be sending to families, though perhaps a method could be set up to designate a letter sent to a person to be meant for the whole family, such as 'family of' written before the number or something.
 
