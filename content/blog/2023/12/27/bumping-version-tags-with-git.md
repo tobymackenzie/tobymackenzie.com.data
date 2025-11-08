@@ -3,7 +3,7 @@ categories: [computer, www]
 date: 2023-12-27T17:17:05-05:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4215'
 id: 4215
-modified: 2024-07-15T21:55:32-04:00
+modified: 2025-11-08T12:19:48-05:00
 name: bumping-version-tags-with-git
 tags: [configuration, git, script]
 ---
@@ -36,6 +36,7 @@ Git aliases can be put in `~/.gitconfig` (create it if it doesn't exist).  For t
 			elif [ \"$1\" == '..' ] || [ \"$1\" == 'minor' ]; then \
 				awkV='{OFS=\".\"; $2+=1; $3=0; print $0}'; \
 			elif [ \"$1\" == '...' ] || [ \"$1\" == 'major' ]; then \
+				V="${V:1}" && \
 				awkV='{OFS=\".\"; $1+=1; $2=0; $3=0; print \"v\"$0}'; \
 			else echo 'No version specified.  Specify one of patch, minor, or major.'; exit 1; \
 		fi \
@@ -52,3 +53,5 @@ I did `versionbump` as the full name to be explicit, plus some shorter aliases t
 The `GIT_PREFIX` part ensures this works even when specifying a different git repo.  The `git tag` part gives a list of version formatted tags and sorts them by version (the `version:refname` part ensures they are properly sorted as version strings).  The `head -n 1` gives us the first one only.  The first `if` sets the version to `0.0.0` if there isn't a version set yet.  The nested `if` structure that follows uses the argument to determine which version piece to bump, and sets the appropriate `awk` command in a variable.  `awk` does the actual string manipulation on the current version.  The next couple lines run that and then verify with the user that the version string looks right (typing anything but a "y" or "Y" cancels the bump.  If yes, then a `git tag` command is run to actually do the tagging.  The trailing `#` is needed to prevent arguments from being appended.
 
 I like it.  Makes managing versions a lot easier for me.
+
+[Update]Fixed major version bumping being broken[/Update]
