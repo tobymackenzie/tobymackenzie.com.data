@@ -3,7 +3,7 @@ categories: [www]
 date: 2025-11-07T14:35:27-05:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4693'
 id: 4693
-modified: 2025-11-07T14:35:27-05:00
+modified: 2025-11-13T14:52:19-05:00
 name: symfony-templates-wordpress-pages
 tags: [symfony, templates, wordpress]
 ---
@@ -63,7 +63,7 @@ get_header();
 
 $title = wp_title(null, false);
 //-# wp encodes various characters.  we must convert them back for the title element, which is itself encoded in twig.
-SymfonyHelper::$viewData['doc']['title'] = html_entity_decode($title, ENT_QUOTES | ENT_XML1, 'UTF-8');
+SymfonyHelper::$viewData['title'] = html_entity_decode($title, ENT_QUOTES | ENT_XML1, 'UTF-8');
 ob_start();
 wp_head();
 SymfonyHelper::$viewData['headExtra'] = ob_get_contents();
