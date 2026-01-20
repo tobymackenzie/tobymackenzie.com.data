@@ -3,7 +3,7 @@ categories: [www]
 date: 2025-12-04T14:15:41-05:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4708'
 id: 4708
-modified: 2025-12-04T14:16:28-05:00
+modified: 2026-01-20T13:53:05-05:00
 name: project-website-theme-switcher
 tags: [js, project, site, theme, web]
 ---
@@ -11,7 +11,7 @@ tags: [js, project, site, theme, web]
 Project: Website theme switcher
 ===============================
 
-I finally made a theme switcher for my website.  Ever since I saw the [CSS Zen Garden](https://www.csszengarden.com/), I loved the idea of using the same markup with completely different appearances. This led to a desire to have multiple themes and an ability to switch them on my own site.  Early on I didn't have the ability, and later I didn't, have the energy or time, or decide on the way I wanted to do it.  There are performance and complexity considerations, as well as needing to make decent themes other than the default one.  My eventual desire to have a static-friendly site complicated the performance aspect as well.
+I finally made a theme switcher for my website.  Ever since I saw the [CSS Zen Garden](https://www.csszengarden.com/), I loved the idea of using the same markup with completely different appearances. This led to a desire to have multiple themes and an ability to switch them on my own site.  Early on I didn't have the ability, and later I didn't have the energy or time, or decide on the way I wanted to do it.  There are performance and complexity considerations, as well as needing to make decent themes other than the default one.  My eventual desire to have a static-friendly site complicated the performance aspect as well.
 
 Some browsers have a built in way to change to `alternate stylesheet`s, but they stupidly download all of them even when they're not being used.  I'm not doing that.  So JS or a server-side cookie solution are needed, and the latter won't work for static sites.  I try to minimize the JS on my site and didn't want something heavy or complex, especially if it were loading before page render.
 
