@@ -1,0 +1,1 @@
+As a [web developer](/content/web-dev), I spend a lot of time using web browsers.  I like open source browsers and generally prefer Firefox for its independent and open rendering engine.  Browsers provide a lot of power, able to read simple documents or run complex applications from around the world, with relative security for the host operating system.
