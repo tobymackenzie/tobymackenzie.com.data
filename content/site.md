@@ -30,7 +30,7 @@ Scripts
 
 My site is not dependent on JavaScript, but does enhance the experience a little with it.  The main usability enhancement is that I load the navigation menu as an overlay dialog.  I also add links to jump to the page top and bottom.
 
-I [force HTTPS using a short JS script](/blog/2019/09/30/forcing-https-progressive-enhancement), to ensure old browsers can still load my site.
+I [force HTTPS using a short JS script](/content/blog/2019/09/30/forcing-https-progressive-enhancement), to ensure old browsers can still load my site.
 
 To make my site more fun, I add a [theme switcher](https://github.com/tobymackenzie/theme-switch.js) via JS.  I add a bit of whimsy with some holiday related content and styles, and a Konami code Easter egg.
 
