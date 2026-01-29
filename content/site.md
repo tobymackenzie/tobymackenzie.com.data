@@ -1,4 +1,4 @@
-This site is built by and for [Toby Mackenzie](/content/about.md), AKA me, though I hope some of its content can also be useful to others.  It has evolved from sites I have built for myself starting in the early 2000s or possibly late 90s.
+This site is built by and for [Toby Mackenzie](/content/about.md), AKA me, though I hope some of its content can also be useful to others.  It has evolved from sites I have built for myself starting in the early 2000s or possibly late 90s.  As a [web developer](/content/web-dev), I have put a lot of time and effort into this site and take some pride in it.
 
 Server
 ------
