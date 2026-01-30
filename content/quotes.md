@@ -1,55 +1,55 @@
 Some quotes that I like or find interesting:
 
-<blockquote>To all wrongdoers, may you see, and atone</blockquote>
+> To all wrongdoers, may you see, and atone
 
-<blockquote>I absolutely believe that people are more good on balance than bad.  All the wars and all of the cruelty and all of the violence.  I'm not looking away from any of that, and I still think there's something beautiful about being what we are.  History is soaked in blood.  The future probably will be too.  But for every atrocity, there's a thousand small kindnesses that no one noticed.  A hundred people who spent their lives loving and caring for each other.  A few moments of real grace.  Maybe it's only a little more good than bad in us, but…</blockquote>
+> I absolutely believe that people are more good on balance than bad.  All the wars and all of the cruelty and all of the violence.  I'm not looking away from any of that, and I still think there's something beautiful about being what we are.  History is soaked in blood.  The future probably will be too.  But for every atrocity, there's a thousand small kindnesses that no one noticed.  A hundred people who spent their lives loving and caring for each other.  A few moments of real grace.  Maybe it's only a little more good than bad in us, but…
 <div class="attribution">- Jame's Holden, <i>Leviathan Falls</i><br />James Corey</div>
 
-<blockquote>If America does not use her vast resources of wealth to end poverty and make it possible for all of god's children to have the basic necessities of life, she too will go to hell.</blockquote>
+> If America does not use her vast resources of wealth to end poverty and make it possible for all of god's children to have the basic necessities of life, she too will go to hell.
 <div class="attribution">- Marin Luther King, Jr.</div>
 
-<blockquote>Maybe there is a beast.…  What I mean is…maybe it's only us."</blockquote>
+> Maybe there is a beast.…  What I mean is…maybe it's only us."
 <div class="attribution">- Simon, <i>The Lord of the Flies</i></div>
 
-<blockquote>Humans can be better than they are, so let's do that</blockquote>
+> Humans can be better than they are, so let's do that
 <div class="attribution">- <i>Caliban's War</i><br />James Corey</div>
 
 <div>Personal Sovereignty ✊🏻</div>
 
-<blockquote>Be excellent to each other</blockquote>
+> Be excellent to each other
 <div class="attribution">- Abraham Lincoln<br /> &amp; Ted "Theodore" Logan,<br /> <i>Bill &amp; Ted's Excellent Adventure</i></div>
 
-<blockquote>Love thy neighbor</blockquote>
+> Love thy neighbor
 
-<blockquote>All are thy neighbors</blockquote>
+> All are thy neighbors
 
-<blockquote>Repay no one evil for evil. Have regard for good things in the sight of all men.</blockquote>
+> Repay no one evil for evil. Have regard for good things in the sight of all men.
 <div class="attribution">- <a href="https://biblehub.com/romans/12-17.htm">Romans 12:17</a></div>
 
-<blockquote>A soft answer turns away wrath, But a harsh word stirs up anger.</blockquote>
+> A soft answer turns away wrath, But a harsh word stirs up anger.
 <div class="attribution">- <a href="https://biblehub.com/proverbs/15-1.htm">Proverbs 15:1</a></div>
 
-<blockquote>Whosoever hateth his brother is a murderer</blockquote>
+> Whosoever hateth his brother is a murderer
 <div class="attribution">- <a href="https://biblehub.com/kjv/1_john/3-15.htm">1 John 3:15</a></div>
 
 <div>Слава Україні (Slava Ukraini) ✊🏻 🇺🇦</div>
 
-<blockquote>It is possible to commit no mistakes and still lose.  That is not a weakness.  That is life.</blockquote>
+> It is possible to commit no mistakes and still lose.  That is not a weakness.  That is life.
 <div class="attribution">- Captain Picard, Star Trek</div>
 
-<blockquote>Beltalowda ✊🏻</blockquote>
+> Beltalowda ✊🏻
 <div class="attribution">- The Expanse</div>
 
-<blockquote>Will the highways to the internet become more few?</blockquote>
+> Will the highways to the internet become more few?
 <div class="attribution">- George W. Bush</div>
 
-<blockquote>But now, at some point TDB, all of the problems will be in the past.</blockquote>
+> But now, at some point TDB, all of the problems will be in the past.
 <div class="attribution">- Michael Scott, The Office</div>
 
-<blockquote>In my career I've found few people are truly evil, most are just too far disconnected from the effects of their actions. Until someone reconnects them.</blockquote>
+> In my career I've found few people are truly evil, most are just too far disconnected from the effects of their actions. Until someone reconnects them.
 <div class="attribution">- Marcus Hutchins <a href="https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/">via Wired interview</a></div>
 
-<blockquote>vague but exciting</blockquote>
+> vague but exciting
 <div class="attribution">- Mike Sendell, on the proposal that became the Web</div>
 
 <blockquote>And if there is a way<br />
@@ -65,13 +65,13 @@ You can't take the sky from me
 </blockquote>
 <div class="attribution">- Firefly</div>
 
-<blockquote>Having something requires giving something else up.</blockquote>
+> Having something requires giving something else up.
 
-<blockquote>I <strong>will</strong> make my stop.</blockquote>
+> I <strong>will</strong> make my stop.
 
-<blockquote>Every debt comes due at some point.</blockquote>
+> Every debt comes due at some point.
 
-<blockquote>If I can't be my own<br />I'd feel better dead</blockquote>
+> If I can't be my own I'd feel better dead
 
 <blockquote>I'm here to tell you now<br />
 each and every mother's son<br />
@@ -79,11 +79,11 @@ you'd better learn it fast<br />
 you'd better learn it young<br />
 'cause someday never comes</blockquote>
 
-<blockquote>The sleeper must awaken.</blockquote>
+> The sleeper must awaken.
 <div class="attribution">- Dune (film)</div>
 
 <!--better off dead-->
-<blockquote>Buck up little camper.  We'll beat that slope… together.</blockquote>
+> Buck up little camper.  We'll beat that slope… together.
 
 <!--cranberries-->
 <blockquote>
@@ -97,13 +97,13 @@ you'd better learn it young<br />
 and real champions prove that they're champions</blockquote>
 <div class="attribution">- <a href="https://www.youtube.com/watch?v=86g7YD1AiQ8">the Roots</a></div>
 
-<blockquote>I'm a nerd, and uh, I'm pretty proud of it.</blockquote>
+> I'm a nerd, and uh, I'm pretty proud of it.
 <div class="attribution">- Gilbert, <a href="https://www.imdb.com/title/tt0088000/"><i>Revenge of the Nerds</i></a></div>
 
-<blockquote>… artists use lies to tell the truth, while politicians use them to cover the truth up.</blockquote>
+> … artists use lies to tell the truth, while politicians use them to cover the truth up
 <div class="attribution">- Evey, <a href="https://www.imdb.com/title/tt0434409/"><i>V for Vendetta</i></a></div>
 
-<blockquote>We are what we pretend to be, so we must be careful about what we pretend to be.</blockquote>
+> We are what we pretend to be, so we must be careful about what we pretend to be.
 <div class="attribution">- Howard W. Campbell Jr, <i>Mother Night</i> by Kurt Vonnegut</div>
 
 <blockquote>Too many motha 'uckas<br />

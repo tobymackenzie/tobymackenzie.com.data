@@ -46,13 +46,13 @@ Shout-outs
 Quotes
 ------
 
-<blockquote>To all wrongdoers, may you see, and atone</blockquote>
+> To all wrongdoers, may you see, and atone
 
-<blockquote>Love thy neighbor</blockquote>
+> Love thy neighbor
 
-<blockquote>Repay no one evil for evil. Have regard for good things in the sight of all men.</blockquote>
+> Repay no one evil for evil. Have regard for good things in the sight of all men.
 <div class="attribution">- <a href="https://biblehub.com/romans/12-17.htm">Romans 12:17</a></div>
 
-<blockquote>Having something requires giving something else up.</blockquote>
+> Having something requires giving something else up.
 
 [More quotes >](/content/quotes.md)
