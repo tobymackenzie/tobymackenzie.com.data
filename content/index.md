@@ -1,7 +1,9 @@
 Home
 =====
 
-![Toby photo](/_assets/images/toby.jpg) Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio, USA.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.
+<m--img>![Toby portrait](/_assets/images/toby.jpg)</m--img>
+
+Hello there, web surfer.  I am Toby Mackenzie of Northeast Ohio, USA.  Welcome to my little stop on the information superhighway.  I hope you enjoy your visit.
 
 I currently live in Akron, working as a <abbr title="Linux Apache MySQL PHP HTML CSS JS">LAMP-stack</abbr> [web developer](/content/web-dev.md).  I am quiet.  I like computers, music, nature, &c.
 
