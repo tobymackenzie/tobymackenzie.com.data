@@ -1,6 +1,8 @@
 About Me
 ========
 
+<m--img>![Toby portrait](/_assets/images/toby.jpg)</m--img>
+
 I am Toby Mackenzie of Northeast Ohio.  I am a [web developer](/content/web-dev.md).
 
 Me in brief
