@@ -32,10 +32,11 @@ Shout-outs
 - tea
 - dogs: mans best friend
 - nature, [Summit Metroparks](https://www.summitmetroparks.org/) and [CVNP](https://www.nps.gov/cuva/index.htm)
-- sci-fi and other fiction: Phillip K. Dick, The Expanse, The Office, …
+- sci-fi and other fiction: Phillip K. Dick, The Expanse, The Office, [Columbo](https://smile.amazon.com/gp/product/B07B64Z7HQ/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1), …
 - Cleveland / Ohio sportsball: Cavaliers, Guardians, Browns?, Blue Jackets
 - [StarLabs StarLite](https://us.starlabs.systems/pages/starlite): Linux first convertible tablet with good specs, reasonable price, user replaceable parts (planned), Coreboot.  Also interested in their [Byte mini PC](https://us.starlabs.systems/pages/byte).
 - [Bangle.js 2 smartwatch](https://shop.espruino.com/banglejs2): hackable, open source
+- eInk / epaper: Onyx Boox, [Minimal Phone](https://minimalcompany.com/)
 - open source software
 
 Quotes
