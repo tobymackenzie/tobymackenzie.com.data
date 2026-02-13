@@ -3,7 +3,7 @@ categories: [computer, www]
 date: 2023-12-27T17:17:05-05:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4215'
 id: 4215
-modified: 2025-11-08T12:19:48-05:00
+modified: 2026-02-13T12:45:43-05:00
 name: bumping-version-tags-with-git
 tags: [configuration, git, script]
 ---
@@ -29,20 +29,20 @@ Git aliases can be put in `~/.gitconfig` (create it if it doesn't exist).  For t
 
 ``` ini
 [alias]
-	versionbump = !"cd -- ${GIT_PREFIX:-.} && V=$(git tag --sort=-version:refname --list \"v[0-9]*\" | head -n 1) \
+	versionbump = !"V=$(git tag --sort=-version:refname --list \"v[0-9]*\" | head -n 1) \
 		&& if [ -z \"$V\" ]; then V='v0.0.0'; fi \
-		&& if [ \"$1\" == '.' ] || [ \"$1\" == 'patch' ]; then \
+		&& if [ \"$1\" = '.' ] || [ \"$1\" = 'patch' ] || [ \"$1\" = '' ]; then \
 				awkV='{OFS=\".\"; $NF+=1; print $0}'; \
-			elif [ \"$1\" == '..' ] || [ \"$1\" == 'minor' ]; then \
+			elif [ \"$1\" = '..' ] || [ \"$1\" = 'minor' ]; then \
 				awkV='{OFS=\".\"; $2+=1; $3=0; print $0}'; \
-			elif [ \"$1\" == '...' ] || [ \"$1\" == 'major' ]; then \
+			elif [ \"$1\" = '...' ] || [ \"$1\" = 'major' ]; then \
 				V="${V:1}" && \
 				awkV='{OFS=\".\"; $1+=1; $2=0; $3=0; print \"v\"$0}'; \
-			else echo 'No version specified.  Specify one of patch, minor, or major.'; exit 1; \
+			else echo 'Unknown version type specified.  Specify one of patch, minor, or major.'; exit 1; \
 		fi \
 		&& if [ -z \"$awkV\" ]; then exit 1; else newV=$(echo $V | awk -F. \"$awkV\"); fi \
-		&& read -r -p \"Do you want to tag with version ${newV}?: \" tmp \
-		&& ([[ $tmp =~ ^[Yy] ]] && git tag \"${newV}\" \"${@:2}\") && echo \"Tagged version ${newV}\" \
+		&& printf '%s' \"Do you want to tag with version ${newV}?: \" && read -r tmp \
+		&& ([ \"$tmp\" != \"${tmp#[Yy]}\" ] && shift $(( $# > 0 ? $# : 0 )) && git tag \"$newV\" \"$@\" && echo \"Tagged version ${newV}\") \
 		|| exit 1 #"
 	bump = !git versionbump
 	vb = !git versionbump
@@ -55,3 +55,5 @@ The `GIT_PREFIX` part ensures this works even when specifying a different git re
 I like it.  Makes managing versions a lot easier for me.
 
 [Update]Fixed major version bumping being broken[/Update]
+
+[Update]Make POSIX sh compliant, to work on Ubuntu[/Update]
