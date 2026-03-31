@@ -1,0 +1,1 @@
+I live and work in Akron, and own a house there.  I have been here for some years, but have always been somewhat near there, and thus it has been on my radar.  It generally has reasonable people and is a good compromise between a larger city like Cleveland and a smaller one like Kent or Lakewood.

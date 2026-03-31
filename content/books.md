@@ -3,7 +3,7 @@ I like reading books.  I have read a great many of them since I was young.  My f
 - Do Androids Dream of Electric Sheep? and other Phillip K Dick books
 - The Expanse series
 - Slaughterhouse Five and other Kurt Vonnegut books
-- Stranger in a Strange Land
+- Starship Troopers / Stranger in a Strange Land
 - Brave New World
 - Great Expectations
 - Flowers for Algernon

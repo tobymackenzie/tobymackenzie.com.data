@@ -1,0 +1,1 @@
+I was born in Cleveland, Ohio and spent my first several years there.  I moved back for several years in the '10s.  I like their [sportsball](/content/sportsball.md) teams, particularly the Cavs and Guardians.

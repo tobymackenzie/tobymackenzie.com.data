@@ -1,0 +1,1 @@
+Tea is one of my favorite beverages.  I think it is partially psychological, brewing a warm cup and sitting with it, sipping.  I like many varieties and my preferences seem to change from one type to another.  I try to avoid drinking too much because of the caffeine and also because it can start to hurt my stomach if I drink a lot.
