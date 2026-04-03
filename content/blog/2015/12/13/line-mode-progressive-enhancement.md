@@ -56,9 +56,9 @@ These elements are, like anything else, treated as generic elements by browsers 
 The spec provides us with a solution: HTML comments.  You simply put an opening comment immediately after the opening tag, a line break before your content, then a line break and closing comment immediately before the closing tag.  It requires sending 7-9 extra bytes per tag, relatively minor to support old browsers.
 
 ``` html
-&lt;style&gt;&lt;!--
+<style><!--
 body{ background: red; }
---&gt;&lt;/style&gt;
+--></style>
 ```
 
 ### `<img>`
@@ -73,7 +73,7 @@ A good option for general use is to make your text content work as if the image 
 A solution I've been considering for lazy loading images would involve using a link where the image will go with text content representing the alt attribute, an href pointing to the image, and and `data-` attributes for other settings.  I would then use JS  to replace this with an `<img>`.  This way, any old browser that doesn't [cut the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard#page-94), many of which are on slower hardware, would just get text.  Newer browsers can load the images only when needed, like when they approach being visible in the viewport.  The HTML for this might look something like:
 
 ``` html
-&lt;a class=&quot;lazyImage&quot; href=&quot;/image.jpg&quot; data-width=&quot;800&quot; data-height=&quot;400&quot;&gt;The image&lt;/a&gt;
+<a class="lazyImage" href="/image.jpg" data-width="800" data-height="400">The image</a>
 ```
 
 The width and height `data` attributes might be used by the JS as quickly as possible to apply sizing to the element to prevent reflows when the image is loaded.  It might even calculate the aspect ratio and use `padding-bottom` to preserve it if the viewport is narrower than the width.
