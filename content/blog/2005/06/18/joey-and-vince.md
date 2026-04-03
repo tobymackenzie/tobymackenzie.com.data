@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-06-18T02:38:07-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/18/joey-and-vince/'
 id: 39

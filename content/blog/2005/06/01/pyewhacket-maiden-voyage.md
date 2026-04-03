@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-06-01T23:38:39-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/01/pyewhacket-maiden-voyage/'
 id: 34

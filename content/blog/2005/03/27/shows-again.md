@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-03-27T07:50:18-05:00
 guid: 'http://cosmicosmo.ath.cx/wordpress/?p=4'
 id: 4

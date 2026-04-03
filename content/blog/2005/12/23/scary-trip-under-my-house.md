@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-12-23T03:44:57-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/12/23/scary-trip-under-my-house/'
 id: 96

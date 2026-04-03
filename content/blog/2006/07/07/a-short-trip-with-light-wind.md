@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2006-07-07T19:52:50-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/07/07/a-short-trip-with-light-wind/'
 id: 113

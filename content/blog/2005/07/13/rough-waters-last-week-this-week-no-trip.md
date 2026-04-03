@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-07-13T02:22:34-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/13/rough-waters-last-week-this-week-no-trip/'
 id: 48

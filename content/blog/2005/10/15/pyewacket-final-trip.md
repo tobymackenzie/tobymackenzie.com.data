@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-10-15T06:00:07-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/15/pyewacket-final-trip/'
 id: 71

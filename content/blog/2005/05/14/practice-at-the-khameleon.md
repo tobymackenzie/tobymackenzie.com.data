@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-05-14T23:46:49-05:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/05/14/practice-at-the-khameleon/'
 id: 29

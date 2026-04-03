@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2006-06-10T14:31:39-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/06/10/the-grey-area-our-new-boats-in-the-water/'
 id: 108

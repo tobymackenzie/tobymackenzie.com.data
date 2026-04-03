@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-07-18T12:44:14-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/18/mrs-mouse-is-missing/'
 id: 51

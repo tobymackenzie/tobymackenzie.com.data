@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-08-31T00:12:14-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/31/yars-are-on-hiatus/'
 id: 61

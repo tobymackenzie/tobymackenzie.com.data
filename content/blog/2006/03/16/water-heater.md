@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2006-03-16T08:27:23-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/03/16/water-heater/'
 id: 101

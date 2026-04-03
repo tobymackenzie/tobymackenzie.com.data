@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-05-11T22:18:34-05:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/05/11/ecc-show-cancelled-as-well-as-band-practices/'
 id: 28

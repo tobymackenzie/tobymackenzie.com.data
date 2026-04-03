@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-08-24T01:17:20-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/24/jesses-leaving/'
 id: 59

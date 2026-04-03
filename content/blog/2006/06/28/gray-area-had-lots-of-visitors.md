@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2006-06-28T14:44:45-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/06/28/gray-area-had-lots-of-visitors/'
 id: 111

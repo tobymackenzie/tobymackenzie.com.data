@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2006-07-22T17:08:24-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/07/22/gray-area-july-16th/'
 id: 116

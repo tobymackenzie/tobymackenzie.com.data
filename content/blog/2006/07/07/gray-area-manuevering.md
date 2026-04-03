@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2006-07-07T19:44:55-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/07/07/gray-area-manuevering/'
 id: 112

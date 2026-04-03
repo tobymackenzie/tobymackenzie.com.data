@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2006-06-10T14:52:49-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/06/10/hot-water-finally/'
 id: 109

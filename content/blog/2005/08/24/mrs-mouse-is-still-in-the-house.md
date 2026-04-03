@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-08-24T01:49:24-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/24/mrs-mouse-is-still-in-the-house/'
 id: 60

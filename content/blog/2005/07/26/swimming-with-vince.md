@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-07-26T01:59:28-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/26/swimming-with-vince/'
 id: 54

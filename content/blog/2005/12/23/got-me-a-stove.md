@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-12-23T02:57:47-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/12/23/got-me-a-stove/'
 id: 94

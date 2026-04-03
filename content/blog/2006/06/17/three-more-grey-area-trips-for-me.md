@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2006-06-17T03:14:38-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/06/17/three-more-grey-area-trips-for-me/'
 id: 110

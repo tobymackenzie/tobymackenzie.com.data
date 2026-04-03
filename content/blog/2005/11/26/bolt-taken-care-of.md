@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-11-26T06:49:34-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/11/26/bolt-taken-care-of/'
 id: 93

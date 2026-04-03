@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-07-26T02:13:08-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/26/end-of-an-era/'
 id: 55

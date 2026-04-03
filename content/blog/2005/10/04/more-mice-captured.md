@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-10-04T03:09:33-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/10/04/more-mice-captured/'
 id: 69

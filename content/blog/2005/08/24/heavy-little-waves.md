@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-08-24T00:53:50-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/24/heavy-little-waves/'
 id: 58

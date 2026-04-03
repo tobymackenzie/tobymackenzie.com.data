@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-12-23T03:25:07-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/12/23/thought-i-was-outta-gas/'
 id: 95

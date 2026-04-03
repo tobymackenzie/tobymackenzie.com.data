@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-06-13T01:37:14-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/13/new-drummer/'
 id: 37

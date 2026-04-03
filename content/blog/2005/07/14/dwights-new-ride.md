@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-07-14T08:47:29-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/14/dwights-new-ride/'
 id: 50

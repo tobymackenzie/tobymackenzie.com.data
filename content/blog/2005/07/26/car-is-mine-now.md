@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-07-26T01:18:26-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/26/car-is-mine-now/'
 id: 53

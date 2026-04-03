@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-09-19T23:08:43-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/09/19/mouse-capture/'
 id: 65

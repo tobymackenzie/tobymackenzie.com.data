@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-06-26T09:37:24-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/26/king-coopa-band-management/'
 id: 42

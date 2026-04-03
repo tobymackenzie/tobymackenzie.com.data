@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-07-02T02:41:51-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/07/02/mrs-mouse/'
 id: 44

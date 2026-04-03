@@ -1,5 +1,5 @@
 ---
-categories: {  }
+categories: [toby]
 date: 2005-06-09T22:45:43-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/06/09/first-sailing-trip/'
 id: 36
