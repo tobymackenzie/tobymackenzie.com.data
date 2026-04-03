@@ -3,7 +3,7 @@ categories: [www]
 date: 2010-02-01T12:53:53+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=198'
 id: 409
-modified: 2010-02-01T12:53:53+00:00
+modified: 2026-04-03T14:51:09-04:00
 name: php-functions-array-as-argument
 tags: [functions, php, programming]
 ---
@@ -24,6 +24,7 @@ or with regular arguments:
 ```
 testFunction("value1",null,"value3","testCallback");
 ```
+
 <!--more-->
 
 The testFunction is defined like:
@@ -50,6 +51,6 @@ function testFunction($argArrayOr1=null, $arg2=null, $arg3=null, $argCallback=nu
 }
 ```
 
-This one allows even a single regular parameter to be passed if it is not an array, or no parameters.  It also still works with callbacks (see [call\_user\_func](http://php.net/manual/en/function.call-user-func.php)).  I define the defaults separately so they are in one place: they of course must be within the function so that argument can be left out in the array.
+This one allows even a single regular parameter to be passed if it is not an array, or no parameters.  It also still works with callbacks (see [`call_user_func`](http://php.net/manual/en/function.call-user-func.php)).  I define the defaults separately so they are in one place: they of course must be within the function so that argument can be left out in the array.
 
 I haven't done this in actual use yet, but probably will soon.  I'll probably just bypass the allowance for regular argument syntax.  Wordpress uses a GET-like syntax for some functions, which might be a bit more elegant, but I'm not sure how they do this, if there is a performance hit for parsing, if it can handle all argument types (like objects).

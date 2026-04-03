@@ -4,7 +4,7 @@ comment_count: 6
 date: 2010-02-09T20:56:05+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=240'
 id: 413
-modified: 2010-02-09T20:56:05+00:00
+modified: 2026-04-03T14:59:24-04:00
 name: canine-wordpress-custom-searches
 tags: [caninelifeline, magicfields, pods, search, wordpress]
 ---
@@ -14,7 +14,7 @@ Canine: Wordpress Custom Searches
 
 The Wordpress search by default looks through the title and content of all available posts and pages for given query words.  But sometimes you might want to only search a certain category or search custom fields or some other criteria.  On the Canine Lifeline site, we have a dog section where we want to be able to list dogs based on a number of parameters, such as age, gender, adoption status, et cetera.  We are currently storing dogs as posts in a particular category, and using [Magic Fields](http://magicfields.org) to add custom fields for various aspects of each dog.
 
-Wordpress sends search queries as GET requests from its search form.  The "s" variable contains the search query, but others are allowed.  In fact, if you're familiar with the "[query\_posts](http://codex.wordpress.org/Template_Tags/query_posts)" function, many of the parameters for that are available, and the rest can be enabled, because the search is basically just a regular Wordpress query with parameters appended from the GET variables.
+Wordpress sends search queries as GET requests from its search form.  The "s" variable contains the search query, but others are allowed.  In fact, if you're familiar with the "[`query_posts`](http://codex.wordpress.org/Template_Tags/query_posts)" function, many of the parameters for that are available, and the rest can be enabled, because the search is basically just a regular Wordpress query with parameters appended from the GET variables.
 
 <!--more-->
 
@@ -31,7 +31,7 @@ To modify the search functionality, you can simply add fields to your search for
 </div>
 ```
 
-This does a regular query search on only posts in category 3 by using a hidden input.  The value for the "cat" variable can actually be comma separated to include multiple categories, such as "3,5,7".  We can display this form only when in the dog section by putting an "if" in the "searchform.php", or possibly just the "sidebar.php" (that wouldn't appear on the "No results" page though), that checks the page, post category, or search query category ($_GET['cat'] == 3):
+This does a regular query search on only posts in category 3 by using a hidden input.  The value for the "cat" variable can actually be comma separated to include multiple categories, such as "3,5,7".  We can display this form only when in the dog section by putting an "if" in the "searchform.php", or possibly just the "sidebar.php" (that wouldn't appear on the "No results" page though), that checks the page, post category, or search query category `($_GET['cat'] == 3)`:
 
 ```
 if(
@@ -72,7 +72,7 @@ array('m', 'p', 'posts', 'w', 'cat', 'withcomments', 'withoutcomments',
 'preview', 'robots', 'taxonomy', 'term', 'cpage')
 ```
 
-That gives a lot to work with, but the important meta parameters (meta_key, meta_value, meta_compare) that we'd need to search through custom fields are not available.  They can easily be added, though, by adding the following to "functions.php" or a plugin:
+That gives a lot to work with, but the important meta parameters (`meta_key`, `meta_value`, `meta_compare`) that we'd need to search through custom fields are not available.  They can easily be added, though, by adding the following to "functions.php" or a plugin:
 
 ```
 $wp->add_query_var('meta_key');

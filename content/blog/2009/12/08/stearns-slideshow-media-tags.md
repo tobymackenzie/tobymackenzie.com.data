@@ -4,7 +4,7 @@ comment_count: 2
 date: 2009-12-08T09:58:55+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=121'
 id: 398
-modified: 2009-12-08T09:58:55+00:00
+modified: 2026-04-03T15:29:47-04:00
 name: stearns-slideshow-media-tags
 tags: [images, media, plugins, stearns, webiiclass, wordpress]
 ---
@@ -22,33 +22,36 @@ I thought perhaps I could have them update a gallery on a particular page, after
 
 I also thought of tagging items somehow for the slideshow.  The media library by default provides no fields that aren't output into the display HTML, so there is no way by default to tag items.  That's where a plugin came in: [Media Tags](http://wordpress.org/extend/plugins/media-tags/).  It just adds a tag field for media items.  It allows multiple, though not as elegantly as the regular posts tags, and it also has functions for working with the metadata in both templates and posts.
 
-Media Tags is not that well documented in some respects.  You use: ```
+Media Tags is not that well documented in some respects.  You use: 
+
+```
 get_attachments_by_media_tags('media_tags=slideshow')
 ```
+
 to get items with the tag "slideshow".  They are output as an array, and it took me a while to figure out how to work with this array.  Luckily, print_r() helped me find what data was being pulled.  This is a list of all items in the array with a few comments:
 
 - ID
-- post\_author (id)
-- post\_date (like 2009-12-02 16:08:08)
-- post\_date\_gmt
-- post\_content
-- post\_title
-- post\_excerpt
-- post\_status
-- comment\_status
-- ping\_status
-- post\_password
-- post\_name
-- to\_ping
-- pinged
-- post\_modified
-- post\_modified\_gmt
-- post\_content\_filtered
-- post\_parent
-- guid (contains url to full-size image)
-- post\_type (always "attachment")
-- post\_mime\_type
-- comment\_count
+- `post_author` (id)
+- `post_date` (like 2009-12-02 16:08:08)
+- `post_date_gmt`
+- `post_content`
+- `post_title`
+- `post_excerpt`
+- `post_status`
+- `comment_status`
+- `ping_status`
+- `post_password`
+- `post_name`
+- `to_ping`
+- `pinged`
+- `post_modified`
+- `post_modified_gmt`
+- `post_content_filtered`
+- `post_parent`
+- `guid` (contains url to full-size image)
+- `post_type` (always "attachment")
+- `post_mime_type`
+- `comment_count`
 
 The list is a bit long, but it may be helpful to some using the plugin.  So, I was now able to tag some of the images and output them into my sidebar.  My javascript uses an array of the images, popping in the next and removing the old, so I had to pass the list into an array in script tags.  I also displayed the first image just with PHP/HTML in case non-javascript users view the site.
 

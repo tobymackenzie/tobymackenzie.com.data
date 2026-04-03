@@ -4,7 +4,7 @@ comment_count: 3
 date: 2009-11-18T11:30:04+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=98'
 id: 394
-modified: 2009-11-18T11:30:04+00:00
+modified: 2026-04-03T15:17:05-04:00
 name: stearns-wordpress-custom-queries
 tags: [mysql, query, stearns, wordpress]
 ---
@@ -16,9 +16,10 @@ For the Stearns site, we need to list upcoming events on the home page.  Using 
 
 I was attempting to use the "query_posts()" function to get the posts I need.  I discovered that it is possible to use this function multiple times on a single page.  I previously thought you were unable to because of "the loop", but you only have to make a few accommodations for the page name and other such Wordpress variables getting changed.  I was able to use this to output the page data on our home page plus two categories of posts.
 
-Unfortunately, "[query\_posts()](http://codex.wordpress.org/Template_Tags/query_posts)" allows limiting by category and sorting by a custom key, but no less than, greater than, or other such comparisons with the meta key \[wrong, see [end of post](#update091118)\].  So I decided to make my own SQL query, to be run with the "[$wp\_db-&gt;get\_results()](http://codex.wordpress.org/Function_Reference/wpdb_Class)" function.  The function allows a straight SQL query to be run.  Then some other functions are used to put the result set into "the loop".  So, the code to run my custom query looks like the following:
+Unfortunately, "[`query_posts()`](http://codex.wordpress.org/Template_Tags/query_posts)" allows limiting by category and sorting by a custom key, but no less than, greater than, or other such comparisons with the meta key \[wrong, see [end of post](#update091118)\].  So I decided to make my own SQL query, to be run with the "[`$wp_db->get_results()`](http://codex.wordpress.org/Function_Reference/wpdb_Class)" function.  The function allows a straight SQL query to be run.  Then some other functions are used to put the result set into "the loop".  So, the code to run my custom query looks like the following:
 
 <!--more-->
+
 ```
 $querystr = "
 	SELECT wposts.*

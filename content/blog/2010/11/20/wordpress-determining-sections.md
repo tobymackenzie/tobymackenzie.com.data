@@ -3,7 +3,7 @@ categories: [www]
 date: 2010-11-20T06:20:44+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=415'
 id: 443
-modified: 2010-11-20T06:20:44+00:00
+modified: 2026-04-03T15:32:59-04:00
 name: wordpress-determining-sections
 tags: [cms, templates, wordpress]
 ---
@@ -11,7 +11,7 @@ tags: [cms, templates, wordpress]
 Wordpress: Determining Sections
 ===============================
 
-There are many issues encountered when using Wordpress as a CMS.  One thing that is common on regular websites is the concept of sections.  Different sections might have different highlighted or open menu items, sidebar content, layouts, or actions from the same widgets (search this section for instance).  Wordpress offers the ability to use different template files depending on the category of posts or what is selected for a page.  This is somewhat limited though, as sites might have multiple pages and categories in a section.  Wordpress also has various functions that can be used in "if" statements to determine if the current page/post matches certain criteria.  These can be logically connected in "if" statements to determine if "the_post" is in a section and placed anywhere in template files, but this requires repeating the same logic questions in every place you must determine the section, and would thus be a pain to maintain.
+There are many issues encountered when using Wordpress as a CMS.  One thing that is common on regular websites is the concept of sections.  Different sections might have different highlighted or open menu items, sidebar content, layouts, or actions from the same widgets (search this section for instance).  Wordpress offers the ability to use different template files depending on the category of posts or what is selected for a page.  This is somewhat limited though, as sites might have multiple pages and categories in a section.  Wordpress also has various functions that can be used in "if" statements to determine if the current page/post matches certain criteria.  These can be logically connected in "if" statements to determine if `the_post` is in a section and placed anywhere in template files, but this requires repeating the same logic questions in every place you must determine the section, and would thus be a pain to maintain.
 
 To keep these "if" questions in one place, I built myself a function to store them in, allowing me to ask if a page is in a section using only a name.<!--more-->  This is an excerpt from one site I worked on:
 
@@ -73,9 +73,9 @@ This would go in the functions.php template file.  All of the section names in t
 
 Some of the condition functions used include:
 
-- is\_page: true if current page slug, id, or name matches argument
-- in\_category: true if current post category slug, id, or name matches argument
-- stripos: used to look in the REQUEST\_URI for a string to match URIs used for PodsCMS items
+- `is_page`: true if current page slug, id, or name matches argument
+- `in_category`: true if current post category slug, id, or name matches argument
+- stripos: used to look in the `REQUEST_URI` for a string to match URIs used for PodsCMS items
 - fncsHasParent: a function I made to check if the page is a child of a certain page, specified by ID
 
 With this, I can ask anywhere in a template file whether a page belongs to a section

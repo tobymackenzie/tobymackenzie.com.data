@@ -3,7 +3,7 @@ categories: [computer, www]
 date: 2022-10-14T12:42:10-04:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3853'
 id: 3853
-modified: 2024-02-26T20:41:28-05:00
+modified: 2026-04-03T15:12:36-04:00
 name: vim-autocomplete-setup
 tags: [editor, feature, vim]
 ---
@@ -94,7 +94,7 @@ endif
 Todo
 ----
 
-Fuzzy matching is my biggest desired feature.  The need presented itself quickly, as I was using the PHP function `file_exists()` while testing my implementation.  There are many `file_` functions in PHP, and `file_exists()` is so far down the list for typeing "file" that it would be easier to type out the rest of the function than to arrow down to it.  It comes up as the first item if "\_e" is added on, but the "\_" requires chording and is far from home row.  It would be far quicker to type "filee" and then hit tab, but that requires fuzzy matching.  Similarly with camelcase, it would be nice to not have to chord for typing the uppercase letters.  There is something built in for doing fuzzy matching, but I'm not sure how to tie this in with the built in omni dictionaries.
+Fuzzy matching is my biggest desired feature.  The need presented itself quickly, as I was using the PHP function `file_exists()` while testing my implementation.  There are many `file_` functions in PHP, and `file_exists()` is so far down the list for typeing "file" that it would be easier to type out the rest of the function than to arrow down to it.  It comes up as the first item if `_e` is added on, but the `_` requires chording and is far from home row.  It would be far quicker to type "filee" and then hit tab, but that requires fuzzy matching.  Similarly with camelcase, it would be nice to not have to chord for typing the uppercase letters.  There is something built in for doing fuzzy matching, but I'm not sure how to tie this in with the built in omni dictionaries.
 
 I'd like it to match more general words within a a document or other buffered documents.  In PHP, it seems to match variables, function names, class names, constants, but not content of strings and stuff like that.  In CSS, it doesn't seem to match class names and other selector values.  That would be nice to have.  Again, I'm not sure how to modify the built in ominfunc dictionary matching.
 

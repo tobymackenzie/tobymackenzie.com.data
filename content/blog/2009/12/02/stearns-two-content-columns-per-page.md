@@ -4,7 +4,7 @@ comment_count: 2
 date: 2009-12-02T07:46:25+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=114'
 id: 397
-modified: 2009-12-02T07:46:25+00:00
+modified: 2026-04-03T15:25:18-04:00
 name: stearns-two-content-columns-per-page
 tags: [admin, cms, layout, magicfields, stearns, webiiclass, wordpress]
 ---
@@ -22,7 +22,7 @@ The CMS-like strategy would be to have a separate field for the right column and
 
 With MagicFields, all of our already created pages (that is pretty much all pages for the site) do not have the field or show up in the pane.  Rather than go through running the special script like I used for the [same problem with posts](https://tobymackenzie.com/blog/2009/11/28/stearns-flutter-magic-fields-adminimize/), I enabled the "Prompt when editing a Post not created with Custom Write Panel" option in Magic Fields' preferences.  When we open pages without a right column, a pre-open page asks us if we want to assign it to a write panel or not:  We can change them over as we go.
 
-The other problem, once we got CSS set up to handle a wider column, was to get the page template to output a right column only if the page has content for it, and to set an appropriate class on the middle column to set an appropriate width.  It took me a while to get it working correctly.  I was attempting to figure out how to determine if the custom field was empty with Magic Fields' get() function for a while, but couldn't get that to work.  Instead, I used the [get\_post\_meta()](http://codex.wordpress.org/Function_Reference/get_post_meta) function of Wordpress to pull the raw field content into a variable:
+The other problem, once we got CSS set up to handle a wider column, was to get the page template to output a right column only if the page has content for it, and to set an appropriate class on the middle column to set an appropriate width.  It took me a while to get it working correctly.  I was attempting to figure out how to determine if the custom field was empty with Magic Fields' get() function for a while, but couldn't get that to work.  Instead, I used the [`get_post_meta()`](http://codex.wordpress.org/Function_Reference/get_post_meta) function of Wordpress to pull the raw field content into a variable:
 
 ```
 $variable = trim(get_post_meta(get_the_ID(), 'fieldName', true));
