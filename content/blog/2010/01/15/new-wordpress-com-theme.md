@@ -4,7 +4,7 @@ comment_count: 1
 date: 2010-01-15T06:59:12+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=165'
 id: 407
-modified: 2010-01-15T06:59:12+00:00
+modified: 2026-04-03T23:26:01-04:00
 name: new-wordpress-com-theme
 tags: [theme, wordpress]
 ---
@@ -23,11 +23,10 @@ However, I'm considering moving my blog to my own site.  The only reason it has 
 A note on code blocks
 ---------------------
 
-I've been using "``" blocks for my code, as that would be the semantically correct choice.  However, I've recently discovered the benefit of using "```
-```" blocks with Wordpress:  Wordpress messes up the parsing of double line breaks in "code" blocks, putting in paragraphs, while in "pre"s, the white space is left alone and handle by the browser.  There may be some other issues as well.
+I've been using `<code>` blocks for my code, as that would be the semantically correct choice.  However, I've recently discovered the benefit of using `<pre>` blocks with Wordpress:  Wordpress messes up the parsing of double line breaks in `<code>` blocks, putting in paragraphs, while in `<pre>`s, the white space is left alone and handle by the browser.  There may be some other issues as well.
 
-So I've added a "pre" around my "code" block in the only place I've found where this was an issue.  "Pre"s do have a problem of having no line-wrap though, so long lines will stick out of code blocks and into areas that don't belong, or, like with this theme, under something so that they are invisible.  In this theme, you can't read or copy long lines by themselves in "pre"s, but they do copy fine with multiple lines.
+So I've added a `<pre>` around my `<code>` block in the only place I've found where this was an issue.  `<pre>`s do have a problem of having no line-wrap though, so long lines will stick out of code blocks and into areas that don't belong, or, like with this theme, under something so that they are invisible.  In this theme, you can't read or copy long lines by themselves in `<pre>`s, but they do copy fine with multiple lines.
 
 In my own theme, I'd be able to style my own code blocks, and add a plugin such as [CodeKeeper](http://www.jmjtwin.co.cc/download-codekeeper-free-wordpress-code-block-plugin/comment-page-1/) (haven't tried it) that automatically escape character entities and appropriately handle line breaks.  Some such plugins even add line numbering and syntax highlighting.
 
-Of course, I already have been converting less-than and greater-than symbols before pasting them into code blocks, and could potentially insert a bunch of "&lt;br /&gt;" tags in there in place of line breaks so that I can use "code" blocks with no worries of mangling by the Wordpress parser.
+Of course, I already have been converting less-than and greater-than symbols before pasting them into code blocks, and could potentially insert a bunch of `<br />` tags in there in place of line breaks so that I can use `<code>` blocks with no worries of mangling by the Wordpress parser.
