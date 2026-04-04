@@ -3,7 +3,7 @@ categories: [www]
 date: 2015-12-13T04:39:48-05:00
 guid: 'https://tobymackenzie.wordpress.com/?p=757'
 id: 757
-modified: 2020-03-20T01:05:43-04:00
+modified: 2026-04-03T23:31:03-04:00
 name: line-mode-progressive-enhancement
 tags: [browsers, development, linemode, oldbrowsers, progressiveenhancement, support, web]
 ---
@@ -36,7 +36,7 @@ For non-"sensitive" activities, it might be a bit heavy handed to block older br
 
 If you want to support non-HTTPS capable browsers, you have to provide HTTP access.  This means either not redirecting to HTTPS or providing an HTTP capable subdomain (though users would have to know about this).  <del>You can tell modern browsers to use HTTPS without a 301 redirect using HSTS.  It's sort of like a more powerful 301 redirect for modern browsers, but is ignored by non-supporting browsers.</del>  [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) will tell modern browsers to use your HTTPS site, but only after they've visited it once.
 
-<ins>JavaScript can be used to force a redirect to HTTPS by checking if the browser can successfully make a connection, thus progressively enhancing.  See \[my newer post about this\](/content/blog/2019/09/30/forcing-https-progressive-enhancement.md) for details.  Modern browsers will end up at the HTTPS site, while early browsers like Line Mode, which don't understand JavaScript, will get HTTP.</ins>
+<ins>JavaScript can be used to force a redirect to HTTPS by checking if the browser can successfully make a connection, thus progressively enhancing.  See [my newer post about this](/content/blog/2019/09/30/forcing-https-progressive-enhancement.md) for details.  Modern browsers will end up at the HTTPS site, while early browsers like Line Mode, which don't understand JavaScript, will get HTTP.</ins>
 
 If desired, you can put a message on all pages when browsing over HTTP (for instance, by checking `$_SERVER['HTTPS'] !== 'on'` in PHP) that tells them they are visiting the insecure version of the page and pointing them to the secure version.  That way you users can still access it, but are informed about the option of security if they want it.
 
