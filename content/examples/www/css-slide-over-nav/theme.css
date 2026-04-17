@@ -1,0 +1,50 @@
+*{
+	box-sizing: border-box;
+}
+body, html{
+	margin: 0;
+	padding: 0;
+}
+html{
+	background: #efe;
+	scroll-behavior: smooth;
+}
+.jumpToNav{
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	position: fixed;
+	top: -1px;
+}
+.jumpToNav:focus{
+	background: green;
+	color: yellow;
+	height: auto;
+	padding: 0.1em 0.3em;
+	top: 0;
+}
+.shlMain{
+	/* background: #efe; */
+	padding: 1em;
+}
+.shlNav{
+	background: green;
+	color: white;
+}
+.shlNav a{
+	color: yellow;
+	text-decoration: none;
+}
+.shlNavContent{
+	padding: 1em;
+}
+.shlNavList{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.shlNavToggle{
+	background: green;
+	color: yellow;
+	padding: 0.1em 0.3em;
+}

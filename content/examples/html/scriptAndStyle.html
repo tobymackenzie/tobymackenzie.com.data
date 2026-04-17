@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Test Script tags</title>
+		<meta content="initial-scale=1,width=device-width" name="viewport" />
+		<style>
+			<!--/*--><![CDATA[/*><!--*/
+			a:after{ color: red; content: 'style with full CDATA comments'; }
+			/*]]>*/-->
+		</style>
+		<style>
+			<!--/*<![CDATA[*/
+			a:after{ font-size: smaller; content: 'style with simple CDATA comments'; }
+			/*]]>*/-->
+		</style>
+		<style>
+			<!--
+			a:after{ content: 'style with simple comments'; }
+			-->
+		</style>
+		<style>
+			a:after{ content: 'uncommented styles'; }
+		</style>
+		<script>
+			<!--//--><![CDATA[//><!--
+			console.log('script with CDATA comments');
+			//--><!]]>
+		</script>
+		<script>
+			<!--
+			console.log('script with simple comments');
+			//-->
+		</script>
+		<script>
+			console.log('non commented script tag');
+		</script>
+		<!-- head comment -->
+	</head>
+	<body>
+		<!-- regular comment -->
+		body content
+		<a href="http://line-mode.cern.ch/www/referrer">View in line-mode emulator</a>
+		<style>
+			a:after{ content: 'uncommented styles in body'; }
+		</style>
+		<style>
+			<!--
+			a:after{ content: 'style with simple comments in body'; content: ' >'; }
+			-->
+		</style>
+	</body>
+</html>

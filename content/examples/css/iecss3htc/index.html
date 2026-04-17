@@ -1,0 +1,100 @@
+<!-- -# referenced https://www.tobymackenzie.com/blog/2010/07/06/css-ie-shadows-and-rounded-corners/ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>iecss3.htc - Examples - TMCom</title>
+<style>
+h1{
+	font-size: 20px;
+	color: #eed880;
+	text-shadow: 10px 3px 5px rgba(100,0,0,0.6);
+	behavior: url('ie-css3.htc');
+}
+p{
+	margin-right: 50px;
+	text-shadow: 2px 2px 3px #000;
+	behavior: url('ie-css3.htc');
+}
+#box1{
+	margin: 0 auto 20px;
+	width: 200px;
+	height: 100px;
+	background: #000;
+	color: #fff;
+	border-radius: 36px;
+	-moz-border-radius: 36px;
+	-webkit-border-radius: 36px;
+	box-shadow: #f00 20px 20px 20px;
+	-moz-box-shadow: #f00 20px 20px 20px;
+	-webkit-box-shadow: #f00 20px 20px 20px;
+	behavior: url('ie-css3.htc');
+}
+#box2{
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 30px;
+	height: 200px;
+	background: #f00;
+	box-shadow: rgba(0,0,0,0.4) 5px 5px 0;
+	-moz-box-shadow: rgba(0,0,0,0.4) 5px 5px 0;
+	-webkit-box-shadow: rgba(0,0,0,0.4) 5px 5px 0;
+	behavior: url('ie-css3.htc');
+}
+#box3{
+	margin: 30px 200px;
+	width: 500px;
+	height: 10px;
+	background: #f00;
+	box-shadow: rgb(0,255,0) 10px 10px 10px;
+	-moz-box-shadow: rgb(0,255,0) 10px 10px 10px;
+	-webkit-box-shadow:: rgb(0,255,0) 10px 10px 10px;
+	behavior: url('ie-css3.htc');
+}
+#box4{
+	position: absolute;
+	top: 300px;
+	right: 100px;
+	width: 50px;
+	height: 120px;
+	background: #00f;
+	box-shadow: rgba(0,0,220,0.5) 10px 15px 10px;
+	-moz-box-shadow: rgba(0,0,220,0.5) 10px 15px 10px;
+	-webkit-box-shadow: rgba(0,0,220,0.5) 10px 15px 10px;
+	behavior: url('ie-css3.htc');
+}
+#box5{
+	position: relative;
+	border: 3px solid gray;
+	width: 100px;
+	background: yellow;
+	text-shadow: #fff 2px 2px 4px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	box-shadow: rgba(0,0,0,1) 10px 10px 5px;
+	-moz-box-shadow: rgba(0,0,0,1) 10px 10px 5px;
+	-webkit-box-shadow: rgba(0,0,0,1) 10px 10px 5px;
+	behavior: url('ie-css3.htc');
+}
+</style>
+
+
+</head>
+<body>
+	<div id="box1">delenit augue duis dolore te feugait nulla facilisi.</div>
+	<div id="box2">consectetuer adipiscing elit, sed diam nonummy nibh euismod</div>
+	<div id="maincontent">
+		<h1>Dolor Sit Amet</h1>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+		<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
+		<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </p>
+		<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+	</div>
+	<div id="box4">nonummy</div>
+	<div id="box3">hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi</div>
+	<div id="box5">Suscipit Lobortis Nisl Ut Aliquip Ex Ea Commodo</div>
+</body>
+</html>

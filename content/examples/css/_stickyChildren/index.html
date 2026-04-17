@@ -1,0 +1,111 @@
+<!doctype html>
+<title>Sticky Children</title>
+<meta content="initial-scale=1,width=device-width" name="viewport" />
+<style>
+body{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
+}
+.container{
+	border: 1px solid;
+	height: 10em;
+	margin-bottom: 2em;
+	max-height: 90vh;
+	max-width: 100%;
+	overflow: auto;
+	position: relative;
+}
+.content{
+	background: #eee;
+	padding: 1em;
+}
+.label{
+	background: green;
+	float: left;
+	padding: 0.5em;
+	position: sticky;
+	top: 0;
+}
+.sticky{
+	background: green;
+	bottom: 0;
+	display: inline-block;
+	position: sticky;
+}
+.stickyParent{
+	background: blue;
+}
+
+/*--options */
+.container-b .stickyParent{
+	bottom: 0;
+	position: sticky;
+}
+.container-c .stickyParent{
+	display: inline;
+}
+.container-d .stickyParent{
+	display: inline-block;
+}
+.container-a .stickyParent{
+	/* display: inline; */
+	position: relative;
+	width: 100%;
+}
+</style>
+<div class="container container-a">
+	<div class="label">a</div>
+	<div class="content">
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+	</div>
+	<div class="stickyParent">
+		<div class="sticky">Sticky</div>
+		<span>Sticky Parent</span>
+	</div>
+</div>
+<div class="container container-b">
+	<div class="label">b</div>
+	<div class="content">
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+	</div>
+	<div class="stickyParent">
+		<div class="sticky">Sticky</div>
+		<span>Sticky Parent</span>
+	</div>
+</div>
+<div class="container container-c">
+	<div class="label">c</div>
+	<div class="content">
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+	</div>
+	<div class="stickyParent">
+		<div class="sticky">Sticky</div>
+		<span>Sticky Parent</span>
+	</div>
+</div>
+<div class="container container-d">
+	<div class="label">d</div>
+	<div class="content">
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+	</div>
+	<div class="stickyParent">
+		<div class="sticky">Sticky</div>
+		<span>Sticky Parent</span>
+	</div>
+</div>
+<div class="container container-e">
+	<div class="label">e</div>
+	<div class="content">
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+		<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+	</div>
+	<div class="stickyParent">
+		<div class="sticky">Sticky</div>
+		<span>Sticky Parent</span>
+	</div>
+</div>
+

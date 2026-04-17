@@ -1,0 +1,59 @@
+body{
+	/*--make other content slideable */
+	position: relative;
+	right: 0;
+}
+body, .shlNav, .shlNavToggle{
+	/*--make all sliding elements animatable */
+	transition: right 0.2s ease;
+}
+.blocker{
+	background: rgba(0, 0, 0, 0.4);
+	bottom: 0;
+	left: 0;
+	right: 0;
+	opacity: 0;
+	position: fixed;
+	top: 0;
+	transition: opacity 0.2s ease, z-index 0.2s ease;
+	z-index: -1;
+}
+html[data-nav-state='visible'] .blocker{
+	opacity: 1;
+	z-index: 1;
+}
+.ua-js .shlNav{
+	/*--allow scrolling if taller than viewport */
+	overflow: auto;
+	/*--give fixed width for our sliding, though don't allow to be wider than most of screen */
+	max-width: 90%;
+	width: 12rem;
+	/*--position above other stuff */
+	z-index: 2;
+	/*--position fixed offscreen */
+	bottom: 0;
+	position: fixed;
+	right: -12rem;
+	top: 0;
+}
+html[data-nav-state='visible'] .shlNav
+/* , .shlNav:focus-within */
+{
+	/*--if visible or a nav item is focused, show nav */
+	right: 0;
+}
+html[data-nav-state='visible'] body
+,html[data-nav-state='visible'] .shlNavToggle
+/* ,html[data-nav-state='visible'] .shlMain */
+{
+	/*--if visible (js only), slide content over.  must do for each non-nav element */
+	right: 12rem;
+}
+.shlNavToggle{
+	/*--place in top right corner */
+	right: 0;
+	position: fixed;
+	top: 0;
+	/*--above blocker */
+	z-index: 2;
+}

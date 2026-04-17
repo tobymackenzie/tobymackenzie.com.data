@@ -1,0 +1,297 @@
+<!doctype html>
+<title>Switch</title>
+<meta charset="utf-8" />
+<meta content="initial-scale=1,width=device-width" name="viewport" />
+<style>
+/* general styles */
+*{
+	box-sizing: border-box;
+}
+
+/* form styles */
+.field{
+	display: flex;
+	align-items: center;
+	justify-content: left;
+}
+* + .field{
+	margin-top: 0.5em;
+}
+.checkField .fieldWidget, .switchField .fieldWidget{
+	/* label gap */
+	margin-right: 0.5em;
+}
+
+/* only apply if we can ensure switch won't block input functionality */
+@supports (pointer-events: none){
+	/* switch styles */
+	.switchField .fieldWidget{
+		/* inline */
+		display: inline-block;
+		vertical-align: middle;
+		/* sizing */
+		height: 1em;
+		width: 2em;
+		/* allow internal positioning */
+		position: relative;
+	}
+	.switchField .fieldControl, .switchField .fieldWidget > i, .switchField .fieldWidget > i:before{
+		border-radius: 1em;
+	}
+	.switchField .fieldControl, .switchField .fieldWidget > i{
+		/* cover container */
+		height: 100%;
+		left: 0;
+		position: absolute;
+		top: 0;
+		width: 100%;
+	}
+	.switchField .fieldControl{
+		/* get rid of checkbox look & styles, allow resize */
+		-moz-appearance: none;
+		-ms-appearance: none;
+		-webkit-appearance: none;
+		appearance: none;
+		margin: 0;
+	}
+	.switchField .fieldWidget > i{
+		/* off colors */
+		background: black;
+		border: 2px solid;
+		color: black;
+		/* allow click through */
+		pointer-events: none;
+	}
+	.switchField .fieldWidget > i:before{
+		content: '';
+		/* colors */
+		background: white;
+		/* sizing */
+		bottom: 0;
+		position: absolute;
+		top: 0;
+		width: 55%;
+		/* position */
+		left: 0;
+		transition: left 0.1s ease;
+	}
+	.switchField .fieldControl:checked + i{
+		/* on colors */
+		background: green;
+		color: green;
+	}
+	.switchField .fieldControl:checked + i:before{
+		left: 44%;
+	}
+
+	/* switch binary variant */
+	.switchField-binary .fieldWidget > i:after{
+		content: '';
+		/* animate */
+		transition: left 0.1s ease, width 0.1s ease;
+		/* position */
+		left: 12%;
+		position: absolute;
+		top: 0.1em;
+		z-index: 1;
+		/* shape */
+		border: 1px solid;
+		border-radius: 50%;
+		/* size */
+		height: 0.4em;
+		width: 0.4em;
+	}
+	.switchField-binary .fieldControl:checked + i:after{
+		left: 70%;
+		width: 0;
+	}
+
+	/* switch check variant */
+	.switchField-check .fieldWidget > i:after{
+		/* animate */
+		transition: left 0.1s ease;
+		/* content */
+		content: '';
+		font-size: 0.6em;
+		font-style: normal;
+		/* position */
+		height: 100%;
+		line-height: 1.5;
+		position: absolute;
+		left: 15%;
+		top: 0;
+		z-index: 1;
+		/* help friendly screen readers */
+		speak: none;
+		width: 0;
+	}
+	.switchField-check .fieldControl:checked + i:after{
+		content: '✓';
+		left: 59%;
+	}
+
+	/* switch boxy variant */
+	.switchField-boxy .fieldControl
+	,.switchField-boxy .fieldWidget > i
+	,.switchField-boxy .fieldWidget > i:before
+	{
+		border-radius: 0;
+	}
+
+	/* switch text variant */
+	.switchField-text .fieldControl
+	,.switchField-text .fieldWidget > i
+	,.switchField-text .fieldWidget > i:before
+	{
+		border-radius: 0;
+	}
+	.switchField-text .fieldWidget > i:after{
+		/* animate */
+		transition: left 0.1s ease;
+		/* content */
+		content: 'no';
+		font-size: 0.7em;
+		font-style: normal;
+		/* position */
+		height: 100%;
+		line-height: 1.1;
+		position: absolute;
+		left: 10%;
+		top: 0;
+		z-index: 1;
+	}
+	.switchField-text .fieldControl:checked + i:after{
+		content: 'yes';
+		left: 43%;
+	}
+	.switchField-text .fieldWidget > i:before{
+		width: 60%;
+	}
+	.switchField-text .fieldControl:checked + i::before{
+		left: 40%;
+	}
+}
+
+/* for demo */
+.demos{
+	display: flex;
+	flex-wrap: wrap;
+}
+.demo{
+	border: 1px solid;
+	margin: 0.5em;
+	padding: 0.5em;
+}
+.demo h2{
+	border-bottom: 1px solid;
+	font-size: 1.2em;
+	margin: 0 0 0.5em;
+	text-align: center;
+}
+
+</style>
+<div class="demos">
+	<form class="demo">
+		<h2>Check switch</h2>
+		<div class="switchField switchField-check field">
+			<span class="fieldWidget">
+				<input class="fieldControl" id="fl-switch-check-1" name="switch-check-1" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-check-1">Switch me</label></span>
+		</div>
+		<div class="switchField switchField-check field">
+			<span class="fieldWidget">
+				<input checked="checked" class="fieldControl" id="fl-switch-check-0" name="switch-check-0" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-check-0">Switch me</label></span>
+		</div>
+	</form>
+	<form class="demo">
+		<h2>Binary switch</h2>
+		<div class="switchField switchField-binary field">
+			<span class="fieldWidget">
+				<input class="fieldControl" id="fl-switch-binary-1" name="switch-binary-1" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-binary-1">Switch me</label></span>
+		</div>
+		<div class="switchField switchField-binary field">
+			<span class="fieldWidget">
+				<input checked="checked" class="fieldControl" id="fl-switch-binary-0" name="switch-binary-0" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-binary-0">Switch me</label></span>
+		</div>
+	</form>
+	<form class="demo">
+		<h2>Boxy switch</h2>
+		<div class="switchField switchField-boxy field">
+			<span class="fieldWidget">
+				<input class="fieldControl" id="fl-switch-boxy-1" name="switch-boxy-1" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-boxy-1">Switch me</label></span>
+		</div>
+		<div class="switchField switchField-boxy field">
+			<span class="fieldWidget">
+				<input checked="checked" class="fieldControl" id="fl-switch-boxy-0" name="switch-boxy-0" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-boxy-0">Switch me</label></span>
+		</div>
+	</form>
+	<form class="demo">
+		<h2>Text switch</h2>
+		<div class="switchField switchField-text field">
+			<span class="fieldWidget">
+				<input class="fieldControl" id="fl-switch-text-1" name="switch-text-1" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-text-1">Switch me</label></span>
+		</div>
+		<div class="switchField switchField-text field">
+			<span class="fieldWidget">
+				<input checked="checked" class="fieldControl" id="fl-switch-text-0" name="switch-text-0" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-text-0">Switch me</label></span>
+		</div>
+	</form>
+	<form class="demo">
+		<h2>Plain switch</h2>
+		<div class="switchField switchField-plain field">
+			<span class="fieldWidget">
+				<input class="fieldControl" id="fl-switch-plain-1" name="switch-plain-1" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-plain-1">Switch me</label></span>
+		</div>
+		<div class="switchField switchField-plain field">
+			<span class="fieldWidget">
+				<input checked="checked" class="fieldControl" id="fl-switch-plain-0" name="switch-plain-0" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-switch-plain-0">Switch me</label></span>
+		</div>
+	</form>
+	<form class="demo">
+		<h2>Plain checkbox</h2>
+		<div class="checkField field">
+			<span class="fieldWidget">
+				<input class="fieldControl" id="fl-check-0" name="check" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-check-0">Check me</label></span>
+		</div>
+		<div class="checkField field">
+			<span class="fieldWidget">
+				<input checked="checked" class="fieldControl" id="fl-check-1" name="check" type="checkbox" />
+				<i></i>
+			</span>
+			<span class="fieldLabel"><label for="fl-check-1">Check me</label></span>
+		</div>
+	</form>
+</div>
+

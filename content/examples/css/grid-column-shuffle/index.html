@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Grid Column Shuffle - &lt;toby&gt;</title>
+		<meta content="initial-scale=1,width=device-width" name="viewport" />
+		<style>
+			img{
+				max-width: 100%;
+			}
+
+			/*--repeatAuto*/
+			.grid-repeatAuto > *{
+	padding: 1em;
+	overflow: auto;
+}
+@media screen and (min-width: 38em){
+	.grid-repeatAuto{
+		align-items: start;
+		display: grid;
+		grid-auto-flow: row dense;
+		grid-template-columns: 1fr 3fr 1fr;
+		grid-template-rows: repeat(auto-fill, min-content);
+	}
+	.grid-repeatAuto header{
+		grid-column: 1;
+		order: 1;
+	}
+	.grid-repeatAuto main{
+		grid-column: 2;
+		order: 1;
+	}
+	.grid-repeatAuto aside.a{
+		grid-column: 3;
+		order: 2;
+	}
+	.grid-repeatAuto aside.b{
+		grid-column: 3;
+		order: 1;
+	}
+	.grid-repeatAuto footer{
+		grid-column: 1;
+		order: 2;
+	}
+}
+
+			/*--general */
+			.grid header{
+				background: red;
+				/* height: 3em; */
+			}
+			.grid main{
+				background: green;
+				/* height: 10em; */
+			}
+			.grid aside.a{
+				background: blue;
+				/* height: 5em; */
+			}
+			.grid aside.b{
+				background: yellow;
+				/* height: 7em; */
+			}
+			.grid footer{
+				background: cyan;
+				/* height: 4em; */
+			}
+		</style>
+	</head>
+	<body>
+		<h2>Approximate Goal</h2>
+		<img alt="Columnated layout with items touching but not overlapping" src="./goal.png" />
+		<h2>Repeat Auto</h2>
+		<div class="grid-repeatAuto grid">
+			<header>Header</header>
+			<main>
+				<h1>Main</h1>
+				<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. Chagrin falls quod fairview park gund arena ii eodem. Hunting valley urban meyer cleveland museum of art highland hills vel fred willard qui videntur eros futurum. Gates mills quinta the metroparks brad daugherty aliquam typi illum demonstraverunt.</p>
+				<p>Berea ghoulardi quam in. Iriure tremont sollemnes pepper pike. Superhost jim lovell sed burgess meredith magna est, ad wes craven west side uss cod cum bedford heights. Ohio city philip johnson dolor accumsan facilisi cuyahoga heights praesent diam. Jim tressel facer typi bedford, the innerbelt eorum liber duis, assum per. Mutationem eorum jesse owens seacula at modo.</p>
+				<p>Arsenio hall facilisi ipsum fiant john d. rockefeller liber saepius university heights hendrerit sit sequitur delenit. Steve harvey metroparks zoo quam quod quod nobis. Aliquip tempor garfield heights cleveland ut modo. Humanitatis solon jim backus in in consectetuer dolore newburgh heights browns doug dieken. Quam drew carey diam doming placerat nihil. Nulla usus nunc me etiam lobortis. Ullamcorper claritatem consuetudium zzril in in anteposuerit municipal stadium mirum legunt dolor accumsan. Ex paul newman legere north olmsted jim brown screamin’ jay hawkins te putamus frank yankovic, augue dorothy dandridge veniam. Sit euclid aliquip id sandy alomar collision bend don king the gold coast feugiat mark mothersbaugh. Legere sam sheppard volutpat chrissie hynde est nonummy. Bobby knight soluta amet consequat. Gothica wisi mirum minim est mike golic.</p>
+			</main>
+			<aside class="a">
+				<h2>Aside A</h2>
+				<p>Lorem ipsum dolor sit amet nonummy.  East cleveland eum nisl nobis. Consequat velit middleburg heights te walton hills claritas michael ruhlman, margaret hamilton vulputate option. Autem jacobs field parum debra winger wisi nam. </p>
+			</aside>
+			<aside class="b">
+				<h2>Aside B</h2>
+				<p>Berea ghoulardi quam in. Iriure tremont sollemnes pepper pike. Superhost jim lovell sed burgess meredith magna est, ad wes craven west side uss cod cum bedford heights.</p>
+			</aside>
+			<footer>
+				<h2>Footer</h2>
+				<p>Lorem ipsum dolor sit amet</p>
+			</footer>
+		</div>
+	</body>
+</html>

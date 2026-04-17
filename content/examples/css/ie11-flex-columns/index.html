@@ -1,0 +1,46 @@
+<!doctype html>
+<title>IE 11 Columns with Flexbox bug</title>
+<meta content="initial-scale=1,width=device-width" name="viewport" />
+<style>
+body{
+	background: black;
+}
+.container{
+	background: green;
+	border-bottom: 3px solid red;
+	display: flex;
+	-ms-flex: 1 0 auto;
+	flex: 1 0 auto;
+	flex-direction: column;
+	margin: 0 auto;
+	max-width: 100%;
+	overflow: auto;
+	width: 45em;
+}
+main{
+	background: white;
+	border: 3px solid gray;
+	display: block;
+	padding: 1em;
+}
+ul{
+	column-width: 13em;
+	margin: 1em 0;
+	padding: 0 0 0 1em;
+}
+</style>
+<div class="container">
+	<main>
+		<ul>
+			<li>Quinta</li>
+			<li>bowling</li>
+			<li>saepius</li>
+			<li>consuetudium</li>
+			<li>Dolore</li>
+			<li>lake</li>
+			<li>erie</li>
+			<li>eodem</li>
+			<li>claritas</li>
+		</ul>
+	</main>
+</div>

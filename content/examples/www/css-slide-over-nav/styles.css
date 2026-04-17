@@ -1,0 +1,62 @@
+.shlNav, _:focus-within{
+	/*--allow scrolling if taller than viewport */
+	/* overflow: auto; */
+	/*--give fixed width for our sliding, though don't allow to be wider than most of screen */
+	max-width: 90%;
+	width: 12rem;
+	/*--position above other stuff */
+	z-index: 2;
+	/*--position fixed offscreen */
+	bottom: 0;
+	position: fixed;
+	right: -12rem;
+	top: 0;
+	/*--animate reveal */
+	transition: right 0.2s ease;
+}
+.shlNav:focus{
+	box-shadow: 0 -4px 4px rgba(255, 255, 255, 0.3);
+	outline: none;
+}
+.shlNav:focus-within{
+	/*--if focus is inside nav, show nav */
+	right: 0;
+}
+/*--ff doesn't consider jumping to a target to trigger `:focus`, while others do.  see https://bugzilla.mozilla.org/show_bug.cgi?id=1000082 */
+.shlNav:target, _:-moz-focusring{
+	right: 0;
+}
+.shlNavContent{
+	overflow: auto;
+	max-height: 100%;
+}
+.shlNavToggle, _:focus-within{
+	/*--place in top right corner */
+	right: 100%;
+	position: absolute;
+	top: 0;
+}
+@supports (pointer-events: none){
+	.blocker, _:focus-within{
+		background: rgba(0, 0, 0, 0.4);
+		bottom: 0;
+		left: 0;
+		right: 0;
+		opacity: 0;
+		pointer-events: none;
+		position: fixed;
+		top: 0;
+		transition: opacity 0.2s ease, z-index 0.2s ease;
+		z-index: -1;
+	}
+	.shlNav:focus-within ~ .blocker{
+		opacity: 1;
+		pointer-events: auto;
+		z-index: 1;
+	}
+	.shlNav:target ~ .blocker, _:-moz-focusring{
+		opacity: 1;
+		pointer-events: auto;
+		z-index: 1;
+	}
+}

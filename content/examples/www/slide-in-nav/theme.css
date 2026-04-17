@@ -1,0 +1,28 @@
+*{
+	box-sizing: border-box;
+}
+body, html{
+	margin: 0;
+	padding: 0;
+}
+html{
+	background: #efe;
+	scroll-behavior: smooth;
+}
+.shlMain{
+	background: #efe;
+	padding: 1em;
+}
+.shlNav{
+	background: green;
+	padding: 1em;
+}
+.shlNav a{
+	color: yellow;
+	text-decoration: none;
+}
+.shlNavList{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
