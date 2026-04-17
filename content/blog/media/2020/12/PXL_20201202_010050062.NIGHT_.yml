@@ -1,0 +1,24 @@
+file: 2020/12/PXL_20201202_010050062.NIGHT_.jpg
+alt: 'snow covered branches at night'
+id: 3139
+date: 2020-12-02T00:41:41-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2020/12/PXL_20201202_010050062.NIGHT_.jpg'
+mime: image/jpeg
+modified: 2020-12-02T00:42:07-05:00
+parent: 3138
+title: PXL_20201202_010050062.NIGHT
+width: 1400
+height: 1050
+sizes:
+    medium: { file: PXL_20201202_010050062.NIGHT_-300x225.jpg, width: 300, height: 225 }
+    large: { file: PXL_20201202_010050062.NIGHT_-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: PXL_20201202_010050062.NIGHT_-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: PXL_20201202_010050062.NIGHT_-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: PXL_20201202_010050062.NIGHT_-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2020-12-01T20:00:50+00:00
+focalLength: '4.44'
+iso: '437'
+shutterSpeed: '0.06664'
+orientation: '1'

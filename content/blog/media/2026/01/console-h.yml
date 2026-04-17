@@ -1,0 +1,20 @@
+file: 2026/01/console-h.jpg
+alt: "example of h elements with '=' and '-' character border"
+id: 4741
+date: 2026-01-18T11:59:57-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2026/01/console-h.jpg'
+mime: image/jpeg
+modified: 2026-01-18T12:00:58-05:00
+parent: 4739
+title: 'Console headings'
+width: 1834
+height: 456
+sizes:
+    medium: { file: console-h-300x75.jpg, width: 300, height: 75 }
+    large: { file: console-h-1024x255.jpg, width: 1024, height: 255 }
+    thumbnail: { file: console-h-150x37.jpg, width: 150, height: 37 }
+    medium_large: { file: console-h-768x191.jpg, width: 768, height: 191 }
+    1536x1536: { file: console-h-1536x382.jpg, width: 1536, height: 382 }
+    post-thumbnail: { file: console-h-625x155.jpg, width: 625, height: 155 }
+caption: Screenshot
+orientation: '1'

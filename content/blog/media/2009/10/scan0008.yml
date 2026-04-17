@@ -1,0 +1,13 @@
+file: 2009/10/scan0008.jpg
+id: 376
+date: 2009-10-11T18:22:36+00:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/scan0008.jpg'
+mime: image/jpeg
+modified: 2009-10-11T18:22:36+00:00
+parent: 379
+title: 'Stearns  thematic wireframe 5'
+width: 600
+height: 492
+sizes:
+    thumbnail: { file: scan0008-150x123.jpg, width: 150, height: 123 }
+    medium: { file: scan0008-300x246.jpg, width: 300, height: 246 }

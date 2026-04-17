@@ -1,0 +1,23 @@
+file: 2025/05/20250430_134439.jpg
+alt: 'leafy redbud tree with one small visible flower'
+id: 4551
+date: 2025-05-01T16:53:51-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2025/05/20250430_134439.jpg'
+mime: image/jpeg
+modified: 2025-05-01T16:55:24-04:00
+parent: 4550
+width: 1050
+height: 1400
+sizes:
+    medium: { file: 20250430_134439-225x300.jpg, width: 225, height: 300 }
+    large: { file: 20250430_134439-768x1024.jpg, width: 768, height: 1024 }
+    thumbnail: { file: 20250430_134439-113x150.jpg, width: 113, height: 150 }
+    medium_large: { file: 20250430_134439-768x1024.jpg, width: 768, height: 1024 }
+    post-thumbnail: { file: 20250430_134439-625x833.jpg, width: 625, height: 833 }
+aperture: '1.8'
+camera: 'Galaxy S24'
+created: 2025-04-30T13:44:39+00:00
+focalLength: '5.4'
+iso: '25'
+shutterSpeed: '0.00085488399916074'
+orientation: '1'

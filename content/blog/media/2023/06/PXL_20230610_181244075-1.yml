@@ -1,0 +1,25 @@
+file: 2023/06/PXL_20230610_181244075-1.jpg
+alt: 'tree jammed into hatchback car'
+id: 4052
+date: 2023-06-14T15:27:03-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2023/06/PXL_20230610_181244075-1.jpg'
+mime: image/jpeg
+modified: 2023-06-14T15:29:37-04:00
+parent: 4047
+title: 'tree jammed into hatchback car'
+width: 900
+height: 1200
+sizes:
+    medium: { file: PXL_20230610_181244075-1-225x300.jpg, width: 225, height: 300 }
+    large: { file: PXL_20230610_181244075-1-768x1024.jpg, width: 768, height: 1024 }
+    thumbnail: { file: PXL_20230610_181244075-1-113x150.jpg, width: 113, height: 150 }
+    medium_large: { file: PXL_20230610_181244075-1-768x1024.jpg, width: 768, height: 1024 }
+    1536x1536: { file: PXL_20230610_181244075-1-1152x1536.jpg, width: 1152, height: 1536 }
+    post-thumbnail: { file: PXL_20230610_181244075-1-625x833.jpg, width: 625, height: 833 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2023-06-10T14:12:44+00:00
+focalLength: '4.44'
+iso: '56'
+shutterSpeed: '0.000511'
+orientation: '1'

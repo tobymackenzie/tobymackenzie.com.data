@@ -1,0 +1,24 @@
+file: 2022/01/PXL_20220117_155701298.resized.jpg
+alt: 'deep snow covers deck and yard'
+id: 3604
+date: 2022-01-18T00:01:11-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2022/01/PXL_20220117_155701298.resized.jpg'
+mime: image/jpeg
+modified: 2022-01-18T00:01:26-05:00
+parent: 3600
+title: PXL_20220117_155701298.resized
+width: 1210
+height: 907
+sizes:
+    medium: { file: PXL_20220117_155701298.resized-300x225.jpg, width: 300, height: 225 }
+    large: { file: PXL_20220117_155701298.resized-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: PXL_20220117_155701298.resized-150x112.jpg, width: 150, height: 112 }
+    medium_large: { file: PXL_20220117_155701298.resized-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: PXL_20220117_155701298.resized-625x468.jpg, width: 625, height: 468 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2022-01-17T10:57:01+00:00
+focalLength: '4.44'
+iso: '89'
+shutterSpeed: '0.000511'
+orientation: '1'

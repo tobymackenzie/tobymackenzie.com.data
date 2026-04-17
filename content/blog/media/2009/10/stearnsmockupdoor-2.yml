@@ -1,0 +1,15 @@
+file: 2009/10/stearnsmockupdoor-2.jpg
+content: "This design is supposed to be an open barn door, though the door itself is not visible, only the doorway.  There is a sign overhead.  Due to the suggestion of the instructor, I put it right on the door frame instead of above the frame to conserve space and make it cleaner.  Putting the text on the animal silhouettes doesn't look that clean though, so the instructor didn't want me to present this one.  I like the fact that it allows for a three column home page, though, giving lots of real estate above the fold. "
+id: 384
+date: 2009-10-22T09:33:38+00:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/stearnsmockupdoor-2.jpg'
+mime: image/jpeg
+modified: 2009-10-22T09:33:38+00:00
+parent: 381
+title: 'Stearns Mockup Door with Top Navigation - Home Page'
+width: 600
+height: 600
+sizes:
+    thumbnail: { file: stearnsmockupdoor-2-150x150.jpg, width: 150, height: 150 }
+    medium: { file: stearnsmockupdoor-2-300x300.jpg, width: 300, height: 300 }
+    post-thumbnail: { file: stearnsmockupdoor-2-600x510.jpg, width: 600, height: 510 }

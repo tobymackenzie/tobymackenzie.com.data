@@ -1,0 +1,14 @@
+file: 2010/06/stearnsHomestead091227.jpg
+content: /log/wp-content/uploads/2010/06/stearnsHomestead091227.jpg
+id: 263
+date: 2010-06-30T00:43:45-05:00
+guid: 'http://cosmicosmo.ath.cx/log/wp-content/uploads/2010/06/stearnsHomestead091227.jpg'
+mime: image/jpeg
+modified: 2010-06-30T00:43:45-05:00
+title: stearnsHomestead091227.jpg
+width: '906'
+height: '584'
+sizes:
+    thumbnail: { file: stearnsHomestead091227-150x96.jpg, width: '150', height: '96' }
+    medium: { file: stearnsHomestead091227-300x193.jpg, width: '300', height: '193' }
+    post-thumbnail: { file: stearnsHomestead091227-906x198.jpg, width: '906', height: '198' }

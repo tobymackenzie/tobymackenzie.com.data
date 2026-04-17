@@ -1,0 +1,24 @@
+file: 2024/08/20240807_112124.jpg
+alt: 'wildflower garden damaged by wind'
+id: 4419
+date: 2024-08-08T00:29:37-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2024/08/20240807_112124.jpg'
+mime: image/jpeg
+modified: 2024-08-08T00:29:58-04:00
+parent: 4418
+width: 2000
+height: 1500
+sizes:
+    medium: { file: 20240807_112124-300x225.jpg, width: 300, height: 225 }
+    large: { file: 20240807_112124-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: 20240807_112124-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: 20240807_112124-768x576.jpg, width: 768, height: 576 }
+    1536x1536: { file: 20240807_112124-1536x1152.jpg, width: 1536, height: 1152 }
+    post-thumbnail: { file: 20240807_112124-625x469.jpg, width: 625, height: 469 }
+aperture: '2.2'
+camera: 'Galaxy S24'
+created: 2024-08-07T11:21:24+00:00
+focalLength: '2.2'
+iso: '50'
+shutterSpeed: '0.0015337423312883'
+orientation: '1'

@@ -1,0 +1,19 @@
+file: 2024/07/about-profiles-compact.png
+alt: 'compact about profiles screenshot'
+id: 4374
+date: 2024-07-11T15:10:14-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2024/07/about-profiles-compact.png'
+mime: image/png
+modified: 2024-07-11T15:10:29-04:00
+parent: 4371
+title: about-profiles-compact
+width: 2574
+height: 848
+sizes:
+    medium: { file: about-profiles-compact-300x99.png, width: 300, height: 99 }
+    large: { file: about-profiles-compact-1024x337.png, width: 1024, height: 337 }
+    thumbnail: { file: about-profiles-compact-150x49.png, width: 150, height: 49 }
+    medium_large: { file: about-profiles-compact-768x253.png, width: 768, height: 253 }
+    1536x1536: { file: about-profiles-compact-1536x506.png, width: 1536, height: 506 }
+    2048x2048: { file: about-profiles-compact-2048x675.png, width: 2048, height: 675 }
+    post-thumbnail: { file: about-profiles-compact-625x206.png, width: 625, height: 206 }

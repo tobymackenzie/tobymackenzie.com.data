@@ -1,0 +1,23 @@
+file: 2024/10/arborvitae.jpg
+alt: 'row of arborvitaes in yard'
+id: 4450
+date: 2024-10-02T00:00:14-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2024/10/arborvitae.jpg'
+mime: image/jpeg
+modified: 2024-10-02T00:00:29-04:00
+parent: 4449
+width: 900
+height: 1200
+sizes:
+    medium: { file: arborvitae-225x300.jpg, width: 225, height: 300 }
+    large: { file: arborvitae-768x1024.jpg, width: 768, height: 1024 }
+    thumbnail: { file: arborvitae-113x150.jpg, width: 113, height: 150 }
+    medium_large: { file: arborvitae-768x1024.jpg, width: 768, height: 1024 }
+    post-thumbnail: { file: arborvitae-625x833.jpg, width: 625, height: 833 }
+aperture: '1.8'
+camera: 'Galaxy S24'
+created: 2024-09-28T14:44:31+00:00
+focalLength: '5.4'
+iso: '25'
+shutterSpeed: '0.0038910505836576'
+orientation: '1'

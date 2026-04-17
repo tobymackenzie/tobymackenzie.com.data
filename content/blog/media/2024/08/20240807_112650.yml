@@ -1,0 +1,23 @@
+file: 2024/08/20240807_112650.jpg
+alt: 'broken tree at edge of ravine'
+id: 4424
+date: 2024-08-08T00:38:29-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2024/08/20240807_112650.jpg'
+mime: image/jpeg
+modified: 2024-08-08T00:39:08-04:00
+width: 1800
+height: 1350
+sizes:
+    medium: { file: 20240807_112650-300x225.jpg, width: 300, height: 225 }
+    large: { file: 20240807_112650-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: 20240807_112650-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: 20240807_112650-768x576.jpg, width: 768, height: 576 }
+    1536x1536: { file: 20240807_112650-1536x1152.jpg, width: 1536, height: 1152 }
+    post-thumbnail: { file: 20240807_112650-625x469.jpg, width: 625, height: 469 }
+aperture: '2.2'
+camera: 'Galaxy S24'
+created: 2024-08-07T11:26:50+00:00
+focalLength: '2.2'
+iso: '80'
+shutterSpeed: '0.016666666666667'
+orientation: '1'

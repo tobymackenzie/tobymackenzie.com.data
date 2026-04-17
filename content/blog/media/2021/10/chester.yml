@@ -1,0 +1,24 @@
+file: 2021/10/chester.jpeg
+alt: 'Chester dog sitting on couch'
+id: 3534
+date: 2021-10-22T00:05:51-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2021/10/chester.jpeg'
+mime: image/jpeg
+modified: 2021-10-22T00:06:19-04:00
+parent: 3532
+title: chester
+width: 1172
+height: 1200
+sizes:
+    medium: { file: chester-293x300.jpeg, width: 293, height: 300 }
+    large: { file: chester-1000x1024.jpeg, width: 1000, height: 1024 }
+    thumbnail: { file: chester-147x150.jpeg, width: 147, height: 150 }
+    medium_large: { file: chester-768x786.jpeg, width: 768, height: 786 }
+    post-thumbnail: { file: chester-625x640.jpeg, width: 625, height: 640 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2021-09-21T19:16:48+00:00
+focalLength: '4.44'
+iso: '577'
+shutterSpeed: '0.041667000024002'
+orientation: '1'

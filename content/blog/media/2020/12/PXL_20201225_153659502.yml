@@ -1,0 +1,24 @@
+file: 2020/12/PXL_20201225_153659502.jpg
+alt: 'deep snow on deck and yard'
+id: 3192
+date: 2020-12-26T01:52:00-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2020/12/PXL_20201225_153659502.jpg'
+mime: image/jpeg
+modified: 2020-12-26T01:52:31-05:00
+parent: 3190
+title: PXL_20201225_153659502
+width: 1400
+height: 1050
+sizes:
+    medium: { file: PXL_20201225_153659502-300x225.jpg, width: 300, height: 225 }
+    large: { file: PXL_20201225_153659502-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: PXL_20201225_153659502-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: PXL_20201225_153659502-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: PXL_20201225_153659502-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2020-12-25T10:36:59+00:00
+focalLength: '4.44'
+iso: '81'
+shutterSpeed: '0.00068200000874359'
+orientation: '1'

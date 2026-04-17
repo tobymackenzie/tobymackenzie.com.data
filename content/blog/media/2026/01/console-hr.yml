@@ -1,0 +1,20 @@
+file: 2026/01/console-hr.jpg
+alt: "example with '-' for hr element"
+id: 4740
+date: 2026-01-18T11:58:19-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2026/01/console-hr.jpg'
+mime: image/jpeg
+modified: 2026-01-18T11:59:30-05:00
+parent: 4739
+title: 'Console hr'
+width: 1836
+height: 148
+sizes:
+    medium: { file: console-hr-300x24.jpg, width: 300, height: 24 }
+    large: { file: console-hr-1024x83.jpg, width: 1024, height: 83 }
+    thumbnail: { file: console-hr-150x12.jpg, width: 150, height: 12 }
+    medium_large: { file: console-hr-768x62.jpg, width: 768, height: 62 }
+    1536x1536: { file: console-hr-1536x124.jpg, width: 1536, height: 124 }
+    post-thumbnail: { file: console-hr-625x50.jpg, width: 625, height: 50 }
+caption: Screenshot
+orientation: '1'

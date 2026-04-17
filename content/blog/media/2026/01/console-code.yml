@@ -1,0 +1,20 @@
+file: 2026/01/console-code.jpg
+alt: "Example console code block with '|' left border"
+id: 4743
+date: 2026-01-18T12:02:10-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2026/01/console-code.jpg'
+mime: image/jpeg
+modified: 2026-01-18T12:02:42-05:00
+parent: 4739
+title: 'Console code block'
+width: 1834
+height: 390
+sizes:
+    medium: { file: console-code-300x64.jpg, width: 300, height: 64 }
+    large: { file: console-code-1024x218.jpg, width: 1024, height: 218 }
+    thumbnail: { file: console-code-150x32.jpg, width: 150, height: 32 }
+    medium_large: { file: console-code-768x163.jpg, width: 768, height: 163 }
+    1536x1536: { file: console-code-1536x327.jpg, width: 1536, height: 327 }
+    post-thumbnail: { file: console-code-625x133.jpg, width: 625, height: 133 }
+caption: Screenshot
+orientation: '1'

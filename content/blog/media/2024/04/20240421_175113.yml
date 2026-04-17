@@ -1,0 +1,25 @@
+file: 2024/04/20240421_175113.jpg
+alt: 'nice blooming, small redbud tree in my back yard'
+id: 4314
+date: 2024-04-21T17:53:33-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2024/04/20240421_175113.jpg'
+mime: image/jpeg
+modified: 2024-04-21T17:54:16-04:00
+parent: 4312
+title: 20240421_redbud
+width: 1200
+height: 1600
+sizes:
+    medium: { file: 20240421_175113-225x300.jpg, width: 225, height: 300 }
+    large: { file: 20240421_175113-768x1024.jpg, width: 768, height: 1024 }
+    thumbnail: { file: 20240421_175113-113x150.jpg, width: 113, height: 150 }
+    medium_large: { file: 20240421_175113-768x1024.jpg, width: 768, height: 1024 }
+    1536x1536: { file: 20240421_175113-1152x1536.jpg, width: 1152, height: 1536 }
+    post-thumbnail: { file: 20240421_175113-625x833.jpg, width: 625, height: 833 }
+aperture: '1.8'
+camera: 'Galaxy S24'
+created: 2024-04-20T11:18:38+00:00
+focalLength: '5.4'
+iso: '25'
+shutterSpeed: '0.0006'
+orientation: '1'

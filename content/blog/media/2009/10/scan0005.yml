@@ -1,0 +1,14 @@
+file: 2009/10/scan0005.jpg
+id: 375
+date: 2009-10-11T18:22:30+00:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/scan0005.jpg'
+mime: image/jpeg
+modified: 2009-10-11T18:22:30+00:00
+parent: 369
+title: 'Stearns layout wireframe 2'
+width: 600
+height: 749
+sizes:
+    thumbnail: { file: scan0005-120x150.jpg, width: 120, height: 150 }
+    medium: { file: scan0005-240x300.jpg, width: 240, height: 300 }
+    post-thumbnail: { file: scan0005-600x510.jpg, width: 600, height: 510 }

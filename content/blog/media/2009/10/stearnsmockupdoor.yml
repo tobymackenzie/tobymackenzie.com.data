@@ -1,0 +1,15 @@
+file: 2009/10/stearnsmockupdoor.jpg
+content: "The recipes page of this design.  I figured the recipes would each be a separate page on the site, with either links to featured recipes or categories on the main page and a search box to find recipes.  I drew the search icon in Photoshop on the suggestion of my classmates, as they didn't like the text button I had.  This, like most of my content elements, was used on  all designs."
+id: 387
+date: 2009-10-22T09:33:51+00:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/stearnsmockupdoor.jpg'
+mime: image/jpeg
+modified: 2009-10-22T09:33:51+00:00
+parent: 381
+title: 'Stearns Mockup Door with Top Navigation - Recipe Page'
+width: 600
+height: 600
+sizes:
+    thumbnail: { file: stearnsmockupdoor-150x150.jpg, width: 150, height: 150 }
+    medium: { file: stearnsmockupdoor-300x300.jpg, width: 300, height: 300 }
+    post-thumbnail: { file: stearnsmockupdoor-600x510.jpg, width: 600, height: 510 }

@@ -1,0 +1,24 @@
+file: 2020/11/PXL_20201126_234841227.jpg
+alt: 'Thanksgiving fixings on plate'
+id: 3115
+date: 2020-11-27T02:12:40-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2020/11/PXL_20201126_234841227.jpg'
+mime: image/jpeg
+modified: 2020-11-27T02:13:13-05:00
+parent: 3114
+title: PXL_20201126_234841227
+width: 1400
+height: 1050
+sizes:
+    medium: { file: PXL_20201126_234841227-300x225.jpg, width: 300, height: 225 }
+    large: { file: PXL_20201126_234841227-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: PXL_20201126_234841227-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: PXL_20201126_234841227-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: PXL_20201126_234841227-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2020-11-26T18:48:41+00:00
+focalLength: '4.44'
+iso: '161'
+shutterSpeed: '0.041667000024002'
+orientation: '1'

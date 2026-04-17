@@ -1,0 +1,25 @@
+file: 2023/06/PXL_20230611_202839145.jpg
+alt: 'Tree hole dug to depth, with dirt pile nearby'
+id: 4054
+date: 2023-06-14T15:27:31-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2023/06/PXL_20230611_202839145.jpg'
+mime: image/jpeg
+modified: 2023-06-14T15:28:49-04:00
+parent: 4047
+title: 'Tree hole'
+width: 1152
+height: 1536
+sizes:
+    medium: { file: PXL_20230611_202839145-225x300.jpg, width: 225, height: 300 }
+    large: { file: PXL_20230611_202839145-768x1024.jpg, width: 768, height: 1024 }
+    thumbnail: { file: PXL_20230611_202839145-113x150.jpg, width: 113, height: 150 }
+    medium_large: { file: PXL_20230611_202839145-768x1024.jpg, width: 768, height: 1024 }
+    1536x1536: { file: PXL_20230611_202839145-1152x1536.jpg, width: 1152, height: 1536 }
+    post-thumbnail: { file: PXL_20230611_202839145-625x833.jpg, width: 625, height: 833 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2023-06-11T16:28:39+00:00
+focalLength: '4.44'
+iso: '50'
+shutterSpeed: '0.0023010000014039'
+orientation: '1'

@@ -1,0 +1,25 @@
+file: 2023/06/PXL_20230611_165210183.jpg
+alt: 'starting to dig tree hole'
+id: 4053
+date: 2023-06-14T15:27:18-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2023/06/PXL_20230611_165210183.jpg'
+mime: image/jpeg
+modified: 2023-06-14T15:29:11-04:00
+parent: 4047
+title: 'starting to dig'
+width: 1100
+height: 825
+sizes:
+    medium: { file: PXL_20230611_165210183-300x225.jpg, width: 300, height: 225 }
+    large: { file: PXL_20230611_165210183-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: PXL_20230611_165210183-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: PXL_20230611_165210183-768x576.jpg, width: 768, height: 576 }
+    1536x1536: { file: PXL_20230611_165210183-1536x1152.jpg, width: 1536, height: 1152 }
+    post-thumbnail: { file: PXL_20230611_165210183-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2023-06-11T12:52:10+00:00
+focalLength: '4.44'
+iso: '59'
+shutterSpeed: '0.001534'
+orientation: '1'

@@ -1,0 +1,24 @@
+file: 2021/02/PXL_20210217_230255306.jpg
+alt: 'shoveled driveway, car ready to go'
+id: 3285
+date: 2021-02-18T03:41:40-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2021/02/PXL_20210217_230255306.jpg'
+mime: image/jpeg
+modified: 2021-02-18T03:42:14-05:00
+parent: 3283
+title: PXL_20210217_230255306
+width: 900
+height: 1200
+sizes:
+    medium: { file: PXL_20210217_230255306-225x300.jpg, width: 225, height: 300 }
+    large: { file: PXL_20210217_230255306-768x1024.jpg, width: 768, height: 1024 }
+    thumbnail: { file: PXL_20210217_230255306-113x150.jpg, width: 113, height: 150 }
+    medium_large: { file: PXL_20210217_230255306-768x1024.jpg, width: 768, height: 1024 }
+    post-thumbnail: { file: PXL_20210217_230255306-625x833.jpg, width: 625, height: 833 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2021-02-17T18:02:55+00:00
+focalLength: '4.44'
+iso: '82'
+shutterSpeed: '0.041667000024002'
+orientation: '1'

@@ -1,0 +1,23 @@
+file: 2024/08/20240806_193134.jpg
+alt: 'fallen tree across road with lines'
+id: 4421
+date: 2024-08-08T00:38:18-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2024/08/20240806_193134.jpg'
+mime: image/jpeg
+modified: 2024-08-08T00:40:56-04:00
+width: 2000
+height: 1500
+sizes:
+    medium: { file: 20240806_193134-300x225.jpg, width: 300, height: 225 }
+    large: { file: 20240806_193134-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: 20240806_193134-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: 20240806_193134-768x576.jpg, width: 768, height: 576 }
+    1536x1536: { file: 20240806_193134-1536x1152.jpg, width: 1536, height: 1152 }
+    post-thumbnail: { file: 20240806_193134-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Galaxy S24'
+created: 2024-08-06T19:31:34+00:00
+focalLength: '5.4'
+iso: '25'
+shutterSpeed: '0.0033222591362126'
+orientation: '1'

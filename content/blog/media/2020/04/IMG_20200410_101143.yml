@@ -1,0 +1,24 @@
+file: 2020/04/IMG_20200410_101143.jpg
+alt: 'april snow on my deck and back yard'
+id: 2789
+date: 2020-04-11T22:38:34-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2020/04/IMG_20200410_101143.jpg'
+mime: image/jpeg
+modified: 2020-04-11T22:38:56-04:00
+parent: 2788
+title: IMG_20200410_101143
+width: 1200
+height: 900
+sizes:
+    medium: { file: IMG_20200410_101143-300x225.jpg, width: 300, height: 225 }
+    large: { file: IMG_20200410_101143-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: IMG_20200410_101143-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: IMG_20200410_101143-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: IMG_20200410_101143-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2020-04-10T10:11:43+00:00
+focalLength: '4.44'
+iso: '85'
+shutterSpeed: '0.00042599998728358'
+orientation: '1'

@@ -1,0 +1,20 @@
+file: 2026/01/console-quote.jpg
+alt: "Example of console blockquote with '>' left border / marker"
+id: 4742
+date: 2026-01-18T12:01:14-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2026/01/console-quote.jpg'
+mime: image/jpeg
+modified: 2026-01-18T12:01:55-05:00
+parent: 4739
+title: 'Console blockquote'
+width: 1836
+height: 410
+sizes:
+    medium: { file: console-quote-300x67.jpg, width: 300, height: 67 }
+    large: { file: console-quote-1024x229.jpg, width: 1024, height: 229 }
+    thumbnail: { file: console-quote-150x33.jpg, width: 150, height: 33 }
+    medium_large: { file: console-quote-768x172.jpg, width: 768, height: 172 }
+    1536x1536: { file: console-quote-1536x343.jpg, width: 1536, height: 343 }
+    post-thumbnail: { file: console-quote-625x140.jpg, width: 625, height: 140 }
+caption: Screenshot
+orientation: '1'

@@ -1,0 +1,24 @@
+file: 2022/01/PXL_20220117_193440588.resized.jpg
+alt: 'pathway cleared of snow'
+id: 3605
+date: 2022-01-18T00:01:56-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2022/01/PXL_20220117_193440588.resized.jpg'
+mime: image/jpeg
+modified: 2022-01-18T00:02:18-05:00
+parent: 3600
+title: PXL_20220117_193440588.resized
+width: 907
+height: 1210
+sizes:
+    medium: { file: PXL_20220117_193440588.resized-225x300.jpg, width: 225, height: 300 }
+    large: { file: PXL_20220117_193440588.resized-768x1024.jpg, width: 768, height: 1024 }
+    thumbnail: { file: PXL_20220117_193440588.resized-112x150.jpg, width: 112, height: 150 }
+    medium_large: { file: PXL_20220117_193440588.resized-768x1025.jpg, width: 768, height: 1025 }
+    post-thumbnail: { file: PXL_20220117_193440588.resized-625x834.jpg, width: 625, height: 834 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2022-01-17T14:34:40+00:00
+focalLength: '4.44'
+iso: '77'
+shutterSpeed: '0.001534'
+orientation: '1'

@@ -1,0 +1,24 @@
+file: 2020/12/PXL_20201213_233349359.jpg
+alt: 'large cheesecake with frosting and cinnamon swirls on table'
+id: 3171
+date: 2020-12-15T02:17:33-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2020/12/PXL_20201213_233349359.jpg'
+mime: image/jpeg
+modified: 2020-12-15T02:18:18-05:00
+parent: 3170
+title: PXL_20201213_233349359
+width: 1200
+height: 900
+sizes:
+    medium: { file: PXL_20201213_233349359-300x225.jpg, width: 300, height: 225 }
+    large: { file: PXL_20201213_233349359-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: PXL_20201213_233349359-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: PXL_20201213_233349359-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: PXL_20201213_233349359-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2020-12-13T18:33:49+00:00
+focalLength: '4.44'
+iso: '987'
+shutterSpeed: '0.033363000024054'
+orientation: '1'

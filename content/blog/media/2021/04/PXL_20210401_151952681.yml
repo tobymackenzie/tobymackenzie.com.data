@@ -1,0 +1,24 @@
+file: 2021/04/PXL_20210401_151952681.jpg
+alt: 'Spring snow covers the deck and yard'
+id: 3371
+date: 2021-04-01T22:23:22-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2021/04/PXL_20210401_151952681.jpg'
+mime: image/jpeg
+modified: 2021-04-01T22:23:54-04:00
+parent: 3370
+title: PXL_20210401_151952681
+width: 1200
+height: 900
+sizes:
+    medium: { file: PXL_20210401_151952681-300x225.jpg, width: 300, height: 225 }
+    large: { file: PXL_20210401_151952681-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: PXL_20210401_151952681-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: PXL_20210401_151952681-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: PXL_20210401_151952681-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2021-04-01T11:19:52+00:00
+focalLength: '4.44'
+iso: '74'
+shutterSpeed: '0.00098'
+orientation: '1'

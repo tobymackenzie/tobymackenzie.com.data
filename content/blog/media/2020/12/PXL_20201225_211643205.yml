@@ -1,0 +1,23 @@
+file: 2020/12/PXL_20201225_211643205.jpg
+id: 3193
+date: 2020-12-26T01:52:53-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2020/12/PXL_20201225_211643205.jpg'
+mime: image/jpeg
+modified: 2020-12-26T01:54:21-05:00
+parent: 3190
+title: PXL_20201225_211643205
+width: 1400
+height: 1050
+sizes:
+    medium: { file: PXL_20201225_211643205-300x225.jpg, width: 300, height: 225 }
+    large: { file: PXL_20201225_211643205-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: PXL_20201225_211643205-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: PXL_20201225_211643205-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: PXL_20201225_211643205-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Pixel 3a'
+created: 2020-12-25T16:16:43+00:00
+focalLength: '4.44'
+iso: '154'
+shutterSpeed: '0.041667000024002'
+orientation: '1'

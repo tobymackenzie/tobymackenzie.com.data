@@ -1,0 +1,23 @@
+file: 2026/04/river2604.jpg
+alt: 'Very full Cuyahoga River, brown with dirt, swirling, high on banks'
+id: 4805
+date: 2026-04-01T23:52:39-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2026/04/river2604.jpg'
+mime: image/jpeg
+modified: 2026-04-01T23:54:10-04:00
+parent: 4804
+width: 1200
+height: 900
+sizes:
+    medium: { file: river2604-300x225.jpg, width: 300, height: 225 }
+    large: { file: river2604-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: river2604-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: river2604-768x576.jpg, width: 768, height: 576 }
+    post-thumbnail: { file: river2604-625x469.jpg, width: 625, height: 469 }
+aperture: '2.2'
+camera: 'Galaxy S24'
+created: 2026-04-01T10:51:54+00:00
+focalLength: '2.2'
+iso: '50'
+shutterSpeed: '0.0049418479937405'
+orientation: '1'

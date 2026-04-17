@@ -1,0 +1,15 @@
+file: 2009/10/stearnsmockupdoor-accordion-faded.jpg
+content: "This was a modification of the other door design, at the suggestion of the instructor.  It has navigation on the side, with accordion style drop down sub-menus.  It took a lot of effort to get the icons looking good on the side.  I tried various things with the icons themselves, such as having them bigger with the text on them (had to be huge to work) and using just their head sticking off the side (didn't really work).  I also, with the help of the instructor, tried various positionings of the text.  I think the final version looks pretty good, though still perhaps a little uneven."
+id: 386
+date: 2009-10-22T09:33:47+00:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/stearnsmockupdoor-accordion-faded.jpg'
+mime: image/jpeg
+modified: 2009-10-22T09:33:47+00:00
+parent: 381
+title: 'Stearns Mockup Door with Side Navigation - Home Page'
+width: 600
+height: 600
+sizes:
+    thumbnail: { file: stearnsmockupdoor-accordion-faded-150x150.jpg, width: 150, height: 150 }
+    medium: { file: stearnsmockupdoor-accordion-faded-300x300.jpg, width: 300, height: 300 }
+    post-thumbnail: { file: stearnsmockupdoor-accordion-faded-600x510.jpg, width: 600, height: 510 }

@@ -1,0 +1,24 @@
+file: 2024/08/20240807_112105.jpg
+alt: 'Downed tree at edge of ravine sticks into yard'
+id: 4420
+date: 2024-08-08T00:32:09-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2024/08/20240807_112105.jpg'
+mime: image/jpeg
+modified: 2024-08-08T00:32:50-04:00
+parent: 4418
+width: 1800
+height: 1350
+sizes:
+    medium: { file: 20240807_112105-300x225.jpg, width: 300, height: 225 }
+    large: { file: 20240807_112105-1024x768.jpg, width: 1024, height: 768 }
+    thumbnail: { file: 20240807_112105-150x113.jpg, width: 150, height: 113 }
+    medium_large: { file: 20240807_112105-768x576.jpg, width: 768, height: 576 }
+    1536x1536: { file: 20240807_112105-1536x1152.jpg, width: 1536, height: 1152 }
+    post-thumbnail: { file: 20240807_112105-625x469.jpg, width: 625, height: 469 }
+aperture: '1.8'
+camera: 'Galaxy S24'
+created: 2024-08-07T11:21:05+00:00
+focalLength: '5.4'
+iso: '40'
+shutterSpeed: '0.0055555555555556'
+orientation: '1'

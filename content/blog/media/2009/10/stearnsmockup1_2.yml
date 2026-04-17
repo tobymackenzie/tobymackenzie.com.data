@@ -1,0 +1,15 @@
+file: 2009/10/stearnsmockup1_2.jpg
+content: 'This design used the historic mark that Stearns has, as well as one of their houses, as the major design components.  I used an actual image for the sign, cutting it to build the height.  I "drew" the siding and grass in photoshop.  The menu is very wide, giving the main content less width to work with, though it does have a lot of height since there is no header.'
+id: 383
+date: 2009-10-22T09:33:34+00:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/stearnsmockup1_2.jpg'
+mime: image/jpeg
+modified: 2009-10-22T09:33:34+00:00
+parent: 381
+title: 'Stearns Mockup Sign and House - Home Page'
+width: 600
+height: 577
+sizes:
+    thumbnail: { file: stearnsmockup1_2-150x144.jpg, width: 150, height: 144 }
+    medium: { file: stearnsmockup1_2-300x289.jpg, width: 300, height: 289 }
+    post-thumbnail: { file: stearnsmockup1_2-600x510.jpg, width: 600, height: 510 }

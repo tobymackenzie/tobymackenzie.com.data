@@ -1,0 +1,21 @@
+file: 2026/01/treepic.jpg
+alt: 'redbud tree, unmodified clean image'
+id: 4749
+date: 2026-01-23T15:48:18-05:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2026/01/treepic.jpg'
+mime: image/jpeg
+modified: 2026-01-23T15:48:44-05:00
+parent: 4747
+title: treepic
+width: 600
+height: 800
+sizes:
+    medium: { file: treepic-225x300.jpg, width: 225, height: 300 }
+    thumbnail: { file: treepic-113x150.jpg, width: 113, height: 150 }
+aperture: '1.8'
+camera: 'Galaxy S24'
+created: 2024-04-18T10:04:34+00:00
+focalLength: '5.4'
+iso: '25'
+shutterSpeed: '0.00083682008368201'
+orientation: '1'
