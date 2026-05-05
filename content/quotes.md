@@ -1,5 +1,8 @@
 Some quotes that I like or find interesting:
 
+> How strange it is, that a fool or a knave, with riches, should be treated with more respect by the world, than a good man, or a wise man in poverty!
+<div class="attribution">- <i>The Mysteries of Udolpho</i><br />Anne Radcliffe</div>
+
 > To all wrongdoers, may you see, and atone
 
 > I absolutely believe that people are more good on balance than bad.  All the wars and all of the cruelty and all of the violence.  I'm not looking away from any of that, and I still think there's something beautiful about being what we are.  History is soaked in blood.  The future probably will be too.  But for every atrocity, there's a thousand small kindnesses that no one noticed.  A hundred people who spent their lives loving and caring for each other.  A few moments of real grace.  Maybe it's only a little more good than bad in us, but…
