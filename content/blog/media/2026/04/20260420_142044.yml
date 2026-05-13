@@ -1,0 +1,23 @@
+file: 2026/04/20260420_142044.jpg
+alt: 'art: a robin feeds hungry nestlings in a nest, scratchboard'
+id: 4866
+date: 2026-04-20T15:59:47-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2026/04/20260420_142044.jpg'
+mime: image/jpeg
+modified: 2026-04-20T16:00:26-04:00
+parent: 4864
+width: 1100
+height: 937
+sizes:
+    medium: { file: 20260420_142044-300x256.jpg, width: 300, height: 256 }
+    large: { file: 20260420_142044-1024x872.jpg, width: 1024, height: 872 }
+    thumbnail: { file: 20260420_142044-150x128.jpg, width: 150, height: 128 }
+    medium_large: { file: 20260420_142044-768x654.jpg, width: 768, height: 654 }
+    post-thumbnail: { file: 20260420_142044-625x532.jpg, width: 625, height: 532 }
+aperture: '1.8'
+camera: 'Galaxy S24'
+created: 2026-04-20T14:20:44+00:00
+focalLength: '5.4'
+iso: '640'
+shutterSpeed: '0.0166674000088'
+orientation: '1'

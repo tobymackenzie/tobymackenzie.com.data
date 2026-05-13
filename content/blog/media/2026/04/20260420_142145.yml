@@ -1,0 +1,23 @@
+file: 2026/04/20260420_142145.jpg
+alt: 'art: two wolves stand in front of trees, silver contrasting with black, etching'
+id: 4865
+date: 2026-04-20T15:57:49-04:00
+guid: 'https://www.tobymackenzie.com/_/wp-content/uploads/2026/04/20260420_142145.jpg'
+mime: image/jpeg
+modified: 2026-04-20T16:01:53-04:00
+parent: 4864
+width: 1100
+height: 765
+sizes:
+    medium: { file: 20260420_142145-300x209.jpg, width: 300, height: 209 }
+    large: { file: 20260420_142145-1024x712.jpg, width: 1024, height: 712 }
+    thumbnail: { file: 20260420_142145-150x104.jpg, width: 150, height: 104 }
+    medium_large: { file: 20260420_142145-768x534.jpg, width: 768, height: 534 }
+    post-thumbnail: { file: 20260420_142145-625x435.jpg, width: 625, height: 435 }
+aperture: '1.8'
+camera: 'Galaxy S24'
+created: 2026-04-20T14:21:45+00:00
+focalLength: '5.4'
+iso: '1000'
+shutterSpeed: '0.0166674000088'
+orientation: '1'
