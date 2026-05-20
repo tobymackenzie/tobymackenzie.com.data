@@ -3,7 +3,7 @@ categories: [toby]
 date: 2005-12-23T03:44:57-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/12/23/scary-trip-under-my-house/'
 id: 96
-modified: 2005-12-23T03:44:57-04:00
+modified: 2026-05-18T16:49:43-04:00
 name: scary-trip-under-my-house
 tags: [home]
 ---
@@ -15,4 +15,4 @@ During my stove installation assumed gas-out situation, I ventured under my hous
 
 The ground beneath the house was covered with lots of junk, including a box of siding and a telescope (which I had seen before).  There was also a thin layer of grayish insulation looking stuff in certain areas, and a large amount of small particles floating in front of my flashlight.  This probably contributed to the irritation of my lungs and eyes and helped speed my exit.
 
-It looks like this is a big portion of the cause of my extremely high heating bills (I heat my small house to 50Â°, yet pay more than in a normal house heated to 70Â°), and so I shall have a large project on my hands.  I will have to put new sheathing of some sort and insulation down there to slowly replace the holy flooring.  This will probably cost a good bit of money and take a lot of cramped work, but should save me a good bit in heating bills and allow me to keep water flowing to the kitchen.  I also intend to replace my water pipes with copper and lay some PEX pipes for a radiant heating system, so I could do this at the same time, or more likely, set it up so I can easily remove the panels and do it later.  I want to vacuum or sweep out all that insulation junk on the ground before I start though.
+It looks like this is a big portion of the cause of my extremely high heating bills (I heat my small house to 50°, yet pay more than in a normal house heated to 70°), and so I shall have a large project on my hands.  I will have to put new sheathing of some sort and insulation down there to slowly replace the holy flooring.  This will probably cost a good bit of money and take a lot of cramped work, but should save me a good bit in heating bills and allow me to keep water flowing to the kitchen.  I also intend to replace my water pipes with copper and lay some PEX pipes for a radiant heating system, so I could do this at the same time, or more likely, set it up so I can easily remove the panels and do it later.  I want to vacuum or sweep out all that insulation junk on the ground before I start though.

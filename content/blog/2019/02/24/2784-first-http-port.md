@@ -3,7 +3,7 @@ categories: [www]
 date: 2019-02-24T03:29:48-05:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2223'
 id: 2223
-modified: 2024-02-08T21:01:27-05:00
+modified: 2026-05-19T18:16:11-04:00
 name: 2784-first-http-port
 pings: ['https://www.tobymackenzie.com/blog/2018/02/18/supporting-http-0-9/']
 tags: [apache, dreamcompute, old, oldbrowsers, progressiveenhancement, server, site, web]
@@ -58,7 +58,7 @@ Ingress 	IPv6 	TCP 	2784 	::/0 	-
 Using
 -------
 
-After configuring the server and firewall, I was able to successfully visit my site over port 2784.  With the way my server is set up, visiting <http:></http:> with a modern browser (in this case, any that support HTTP 1.0), it will get redirected to port 80, and then to HTTPS if the browser supports it.
+After configuring the server and firewall, I was able to successfully visit my site over port 2784.  With the way my server is set up, visiting http://www.tobymackenzie.com:2784/ with a modern browser (in this case, any that support HTTP 1.0), it will get redirected to port 80, and then to HTTPS if the browser supports it.
 
 To verify that it will actually respond with the regular site responses for HTTP 0.9 requests, `telnet` can be used.  Run `telnet tobymackenzie.com 2784` on the command line and then type `GET /`, followed by return.  If all is well, this will show the HTML of the requested page.  <ins>Now netcat is more common, which can be used like `echo 'GET /' | nc -c tobymackenzie.com 2784`</ins>
 

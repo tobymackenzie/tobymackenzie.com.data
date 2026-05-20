@@ -3,7 +3,7 @@ categories: [www]
 date: 2009-10-12T06:19:11+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=60'
 id: 379
-modified: 2024-06-17T16:26:57-04:00
+modified: 2026-05-18T22:14:35-04:00
 name: stearns-thematic-wireframes
 tags: [design, drawing, layout, stearns, style, theme, webiiclass, wireframe]
 ---
@@ -29,7 +29,7 @@ We were then given a couple days to create some more.
 
 This one would have barn red as the body background with an open barn door holding the main content.  I wasn't sure how to handle the content, so I figured a fairly normal div box set would work if I couldn't think of anything else.  The top banner would be a wood sign over the door with an etching of the farm, burn in title, and silhouettes of animals with white lettering for the main navigation.  I continued with the grass footer.
 
-![Stearns thematic wireframe 3](https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/scan0002_2.jpg?w=200 "Stearns thematic wireframe 3")\](https://www.tobymackenzie.com/\_/wp-content/uploads/2009/10/scan0002\_2.jpg)
+[![Stearns thematic wireframe 3](https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/scan0002_2.jpg?w=200 "Stearns thematic wireframe 3")](https://www.tobymackenzie.com/_/wp-content/uploads/2009/10/scan0002_2.jpg)
 
 Next up I made the back of a red barn.  The roof would hold the title (probably no room for a logo) and the main navigation in white paint-like lettering.  The sub navigation would be in a side bar with the same lettering.  The main content would be on a big off white type cloth nailed to the barn.  The footer would again be the grass.  A sun was featured over the roof to add a little brightness.
 

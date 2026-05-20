@@ -3,7 +3,7 @@ categories: [www]
 date: 2023-03-01T23:05:54-05:00
 guid: 'https://www.tobymackenzie.com/blog/?p=3963'
 id: 3963
-modified: 2023-03-01T23:07:24-05:00
+modified: 2026-05-19T22:30:39-04:00
 name: upgraded-symfony-4-4-to-5-4
 tags: [symfony, upgrade, web]
 ---
@@ -63,14 +63,13 @@ Some of the deprecations I had to fix were:
 - added `return 0;` to `execute()` methods of commands
 - `new Process()` became `Process::fromShellCommandline()`
 - custom error controller config was moved from `twig` to `framework` config, eg:
-
-	``` yaml
-	framework:
-	+  error_controller: 'PublicApp\Controller\MetaController::exceptionAction'
-	twig:
-	-  exception_controller: 'PublicApp\Controller\MetaController::exceptionAction'
-	+  exception_controller: null
-	```
+  ``` yaml
+  framework:
+  +  error_controller: 'PublicApp\Controller\MetaController::exceptionAction'
+  twig:
+  -  exception_controller: 'PublicApp\Controller\MetaController::exceptionAction'
+  +  exception_controller: null
+  ```
 
 - some methods required specifying return types
 

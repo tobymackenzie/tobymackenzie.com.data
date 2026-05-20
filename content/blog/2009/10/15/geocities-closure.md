@@ -3,7 +3,7 @@ categories: [www]
 date: 2009-10-15T04:38:30-05:00
 guid: 'http://cosmicosmo.ath.cx/log/?p=239'
 id: 239
-modified: 2021-12-14T20:33:12-05:00
+modified: 2026-05-18T22:21:19-04:00
 name: geocities-closure
 pings: ['http://www.sonyjose.in/blog/?p=136', 'http://www.statusq.org/archives/2008/07/30/1954/comment-page-2/']
 tags: [archive, commandline, old, sites]
@@ -12,7 +12,7 @@ tags: [archive, commandline, old, sites]
 Geocities closure
 =================
 
-My former roommate/bandmate had mentioned a few months back that [geocities](http://geocities.com) would be closing. I had [my site](http://geocities.com/ardotipspornguzz) on there until I started my own server and entered the world of server side scripting and databases. The site is still up, though I haven't used it in years. The last thing I did with it was to simplify it, link only to the more important content, and make sure to have a notable mention of my new site. But I still wanted to preserve the old stuff. I'm not sure what I may have backed up from there still.
+My former roommate/bandmate had mentioned a few months back that geocities (was http://geocities.com) would be closing. I had my site (was http://geocities.com/ardotipspornguzz) on there until I started my own server and entered the world of server side scripting and databases. The site is still up, though I haven't used it in years. The last thing I did with it was to simplify it, link only to the more important content, and make sure to have a notable mention of my new site. But I still wanted to preserve the old stuff. I'm not sure what I may have backed up from there still.
 
 Geocities doesn't offer any way to download files at all through its file manager, and I wanted an easier way than opening each file through the editor, copying and pasting into a local file.
 

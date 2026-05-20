@@ -3,7 +3,7 @@ categories: [toby]
 date: 2005-08-17T09:38:37-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2005/08/17/im-back-from-scotland-that-is/'
 id: 57
-modified: 2005-08-17T09:38:37-04:00
+modified: 2026-05-18T16:33:59-04:00
 name: im-back-from-scotland-that-is
 ---
 
@@ -16,4 +16,4 @@ The plane trip was quite long.  The first leg was in a smaller plane, then the s
 
 We took an introduction to Scotland tour to show us the main stuff.  It went from mid Sunday to early Friday morning.  We were bussed about to various attractions, and our lodging and many meals were included with the tour.
 
-I will continue my story laterâ€¦
+I will continue my story later

@@ -3,7 +3,7 @@ categories: [www]
 date: 2009-09-15T04:54:14+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=17'
 id: 363
-modified: 2009-09-15T04:54:14+00:00
+modified: 2026-05-18T21:54:47-04:00
 name: full-wordpress-blog
 tags: [layout, style, webiiclass, wordpress]
 ---
@@ -11,7 +11,7 @@ tags: [layout, style, webiiclass, wordpress]
 Full Wordpress Blog
 ===================
 
-We set up the full version of Wordpress (from [wordpress.org](http://wordpress.org/)) for learning how to work with it.  Mine can be found [here](http://lostincleveland.com/wptoby/).  I've already had experience working with the full version of wordpress (I've used it for years on my own site), but I haven't gotten too far working with the themes.  I've taken this opportunity to make a theme nearly from scratch.  I've used the Sandbox theme, deleting all CSS but leaving the html/php templates.  I've considered modifying those as well, as I don't like everything about them and I may need to to get the site to work as desired.
+We set up the full version of Wordpress (from [wordpress.org](http://wordpress.org/)) for learning how to work with it.  Mine can be found at <del>http://lostincleveland.com/wptoby/</del> <ins>gone</ins>.  I've already had experience working with the full version of wordpress (I've used it for years on my own site), but I haven't gotten too far working with the themes.  I've taken this opportunity to make a theme nearly from scratch.  I've used the Sandbox theme, deleting all CSS but leaving the html/php templates.  I've considered modifying those as well, as I don't like everything about them and I may need to to get the site to work as desired.
 
 Anyway, I've created a semi-fluid centered layout there using absolute positioning within a div.  I've been wanting to do something like this to allow the navigation and other non-main content to be placed at the bottom of the page structurally but still where I want it for appearance.
 

@@ -3,7 +3,7 @@ categories: [ideas, ideas]
 date: 2005-03-02T01:29:08-05:00
 guid: 'http://cosmicosmo.ath.cx/wordpress/?p=14'
 id: 14
-modified: 2022-03-08T20:48:21-05:00
+modified: 2026-05-18T16:09:30-04:00
 name: reuse-trickle-down
 tags: [recycling]
 ---
@@ -18,9 +18,10 @@ New technology is often too expensive for poorer people, but usually eventually 
 A good reuse system should contribute to the trickle down affect, bringing a 'higher' standard of living to more people.
 
 Examples of items not so long ago used exclusively by the rich only, but now spread everywhere:
--computers
--cars
--clothes washing and drying machines
--dish washing machines
--in-house plumbing
--toilets
+
+- computers
+- cars
+- clothes washing and drying machines
+- dish washing machines
+- in-house plumbing
+- toilets

@@ -3,14 +3,14 @@ categories: [toby]
 date: 2006-03-07T06:22:33-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2006/03/07/odd-electric-blanket-occurance/'
 id: 100
-modified: 2006-03-07T06:23:09-04:00
+modified: 2026-05-18T16:52:09-04:00
 name: odd-electric-blanket-occurance
 ---
 
 odd electric blanket occurance
 ==============================
 
-I use an electric blanket every night during the cold season to keep warm at night.  It does an amazingly good job at keeping me warm for the energy it uses:  I can be toasty warm, even sweating, in a 45Â° room.
+I use an electric blanket every night during the cold season to keep warm at night.  It does an amazingly good job at keeping me warm for the energy it uses:  I can be toasty warm, even sweating, in a 45° room.
 
 Ever since I was a young kid, I've occassionally had a strange problem while sleeping.  The first time I remember was sleeping at my grandma's house early in the morning, back when me and my brother would go there while my parents were at work.  I wake up only part-way.  My mind is only part way awake, and things move through it sort of like a dream, but concious of my actual surroundings.  I will feel groggily awake, but I can't move my body, sometimes at all, sometimes limited to extremely slow movement that requires a lot of seeming effort.  I also often have trouble breathing.  My breathing will often seem to stop working automatically, so I have to force myself to breath, but this too seems to take a lot of effort.  It is somewhat scary and I feel like I may suffocate without being able to do anything about it.  The way I seem to get out of this is to put a lot of effort into moving my body.  After a short bit, I will suddenly wake up and gasp in air.  This is not an especially common occurence, and I can go pretty long stretches of time without it happening at all and, consequently, me thinking about it.  But sometimes it does happen frequently over a period.  It seems to happen more often when I have been oversleeping or am taking a nap.
 

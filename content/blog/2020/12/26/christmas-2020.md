@@ -5,7 +5,7 @@ guid: 'https://www.tobymackenzie.com/blog/?p=3190'
 id: 3190
 image: 2020/12/PXL_20201225_153659502.jpg
 image_alt: 'deep snow on deck and yard'
-modified: 2020-12-26T01:58:01-05:00
+modified: 2026-05-19T21:40:17-04:00
 name: christmas-2020
 pings: ['https://www.tobymackenzie.com/blog/2020/06/27/2916/']
 tags: [christmas, family, food, holiday, snow]
@@ -33,7 +33,7 @@ I received a variety of mostly smaller gifts, including:
 - lottery scratch offs (I won $3)
 - a mini electric griddle
 
-<div class="mediaGrid">[![tins of homemade pecan tassies and peanut butter chocolate cookies](https://www.tobymackenzie.com/_/wp-content/uploads/2020/12/PXL_20201225_211643205-300x225.jpg)](https://www.tobymackenzie.com/_/wp-content/uploads/2020/12/PXL_20201225_211643205.jpg)</div>
+[![tins of homemade pecan tassies and peanut butter chocolate cookies](https://www.tobymackenzie.com/_/wp-content/uploads/2020/12/PXL_20201225_211643205-300x225.jpg)](https://www.tobymackenzie.com/_/wp-content/uploads/2020/12/PXL_20201225_211643205.jpg)
 
 I spent several hours between Christmas Eve night and Christmas day baking desserts.  I made my usual pecan tassies plus a variation of [a healthy peanut butter blossoms recipe](https://amyshealthybaking.com/blog/2016/12/13/the-ultimate-healthy-peanut-butter-blossoms/).  I think the tassies turned out a bit dry and with a weird taste to them this year, probably my worst batch in my opinion.  However, others seemed to enjoy them well enough.  I often use Smart Balance for butter, but used a vegan version of Earth Balance, which may have not worked as well.  I used that same butter alternative for my recent cheesecake though that turned out so well.
 

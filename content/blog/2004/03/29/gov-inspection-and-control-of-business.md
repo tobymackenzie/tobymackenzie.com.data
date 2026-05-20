@@ -3,7 +3,7 @@ categories: [ideas, ideas]
 date: 2004-03-29T22:02:01-05:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/03/29/gov-inspection-and-control-of-business/'
 id: 25
-modified: 2022-03-08T20:51:31-05:00
+modified: 2026-05-18T15:38:55-04:00
 name: gov-inspection-and-control-of-business
 tags: [government]
 ---
@@ -15,8 +15,9 @@ Each business will be given by the government a worker who will work in a manage
 
 In most businesses, the inspector will deal with accounting laws, employee related laws, and other such laws common to all or most businesses. Some businesses, such as hospitality, which have many industry specific laws, will have those watched by the inspector in addition to the basic business issues. Inspections of restaurants to see if they are up to sanitation codes would be eliminated in this system, as the inspector would continuously or frequently be at the restaurant and would have managerial powers to change problem areas. Instead of giving a score that decides whether a restaurant will be shut down or allowed to remain open, they will attempt to fix the problems through a managers capabilities. Only if changes are not able to be made and the inspector finds them unlikely to be able to be made will a shut down be considered.
 
-Careful care must be taken to ensure that the inspector does not become attached to a company in such a way that he/she will bend the law or "look the other way" to benifit the company. The inspector shall 
--recieve no pay or benifits, such as free meals, from the company 
--hold no stock or other stake in the company
--make no company decisions other than those directly related to legal issues
--have as close to no ramifications as possible for making decisions that would harm the company in the interest of legality
+Careful care must be taken to ensure that the inspector does not become attached to a company in such a way that he/she will bend the law or "look the other way" to benifit the company. The inspector shall:
+
+- recieve no pay or benifits, such as free meals, from the company 
+- hold no stock or other stake in the company
+- make no company decisions other than those directly related to legal issues
+- have as close to no ramifications as possible for making decisions that would harm the company in the interest of legality

@@ -3,7 +3,7 @@ categories: [computer]
 date: 2026-02-13T13:59:32-05:00
 guid: 'https://www.tobymackenzie.com/blog/?p=4771'
 id: 4771
-modified: 2026-02-13T13:59:32-05:00
+modified: 2026-05-19T23:16:14-04:00
 name: git-aliases-posix-sh
 tags: [configuration, git, linux, posix, problem, sh]
 ---
@@ -31,7 +31,7 @@ become the very similar:
 	do = !"[ \"$(git rev-parse HEAD 2> /dev/null)" != 'HEAD' ] && git log || echo 'no commits'"
 ```
 
-If the comparison were equality rather than inequality, `==` would become `=`.  This is actually a bit shorter, so it makes sense to use here.  However, the simple regex comparisons allowed by `=~` in that `test` format are not in POSIX and more complicated to implement.  POSIX does provide some regex abilities though, such as the `"${foo#[Yy]}" to remove the `Y` or `y` from the beginning of a string variable `$foo`.  So if we want to see if a string is yes-like, `[[ \"$tmp\" =~ ^[Yy] ]]` becomes `[ \"$tmp\" != \"${tmp#[Yy]}\" ]`, a trick to see if the modified string is different than the unmodified string.
+If the comparison were equality rather than inequality, `==` would become `=`.  This is actually a bit shorter, so it makes sense to use here.  However, the simple regex comparisons allowed by `=~` in that `test` format are not in POSIX and more complicated to implement.  POSIX does provide some regex abilities though, such as the `"${foo#[Yy]}"` to remove the `Y` or `y` from the beginning of a string variable `$foo`.  So if we want to see if a string is yes-like, `[[ \"$tmp\" =~ ^[Yy] ]]` becomes `[ \"$tmp\" != \"${tmp#[Yy]}\" ]`, a trick to see if the modified string is different than the unmodified string.
 
 Another difference is that the `read` command, used to get user input, doesn't take the `-p` option, used to print a prompt before the input.  We have to use `printf` instead.  So this:
 

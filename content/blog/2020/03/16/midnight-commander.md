@@ -3,7 +3,7 @@ categories: [computer]
 date: 2020-03-16T01:25:42-04:00
 guid: 'https://www.tobymackenzie.com/blog/?p=2705'
 id: 2705
-modified: 2020-03-16T01:48:30-04:00
+modified: 2026-05-19T18:43:23-04:00
 name: midnight-commander
 tags: [app, cli, file-manager]
 ---
@@ -17,11 +17,11 @@ It took me a little while to figure out the keyboard controls, and I'm not sure 
 
 - In order to open files normally when hitting return on a file or double clicking, I went to 'Pull Dn > Command > Edit Extension File' and at the very bottom, put:
 
-	```
-	default/*
-		Open=(open %s &)
+  ```
+  default/*
+  	Open=(open %s &)
 		View=
-	```
+  ```
 - In 'Pull Dn > Options > Configuration', I disabled 'Use Internal Edit' so that I could easily edit with `vim`.
 - In 'Pull Dn > Options > Panel options', I enabled 'Lynx-like motion' for simple left-right arrow key movement into and out of directories.
 - In 'Pull Dn > Options > Appearance', I switched to the 'modarcon16-defbg' skin, which is dark with green highlights.

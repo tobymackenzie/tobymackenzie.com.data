@@ -3,7 +3,7 @@ categories: [www]
 date: 2013-05-04T07:34:12+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=529'
 id: 529
-modified: 2013-05-04T07:34:12+00:00
+modified: 2026-05-19T12:54:42-04:00
 name: conference-rustbelt-refresh
 tags: [conference, css, html5]
 ---
@@ -40,7 +40,7 @@ She went into her design process for responsive sites.  She has four basic steps
 
 She then went into some other general bits of advice.  Layout should create a visual hierarchy.  Users have expectations of what is in certain page areas that can affect their behaviors, such as ignoring stuff in the sidebar because of ads.
 
-### <a></a>Josh Walsh: [Making Our Users Feel Great](http://rustbeltrefresh.com/speakers.html#josh)
+### Josh Walsh: [Making Our Users Feel Great](http://rustbeltrefresh.com/speakers.html#josh)
 
 Josh Walsh is another local speaker.  I've seen him before and even saw this same basic [presentation before at WebSIG](http://www.gcpcug.org/websig?eventId=609038&EventViewMode=EventDetails).  It was refined though and had different areas of focus and a lot of different content.  His presentation had somewhat less of a well defined theme than the others, and if it had one, it may have been a bit different than the title would suggest, but he had some good information.
 
@@ -79,27 +79,7 @@ I've read some of Snook's blog posts before.  He is also the author of [<abbr ti
 
 He talked about techniques for keeping CSS organized, working with it in teams, and avoiding clashes.  He talked about three methods:
 
-<dl> <dt>Categorization</dt> <dd>He organizes into these categories: <dl> <dt>base</dt> <dd>Baseline styles, like a CSS reset</dd> <dt>layout</dt> <dd>The main page layout structure</dd> <dt>module</dt> <dd>Common patterns for pieces of content to follow.  A module is one element.  It can have components that are inside of it.  There can be variants that have different styles.</dd> <dt>state</dt> <dd>Changes to styles based on what state a module/piece is in.  States can be changed by JavaScript, pseudo classes, or media queries.</dd> <dt>theme</dt> <dd>Use configurable styles, often colors on applications.</dd> <dl> </dl></dl></dd> <dt>Naming conventions</dt> <dd>Name classes with meaning, so that other developers will understand what they are.  He talked a lot about module naming conventions.  He uses a convention like: ```
-.module{}
-```
-
-</dd></dl>
-
-.module-variation{}
-.module-component{}
-.is-module-state{}</code></pre>
-			He mentioned some other possibilities, such as:
-
-```
-.moduleName{}
-```
-
-.moduleName-variationName{}
-.moduleName--componentName{}
-.moduleName-is-stateName{}</code></pre>
-			and said he might do things more like that if he were to start anew.
-
-<dt>Decouple HTML from CSS</dt> <dd>Use child selectors to avoid needing to override in nested structures.  Apply a class when HTML isn't predictable.  He also advocated using one module class type per element (could be .module plus .module-variation on the same element, but not .module plus .module2) and nesting <div>s if you need multiple module types on the same container. </div></dd>
+<dl> <dt>Categorization</dt> <dd>He organizes into these categories: <dl> <dt>base</dt> <dd>Baseline styles, like a CSS reset</dd> <dt>layout</dt> <dd>The main page layout structure</dd> <dt>module</dt> <dd>Common patterns for pieces of content to follow.  A module is one element.  It can have components that are inside of it.  There can be variants that have different styles.</dd> <dt>state</dt> <dd>Changes to styles based on what state a module/piece is in.  States can be changed by JavaScript, pseudo classes, or media queries.</dd> <dt>theme</dt> <dd>Use configurable styles, often colors on applications.</dd> </dl> </dd> <dt>Naming conventions</dt> <dd>Name classes with meaning, so that other developers will understand what they are.  He talked a lot about module naming conventions.  He uses a convention like: `.module{} .module-variation{} .module-component{} .is-module-state{}`.  He mentioned some other possibilities, such as: `.moduleName{} .moduleName-variationName{} .moduleName--componentName{} .moduleName-is-stateName{}` and said he might do things more like that if he were to start anew.</dd> <dt>Decouple HTML from CSS</dt> <dd>Use child selectors to avoid needing to override in nested structures.  Apply a class when HTML isn't predictable.  He also advocated using one module class type per element (could be .module plus .module-variation on the same element, but not .module plus .module2) and nesting divs if you need multiple module types on the same container.</dd></dl>
 
 More Info
 ---------

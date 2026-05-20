@@ -3,7 +3,7 @@ categories: [ideas, ideas]
 date: 2004-08-25T04:07:58-04:00
 guid: 'http://cosmicosmo.ath.cx/log/2004/08/25/suicide-steps/'
 id: 76
-modified: 2022-03-08T20:51:30-05:00
+modified: 2026-05-18T15:54:00-04:00
 name: suicide-steps
 tags: [humans]
 ---
@@ -19,19 +19,15 @@ Step 1 - LIfestyle changes - In this step, the person will take parts of its lif
 
 Step 2 - Major life changes - The person will change the major facets of its life.
 
-Possibilities
+Possibilities:
 
-        Old friends exchanged for new.
-
-        New spouse
-
-        Getting rid of (giving up for adoption) or having children
-
-        New job in a new career field
-
-        New hobbies
-
-        Committing some crimes or saving some lives
+- Possibilities
+- Old friends exchanged for new.
+- New spouse
+- Getting rid of (giving up for adoption) or having children
+- New job in a new career field
+- New hobbies
+- Committing some crimes or saving some lives
 
 Step 3 - Complete change - In this step, the person will leave all that it has, without telling anyone from the previous life to where. The move must be far enough away to ensure extreme improbability of meeting people from former life. This is it, a chance to start a completely new life from scratch. There will be no people with memories of your former ways to tie you to that way of life. Make all choices based on what you feel will be most fulfilling.
 
