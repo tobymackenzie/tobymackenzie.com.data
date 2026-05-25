@@ -43,4 +43,9 @@ I came back next day for the soil pile.  I had to transfer it from the tarp to m
 
 The tree does look nice.  It is fairly small, but once it grows a bit more it will provide some privacy, be noticeable, and be a good spot for the birds to hang out while eating at my feeders.  And next spring it should be a brilliant pink-purple lift-up out of the cold, gray winter.
 
-[gallery link="file" columns="4" ids="4052,4053,4054,4055"]
+{.mediaGrid}
+- [![tree jammed into hatchback car](/blog/media/2023/06/PXL_20230610_181244075-1-113x150.jpg)](/blog/media/2023/06/PXL_20230610_181244075-1.jpg)
+- [![starting to dig tree hole](/blog/media/2023/06/PXL_20230611_165210183-150x113.jpg)](/blog/media/2023/06/PXL_20230611_165210183.jpg)
+- [![Tree hole dug to depth, with dirt pile nearby](/blog/media/2023/06/PXL_20230611_202839145-113x150.jpg)](/blog/media/2023/06/PXL_20230611_202839145.jpg)
+- [![Tree hole dug to depth, with dirt pile and new fill nearby](/blog/media/2023/06/PXL_20230611_203634216.jpg){width=150 height=130}](/blog/media/2023/06/PXL_20230611_203634216.jpg)
+
