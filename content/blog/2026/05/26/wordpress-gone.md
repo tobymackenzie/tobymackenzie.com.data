@@ -3,7 +3,7 @@ categories: [www]
 date: 2026-05-26T23:47-04:00
 guid: 'https://www.tobymackenzie.com/blog/2026/05/16/wordpress-gone'
 id: 4876
-modified: 2026-05-27T00:11-04:00
+modified: 2026-05-27T01:19-04:00
 name: 'wordpress-gone'
 tags: [change,simplify,site, wordpress]
 ---
@@ -49,4 +49,4 @@ This will be my first post with the new setup.  Hopefully it works alright.
 
 There's much more work to do, but I'm glad to have WordPress torn out of my site and a vim + git + shell workflow in the works.
 
-<ins>PS: it didn't work out alright.  It took down my blog home page, some list pages, and the post wasn't available itself, because of a malformed date that I manually entered into the front-matter.  This went on for around 15 minutes as I angrily rushed to find the problem and get it fixed.  I will need to get that script to do this for me built ASAP.</ins>
+<ins>PS: Launching my first post didn't work out alright:  It took down my blog home page, some list pages, and the post wasn't available itself, because of a malformed date that I manually entered into the front-matter.  This went on for around 15 minutes as I angrily rushed to find the problem and get it fixed.  I will need to get that script that will do this for me built ASAP.</ins>
