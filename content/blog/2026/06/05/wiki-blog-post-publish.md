@@ -1,6 +1,7 @@
 ---
 name: wiki-blog-post-publish
 date: 2026-06-05T15:19:59-04:00
+modified: 2026-06-05T15:27:00-04:00
 categories: [www]
 tags: [blog, site, project]
 id: 4877
@@ -22,3 +23,5 @@ I still have to handle images / media and creating new categories and tags manua
 In doing this, I got to create an autocomplete functionality for Symfony's console `Question` helper.  It allows me to have tab completion when entering categories and tags so I can space OR comma separate them and still complete the later ones.  I will try to blog about this soon, as I think it's fairly neat.
 
 This post will be my first real test of this command.  Here's hoping.
+
+[Update]The git parts of the process didn't work.  The push didn't work because I do the build in a virtual machine that doesn't have my credentials.  But also, a new git repo somehow got created in a subdirectory of the main repo.  I may disable this functionality for now.[/Update]
