@@ -3,16 +3,14 @@ About Me
 
 <m--img>![Toby portrait](/_assets/images/toby.jpg)</m--img>
 
-I am Toby Mackenzie of Northeast [Ohio](/content/ohio.md).  I am a [web developer](/content/web-dev.md).
+I am Toby Mackenzie of Northeast [Ohio](/content/ohio.md).  I:
 
-Me in brief
------------
-
-- I currently live and work in [Akron](/content/akron.md).
-- I work on websites for a living, as a <abbr title="Linux Apache MySQL PHP HTML CSS JS">LAMP-stack</abbr> developer.
-- I am introverted / quiet / shy.
-- I like computers, music, hiking / nature, gardening, shows / movies / books, old video games, &c.
-- I value freedom of expression, autonomy, equalization of power, environmental preservation, sharing of knowledge and effort to better all, &c.
+- am a [web developer](/content/web-dev.md)
+- currently live and work in [Akron](/content/akron.md)
+- work on websites for a living, as a <abbr title="Linux Apache MySQL PHP HTML CSS JS">LAMP-stack</abbr> developer
+- am introverted / quiet / shy
+- like computers, music, hiking / nature, gardening, shows / movies / books, old video games, &c
+- value freedom of expression, autonomy, equalization of power, environmental preservation, sharing of knowledge and effort to better all, &c
 
 Places
 ------
