@@ -12,9 +12,9 @@ I currently live in Akron, working as a <abbr title="Linux Apache MySQL PHP HTML
 Blog: featured posts
 ------------------
 
+- [WordPress no longer running this blog](/content/blog/2026/05/26/wordpress-gone) (2026 in www)
 - [Project: Website theme switcher](https://www.tobymackenzie.com/blog/2025/12/04/project-website-theme-switcher/) (2025 in www)
 - [Using pipes to augment IO of command with bash script](https://www.tobymackenzie.com/blog/2025/04/05/pipes-augment-io-bash-command/) (2025 in Tech)
-- [Site partially static](/content/blog/2024/07/26/site-partially-static.md) (2024 in WWW)
 - [Bumping version tags with git](/content/blog/2023/12/27/bumping-version-tags-with-git.md) (2023 in WWW)
 - [CSS Wishlist](/content/blog/2023/02/25/css-wishlist.md) (2023 in WWW)
 - [Ideas: Cascading Behavior Sheets, a declarative alternative to JS](/content/blog/2022/11/23/idea-declarative-alternative-to-js.md) (2022 in WWW)
