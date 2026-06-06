@@ -9,7 +9,7 @@ I currently live in Akron, working as a <abbr title="Linux Apache MySQL PHP HTML
 
 [More about me >](/content/about.md)
 
-Blog: featured posts
+[Blog](/content/blog): featured posts
 ------------------
 
 - [WordPress no longer running this blog](/content/blog/2026/05/26/wordpress-gone) (2026 in www)
@@ -25,7 +25,7 @@ Blog: featured posts
 - [mail to person, not address](/content/blog/2007/05/04/mail-to-person-not-address.md) (2007 in Thoughts & Ideas)
 - [multiple votes](/content/blog/2006/10/19/multiple-votes.md) (2006 in Thoughts & Ideas)
 
-[More from my web-pipe >](/content/blog)
+[WWW posts >](/content/blog/category/www) [Personal posts >](/content/blog/category/toby) [Tech posts >](/content/blog/category/computer) [Thoughts and ideas >](/content/blog/category/ideas)
 
 Shout-outs
 ----------
