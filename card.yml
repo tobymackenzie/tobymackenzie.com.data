@@ -10,7 +10,7 @@ imageWidth: 225
 imageHeight: 300
 job:
     title: 'Webmaster'
-    titleEtc: '(LAMP developer)'
+    titleEtc: '(web developer)'
     skills: 'HTML CSS JS PHP MySQL Apache Linux'
 locality: 'Akron'
 logo: '&lt;toby&gt;'
