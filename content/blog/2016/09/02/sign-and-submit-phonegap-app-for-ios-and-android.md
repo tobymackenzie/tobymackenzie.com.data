@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1247'
 id: 1247
 modified: 2016-09-02T01:13:29-05:00
 name: sign-and-submit-phonegap-app-for-ios-and-android
+related:
+  - /blog/2016/10/01/akron-art-prize-2016
 tags: [android, app, ios, mobile, phonegap, submit]
 ---
 

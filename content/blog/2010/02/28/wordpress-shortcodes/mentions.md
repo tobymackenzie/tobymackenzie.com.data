@@ -1,0 +1,3 @@
+Half a year later, Nickshor mentioned a problem with the output appearing at the top of the page instead of where the shortcode was called.  I responded:
+
+> For the output buffering return bit to work, you have to put `ob_start()` before you output anything, then after outputting, you assign `ob_get_contents()` to a variable and call the function `ob_end_clean()`, and finally return the you used.…

@@ -6,6 +6,8 @@ guid: 'https://tobymackenzie.wordpress.com/?p=976'
 id: 976
 modified: 2016-04-04T21:27:24-05:00
 name: check-request-compression-savings
+related:
+  - /blog/2017/12/28/1724
 tags: [compression, curl, gzip, mod_deflate, savings, script]
 ---
 

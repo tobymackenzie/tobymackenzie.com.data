@@ -6,6 +6,9 @@ guid: 'http://tobymackenzie.wordpress.com/?p=35'
 id: 368
 modified: 2009-09-30T17:48:33+00:00
 name: wordpress-as-cms
+related:
+  - /blog/2009/10/13/wordpress-capitalization
+  - /blog/2009/11/12/stearns-using-wordpress-as-cms
 tags: [cms, research, stearns, webiiclass, wordpress]
 ---
 

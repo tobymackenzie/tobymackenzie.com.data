@@ -6,6 +6,9 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1231'
 id: 1231
 modified: 2016-08-28T00:25:30-05:00
 name: ear-jam
+related:
+  - /blog/2016/09/03/ear-unjam
+  - /blog/2018/03/21/1814
 tags: [ear, health, hearing, problem]
 ---
 

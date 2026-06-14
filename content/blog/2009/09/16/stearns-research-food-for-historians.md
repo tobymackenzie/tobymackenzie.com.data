@@ -5,6 +5,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=25'
 id: 366
 modified: 2009-09-16T20:13:17+00:00
 name: stearns-research-food-for-historians
+related:
+  - /blog/2010/01/05/canine-lifeline-meeting-and-start
 tags: [assignment, research, stearns, webiiclass]
 ---
 

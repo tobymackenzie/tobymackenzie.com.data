@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=2185'
 id: 2185
 modified: 2019-01-06T02:09:21-05:00
 name: t-mobile-plan-change-debacle
+related:
+  - /blog/2019/08/19/new-phone-pixel-3a
 tags: [internet, phone, plan, problem, service, tmobile]
 ---
 

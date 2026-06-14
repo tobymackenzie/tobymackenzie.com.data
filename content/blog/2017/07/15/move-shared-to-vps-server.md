@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1532'
 id: 1532
 modified: 2017-07-15T16:21:01-05:00
 name: move-shared-to-vps-server
+related:
+  - /blog/2017/07/18/1538
 tags: [dreamcompute, dreamhost, move, provision, server, shared, vps]
 ---
 

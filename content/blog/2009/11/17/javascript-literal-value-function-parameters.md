@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=96'
 id: 393
 modified: 2017-03-26T20:34:29-05:00
 name: javascript-literal-value-function-parameters
+related:
+  - /blog/2010/02/01/php-functions-array-as-argument
 tags: [functions, javascript]
 ---
 

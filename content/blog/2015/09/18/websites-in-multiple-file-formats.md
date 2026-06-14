@@ -6,6 +6,8 @@ guid: 'https://tobymackenzie.wordpress.com/?p=694'
 id: 694
 modified: 2025-08-22T23:51:11-04:00
 name: websites-in-multiple-file-formats
+related:
+  - /blog/2016/03/07/xhtml-version-of-my-pages
 tags: [formats, functionality, site, web]
 ---
 

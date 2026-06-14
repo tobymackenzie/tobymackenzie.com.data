@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1139'
 id: 1139
 modified: 2016-05-10T02:08:19-05:00
 name: duplicate-selectors-increase-specificity
+related:
+  - /blog/2017/05/01/sass-storing-in-variable
 tags: [css, specificity, technique, trick]
 ---
 

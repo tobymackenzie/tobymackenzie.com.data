@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=165'
 id: 407
 modified: 2026-04-03T23:26:01-04:00
 name: new-wordpress-com-theme
+related:
+  - /blog/2010/02/01/new-theme-again
 tags: [theme, wordpress]
 ---
 

@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=629'
 id: 629
 modified: 2020-07-22T20:44:33-04:00
 name: css-inner-border-grid-list
+related:
+  - /blog/2018/01/06/css-inner-border-grid-list-grid-layout
 tags: [css, style, technique]
 ---
 

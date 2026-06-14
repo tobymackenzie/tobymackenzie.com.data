@@ -1,0 +1,5 @@
+A couple weeks after, hunk, a Magic Fields developer, said that version 1.3 has add multimedia buttons.  He also said that I can do `if(get('name_field')){}` to see if a field is empty.  A half hour later, I replied:
+
+> Yay, 1.3.1 is a good improvement (though 1.3 itself had not worked at all for multiline fields).  We are still having a few minor problems with editing:  For instance, the newlines in the field are being removed.  This can cause problems for Wordpress shortcode being rendered, such as when multiple captioned images are placed in a row.  We solved this by simply putting those images into individual divs.  Other problems, such as some changes not being saved or some items being deleted, may just be TinyMCE.
+>
+> I had tried `if(get())` before, but for some reason was having trouble with it.  I don't remember what the trouble was, and that was pre 1.3:  I think it may have been when content had been removed from a previously populated field.  Since my time with this project is nearing an end (probably), I'm not going to go messing with it.

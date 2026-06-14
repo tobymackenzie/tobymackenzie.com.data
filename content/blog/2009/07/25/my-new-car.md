@@ -6,6 +6,8 @@ guid: 'http://cosmicosmo.ath.cx/log/?p=220'
 id: 220
 modified: 2010-06-30T22:46:18-05:00
 name: my-new-car
+related:
+  - /blog/2009/07/25/my-corolla-finally-died
 tags: [car, purchase]
 ---
 

@@ -1,0 +1,1 @@
+About a year later, AL commented that he noticed the problem a while back, but as of Chrome 14, it had the same problem as Firefox / Safari, so IE and Opera were the only ones with smooth text rotation.

@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=111'
 id: 396
 modified: 2009-11-28T00:59:21+00:00
 name: stearns-flutter-magic-fields-adminimize
+related:
+  - /blog/2009/12/02/stearns-two-content-columns-per-page
 tags: [admin, cms, flutter, magicfields, plugins, stearns, webiiclass, wordpress]
 ---
 

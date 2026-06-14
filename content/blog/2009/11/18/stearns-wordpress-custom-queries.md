@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=98'
 id: 394
 modified: 2026-04-03T15:17:05-04:00
 name: stearns-wordpress-custom-queries
+related:
+  - /blog/2010/02/09/canine-wordpress-custom-searches
 tags: [mysql, query, stearns, wordpress]
 ---
 

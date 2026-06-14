@@ -6,6 +6,8 @@ guid: 'http://cosmicosmo.ath.cx/log/?p=225'
 id: 225
 modified: 2009-07-28T01:38:07-05:00
 name: appropriate-living-place-service
+related:
+  - /blog/2010/04/27/socialisms-government-provision-of-essentials
 tags: [countries, government, housing, location, politics]
 ---
 

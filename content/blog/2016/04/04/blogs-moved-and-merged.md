@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1025'
 id: 1025
 modified: 2016-04-04T01:55:03-05:00
 name: blogs-moved-and-merged
+related:
+  - /blog/2016/04/06/wordpress-code-plugin
 tags: [move, site, wordpress, wordpress-com]
 ---
 

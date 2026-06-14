@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=380'
 id: 437
 modified: 2016-05-04T22:50:41-05:00
 name: css3-rotation
+related:
+  - /blog/2010/10/20/css3-text-rotation-rendering-problems
 tags: [css3, rotation]
 ---
 

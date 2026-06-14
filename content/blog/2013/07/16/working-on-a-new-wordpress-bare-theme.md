@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=543'
 id: 543
 modified: 2026-04-03T15:09:35-04:00
 name: working-on-a-new-wordpress-bare-theme
+related:
+  - /blog/2014/02/10/php-output-buffer-manager
 tags: [theme, wordpress]
 ---
 

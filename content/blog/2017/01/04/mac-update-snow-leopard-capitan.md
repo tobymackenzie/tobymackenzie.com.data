@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1332'
 id: 1332
 modified: 2017-02-11T21:37:41-05:00
 name: mac-update-snow-leopard-capitan
+related:
+  - /blog/2017/04/30/el-capitan-macports-update
 tags: [mac, os, osx, update]
 ---
 

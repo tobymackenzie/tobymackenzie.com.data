@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1401'
 id: 1401
 modified: 2017-03-07T02:35:37-05:00
 name: farewell-adium
+related:
+  - /blog/2017/06/23/not-farewell-adium
 tags: [adium, aim, app, messaging, opensource]
 ---
 

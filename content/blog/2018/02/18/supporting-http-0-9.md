@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1788'
 id: 1788
 modified: 2024-02-08T21:00:13-05:00
 name: supporting-http-0-9
+related:
+  - /blog/2019/02/24/2784-first-http-port
 tags: [browsers, oldbrowsers, progressiveenhancement, server, site, support]
 ---
 

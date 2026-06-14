@@ -6,6 +6,9 @@ guid: 'http://tobymackenzie.wordpress.com/?p=157'
 id: 405
 modified: 2017-02-24T00:57:52-05:00
 name: wordpress-xml-sitemap-with-xslt-wordpress-theme
+related:
+  - /blog/2010/02/16/tmcom-goes-html-5
+  - /blog/2010/07/12/piwik-and-xhtml-5-document-write-and-noscript
 tags: [caninelifeline, plugins, project, wordpress, xml, xsl]
 ---
 

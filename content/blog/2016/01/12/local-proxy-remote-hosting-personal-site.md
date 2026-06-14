@@ -6,6 +6,8 @@ guid: 'https://tobymackenzie.wordpress.com/?p=811'
 id: 811
 modified: 2016-01-12T04:00:05-05:00
 name: local-proxy-remote-hosting-personal-site
+related:
+  - /blog/2016/08/14/remotely-hosted-personal-site-with-home-data-store
 tags: [cache, hosting, indieweb, selfhosting]
 ---
 

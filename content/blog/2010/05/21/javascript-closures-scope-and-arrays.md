@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=308'
 id: 308
 modified: 2010-05-21T04:54:31+00:00
 name: javascript-closures-scope-and-arrays
+related:
+  - /blog/2010/08/17/javascript-objects-and-callbacks
 tags: [closures, functions, javascript]
 ---
 

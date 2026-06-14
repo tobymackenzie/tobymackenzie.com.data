@@ -6,6 +6,8 @@ guid: 'https://tobymackenzie.wordpress.com/?p=795'
 id: 795
 modified: 2018-07-12T20:27:39-05:00
 name: security-http-headers
+related:
+  - /blog/2016/01/22/my-sites-https-letsencrypt
 tags: [development, headers, http, security, symfony]
 ---
 

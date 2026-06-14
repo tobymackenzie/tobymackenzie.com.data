@@ -4,15 +4,13 @@ comment_count: 7
 date: 2010-02-13T02:44:20+00:00
 guid: 'http://tobymackenzie.wordpress.com/?p=253'
 id: 416
-modified: 2017-03-03T02:28:22-05:00
+modified: 2026-06-14T12:54:00-05:00
 name: wordpress-comment-approval-email-address
 tags: [admin, comment, problem, wordpress]
 ---
 
 Wordpress: Comment Approval Email Address
 =========================================
-
-[Update 6/11/2009] See [comments](https://tobymackenzie.com/blog/2010/02/13/wordpress-comment-approval-email-address/#comment-59) for resolution of this issue.[/update]
 
 Had a weird problem that might point to a weird semi-bug of Wordpress.
 
@@ -29,3 +27,8 @@ I think that is a silly place to pull the address from if true.  It would certai
 I'll update this post if I find out more.
 
 [Update: 6/10/2010] At this point I am thinking that the author of the post receives the comment approval emails, as it would certainly make the most sense.  For the [Samba Soccer Club](http://sambasoccerclub.org) site I did a while back, I received a comment approval message for a post I wrote as myself rather than admin.  I do have the lowest current ID, so that can't be ruled out, but it really doesn't make any sense for that to be how it works.  I've realized that my changes on Stearns shouldn't tell anything, because the lowest user id and post author are both the same for the relevant posts.[/update]
+
+[update]Commenters clarified that:
+- checking "Anyone posts a comment" sends to the post author
+- checking "A comment is held for moderation" sends to the admin
+[/update]

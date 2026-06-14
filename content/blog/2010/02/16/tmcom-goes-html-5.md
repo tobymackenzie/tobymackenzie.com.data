@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=255'
 id: 417
 modified: 2024-06-20T21:53:40-04:00
 name: tmcom-goes-html-5
+related:
+  - /blog/2010/02/26/tmcom-now-real-xhtml-5
 tags: [doctype, html, html5, role]
 ---
 

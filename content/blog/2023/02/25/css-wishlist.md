@@ -7,6 +7,9 @@ id: 3961
 modified: 2023-07-18T14:16:10-04:00
 name: css-wishlist
 pings: ['https://meyerweb.com/eric/thoughts/2023/02/08/css-wish-list-2023/']
+related:
+  - /blog/2023/03/04/more-css-wishes
+  - /blog/2023/07/18/css-wishes-add-to-existing-rules
 tags: [css, thoughts, wants]
 ---
 

@@ -6,6 +6,8 @@ guid: 'https://tobymackenzie.wordpress.com/?p=692'
 id: 692
 modified: 2015-08-24T01:46:36-05:00
 name: symfony-appcache-built-in-reverse-http-proxy
+related:
+  - /blog/2015/10/13/symfony-appcache-x-reverse-proxy-ttl-hack
 tags: [cache, performance, proxy, symfony, web]
 ---
 

@@ -8,6 +8,8 @@ id: 966
 modified: 2019-07-24T01:47:23-04:00
 name: single-character-tlds-permashortlinks
 pings: ['http://indiewebcamp.com/permashortlinks']
+related:
+  - /blog/2016/02/27/finding-short-tlds
 tags: [domains, indieweb, permashortlinks, tld]
 ---
 

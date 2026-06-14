@@ -6,6 +6,9 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1965'
 id: 1965
 modified: 2018-07-23T00:53:47-05:00
 name: givecamp-2018-final-day-and-end
+related:
+  - /blog/2018/10/28/2100
+  - /blog/2019/06/26/2401
 tags: [cleveland, development, event, givecamp, nodejs, web]
 ---
 

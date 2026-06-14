@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=269'
 id: 420
 modified: 2024-08-01T12:20:06-04:00
 name: tmcom-now-real-xhtml-5
+related:
+  - /blog/2010/07/12/piwik-and-xhtml-5-document-write-and-noscript
 tags: [doctype, html5, tmcom, xhtml, xhtml5, xsl]
 ---
 

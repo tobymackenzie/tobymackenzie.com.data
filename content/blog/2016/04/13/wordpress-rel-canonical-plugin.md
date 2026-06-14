@@ -7,6 +7,8 @@ id: 1077
 modified: 2016-04-16T00:09:51-05:00
 name: wordpress-rel-canonical-plugin
 pings: ['https://www.tobymackenzie.com/blog/2016/04/12/1071/']
+related:
+  - /blog/2016/05/05/wordpress-com-redirects-no-https
 tags: [canonical, plugins, seo, wordpress]
 ---
 

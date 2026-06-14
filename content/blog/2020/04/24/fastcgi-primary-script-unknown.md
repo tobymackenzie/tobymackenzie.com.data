@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=2816'
 id: 2816
 modified: 2020-04-24T00:51:42-04:00
 name: fastcgi-primary-script-unknown
+related:
+  - /blog/2023/12/10/apache-php-fpm-and-primary-script-unknown
 tags: [apache, fastcgi, log, php, problem]
 ---
 

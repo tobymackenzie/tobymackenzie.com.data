@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=587'
 id: 587
 modified: 2024-06-05T22:54:09-04:00
 name: scss-rem-fallback-mixin
+related:
+  - /blog/2016/04/28/scss-rgba-color-fallback-mixin
 tags: [css, mixin, preprocessing, sass, style]
 ---
 
@@ -115,3 +117,5 @@ Strip the unit from a value that has a unit
 	@return $num / ($num * 0 + 1);
 }
 ```
+
+[Update when="2017-01-17T20:36:52-05:00"]Someone had a problem with some code near one of the `px` bits.  The code in this post got messed up during a site migration apparently.  I've updated it and fixed the link to the code on github.  Hopefully that fixes the problem.[/Update]

@@ -7,6 +7,9 @@ id: 1967
 modified: 2018-08-07T21:12:18-05:00
 name: comments-closed
 pings: ['https://indieweb.org/webmention', 'https://www.tobymackenzie.com/blog/2018/08/07/1993/']
+related:
+  - /blog/2018/08/07/1993
+  - /blog/2018/08/21/2019
 tags: [blog, comment, communication, indieweb, site, web]
 ---
 

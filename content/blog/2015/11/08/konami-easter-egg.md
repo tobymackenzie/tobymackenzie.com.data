@@ -6,6 +6,8 @@ guid: 'https://tobymackenzie.wordpress.com/?p=709'
 id: 709
 modified: 2016-10-13T08:35:11-05:00
 name: konami-easter-egg
+related:
+  - /blog/2015/11/16/ascii-art-source-code-signature-for-my-site
 tags: [development, easteregg, javascript, web]
 ---
 

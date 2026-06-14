@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=121'
 id: 398
 modified: 2026-04-03T15:29:47-04:00
 name: stearns-slideshow-media-tags
+related:
+  - /blog/2010/02/28/wordpress-shortcodes
 tags: [images, media, plugins, stearns, webiiclass, wordpress]
 ---
 

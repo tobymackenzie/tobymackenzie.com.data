@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1266'
 id: 1266
 modified: 2016-09-30T21:07:23-05:00
 name: 10k-apart-deployed
+related:
+  - /blog/2016/09/22/1269
 tags: [10kapart, azure, contest, deploy, development, performance, php, web]
 ---
 

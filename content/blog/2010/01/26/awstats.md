@@ -6,6 +6,8 @@ guid: 'http://tobymackenzie.wordpress.com/?p=192'
 id: 408
 modified: 2026-05-19T00:03:58-04:00
 name: awstats
+related:
+  - /blog/2015/11/20/upgrading-my-awstats-setup
 tags: [awstats, host, statistics]
 ---
 

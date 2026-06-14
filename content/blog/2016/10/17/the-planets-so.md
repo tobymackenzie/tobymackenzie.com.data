@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1293'
 id: 1293
 modified: 2016-10-17T02:14:07-05:00
 name: the-planets-so
+related:
+  - /blog/2017/08/28/1596
 tags: [event, evn, game, music, orchestra, performance]
 ---
 

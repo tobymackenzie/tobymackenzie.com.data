@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=2080'
 id: 2080
 modified: 2020-05-02T01:49:02-04:00
 name: server-upgrade-ubuntu-18-04
+related:
+  - /blog/2018/10/30/h2-ubuntu-18-apache-php
 tags: [apache, http2, php, server, site, symfony, tmcom, ubuntu, upgrade]
 ---
 

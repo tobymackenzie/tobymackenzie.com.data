@@ -6,6 +6,8 @@ guid: 'http://cosmicosmo.ath.cx/log/2004/05/05/file-browser/'
 id: 83
 modified: 2023-08-02T20:56:22-04:00
 name: file-browser
+related:
+  - /blog/2008/05/10/objective-file-system
 tags: [computing]
 ---
 

@@ -6,6 +6,8 @@ guid: 'https://www.tobymackenzie.com/blog/?p=1671'
 id: 1671
 modified: 2017-11-17T02:35:03-05:00
 name: firefox-57-tab-groups-downgrade-esr
+related:
+  - /blog/2017/11/17/1675
 tags: [browser, downgrade, extension, firefox, gui, tabs, web]
 ---
 

@@ -7,6 +7,8 @@ id: 1357
 modified: 2018-10-31T23:14:13-04:00
 name: dreamhost-mod_rewrite-log-status-codes
 pings: ['https://www.tobymackenzie.com/blog/2016/01/25/940/', 'https://www.hyperborea.org/journal/2013/05/missing-404-log/']
+related:
+  - /blog/2017/02/25/dreamhost-200-status-log-conclusion
 tags: [apache, dreamhost, host, http, mod_rewrite, problem, status, web]
 ---
 
