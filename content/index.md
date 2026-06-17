@@ -12,9 +12,9 @@ I currently live in Akron, working as a <abbr title="Linux Apache MySQL PHP HTML
 [Blog](/content/blog): featured posts
 ------------------
 
-- [WordPress no longer running this blog](/content/blog/2026/05/26/wordpress-gone) (2026 in www)
-- [Project: Website theme switcher](/content/blog/2025/12/04/project-website-theme-switcher/) (2025 in www)
-- [Using pipes to augment IO of command with bash script](/content/blog/2025/04/05/pipes-augment-io-bash-command/) (2025 in Tech)
+- [WordPress no longer running this blog](/content/blog/2026/05/26/wordpress-gone.md) (2026 in www)
+- [Project: Website theme switcher](/content/blog/2025/12/04/project-website-theme-switcher.md) (2025 in www)
+- [Using pipes to augment IO of command with bash script](/content/blog/2025/04/05/pipes-augment-io-bash-command.md) (2025 in Tech)
 - [Bumping version tags with git](/content/blog/2023/12/27/bumping-version-tags-with-git.md) (2023 in WWW)
 - [CSS Wishlist](/content/blog/2023/02/25/css-wishlist.md) (2023 in WWW)
 - [Ideas: Cascading Behavior Sheets, a declarative alternative to JS](/content/blog/2022/11/23/idea-declarative-alternative-to-js.md) (2022 in WWW)
@@ -25,7 +25,7 @@ I currently live in Akron, working as a <abbr title="Linux Apache MySQL PHP HTML
 - [mail to person, not address](/content/blog/2007/05/04/mail-to-person-not-address.md) (2007 in Thoughts & Ideas)
 - [multiple votes](/content/blog/2006/10/19/multiple-votes.md) (2006 in Thoughts & Ideas)
 
-[WWW posts >](/content/blog/category/www) [Personal posts >](/content/blog/category/toby) [Tech posts >](/content/blog/category/computer) [Thoughts and ideas >](/content/blog/category/ideas)
+[WWW posts >](/content/blog/category/www.md) [Personal posts >](/content/blog/category/toby.md) [Tech posts >](/content/blog/category/computer.md) [Thoughts and ideas >](/content/blog/category/ideas.md)
 
 Shout-outs
 ----------
