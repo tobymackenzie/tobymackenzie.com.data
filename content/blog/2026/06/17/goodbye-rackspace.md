@@ -1,6 +1,7 @@
 ---
 name: goodbye-rackspace
 date: 2026-06-17T15:14:17-04:00
+modified: 2026-06-18T16:22:00-04:00
 categories: [www]
 tags: [cogneato, server, digital-ocean, move, web]
 id: 4879
