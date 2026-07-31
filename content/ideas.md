@@ -1,30 +1,45 @@
-I have many ideas.  I did so much more frequently when I was young.  I once had a section of my site with pages for ideas.  I then moved that to my blog as posts in a category, [Thoughts and ideas](/content/blog/category/ideas.md), which included some more general thoughts as well.  I have posted thoughts on topics including politics / government, computers, the web, and the environment.
+I have many ideas.  I did so much more frequently when I was young.  I once had a section of my site with pages for ideas.  I then moved that to my blog as posts in a category, [Thoughts and ideas](/content/blog/category/ideas.md), which included some more general thoughts as well.  I have posted thoughts on topics including politics / government, computers, the web, homes, living, and the environment.
 
 The ideas are not necessarily things that I would recommend, want, or think are good: Sometimes they're just to provoke thought.  Some of the more interesting posts from my ideas section are:
 
+Computers / tech
+-------
+
 - [Cascading Behavior Sheets, a declarative alternative to JS](/content/blog/2022/11/23/idea-declarative-alternative-to-js.md)
-- [Hybrid energy storage for electric vehicles](/content/blog/2022/10/27/hybrid-energy-storage-electric-vehicles.md)
-- [Waste material as shade structures](/content/blog/2022/08/06/ideas-waste-material-shade-structures.md)
-- [Vanlife parking garage](/content/blog/2022/06/07/ideas-vanlife-parking-garage.md)
 - [Compute furnace](/content/blog/2021/02/18/ideas-compute-furnace.md)
 - [Layered E-ink plus transparent LCD screen](/content/blog/2021/01/24/idea-e-ink-plus-lcd-screen.md)
-- [Regions vote for governing state](/content/blog/2017/10/23/ideas-regions-vote-governing-state.md)
 - [Remotely hosted personal site with home data store that syncs as client](/content/blog/2016/08/14/remotely-hosted-personal-site-with-home-data-store.md)
 - [Single character TLDs for permashortlinks](/content/blog/2016/02/17/single-character-tlds-permashortlinks.md)
-- [Maximizing blindness in science](/content/blog/2015/08/04/maximizing-blindness-in-science.md)
+- [Objective File System](/content/blog/2008/05/10/objective-file-system.md)
+- [Workshop Paradigm](/content/blog/2007/10/28/workshop-paradigm.md)
+- [customized information/books](/content/blog/2006/03/26/customized-informationbooks.md)
+- [Design Problem Solutions/Tutorial Database](/content/blog/2005/04/29/design-problem-solutionstutorial-database.md)
+- [File Browser](/content/blog/2004/05/05/file-browser.md)
+
+Life / stuff
+-------
+
+- [Hybrid energy storage for electric vehicles](/content/blog/2022/10/27/hybrid-energy-storage-electric-vehicles.md)
+- [Vanlife parking garage](/content/blog/2022/06/07/ideas-vanlife-parking-garage.md)
 - [Home Lighting: Sun-light, Moon-light](/content/blog/2015/05/16/home-lighting-sun-light-moon-light.md)
+- [versatile home: an ideal](/content/blog/2007/12/12/versatile-home-an-ideal.md)
+- [homesteading wiki](/content/blog/2007/02/26/homesteading-wiki.md)
+- [Versatility of Design](/content/blog/2005/04/29/versatility-of-design.md)
+
+Government / society
+----------
+
+- [Waste material as shade structures](/content/blog/2022/08/06/ideas-waste-material-shade-structures.md)
+- [Regions vote for governing state](/content/blog/2017/10/23/ideas-regions-vote-governing-state.md)
+- [Maximizing blindness in science](/content/blog/2015/08/04/maximizing-blindness-in-science.md)
 - [Taxes: Income Tax Simplification of Forms](/content/blog/2011/04/03/taxes-income-tax-simplification-of-forms.md)
 - [Taxes: Sources Define Destinations](/content/blog/2011/04/03/taxes-sources-define-destinations.md)
 - [Socialisms: Government Provision of Essentials](/content/blog/2010/04/27/socialisms-government-provision-of-essentials.md)
 - [Appropriate living place service](/content/blog/2009/07/28/appropriate-living-place-service.md)
-- [Objective File System](/content/blog/2008/05/10/objective-file-system.md)
 - [the opennest market](/content/blog/2008/02/16/the-opennest-market.md)
-- [versatile home: an ideal](/content/blog/2007/12/12/versatile-home-an-ideal.md)
-- [Workshop Paradigm](/content/blog/2007/10/28/workshop-paradigm.md)
 - [congress and president money](/content/blog/2007/06/21/congress-and-president-money.md)
 - [schooling: variable length course duration](/content/blog/2007/05/16/schooling-variable-length-course-duration.md)
 - [Mail to person, not address](/content/blog/2007/05/04/mail-to-person-not-address.md)
-- [homesteading wiki](/content/blog/2007/02/26/homesteading-wiki.md)
 - [Localized Patent Scope](/content/blog/2007/01/11/localized-patent-scope.md)
 - [socialisms: government pays salary](/content/blog/2006/11/26/socialisms-government-pays-salary.md)
 - [set wages](/content/blog/2006/10/31/set-wages.md)
@@ -32,13 +47,9 @@ The ideas are not necessarily things that I would recommend, want, or think are 
 - [Multiple votes](/content/blog/2006/10/19/multiple-votes.md)
 - [Capitalocracy](/content/blog/2006/10/19/capitalocracy.md)
 - [voting methods: active split voting](/content/blog/2006/04/17/voting-methods-active-split-voting.md)
-- [customized information/books](/content/blog/2006/03/26/customized-informationbooks.md)
 - [commune](/content/blog/2005/05/28/commune.md)
-- [Versatility of Design](/content/blog/2005/04/29/versatility-of-design.md)
-- [Design Problem Solutions/Tutorial Database](/content/blog/2005/04/29/design-problem-solutionstutorial-database.md)
 - [Waste Handling](/content/blog/2005/04/29/waste-handling.md)
 - [ReUse: Trickle Down](/content/blog/2005/03/02/reuse-trickle-down.md)
 - [Socialism:Welfare](/content/blog/2004/10/24/socialismwelfare.md)
-- [File Browser](/content/blog/2004/05/05/file-browser.md)
 - [Gov inspection and control of business](/content/blog/2004/03/29/gov-inspection-and-control-of-business.md)
 - [no more patents](/content/blog/2004/02/13/no-more-patents.md)
