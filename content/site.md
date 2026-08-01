@@ -3,9 +3,9 @@ This site is built by and for [Toby Mackenzie](/content/about.md), AKA me, thoug
 Server
 ------
 
-I host the site on a Digital Ocean droplet (VPS).  It runs Ubuntu, Apache, PHP, and MySQL.  I use Ansible to manage server configuration.  I develop locally with [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/).  I deploy with [rsync](https://en.wikipedia.org/wiki/Rsync) using custom scripts.  This is all managed with my [server management code repository](https://github.com/tobymackenzie/tobymackenzie.srv/).
+I host the site on a Digital Ocean droplet (VPS).  It runs Ubuntu, Apache, and PHP.  I use Ansible to manage server configuration.  I develop locally with [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/).  I deploy with [rsync](https://en.wikipedia.org/wiki/Rsync) using custom scripts.  This is all managed with my [server management code repository](https://github.com/tobymackenzie/tobymackenzie.srv/).
 
-The site is built in PHP using the [Symfony](https://symfony.com/) framework.  The blog section uses [WordPress](https://wordpress.org/).  I use [league/commonmark](https://github.com/thephpleague/commonmark) to convert markdown content to HTML.
+The site is built in PHP using the [Symfony](https://symfony.com/) framework.  I use [league/commonmark](https://github.com/thephpleague/commonmark) to convert markdown content to HTML.
 
 See the [site code repository](https://github.com/tobymackenzie/tobymackenzie.site/).
 
@@ -34,16 +34,16 @@ I [force HTTPS using a short JS script](/content/blog/2019/09/30/forcing-https-p
 
 To make my site more fun, I add a [theme switcher](https://github.com/tobymackenzie/theme-switch.js) via JS.  I add a bit of whimsy with some holiday related content and styles, and a Konami code Easter egg.
 
-As mentioned above, I use the PrismJS third party script for syntax highlighting of code blocks.  Any of my blog pages will have scripts from WordPress and JetPack that I do not vet or control.
+As mentioned above, I use the PrismJS third party script for syntax highlighting of code blocks.
 
 I use [rollup](https://rollupjs.org/guide/en/) for building my JS, which is coded in JS modules.
 
-Since some of my site pages are statically built, and thus can't be modified by the server at request time, I have JS handle anything that must change per request in the document.  I try to keep it lightweight and limited, especially any blocking JS.
+Since most of my site pages are statically built, and thus can't be modified by the server at request time, I have JS handle anything that must change per request in the document.  I try to keep it lightweight and limited, especially any blocking JS.
 
 Images
 ------
 
-I created my texture background image in Adobe Photoshop.  My stark theme background image was created in GIMP.  The icons are third party, made by [fontawesome](https://github.com/FortAwesome/Font-Awesome.git), [icomoon](https://github.com/Keyamoon/IcoMoon-Free), and octicons.  I try to do as much of the interface elements with CSS as possible to limit requests.
+I created my texture background image in Adobe Photoshop.  My tree overlay images and stark theme background image were created in GIMP.  The icons are third party, made by [fontawesome](https://github.com/FortAwesome/Font-Awesome.git), [icomoon](https://github.com/Keyamoon/IcoMoon-Free), and octicons.  I try to do as much of the interface elements with CSS as possible to limit requests.
 
 Domain
 ------
@@ -55,7 +55,7 @@ I use Fastmail for my domains' email.
 Content
 -------
 
-I keep the content / data for my site in [its own repo](https://github.com/tobymackenzie/tobymackenzie.com.data).  The blog data is all separate from that, using a MySQL database, but I have copies of blog posts in the repo, with intention to eventually remove WordPress and build the post pages statically.  Since the content is in markdown format, which GitHub renders, that repo acts as a sort of mirror of my site that may survive the site itself.  I have links set up so that they work on GitHub and are transformed on build to work on my site.
+I keep the content / data for my site in [its own repo](https://github.com/tobymackenzie/tobymackenzie.com.data).  Since the content is in markdown format, which GitHub renders, that repo acts as a sort of mirror of my site that may survive the site itself.  I have links set up so that they work on GitHub and are transformed on build to work on my site.
 
 History
 -------
