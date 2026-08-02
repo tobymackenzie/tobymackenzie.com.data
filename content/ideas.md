@@ -2,6 +2,11 @@ I have many ideas.  I did so much more frequently when I was young.  I once had 
 
 The ideas are not necessarily things that I would recommend, want, or think are good: Sometimes they're just to provoke thought.  Some of the more interesting posts from my ideas section are:
 
+Recent
+------
+
+- [Jury of peers and pros](/content/ideas/jury-peers-and-pros.md)
+
 Computers / tech
 -------
 
