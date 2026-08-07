@@ -5,6 +5,7 @@ The ideas are not necessarily things that I would recommend, want, or think are 
 Recent
 ------
 
+- [Secure privacy dumbish phone](/content/ideas/secure-private-dumbphone.md)
 - [Jury of peers and pros](/content/ideas/jury-peers-and-pros.md)
 
 Computers / tech
