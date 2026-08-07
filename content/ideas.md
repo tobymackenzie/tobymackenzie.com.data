@@ -6,6 +6,7 @@ Recent
 ------
 
 - [Secure privacy dumbish phone](/content/ideas/secure-private-dumbphone.md)
+- [Hand washing machine](/content/ideas/hand-wash-machine.md)
 - [Jury of peers and pros](/content/ideas/jury-peers-and-pros.md)
 
 Computers / tech
