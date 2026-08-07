@@ -1,6 +1,8 @@
-I have many ideas.  I did so much more frequently when I was young.  I once had a section of my site with pages for ideas.  I then moved that to my blog as posts in a category, [Thoughts and ideas](/content/blog/category/ideas.md), which included some more general thoughts as well.  I have posted thoughts on topics including politics / government, computers, the web, homes, living, and the environment.
+I have many ideas.  I did so much more frequently when I was young.  I once had a section of my site with pages for ideas.  I then moved that to my blog as posts in a category, [Thoughts and ideas](/content/blog/category/ideas.md), which included some more general thoughts as well.  I have posted thoughts on topics including politics / government, computers, the web, homes, living, and the environment.  With this page and section, I intend to move my ideas back in this location, separate from my blog.
 
-The ideas are not necessarily things that I would recommend, want, or think are good: Sometimes they're just to provoke thought.  Some of the more interesting posts from my ideas section are:
+The ideas on this site are often, but not necessarily, things that I would recommend, want, or think are good: Sometimes they're just to provoke thought.  Anyone is free to use or apply these ideas, in part or in whole, as long as their doing so doesn't limit my ability to use them or reasonably acquire their given product.
+
+Some of the more important ideas I've written about are:
 
 Recent
 ------
