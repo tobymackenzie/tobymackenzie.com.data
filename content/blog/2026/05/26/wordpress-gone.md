@@ -11,7 +11,7 @@ tags: [change,simplify,site, wordpress]
 WordPress no longer running this blog
 ==========
 
-As of last night, this blog is no longer running on WordPress, as it had since 2003.  I have removed it and related code, switching to my own [wiki-blog](https://github.com/tobymackenzie/wiki-blog.php) software.  It builds a blog from a directory structure of markdown files.  I've been working towards simplifying my site for some time, managing content with files kept in a git repo, using less complicated setups, and being static generator capable.  Removing WordPress was in the plans for a while, but it was complicated to migrate.  I've been pushing hard towards it for the last month or so and finally decided to make the switch even though things aren't perfect and some things aren't implemented with wiki-blog.
+As of last night, this blog is no longer running on WordPress, as it had since ≈2005.  I have removed it and related code, switching to my own [wiki-blog](https://github.com/tobymackenzie/wiki-blog.php) software.  It builds a blog from a directory structure of markdown files.  I've been working towards simplifying my site for some time, managing content with files kept in a git repo, using less complicated setups, and being static generator capable.  Removing WordPress was in the plans for a while, but it was complicated to migrate.  I've been pushing hard towards it for the last month or so and finally decided to make the switch even though things aren't perfect and some things aren't implemented with wiki-blog.
 <!--more-->
 
 Reasons for this change include simplification in general, but also:
