@@ -3,7 +3,7 @@ categories: [www]
 date: 2026-05-26T23:47:00-04:00
 guid: 'https://www.tobymackenzie.com/blog/2026/05/16/wordpress-gone'
 id: 4876
-modified: 2026-05-27T01:19:00-04:00
+modified: 2026-08-08T13:30:00-05:00
 name: 'wordpress-gone'
 tags: [change,simplify,site, wordpress]
 ---
