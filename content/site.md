@@ -43,7 +43,7 @@ Since most of my site pages are statically built, and thus can't be modified by 
 Images
 ------
 
-I created my texture background image in Adobe Photoshop.  My tree overlay images and stark theme background image were created in GIMP.  The icons are third party, made by [fontawesome](https://github.com/FortAwesome/Font-Awesome.git), [icomoon](https://github.com/Keyamoon/IcoMoon-Free), and octicons.  I try to do as much of the interface elements with CSS as possible to limit requests.
+I created my texture background image and favicon in Adobe Photoshop.  My tree images were created in GIMP.  Many content images were resized in Apple Preview.  The icons are third party, made by [fontawesome](https://github.com/FortAwesome/Font-Awesome.git), [icomoon](https://github.com/Keyamoon/IcoMoon-Free), and octicons.  I try to do as much of the interface elements with CSS as possible to limit requests.
 
 Domain
 ------
