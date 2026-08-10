@@ -1,10 +1,13 @@
 ---
 date: 2026-08-06T22:16:00-05:00
+modified: 2026-08-10T16:35:00-05:00
 tags: [phone,privacy,security]
 ---
 
 Secure privacy dumbish phone
 ============================
+
+A secure dumbish phone would be created within login levels, open source where possible, hardened hardware and software.
 
 - OS
 	- open source, probably Linux or BSD based
@@ -13,16 +16,15 @@ Secure privacy dumbish phone
 - hardware
 	- open hardware where possible
 	- preferably some level of waterproof, shockproof
-	- physical kill switches on risky hardware
+	- physical kill switches on risky hardware: cell comms, local comms, camera, mic, usb data?
 	- tamper resistant / evident enclosure
-	- preferably 4G + 5G capable (prevents obsolescence) with kill switch
-	- camera with kill switch
-	- mic with kill switch
+	- preferably 4G + 5G capable (prevents obsolescence)
+	- camera
+	- mic
 	- LED flashlight
-	- wi-fi / bluetooth with kill switch
+	- wi-fi / bluetooth
 	- bluetooth audio only
 	- usb c charging and data port
-		- possibly with data kill switch
 		- fuse to prevent voltage attack
 - firmware
 	- tamper evident chip enclosure, should destroy chip if open attempted
@@ -40,15 +42,19 @@ Secure privacy dumbish phone
 	- possibly simple web browser, no CSS or JS
 	- notes?
 - login
-	- two login levels with separate credentials
-	- can configure each comms type, for email each mailbox
+	- not logged in is "guest" mode, probably calls out only, for handing to unknown person who wants to make call
+	- two logged in levels with separate credentials
+	- can configure notifications for each comms type, for email each mailbox
 		- not logged in: show only icon, show subject, show full message
 		- login level one: show only icon, show subject, show full message
-	- login level one may also optionally see saved photos and other data, certain settings
-	- login level two allows fully message and data access, settings, etc
+	- can configure access for each comms / data type for what level needed to use
+		- send / create only, read only, both
+	- login level one may optionally see saved photos and other data, certain settings
+	- login level two has full access to everything
 	- logs out when phone closed or slept, when accelerometer detects sudden movement, possibly other signals of nefarious activity
 	- may use password, biometric, or key for login one
 	- must use 2FA or long password for level two
+	- if dual sim, likely has separate account / login pair for each sim, or second sim can be set for guest mode with full access
 - data retention
 	- option to not retain any data of each comms type, camera after initial observation or period of time
 	- option to copy each type of data to remote server over SSH / SCP with key, possibly other open protocols
