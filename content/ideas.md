@@ -7,6 +7,7 @@ Some of the more important ideas I've written about are:
 Recent
 ------
 
+- [Advanced terminal](/content/ideas/advanced-terminal.md)
 - [Secure privacy dumbish phone](/content/ideas/secure-private-dumbphone.md)
 - [Modular cell phone via generic USB blocks](/content/ideas/moduler-phone-usb-blocks.md)
 - [Reduced motion video format or render](/content/ideas/reduced-motion-video.md)
