@@ -8,7 +8,7 @@ Advanced terminal
 
 Each command output would be stored as separate visual object, separated by border / block, command as title, could be folded to hide output. Output item could be acted on eg copied to OS clipboard, saved to file, copied to separate pane.
 
-Separate input field for entering commands, would be pushed to output window.  Input panel would expand for multiline input.  Actual shell program might be in input field until alt screen / interacting command run, when it would shift to output pane. Content of output pane would be a copy, and the input pane would essentially be cleared after each command.  Alt screen and interactive commands would cause output to shrink, input pane expand, behave like normal terminal until exit of command, output wouldn't be saved to output pane but single line with command would.
+Separate input field for entering commands, would be pushed to output window.  Input panel would expand for multiline input.  Actual shell program might be in input field.  Content of output pane would be a copy, and the input pane would essentially be cleared after each command.  Alt screen and interactive commands would cause output to shrink, input pane expand, behave like normal terminal until exit of command, output wouldn't be saved to output pane but single line with command would.
 
 Keyboard and mouse movement available for all actions.  Border highlights currently focused pane, keys to switch between, quick key (perhaps escape) to get back to input pane.
 
