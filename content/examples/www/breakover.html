@@ -1,0 +1,189 @@
+<!doctype html>
+<title>Breakover demo</title>
+<meta charset="utf-8" />
+<meta content="initial-scale=1,width=device-width" name="viewport" />
+<style>
+/* main */
+[data-breakover]:popover-open{
+	margin: auto;
+	max-height: 90vh;
+	max-height: 96dvh;
+	max-width: 90vw;
+	max-width: 96dvw;
+	overflow: auto;
+	position: fixed;
+	@media screen and (min-width: 32em){
+		max-height: 90vh;
+		max-width: 90vw;
+	}
+}
+
+/* improve */
+*{
+	box-sizing: border-box;
+}
+pre:has(code){
+	background: black;
+	color: #6f6;
+	max-height: 80dvh;
+	overflow: auto;
+	::selection{
+		background: #6f6;
+		color: black;
+	}
+}
+pre code{
+	display: block;
+	padding: 0 1em 1em;
+}
+.toolbar{
+	display: flex;
+	justify-content: end;
+	left: 0;
+	pointer-events: none;
+	position: sticky;
+	top: 0;
+	> *{
+		pointer-events: all;
+	}
+}
+
+</style>
+<script defer="defer">
+setTimeout(function(){
+var doc = window.document;
+var body = doc.body;
+if(body.querySelector && body.showPopover){
+	var main = function(container){
+		if(!container){
+			container = body;
+		}
+		var els = container.querySelectorAll('pre:has(code)');
+		els.forEach(function(el){
+			el.setAttribute('data-breakover', '1');
+			var toolbar = el.querySelector('.toolbar');
+			if(!toolbar){
+				toolbar = doc.createElement('div');
+				toolbar.classList.add('toolbar');
+				el.insertBefore(toolbar, el.firstChild);
+			}
+			var btn = doc.createElement('button');
+			btn.classList.add('breakoverAct');
+			btn.innerHTML = '⛶';
+			btn.title = 'Expand';
+			btn.addEventListener('click', function(){
+				if(!el.popover){
+					el.setAttribute('popover', 'auto');
+					el.showPopover();
+					el.setAttribute('data-breakover', 'open');
+				}else{
+					el.hidePopover();
+				}
+			});
+			el.addEventListener('toggle', function(e){
+				if(e.newState === 'closed'){
+					el.removeAttribute('popover');
+					el.setAttribute('data-breakover', '1');
+				}
+			});
+			toolbar.appendChild(btn);
+		});
+
+	};
+	if(doc.readyState === 'loading'){
+		doc.addEventListener('DOMContentLoaded', main);
+	}else{
+		main();
+	}
+}else{
+	main = function(){};
+}
+}, 50);
+</script>
+
+
+<h1>Breakover demo</h1>
+<p>Welcome to my demo.  You should be able to breakout any code block via a popover by clicking a button.</p>
+<pre><code>btn.classList.add('breakoverAct');
+			btn.innerHTML = '⛶';
+			btn.title = 'Expand';
+			btn.addEventListener('click', function(){
+				if(!el.popover){
+					el.setAttribute('popover', 'auto');
+					el.showPopover();
+					el.setAttribute('data-breakover', 'open');
+				}else{
+					el.hidePopover();
+				}
+			});
+			el.addEventListener('toggle', function(e){
+				if(e.newState === 'closed'){
+					el.removeAttribute('popover');
+					el.setAttribute('data-breakover', '1');
+				}
+			});
+			toolbar.appendChild(btn);
+		});
+
+	};
+	if(doc.readyState === 'loading'){
+		doc.addEventListener('DOMContentLoaded', main);
+	}else{
+		main();
+	}
+}else{
+	main = function(){};
+}
+var str = `Lorem ipsum dolor sit amet nonummy.
+Omnis ut sunt eum voluptatem est.
+Error nihil eius rem qui dolor.
+Saepe quia quis corporis omnis est quam neque quam.
+Et hic nulla iusto distinctio dignissimos iure.
+Voluptas quia repudiandae assumenda.
+Eum tenetur qui laudantium consequatur aut voluptas suscipit.
+Quo qui nostrum voluptatem ut eos.
+Ipsa saepe aut rerum incidunt porro quod quas.
+Aut aliquam dolorem distinctio omnis.  Lorem ipsum dolor sit amet nonummy.  Error nihil eius rem qui dolor.
+Possimus qui voluptas voluptatem.
+Necessitatibus sit molestiae similique.
+Aut eveniet beatae beatae blanditiis reiciendis enim.
+Ut reprehenderit quia maxime quia.
+Quod facere ipsa ut blanditiis recusandae quos explicabo aut.
+Reiciendis fuga expedita dolore.
+Enim aut aut maxime debitis quia beatae.`
+</code></pre>
+
+<p>This should work across multiple code blocks.</p>
+
+<pre><code>[data-breakover]:popover-open{
+	margin: auto;
+	max-height: 90vh;
+	max-height: 96dvh;
+	max-width: 90vw;
+	max-width: 96dvw;
+	overflow: auto;
+	position: fixed;
+	@media screen and (min-width: 32em){
+		max-height: 90vh;
+		max-width: 90vw;
+	}
+}
+</code></pre>
+
+<p>Lorem ipsum dolor sit amet nonummy.
+Omnis ut sunt eum voluptatem est.
+Error nihil eius rem qui dolor.
+Saepe quia quis corporis omnis est quam neque quam.
+Et hic nulla iusto distinctio dignissimos iure.
+Voluptas quia repudiandae assumenda.</p></p>
+Eum tenetur qui laudantium consequatur aut voluptas suscipit.
+Quo qui nostrum voluptatem ut eos.
+Ipsa saepe aut rerum incidunt porro quod quas.
+Aut aliquam dolorem distinctio omnis.
+Possimus qui voluptas voluptatem.</p></p>
+Necessitatibus sit molestiae similique.
+Aut eveniet beatae beatae blanditiis reiciendis enim.
+Ut reprehenderit quia maxime quia.
+Quod facere ipsa ut blanditiis recusandae quos explicabo aut.
+Reiciendis fuga expedita dolore.
+Enim aut aut maxime debitis quia beatae.</p>
