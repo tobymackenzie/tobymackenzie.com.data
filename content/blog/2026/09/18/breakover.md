@@ -3,6 +3,8 @@ date: 2026-09-18T16:52:07-04:00
 categories: [www]
 tags: [javacript, web, ux, code]
 id: 4890
+image: 2026/09/breakover.jpg
+image_alt: 'Screenshot of open breakover with my site default theme'
 name: breakover
 guid: 'https://www.tobymackenzie.com/blog/2026/09/18/breakover.md'
 ---
