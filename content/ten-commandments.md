@@ -13,7 +13,7 @@ I am not religious in a normal sense and would not consider myself to be of an A
 	2. Thou may kill as a last resort when a truly imminent threat to another's life.  Thou shalt not fire until fired upon.
 	3. The severely oppressed may kill as a last resort in the fight against their oppressors.
 	
-	Even violence should be limited, to the above, or to the fighter class, having roughly equal footing, who may partake in limited violence when other means have been exhausted.
+	Even violence should be limited, to the above, or to the fighter class, who may partake in limited violence when other means have been exhausted and rules of engagement are agreed on and followed.
 7. **Thou shalt not rape.**  Important actions require consent, see below.
 8. **Thou shalt not steal.**  Do not take another's rightful possessions without consent.  Force, coercion, deceit, and other circumventions of consent shall not be tolerated.
 9. **Thou shalt not bear false witness.**  Thou shalt not lie or pervert the known truth to influence others or thyself.
