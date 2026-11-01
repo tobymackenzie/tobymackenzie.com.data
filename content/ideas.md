@@ -7,6 +7,7 @@ Some of the more important ideas I've written about are:
 Recent
 ------
 
+- [Vote verification list](/content/ideas/vote-verification.md)
 - [Advanced terminal](/content/ideas/advanced-terminal.md)
 - [Secure privacy dumbish phone](/content/ideas/secure-private-dumbphone.md)
 - [Modular cell phone via generic USB blocks](/content/ideas/modular-phone-usb-blocks.md)
